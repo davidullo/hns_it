@@ -41,9 +41,12 @@ def load_metrics():
     return Metrics(store.repo_root())
 
 
-# dopo tanti tentativi scartati per lo stesso motivo, l'unita' resta in inglese:
-# continuare a riprovare brucia tempo e non produce niente
-MAX_ATTEMPTS = 3
+# dopo un paio di tentativi la traduzione letterale si e' dimostrata troppo
+# lunga: si passa alla modalita' creativa (versione corta e viva che ci sta)
+CREATIVE_AFTER = 2
+# e solo dopo altri tentativi si lascia l'inglese: continuare a riprovare
+# brucia tempo e non produce niente
+MAX_ATTEMPTS = 6
 
 
 def glossary_map() -> dict[str, str]:
@@ -118,6 +121,10 @@ def unit_record(unit, metrics, limits=None) -> dict:
         # esattamente perche', altrimenti riprova la stessa cosa
         rec["prev"] = unit.prev_it
         rec["prev_nota"] = _motivo_rifiuto(unit, metrics, limits)
+    if unit.attempts >= CREATIVE_AFTER:
+        # la traduzione letterale non ci sta: si chiede una versione corta e
+        # viva che dica comunque qualcosa nel contesto, non l'inglese
+        rec["modalita"] = "creativa"
     # limite di byte per i campi ad array fisso (`u8 campo[N]`): la build muore
     # se la traduzione non ci sta
     if limits is not None:
