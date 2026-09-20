@@ -268,9 +268,9 @@ static const u8 *const sBlenderOpponentsNames[] =
 
 static const u8 sText_CommunicationStandby[] = _("In attesa di comunicazione…");
 static const u8 sText_WouldLikeToBlendAnotherBerry[] = _("Vuoi frullare un'altra BACCA?");
-static const u8 sText_RunOutOfBerriesForBlending[] = _("Non hai più BACCE da\nfrullare nel BERRY BLENDER.\p");
+static const u8 sText_RunOutOfBerriesForBlending[] = _("Non hai più BACCHE da\nfrullare nel BERRY BLENDER.\p");
 static const u8 sText_YourPokeblockCaseIsFull[] = _("La tua {POKEBLOCK} CASE è piena.\p");
-static const u8 sText_HasNoBerriesToPut[] = _(" non ha BACCE da mettere\nnel BERRY BLENDER.");
+static const u8 sText_HasNoBerriesToPut[] = _(" non ha BACCHE da mettere\nnel BERRY BLENDER.");
 static const u8 sText_ApostropheSPokeblockCaseIsFull[] = _(" {POKEBLOCK} CASE è piena.\p");
 static const u8 sText_BlendingResults[] = _("RISULTATI DEL FRULLAMENTO");
 static const u8 sText_SpaceBerry[] = _(" BACCA");

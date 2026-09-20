@@ -4,7 +4,7 @@ PetalburgCity_Gym_Text_GiveEnigmaBerry:
 	.string "Vorrei che l'avessi tu.$"
 
 Route104_Text_PlantBerriesInSoilTakeThis:
-	.string "Se vedi BACCE che crescono nel terreno\n"
+	.string "Se vedi BACCHE che crescono nel terreno\n"
 	.string "fertile, prendile pure.\p"
 	.string "Ma pianta una BACCA nello\n"
 	.string "stesso punto. È buona educazione.\p"
@@ -14,29 +14,29 @@ Route104_Text_TrainersOftenMakeMonHoldBerries:
 	.string "Dal tuo aspetto, devi essere un\n"
 	.string "ALLENATORE, no?\p"
 	.string "Gli ALLENATORI fanno spesso tenere\n"
-	.string "le BACCE ai POKéMON.\p"
-	.string "Sta a te coltivare le BACCE\n"
+	.string "le BACCHE ai POKéMON.\p"
+	.string "Sta a te coltivare le BACCHE\n"
 	.string "o usarle.$"
 
 Route111_Text_WateredPlantsEveryDayTakeBerry:
 	.string "Ho annaffiato le piante ogni giorno.\n"
 	.string "Hanno fatto tanti fiori.\p"
-	.string "E mi hanno dato anche tante BACCE.\p"
+	.string "E mi hanno dato anche tante BACCHE.\p"
 	.string "Tieni!\n"
 	.string "Puoi averla!$"
 
 Route111_Text_GoingToTryToMakeDifferentColorBerries:
 	.string "Mi impegnerò davvero e creerò\n"
-	.string "BACCE di colori diversi.\p"
+	.string "BACCHE di colori diversi.\p"
 	.string "Spero che anche tu ti impegni!$"
 
 Route111_Text_WhatColorBerriesToLookForToday:
 	.string "Chissà di che colore cercherò le\n"
-	.string "BACCE oggi?$"
+	.string "BACCHE oggi?$"
 
 Route114_Text_LoveUsingBerryCrushShareBerry:
 	.string "Adoro usare la macchina BERRY CRUSH,\n"
-	.string "quindi colleziono BACCE.\p"
+	.string "quindi colleziono BACCHE.\p"
 	.string "Te ne do una, se vuoi.$"
 
 Route114_Text_TryBerryCrushWithFriends:
@@ -45,7 +45,7 @@ Route114_Text_TryBerryCrushWithFriends:
 
 Route114_Text_FunToThinkAboutBerries:
 	.string "Quale BACCA piantare?\n"
-	.string "Usare le BACCE o accumularle?\p"
+	.string "Usare le BACCHE o accumularle?\p"
 	.string "È divertente pensarci.$"
 
 Route120_Text_BerriesExpressionOfLoveIsntIt:
@@ -69,7 +69,7 @@ Route120_Text_BerryIsRareRaiseItWithCare:
 	.string "Spero che la cresca con amore.$"
 
 Route120_Text_IllGetMoreBerriesFromBerryMaster:
-	.string "Prenderò altre BACCE dal\n"
+	.string "Prenderò altre BACCHE dal\n"
 	.string "BERRY MASTER.$"
 
 LilycoveCity_Text_BerrySuitsYou:
@@ -141,14 +141,14 @@ Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop:
 
 Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries:
 	.string "{PLAYER}{KUN}, vorresti sapere qualcosa\n"
-	.string "sulle BACCE?$"
+	.string "sulle BACCHE?$"
 
 Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries:
 	.string "Come ti chiami?\p"
 	.string "{PLAYER}{KUN}.\n"
 	.string "Che bel nome.\p"
 	.string "{PLAYER}{KUN}, vorresti sapere qualcosa\n"
-	.string "sulle BACCE?$"
+	.string "sulle BACCHE?$"
 
 Route104_PrettyPetalFlowerShop_Text_BerriesExplanation:
 	.string "Le BACCHE crescono su alberi che\n"
@@ -176,10 +176,10 @@ Route104_PrettyPetalFlowerShop_Text_YouCanHaveThis:
 	.string "Ne sono certo. Prendi questo.$"
 
 Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation:
-	.string "Mentre le BACCE crescono,\n"
+	.string "Mentre le BACCHE crescono,\n"
 	.string "annaffiale con l'INNAFFIATOIO WAILMER.\p"
 	.string "Ah, un'altra cosa.\p"
-	.string "Se non raccogli le BACCE per un po',\n"
+	.string "Se non raccogli le BACCHE per un po',\n"
 	.string "cadranno a terra.\l"
 	.string "Ma germoglieranno di nuovo.\p"
 	.string "Non è fantastico?\n"
@@ -195,7 +195,7 @@ Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
 	.string "Puoi piantare una BACCA e farla crescere,\n"
 	.string "o farla tenere a un POKéMON.\p"
 	.string "Ma ora c'è una macchina che mescola\n"
-	.string "diverse BACCE e crea caramelle\l"
+	.string "diverse BACCHE e crea caramelle\l"
 	.string "per i POKéMON.\p"
 	.string "Anch'io voglio una caramella.$"
 

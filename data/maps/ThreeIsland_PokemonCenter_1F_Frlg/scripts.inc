@@ -40,8 +40,7 @@ ThreeIsland_PokemonCenter_1F_Text_ImpossibleToSurfBetweenIslands::
 	.string "e pericolose.$"
 
 ThreeIsland_PokemonCenter_1F_Text_AlwaysBerriesInBerryForest::
-	.string "Schiacciamo le BACCE!\n"
-	.string "…Sarebbe uno spreco di BACCE?\p"
+	.string "Schiacciamo le BACCHE!\n"
+	.string "…Sarebbe uno spreco di BACCHE?\p"
 	.string "Nella FORESTA BACCA ne trovi\n"
 	.string "sempre per terra.$"
-

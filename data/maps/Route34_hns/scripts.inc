@@ -3,11 +3,11 @@ Route34_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route34_OnTransition: 
+Route34_OnTransition:
 	specialvar VAR_RESULT, GetDaycareState
 	call_if_eq VAR_RESULT, DAYCARE_EGG_WAITING, Route34_MapScript_EggReady
 	callnative SetTimeBasedEncounters
-	end	
+	end
 
 Route34_MapScript_EggReady::
 	setobjectxyperm LOCALID_ROUTE34_DAYCAREMAN, 30, 34
@@ -117,7 +117,7 @@ Route34_EventScript_Item_SoftSand::
 Route34_EventScript_Item_RareCandy::
 	finditem ITEM_RARE_CANDY
 	end
-	
+
 Route34_EventScript_Item_Embargo::
     finditem ITEM_TM_EMBARGO
     end
@@ -229,7 +229,7 @@ Route34_Text_TrainerTips:
 	.string "Gli alberi di BACCA ne producono\n"
 	.string "di nuove più volte al giorno.\p"
 	.string "Osserva quali alberi danno\n"
-	.string "quali BACCE.$"
+	.string "quali BACCHE.$"
 
 Route34_Text_CooltrainerIrene_Seen:
 	.string "IRENE: Chi sei?!$"

@@ -19,10 +19,9 @@ ThreeIsland_House5_Text_ImNotLostelle::
 	.string "Non sono LOSTELLE.\p"
 	.string "Lei sarà andata nella\n"
 	.string "FORESTA BACCA, credo.\p"
-	.string "Raccoglie le BACCE lì per\n"
+	.string "Raccoglie le BACCHE lì per\n"
 	.string "preparare il pranzo.$"
 
 ThreeIsland_House5_Text_IllGoPlayWithLostelle::
 	.string "Oggi penso che andrò a giocare\n"
 	.string "con LOSTELLE.$"
-
