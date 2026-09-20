@@ -13,7 +13,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Actions[] = {
     },
     [EC_INDEX(EC_WORD_GIVE)] =
     {
-        .text = COMPOUND_STRING("DÀ"),
+        .text = COMPOUND_STRING("DAI"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_APPEAR),
         .enabled = TRUE,
     },
