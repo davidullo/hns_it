@@ -192,10 +192,10 @@ FiveIsland_RocketWarehouse_Text_Grunt2PostBattle::
 	.string "Da che pianeta vieni?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Intro::
-	.string "Oh, now your POKéMON look strong.\n"
-	.string "You're willing to sell them?\p"
+	.string "Oh, i tuoi POKéMON son forti.\n"
+	.string "Vuoi venderli?\p"
 	.string "Oh?\n"
-	.string "You wanted to battle?$"
+	.string "Volevi lottare?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Defeat::
 	.string "Oh, ma…\n"

@@ -91,10 +91,10 @@ SixIsland_RuinValley_Text_FosterPostBattle::
 	.string "a molto tempo fa.$"
 
 SixIsland_RuinValley_Text_LarryIntro::
-	.string "It's been said that there are\n"
-	.string "mysterious stones on this island.\p"
-	.string "I suspect it has something to do\n"
-	.string "with the ruins here.$"
+	.string "Si dice che su quest'isola ci siano\n"
+	.string "pietre misteriose.\p"
+	.string "Sospetto che c'entri\n"
+	.string "con le rovine qui.$"
 
 SixIsland_RuinValley_Text_LarryDefeat::
 	.string "Oh, interessante.$"

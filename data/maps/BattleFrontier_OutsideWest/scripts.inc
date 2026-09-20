@@ -447,10 +447,10 @@ BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
 	.string "Porterò mia madre a vedere.$"
 
 BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier:
-	.string "I've finally arrived at the BATTLE\n"
-	.string "FRONTIER!\p"
-	.string "I'm sure to grab attention with\n"
-	.string "my looks and ability!$"
+	.string "Sono arrivato alla FRONTIERA\n"
+	.string "LOTTA!\p"
+	.string "Attirerò l'attenzione col mio\n"
+	.string "fascino e il mio talento!$"
 
 BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople:
 	.string "Gnam, gnam…\p"

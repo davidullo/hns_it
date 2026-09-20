@@ -371,20 +371,20 @@ BattleFrontier_ReceptionGate_Text_BattlePalaceInfo_hns:
 	.string "per lotte SINGOLO e DOPPIO.$"
 
 BattleFrontier_ReceptionGate_Text_BattleArenaInfo_hns:
-	.string "The BATTLE ARENA is the dojo-like\n"
-	.string "building at the center-right of\l"
-	.string "the BATTLE FRONTIER.\p"
-	.string "An event called the Set KO Tourney\n"
-	.string "takes place at the BATTLE ARENA.$"
+	.string "La LOTTA ARENA è l'edificio\n"
+	.string "tipo dojo a centro-destra\l"
+	.string "della FRONTIERA LOTTA.\p"
+	.string "Alla LOTTA ARENA si tiene\n"
+	.string "il torneo Set KO.$"
 
 BattleFrontier_ReceptionGate_Text_BattleFactoryInfo_hns:
-	.string "The BATTLE FACTORY is the large\n"
-	.string "building that is the closest to us.\p"
-	.string "An event called the Battle Swap\n"
-	.string "is conducted there.\p"
-	.string "The Battle Swap event is offered in\n"
-	.string "two courses for SINGLE and DOUBLE\l"
-	.string "BATTLES.$"
+	.string "La FABBRICA LOTTA è il grande\n"
+	.string "edificio più vicino a noi.\p"
+	.string "Lì si svolge lo Scambio\n"
+	.string "di lotta.\p"
+	.string "Lo Scambio di lotta si fa in\n"
+	.string "due modalità: LOTTE SINGOLE e\l"
+	.string "DOPPIE.$"
 
 BattleFrontier_ReceptionGate_Text_BattlePikeInfo_hns:
 	.string "La LOTTA PIKE è l'edificio a forma\n"
@@ -487,16 +487,16 @@ BattleFrontier_ReceptionGate_Text_SymbolsInfo_hns:
 	.string "Ti auguro buona fortuna!$"
 
 BattleFrontier_ReceptionGate_Text_RecordedBattleInfo_hns:
-	.string "It is possible to record one battle\n"
-	.string "on your FRONTIER PASS.\p"
-	.string "You may record a battle you had with\n"
-	.string "a friend or friends.\p"
-	.string "Or you may record a battle conducted\n"
-	.string "at the BATTLE FRONTIER excluding\l"
-	.string "matches at the BATTLE PIKE or\l"
-	.string "the BATTLE PYRAMID.\p"
-	.string "You may choose to record your match\n"
-	.string "at the end of a battle.$"
+	.string "Puoi registrare una lotta\n"
+	.string "sul tuo PASS FRONTIERA.\p"
+	.string "Puoi registrare una lotta fatta\n"
+	.string "con un amico o più amici.\p"
+	.string "O una lotta svolta alla\n"
+	.string "FRONTIERA LOTTA, escluse quelle\l"
+	.string "alla LOTTA PIKE o alla\l"
+	.string "LOTTA PIRAMIDE.\p"
+	.string "Puoi registrare la tua partita\n"
+	.string "alla fine di una lotta.$"
 
 BattleFrontier_ReceptionGate_Text_BattlePointsInfo_hns:
 	.string "I Punti Lotta sono premi dati ai\n"

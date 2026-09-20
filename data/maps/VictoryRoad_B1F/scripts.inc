@@ -83,9 +83,9 @@ VictoryRoad_B1F_Text_HalleDefeat:
 	.string "Fantastico!$"
 
 VictoryRoad_B1F_Text_HallePostBattle:
-	.string "Sure, this is VICTORY ROAD.\p"
-	.string "But it's not all that different from\n"
-	.string "the path you've taken so far.\p"
-	.string "Try to enjoy things the rest of\n"
-	.string "the way!$"
+	.string "Certo, questa è la VICTORY ROAD.\p"
+	.string "Ma non è poi così diversa\n"
+	.string "dal cammino che hai fatto.\p"
+	.string "Goditi il resto\n"
+	.string "della strada!$"
 

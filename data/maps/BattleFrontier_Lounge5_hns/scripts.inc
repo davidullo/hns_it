@@ -101,18 +101,18 @@ BattleFrontier_Lounge5_Text_NatureGirlSupportHighDefenseLow_hns::
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighSupportLow_hns::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "It says it likes to be sneaky even\l"
-	.string "if it has a lot of ouchies!$"
+	.string "Questo dice che ama essere subdolo!\n"
+	.string "Dice che gli piace, anche se ha\l"
+	.string "tante ferite!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlEgg_hns::
 	.string "Che scemata! L'UOVO dorme!\n"
 	.string "Non posso parlargli!$"
 
 BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon_hns::
-	.string "How charming!\n"
-	.string "That little lady claims she can\l"
-	.string "understand POKéMON!$"
+	.string "Che carina!\n"
+	.string "Quella signorina dice di capire\l"
+	.string "i POKéMON!$"
 
 BattleFrontier_Lounge5_Text_GirlSayingSomethingProfound_hns::
 	.string "Ho la sensazione che quella bambina\n"

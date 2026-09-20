@@ -26,9 +26,9 @@ ViridianCity_Text_OakName:
 
 ViridianCity_Text_OakCall:
 	.string "OAK: Ah, {PLAYER}!\p"
-	.string "Come and see my at my\n"
-	.string "LAB in PALLET TOWN\l"
-	.string "when you get the chance.$"
+	.string "Vieni a trovarmi al\n"
+	.string "LAB a PALLET TOWN\l"
+	.string "quando puoi.$"
 
 ViridianCity_EventScript_Gramps::
 	lock
@@ -83,13 +83,13 @@ ViridianCity_EventScript_GymSign::
 	end
 
 ViridianCity_Text_CoffeeGramps_Question:
-	.string "Hey, kid! I just had a double shot\n"
-	.string "of espresso, and I am wired!\p"
-	.string "I need to talk to someone, so you'll\n"
-	.string "have to do!\p"
-	.string "I might not look like much now, but\n"
-	.string "I was an expert at catching POKéMON.\p"
-	.string "Do you believe me?$"
+	.string "Ehi, ragazzo! Ho bevuto un doppio\n"
+	.string "espresso e sono carichissimo!\p"
+	.string "Devo parlare con qualcuno, quindi\n"
+	.string "tocca a te!\p"
+	.string "Ora non sembro granché, ma ero un\n"
+	.string "esperto di cattura POKéMON.\p"
+	.string "Mi credi?$"
 
 ViridianCity_Text_CoffeeGramps_Believed:
 	.string "Bene, bene. Sì, ero un tipo\n"
@@ -108,9 +108,9 @@ ViridianCity_Text_GrampsNearGym:
 	.string "CAPO, ma è spesso via.$"
 
 ViridianCity_Text_GrampsNearGym_BlueReturned:
-	.string "Are you going to battle the\n"
-	.string "LEADER?\p"
-	.string "Good luck to you. You'll need it.$"
+	.string "Sfiderai il\n"
+	.string "CAPO?\p"
+	.string "Buona fortuna. Ti servirà.$"
 
 ViridianCity_Text_DreamEaterFisherNew:
 	.string "…Zzzzz…\p" 

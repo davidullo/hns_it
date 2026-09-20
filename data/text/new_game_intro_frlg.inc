@@ -178,21 +178,21 @@ gPikachuIntro_Text_Page2::
 	.string "Sii audace e non fermarti.$"
 
 gPikachuIntro_Text_Page3::
-	.string "Through your adventure, we hope\n"
-	.string "that you will interact with all sorts\n"
-	.string "of people and achieve personal growth.\n"
-	.string "That is our biggest objective.\n"
+	.string "Durante l'avventura speriamo\n"
+	.string "che incontrerai tante\n"
+	.string "persone e crescerai dentro.\n"
+	.string "È il nostro obiettivo.\n"
 	.string "\n"
-	.string "Press the A Button, and let your\n"
-	.string "adventure begin!$"
+	.string "Premi A e che\n"
+	.string "l'avventura abbia inizio!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
-	.string "Hello, there!\n"
-	.string "Glad to meet you!\p"
-	.string "Welcome to the world of POKéMON!\p"
-	.string "My name is OAK.\p"
-	.string "People affectionately refer to me\n"
-	.string "as the POKéMON PROFESSOR.\p$"
+	.string "Ciao!\n"
+	.string "Piacere di conoscerti!\p"
+	.string "Benvenuto nel mondo dei POKéMON!\p"
+	.string "Io sono OAK.\p"
+	.string "Tutti mi chiamano\n"
+	.string "il PROFESSOR POKéMON.\p$"
 
 gOakSpeech_Text_ThisWorld::
 	.string "Questo mondo…$"

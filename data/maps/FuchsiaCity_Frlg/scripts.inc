@@ -154,10 +154,10 @@ FuchsiaCity_Text_WheresSara::
 	.string "Dovevo incontrarla qui.$"
 
 FuchsiaCity_Text_ItemBallInThere::
-	.string "That item ball in there…\n"
-	.string "Were you wanting that?\p"
-	.string "Me, too!\n"
-	.string "…Huh? That's a POKéMON?$"
+	.string "Quella Ball lì dentro…\n"
+	.string "La volevi?\p"
+	.string "Anch'io!\n"
+	.string "…Eh? È un POKéMON?$"
 
 FuchsiaCity_Text_CitySign::
 	.string "FUCSIAPOLI\n"

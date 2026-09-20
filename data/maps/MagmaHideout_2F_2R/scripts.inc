@@ -22,8 +22,8 @@ MagmaHideout_2F_2R_EventScript_Grunt8::
 	end
 
 MagmaHideout_2F_2R_Text_Grunt15Intro:
-	.string "I don't have a bone to pick with you.\n"
-	.string "I'm just following orders!$"
+	.string "Non ce l'ho con te.\n"
+	.string "Eseguo solo gli ordini!$"
 
 MagmaHideout_2F_2R_Text_Grunt15Defeat:
 	.string "Ho perso, ma…$"
@@ -35,8 +35,8 @@ MagmaHideout_2F_2R_Text_Grunt15PostBattle:
 	.string "Fufufu… Fwahahaha!$"
 
 MagmaHideout_2F_2R_Text_Grunt6Intro:
-	.string "I can't stand heat. Maybe I should've\n"
-	.string "joined TEAM AQUA instead…$"
+	.string "Non sopporto il caldo. Potevo\n"
+	.string "entrare nel TEAM AQUA…$"
 
 MagmaHideout_2F_2R_Text_Grunt6Defeat:
 	.string "Sì, forse non sono adatto\n"
@@ -73,6 +73,6 @@ MagmaHideout_2F_2R_Text_Grunt8Defeat:
 	.string "Faccio fatica a crederci…$"
 
 MagmaHideout_2F_2R_Text_Grunt8PostBattle:
-	.string "I'm getting this feeling that our plan\n"
-	.string "is going to end in failure…$"
+	.string "Ho la sensazione che il piano\n"
+	.string "finirà male…$"
 

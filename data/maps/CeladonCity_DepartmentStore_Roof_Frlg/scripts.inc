@@ -310,9 +310,9 @@ CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
 	.string "Tieni, è da parte mia!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
-	.string "TM20 contains SAFEGUARD.\p"
-	.string "It's a move that prevents status\n"
-	.string "problems among your POKéMON.$"
+	.string "La MT20 contiene SALVAGUARDIA.\p"
+	.string "Evita i problemi di stato tra\n"
+	.string "i tuoi POKéMON.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
 	.string "Sì!\p"

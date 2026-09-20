@@ -119,9 +119,9 @@ Route25_Text_SeaCottageSign::
 	.string "Qui vive BILL!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
-	.string "This cape is a famous date spot.\p"
-	.string "MISTY, the GYM LEADER, has high\n"
-	.string "hopes about this place.$"
+	.string "Questo capo è un posto romantico.\p"
+	.string "MISTY, la CAPOPALESTRA, ci spera\n"
+	.string "molto.$"
 
 Route25_Text_AreYouHereAlone::
 	.string "Ciao, sei qui da solo?\p"

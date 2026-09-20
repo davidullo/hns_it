@@ -60,11 +60,11 @@ Route41_Text_SwimmermBerkeBeaten:
 	.string "forza?$"
 
 Route41_Text_SwimmermBerkeAfter:
-	.string "It was a dark and stormy night…\p"
-	.string "I saw this giant POKéMON flying\n"
-	.string "from the islands.\p"
-	.string "It was scattering feathers\n"
-	.string "from its silver wings.$"
+	.string "Notte buia e tempestosa…\p"
+	.string "Ho visto un POKéMON gigante volare\n"
+	.string "dalle isole.\p"
+	.string "Spargeva piume\n"
+	.string "dalle ali d'argento.$"
 
 Route41_EventScript_Kirk::
 	trainerbattle_single TRAINER_KIRK_HNS, Route41_Text_SwimmermKirkSeen, Route41_Text_SwimmermKirkBeaten
@@ -109,7 +109,7 @@ Route41_Text_SwimmerfKayleeSeen:
 	.string "Vado a esplorare con gli amici.$"
 
 Route41_Text_SwimmerfKayleeBeaten:
-	.string "Is that how you do it?$"
+	.string "Si fa così?$"
 
 Route41_Text_SwimmerfKayleeAfter:
 	.string "Dicono che ci sia un grosso\n"

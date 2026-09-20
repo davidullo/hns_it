@@ -596,11 +596,11 @@ BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
 	.string "Non vedo l'ora!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain:
-	.string "GRETA: Hey! Howdy!\n"
-	.string "You finally won your way up to me!\p"
-	.string "I was getting worried waiting for you!\n"
-	.string "I was really looking forward to seeing\l"
-	.string "you again!$"
+	.string "GRETA: Ehi, ciao!\n"
+	.string "Finalmente sei arrivato da me!\p"
+	.string "Aspettavo con impazienza!\n"
+	.string "Non vedevo l'ora di\l"
+	.string "rivederti!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady:
 	.string "… … …\n"
@@ -623,7 +623,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine:
 	.string "brilla d'oro!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IfWeBattleAgainWontLose:
-	.string "Arrrgh!\n"
-	.string "This is so infuriating!\p"
-	.string "If we ever battle again, I won't lose!\n"
-	.string "Don't you forget it! Bye-bye!$"
+	.string "Argh!\n"
+	.string "Che rabbia!\p"
+	.string "Se ci ribattiamo, non perdo!\n"
+	.string "Non dimenticarlo! Ciao!$"

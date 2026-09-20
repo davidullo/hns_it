@@ -42,8 +42,8 @@ OneIsland_KindleRoad_Text_FinnPostBattle::
 	.string "parti.$"
 
 OneIsland_KindleRoad_Text_GarrettIntro::
-	.string "I took a break from swimming,\n"
-	.string "only to have you challenge me?$"
+	.string "Mi riposavo dal nuoto,\n"
+	.string "e tu mi sfidi?$"
 
 OneIsland_KindleRoad_Text_GarrettDefeat::
 	.string "Ehi, ma che…\n"

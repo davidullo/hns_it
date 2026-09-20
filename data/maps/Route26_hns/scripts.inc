@@ -70,11 +70,11 @@ Route26_Text_CooltrainermJakeBeaten:
     .string "Ho fatto un pasticcio!$"
 
 Route26_Text_CooltrainermJakeAfter:
-    .string "It's going to be tough to win at\n"
-    .string "the LEAGUE.\p"
-    .string "I need to do some more training.\p"
-    .string "I hear that the LEAGUE's ELITE\n"
-    .string "FOUR are tougher than GYM LEADERS.$"
+    .string "Vincere alla LEGA sarà dura.\n"
+    .string "Devo allenarmi ancora.\p"
+    .string "Ho sentito che i SUPERQUATTRO\p"
+    .string "della LEGA sono più forti dei\n"
+    .string "CAPOPALESTRA.$"
 
 Route26_Text_CooltrainermGavenSeen:
     .string "Affrontando lotte dure,\n"
@@ -152,10 +152,10 @@ Route26_Text_BethPostRematch:
     .string "preziosi per tutta la vita.$"
 
 Route26_Text_PsychicRichardSeen:
-    .string "Wow, look at all those BADGES!\n"
-    .string "I'm impressed.\p"
-    .string "But you're not satisfied by just\n"
-    .string "collecting them, right?$"
+    .string "Uau, quante MEDAGLIE!\n"
+    .string "Sono impressionato.\p"
+    .string "Ma non ti basta\n"
+    .string "collezionarle, vero?$"
 
 Route26_Text_PsychicRichardBeaten:
     .string "Bella lotta!$"

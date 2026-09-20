@@ -65,13 +65,13 @@ Text_MegaPunchTaught::
 	.string "allena solo i suoi stupidi calci.$"
 
 Text_MegaKickTeach::
-	.string "A kick of brutal ferocity!\p"
-	.string "Packed with destructive power!\p"
-	.string "When you get right down to it,\n"
-	.string "MEGA KICK is the ultimate attack!\l"
-	.string "Don't you agree?\p"
-	.string "Okay!\n"
-	.string "I'll teach it to your POKéMON!$"
+	.string "Un calcio di brutale ferocia!\p"
+	.string "Carico di potere distruttivo!\p"
+	.string "A conti fatti,\n"
+	.string "MEGA KICK è l'attacco supremo!\l"
+	.string "Non sei d'accordo?\p"
+	.string "Bene!\n"
+	.string "Lo insegno ai tuoi POKéMON!$"
 
 Text_MegaKickDeclined::
 	.string "Tornerai strisciando quando\n"

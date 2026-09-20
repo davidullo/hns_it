@@ -47,8 +47,8 @@ Route110_TrickHousePuzzle4_Text_CoraPostBattle:
 	.string "ovunque ci siano ALLENATORI.$"
 
 Route110_TrickHousePuzzle4_Text_YujiIntro:
-	.string "Heh! Boulders like this, I can brush\n"
-	.string "aside with one finger!$"
+	.string "Eh! Massi così li sposto\n"
+	.string "con un dito!$"
 
 Route110_TrickHousePuzzle4_Text_YujiDefeat:
 	.string "Sposto i massi, ma non so risolvere\n"

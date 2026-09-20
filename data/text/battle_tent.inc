@@ -20,28 +20,28 @@ FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
 
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
 #if IS_HNS
-	.string "In the ARENA BATTLE TENT,\n"
+	.string "Nel TENDALOTTA ARENA\n"
 #else
 	.string "In the FALLARBOR BATTLE TENT,\n"
 #endif
-	.string "we undertake the Set KO Tourney.\p"
-	.string "All participants enter with a team of\n"
-	.string "three POKéMON.\p"
-	.string "The three POKéMON must be lined up\n"
-	.string "in the order that they are to appear in.\p"
-	.string "During battle, the POKéMON will appear\n"
-	.string "one at a time in the preset order.\p"
-	.string "Once a POKéMON enters battle, it must\n"
-	.string "remain out until the match is decided.\p"
-	.string "If a match remains undecided in\n"
-	.string "three turns, it goes to judging.\p"
-	.string "If you wish to interrupt your challenge,\n"
-	.string "please save the game.\p"
-	.string "If you don't save, you will not be able\n"
-	.string "to continue with your challenge.\p"
-	.string "If you pull off the feat of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a fine prize.$"
+	.string "si tiene il Torneo KO a squadre.\p"
+	.string "Tutti i partecipanti gareggiano con\n"
+	.string "tre POKéMON.\p"
+	.string "I tre POKéMON vanno schierati\n"
+	.string "nell'ordine in cui entreranno.\p"
+	.string "Durante la lotta appariranno\n"
+	.string "uno alla volta, nell'ordine stabilito.\p"
+	.string "Un POKéMON entrato in lotta deve\n"
+	.string "restare fino alla decisione del match.\p"
+	.string "Se un match resta indeciso\n"
+	.string "dopo tre turni, si va ai punti.\p"
+	.string "Se vuoi interrompere la sfida,\n"
+	.string "salva il gioco.\p"
+	.string "Se non salvi, non potrai\n"
+	.string "continuare la sfida.\p"
+	.string "Se riesci a battere\n"
+	.string "tre ALLENATORI di fila,\l"
+	.string "ti daremo un bel premio.$"
 
 FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "Prima di condurti alla TENDA\n"
@@ -84,14 +84,14 @@ FallarborTown_BattleTentLobby_Text_GuideYouToBattleTent:
 	.string "TENDA LOTTA.$"
 
 FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting:
-	.string "My dear challenger!\p"
-	.string "You did not save the game before\n"
-	.string "shutting down, did you?\p"
-	.string "It is unfortunate, but that has\n"
-	.string "resulted in your disqualification\l"
-	.string "from your challenge.\p"
-	.string "You may, of course, start with a fresh\n"
-	.string "challenge.$"
+	.string "Mio caro sfidante!\p"
+	.string "Non hai salvato prima\n"
+	.string "di spegnere, vero?\p"
+	.string "Purtroppo questo comporta\n"
+	.string "la tua squalifica\l"
+	.string "dalla sfida.\p"
+	.string "Puoi ricominciare\n"
+	.string "da capo.$"
 
 FallarborTown_BattleTentLobby_Text_BeatThreeTrainers:
 	.string "Che splendido! Hai battuto\n"
@@ -178,9 +178,9 @@ VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "There are two levels of difficulty,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice of a challenge?$"
+	.string "Ci sono due livelli di difficoltà,\n"
+	.string "Livello 50 e Livello Libero.\l"
+	.string "Quale sfida scegli?$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "Sigh…\p"
@@ -292,8 +292,8 @@ SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
-	.string "safekeeping while you compete.$"
+	.string "Bene, custodisco i tuoi POKéMON\n"
+	.string "mentre gareggi.$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
 	.string "Da questa parte, prego.$"
@@ -442,14 +442,14 @@ VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules:
-	.string "When not under command by its TRAINER,\n"
-	.string "a POKéMON may be unable to effectively\l"
-	.string "use certain moves.\p"
-	.string "A POKéMON is not good at using any\n"
-	.string "move that it dislikes.\p"
-	.string "If a POKéMON only knows moves that\n"
-	.string "do not match its nature, it will often\l"
-	.string "be unable to live up to its potential.$"
+	.string "Senza ordini dell'ALLENATORE,\n"
+	.string "un POKéMON può non usare\l"
+	.string "bene certe mosse.\p"
+	.string "Un POKéMON non riesce mai\n"
+	.string "con una mossa che odia.\p"
+	.string "Se ha solo mosse diverse\n"
+	.string "dalla sua natura, spesso\l"
+	.string "non dà il massimo.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:

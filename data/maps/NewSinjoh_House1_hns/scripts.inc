@@ -36,16 +36,16 @@ NewSinjoh_House1_EventScript_GiveWooperPaldea::
     end
 
 NewSinjoh_House1_Text_Looking4Celebi:
-    .string "Hey there, Trainer!\p"
-	.string "You came all the way from\n"
-	.string "NEW BARK TOWN?\p"
-	.string "I have a request for someone as\n"
-	.string "well traveled as you are.\l"
-	.string "You see, my favorite POKEMON in the\l"
-	.string "whole world just so happens to be\l"
-	.string "the mythical POKEMON known as CELEBI.\p"
-	.string "If you happen to have one, would\n"
-	.string "you mind showing it to me?$"
+    .string "Ehi, Allenatore!\p"
+	.string "Vieni da così lontano,\n"
+	.string "da FOGLIANOVA?\p"
+	.string "Ho una richiesta per chi ha\n"
+	.string "viaggiato quanto te.\l"
+	.string "Sai, il mio POKéMON preferito\l"
+	.string "al mondo è proprio\l"
+	.string "il POKéMON mitico CELEBI.\p"
+	.string "Se ne hai uno, potresti\n"
+	.string "farmelo vedere?$"
 
 NewSinjoh_House1_Text_NicePokemonButNotCelebi:
     .string "Hai un POKéMON bellissimo,\n"

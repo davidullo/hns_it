@@ -18,10 +18,10 @@ CeladonDeptStore4F_Text_SuperNerd:
 	.string "Eh? È esaurito?$"
 
 CeladonDeptStore4F_Text_Youngster:
-	.string "This is the only place where you\n"
-	.string "can buy LOVELY MAIL.\p"
-	.string "At least it was. They are saying\n"
-	.string "they are out of stock.$"
+	.string "Qui si può comprare\n"
+	.string "la LETTERA BELLA.\p"
+	.string "Almeno, si poteva. Dicono che\n"
+	.string "sia esaurita.$"
 
 CeladonDeptStore4F_Text_Directory:
 	.string "Esprimiti con i regali!\p"

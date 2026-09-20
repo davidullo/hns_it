@@ -1098,13 +1098,13 @@ RustboroCity_Text_WaitDontTakeMyGoods:
 	.string "Non prendere la mia MERCE!$"
 
 RustboroCity_Text_HelpMeIWasRobbed:
-	.string "Oh, it's you!\p"
-	.string "You're that fantastic TRAINER who\n"
-	.string "helped me in PETALBURG WOODS!\p"
-	.string "Help me! I was robbed by TEAM AQUA!\n"
-	.string "I have to get the DEVON GOODS back!\p"
-	.string "If I don't…\n"
-	.string "I'm going to be in serious trouble.$"
+	.string "Oh, sei tu!\p"
+	.string "Sei quel fantastico ALLENATORE che\n"
+	.string "mi ha aiutato nel BOSCO PETALBURG!\p"
+	.string "Aiutami! Mi ha rapinato il TEAM AQUA!\n"
+	.string "Devo riprendere la MERCE DEVON!\p"
+	.string "Se non lo faccio…\n"
+	.string "Sarò nei guai grossi.$"
 
 RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel:
 	.string "Quel tipo losco, credo sia scappato\n"

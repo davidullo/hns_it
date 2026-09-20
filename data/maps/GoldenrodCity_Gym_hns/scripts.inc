@@ -216,8 +216,8 @@ GoldenrodCity_Gym_Text_BeautyVictoriaBeaten:
     .string "Vediamo… Ops, è finita?$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaAfter:
-    .string "Wow, you must be good to beat me!\n"
-    .string "Keep it up!$"
+    .string "Wow, devi essere forte per battermi!\n"
+    .string "Continua così!$"
 
 GoldenrodCity_Gym_Text_BeautySamanthaSeen:
     .string "Datti da fare, o ti batterò\n"

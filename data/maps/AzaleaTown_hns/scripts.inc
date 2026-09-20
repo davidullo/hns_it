@@ -436,12 +436,12 @@ AzaleaTown_Text_GymSign:
 	.string "che cammina$"
 
 AzaleaTown_Text_SlowpokeWellSign:
-	.string "SLOWPOKE WELL\p"
-	.string "Also known as the RAINMAKER WELL.\p"
-	.string "Locals believe that a SLOWPOKE's\n"
-	.string "yawn summons rain.\p"
-	.string "Records show that a SLOWPOKE's\n"
-	.string "yawn ended a drought 400 years ago.$"
+	.string "POZZO SLOWPOKE\p"
+	.string "Detto anche POZZO DELLA PIOGGIA.\p"
+	.string "Qui dicono che lo\n"
+	.string "Sbadiglio dello\p"
+	.string "SLOWPOKE evochi la pioggia.\n"
+	.string "E 400 anni fa finì una siccità.$"
 
 AzaleaTown_Text_CharcoalKilnSign:
 	.string "CARBONERIA$"

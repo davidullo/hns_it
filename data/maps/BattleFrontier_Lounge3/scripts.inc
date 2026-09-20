@@ -203,52 +203,52 @@ BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere::
 	.string "Non può aspettare qualche ora?$"
 
 BattleFrontier_Lounge3_Text_YouLookToughExplainGambling::
-	.string "…Huh?\n"
-	.string "You look to me like a tough TRAINER.\p"
-	.string "Heheh…\n"
-	.string "Listen, I have this proposition.\p"
-	.string "We have a little group going here,\n"
-	.string "and we play a little game with what\l"
-	.string "goes on in the BATTLE FRONTIER.\p"
-	.string "The rules are really simple.\p"
-	.string "First, we pick one of the facilities\n"
-	.string "in the BATTLE FRONTIER.\p"
-	.string "Then, we each pick a different TRAINER\n"
-	.string "who's taking that facility's challenge,\l"
-	.string "and bet with our Battle Points.\p"
-	.string "The guy who bet on the TRAINER with\n"
-	.string "the best record takes all the Battle\l"
-	.string "Points in the pool.\p"
-	.string "Sounds simple, huh?\n"
-	.string "So, anyway…$"
+	.string "…Eh?\n"
+	.string "Mi sembri un ALLENATORE tosto.\p"
+	.string "Eheheh…\n"
+	.string "Ascolta, ho una proposta.\p"
+	.string "Qui abbiamo un gruppetto\n"
+	.string "e giochiamo a scommettere\l"
+	.string "su quel che accade al FRONTIER LOTTA.\p"
+	.string "Le regole sono semplici.\p"
+	.string "Prima scegliamo una struttura\n"
+	.string "del FRONTIER LOTTA.\p"
+	.string "Poi ognuno sceglie un ALLENATORE\n"
+	.string "che la sta sfidando,\l"
+	.string "e punta i suoi PUNTI LOTT.\p"
+	.string "Chi punta sull'ALLENATORE\n"
+	.string "col record migliore si prende\l"
+	.string "tutti i PUNTI LOTT.\p"
+	.string "Semplice, no?\n"
+	.string "E quindi…$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's SINGLE BATTLE ROOMS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Cerco un ALLENATORE che voglia sfidare\n"
+	.string "le STANZE SINGOLE della TORRE DI\l"
+	.string "LOTTA.\p"
+	.string "Ma finora non ho visto un ALLENATORE\n"
+	.string "con la stoffa del vincente.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's DOUBLE BATTLE ROOMS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Cerco un ALLENATORE che voglia sfidare\n"
+	.string "le STANZE DOPPIE della TORRE DI\l"
+	.string "LOTTA.\p"
+	.string "Ma finora non ho visto un ALLENATORE\n"
+	.string "con la stoffa del vincente.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerMulti::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's MULTI BATTLE ROOMS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Cerco un ALLENATORE che voglia sfidare\n"
+	.string "le STANZE MULTIPLE della TORRE\l"
+	.string "DI LOTTA.\p"
+	.string "Ma finora non ho visto un ALLENATORE\n"
+	.string "con la stoffa del vincente.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeSingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "DOME's SINGLE BATTLE Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Cerco un ALLENATORE che vada al\n"
+	.string "Torneo SINGOLO del DOMO\l"
+	.string "DI LOTTA.\p"
+	.string "Ma finora non ho visto nessuno\n"
+	.string "con la stoffa del vincente.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeDouble::
 	.string "Cerca un ALLENATORE che prenderà\n"
@@ -258,32 +258,32 @@ BattleFrontier_Lounge3_Text_ChallengeBattleDomeDouble::
 	.string "ALLENATORE che sappia vincere.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleFactorySingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "FACTORY's Battle Swap Single Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Cerco un ALLENATORE che vada allo\n"
+	.string "Scambio SINGOLO della FABBRICA\l"
+	.string "DI LOTTA.\p"
+	.string "Ma finora non ho visto nessuno\n"
+	.string "con la stoffa del vincente.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleFactoryDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "FACTORY's Battle Swap Double Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Cerco un ALLENATORE che vada allo\n"
+	.string "Scambio DOPPIO della FABBRICA\l"
+	.string "DI LOTTA.\p"
+	.string "Ma finora non ho visto nessuno\n"
+	.string "con la stoffa del vincente.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceSingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "PALACE's SINGLE BATTLE HALLS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Cerco un ALLENATORE che sfidi le\n"
+	.string "SALE SINGOLE del PALAZZO\l"
+	.string "DI LOTTA.\p"
+	.string "Ma finora non ho visto nessuno\n"
+	.string "con la stoffa del vincente.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "PALACE's DOUBLE BATTLE HALLS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Cerco un ALLENATORE che sfidi le\n"
+	.string "SALE DOPPIE del PALAZZO\l"
+	.string "DI LOTTA.\p"
+	.string "Ma finora non ho visto nessuno\n"
+	.string "con la stoffa del vincente.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleArena::
 	.string "Cerca un ALLENATORE che prenderà\n"
@@ -300,11 +300,11 @@ BattleFrontier_Lounge3_Text_ChallengeBattlePike::
 	.string "con quel quid vincente.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePyramid::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "PYRAMID's Battle Quest.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Cerco un ALLENATORE che vada alla\n"
+	.string "Sfida della PIRAMIDE\l"
+	.string "DI LOTTA.\p"
+	.string "Ma finora non ho visto nessuno\n"
+	.string "con la stoffa del vincente.$"
 
 BattleFrontier_Lounge3_Text_HowAboutEnteringEventForMe::
 	.string "Anche tu ne trarrai vantaggio.\n"
@@ -438,8 +438,8 @@ BattleFrontier_Lounge3_Text_ObtainedBattlePoints::
 	.string "{STR_VAR_1} PUNTI LOTT.$"
 
 BattleFrontier_Lounge3_Text_ThinkOfMeForAnotherChallenge::
-	.string "If you're up for another challenge,\n"
-	.string "please do think of me!$"
+	.string "Se ti va un'altra sfida,\n"
+	.string "pensa a me!$"
 
 BattleFrontier_Lounge3_Text_NotInterested::
 	.string "Non ti interessa?! Non dovresti\n"

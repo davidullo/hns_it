@@ -14,13 +14,13 @@ LilycoveCity_ContestLobby_Text_DescribeContest:
 	.string "GARA a cui hai appena partecipato?$"
 
 LilycoveCity_ContestLobby_Text_WhatImageWhenYouHearX:
-	.string "Ah, I see.\n"
-	.string "That's a very edifying comment.\p"
-	.string "You get a good feel for what\n"
-	.string "the CONTEST was like.\p"
-	.string "I've got one last question.\p"
-	.string "When you hear the word “{STR_VAR_2},”\n"
-	.string "what image do you get?$"
+	.string "Ah, capisco.\n"
+	.string "È un commento molto istruttivo.\p"
+	.string "Si capisce bene com'era\n"
+	.string "la GARA.\p"
+	.string "Ho un'ultima domanda.\p"
+	.string "Quando senti la parola “{STR_VAR_2},”\n"
+	.string "quale immagine ti viene?$"
 
 LilycoveCity_ContestLobby_Text_ThatsAllForInterview:
 	.string "Capisco!\p"
@@ -271,14 +271,14 @@ BravoTrainerBattleTower_Text_Outro::
 
 SlateportCity_PokemonFanClub_Text_InterviewRequestHasName:
 	.string "Wow!\p"
-	.string "It's plain to see that you lavish your\n"
-	.string "love on your {STR_VAR_1}.\p"
-	.string "Okay, it's named {STR_VAR_2}.\p"
-	.string "Can I ask you a favor?\p"
-	.string "I'm a TV reporter, and I'm running\n"
-	.string "a survey on POKéMON.\p"
-	.string "Would you be willing to answer a few\n"
-	.string "simple questions for me?$"
+	.string "Si vede che riempi di amore\n"
+	.string "il tuo {STR_VAR_1}.\p"
+	.string "Ah, si chiama {STR_VAR_2}.\p"
+	.string "Posso chiederti un favore?\p"
+	.string "Sono una reporter TV e sto\n"
+	.string "facendo un'indagine sui POKéMON.\p"
+	.string "Ti va di rispondere a qualche\n"
+	.string "domanda semplice?$"
 
 SlateportCity_PokemonFanClub_Text_HereGoesQuickAnswers:
 	.string "Benissimo! Grazie!\p"
@@ -359,24 +359,24 @@ SlateportCity_PokemonFanClub_Text_ThatsAllForInterview2:
 	.string "Ciao ciao!$"
 
 gTVFanClubOpinionsText00::
-	.string "WE ARE THE POKéMON FAN CLUB!\p"
-	.string "We're on the air!\p"
-	.string "On this program, we get your opinions,\n"
-	.string "and I shout them out on your behalf!\l"
-	.string "Isn't it a fantastic program concept?\p"
-	.string "Today, we bring you this report from\n"
-	.string "our reporter, who we sent out to the\l"
-	.string "POKéMON FAN CLUB.\p"
-	.string "So, just who is today's featured\n"
-	.string "POKéMON fan?\p"
+	.string "SIAMO IL FAN CLUB POKéMON!\p"
+	.string "Siamo in onda!\p"
+	.string "Qui raccogliamo le vostre opinioni\n"
+	.string "e le grido per voi!\l"
+	.string "Non è un programma fantastico?\p"
+	.string "Oggi vi portiamo il reportage\n"
+	.string "del nostro inviato al\l"
+	.string "FAN CLUB POKéMON.\p"
+	.string "Ma chi è il fan POKéMON\n"
+	.string "di oggi?\p"
 	.string "… … … … … … … …\p"
 	.string "{STR_VAR_1}!\p"
-	.string "So, let's hear what {STR_VAR_1} has to\n"
-	.string "say about {STR_VAR_3} the {STR_VAR_2}.\p"
-	.string "And, I will shout those words of love\n"
-	.string "out loud on TV!\p"
-	.string "Hoo-hah!\p"
-	.string "Let's shout!$"
+	.string "Sentiamo cosa dice {STR_VAR_1}\n"
+	.string "su {STR_VAR_3}, il {STR_VAR_2}.\p"
+	.string "E io griderò le sue parole d'amore\n"
+	.string "in diretta TV!\p"
+	.string "Uhh!\p"
+	.string "Gridiamo!$"
 
 gTVFanClubOpinionsText01::
 	.string "Abbiamo chiesto a {STR_VAR_1}: “Quando hai\n"
@@ -481,18 +481,18 @@ gTVFanClubText07::
 
 SlateportCity_OceanicMuseum_1F_Text_InterviewRequest:
 	.string "Oh?\n"
-	.string "Do you perhaps like POKéMON?\p"
-	.string "I'm on assignment with the TV network.\p"
-	.string "I'm gathering stories on POKéMON and\n"
-	.string "TRAINERS that occurred recently.\p"
-	.string "If you don't mind, could you tell me\n"
-	.string "something about yourself?$"
+	.string "Ti piacciono i POKéMON, per caso?\p"
+	.string "Lavoro per la rete televisiva.\p"
+	.string "Sto raccogliendo storie su POKéMON e\n"
+	.string "ALLENATORI recenti.\p"
+	.string "Se non ti dispiace, puoi parlarmi\n"
+	.string "un po' di te?$"
 
 SlateportCity_OceanicMuseum_1F_Text_InterviewRequestShort:
-	.string "I'm gathering stories on POKéMON and\n"
-	.string "TRAINERS that occurred recently.\p"
-	.string "If you don't mind, could you tell me\n"
-	.string "something about yourself?$"
+	.string "Sto raccogliendo storie su POKéMON e\n"
+	.string "ALLENATORI recenti.\p"
+	.string "Se non ti dispiace, puoi parlarmi\n"
+	.string "un po' di te?$"
 
 SlateportCity_OceanicMuseum_1F_Text_TellMeExperienceInvolvingPokemon:
 	.string "Oh, davvero?\n"
@@ -1168,11 +1168,11 @@ gTVWorldOfMastersText02::
 	.string "Alla prossima puntata.$"
 
 gTVTodaysRivalTrainerText00::
-	.string "TODAY'S RIVAL TRAINER!\p"
-	.string "Hello, fellow POKéMON TRAINERS!\n"
-	.string "How are we all doing today?\p"
-	.string "Today, like every other day,\n"
-	.string "we'll examine one of our rivals!$"
+	.string "L'ALLENATORE RIVALE DI OGGI!\p"
+	.string "Ciao, ALLENATORI!\n"
+	.string "Come va oggi?\p"
+	.string "Oggi, come ogni giorno,\n"
+	.string "esamineremo un rivale!$"
 
 gTVTodaysRivalTrainerText07::
 	.string "L'ALLENATORE rivale di oggi è {STR_VAR_1},\n"
@@ -1230,26 +1230,26 @@ gTVTodaysRivalTrainerText06::
 	.string "e a superare i rivali!$"
 
 TrendWatcher_Text_Intro::
-	.string "DEWFORD TREND-WATCHER NETWORK!\p"
-	.string "MC: Wassup?\n"
-	.string "We'll keep it real with the latest on\l"
-	.string "what's hip and happening in DEWFORD.\p"
-	.string "Our guest today is this old cat whose\n"
-	.string "claim to fame is being the authority\l"
-	.string "on all things in DEWFORD.\p"
-	.string "Old man: Glad to be here.\p"
-	.string "MC: Let's cut to the chase, right on.\p"
-	.string "What's your word on what's groovin'\n"
-	.string "the good folks of DEWFORD?\p"
-	.string "Old man: {STR_VAR_1} {STR_VAR_2}.\p"
+	.string "RETE OSSERVATREND DI DEWFORD!\p"
+	.string "MC: Ehi, come va?\n"
+	.string "Vi aggiorniamo sulle ultime\l"
+	.string "mode di DEWFORD.\p"
+	.string "Ospite di oggi è questo vecchio,\n"
+	.string "famoso per essere l'autorità\l"
+	.string "su tutto ciò che riguarda DEWFORD.\p"
+	.string "Anziano: Felice di essere qui.\p"
+	.string "MC: Andiamo al dunque, forza.\p"
+	.string "Cosa ci dici su ciò che va\n"
+	.string "tra la brava gente di DEWFORD?\p"
+	.string "Anziano: {STR_VAR_1} {STR_VAR_2}.\p"
 	.string "MC: {STR_VAR_1} {STR_VAR_2},\n"
-	.string "you say?\p"
-	.string "Old man: No.\p"
-	.string "{STR_VAR_1} {STR_VAR_2} never\n"
-	.string "did get popular at all.\p"
-	.string "Would you like to hear about it?\p"
-	.string "MC: Uh, no. What we want to know is\n"
-	.string "what's the in thing of the moment…$"
+	.string "dici?\p"
+	.string "Anziano: No.\p"
+	.string "{STR_VAR_1} {STR_VAR_2} non\n"
+	.string "è mai andato di moda.\p"
+	.string "Vuoi sentirne parlare?\p"
+	.string "MC: Ehm, no. Vogliamo sapere\n"
+	.string "cosa va di moda adesso…$"
 
 @ Identical to below, may have been different in other languages
 TrendWatcher_Text_MaleTaughtMePhrase::
@@ -1285,12 +1285,12 @@ TrendWatcher_Text_FemaleTellMeBigger::
 	.string "di quel {STR_VAR_1} {STR_VAR_2}!$"
 
 TrendWatcher_Text_Outro::
-	.string "MC: …Uh… So, there you have it,\n"
-	.string "all you trendy, hep cats out there!\p"
-	.string "{STR_VAR_1} {STR_VAR_2}…uh…\n"
-	.string "Didn't get hip or happening in DEWFORD!\p"
-	.string "My time is up. Catch you on the fly!\p"
-	.string "Old man: {STR_VAR_1} {STR_VAR_2}!$"
+	.string "MC: …Ehm… Ecco a voi,\n"
+	.string "gente alla moda!\p"
+	.string "{STR_VAR_1} {STR_VAR_2}…ehm…\n"
+	.string "Non è andato di moda a DEWFORD!\p"
+	.string "Tempo scaduto. Ci vediamo!\p"
+	.string "Anziano: {STR_VAR_1} {STR_VAR_2}!$"
 
 gTVHoennTreasureInvestigatorsText00::
 	.string "INVESTIGATORI DI TESORI DI HOENN!\p"
@@ -1757,10 +1757,10 @@ TVSpotTheCuties_Text_RibbonsLow::
 	.string "{STR_VAR_1} adori il POKéMON.$"
 
 TVSpotTheCuties_Text_RibbonsMid::
-	.string "{STR_VAR_2} wears an amazing\n"
-	.string "{STR_VAR_3} RIBBONS!\p"
-	.string "It speaks volumes about {STR_VAR_1}'s\n"
-	.string "commitment to the POKéMON!$"
+	.string "{STR_VAR_2} ha\n"
+	.string "{STR_VAR_3} NASTRI!\p"
+	.string "Dice molto sull'amore di {STR_VAR_1}\n"
+	.string "per i POKéMON!$"
 
 TVSpotTheCuties_Text_RibbonsHigh::
 	.string "{STR_VAR_2} indossa degli incredibili\n"
@@ -1783,14 +1783,14 @@ TVSpotTheCuties_Text_RibbonChampion::
 	.string "L'abbinamento è superefficace!$"
 
 TVSpotTheCuties_Text_RibbonCool::
-	.string "The COOL RIBBON is especially\n"
-	.string "fetching.\p"
-	.string "{STR_VAR_2} received it for winning\n"
-	.string "a COOL CONTEST.\p"
-	.string "It verily draws out the coolness\n"
-	.string "of {STR_VAR_2}.\p"
-	.string "{STR_VAR_2} and the COOL RIBBON!\n"
-	.string "The combination is super effective!$"
+	.string "Il FIOCCO CLASSE è davvero\n"
+	.string "incantevole.\p"
+	.string "{STR_VAR_2} l'ha ricevuto per\n"
+	.string "una GARA DI CLASSE.\p"
+	.string "Esalta la classe\n"
+	.string "di {STR_VAR_2}.\p"
+	.string "{STR_VAR_2} e il FIOCCO CLASSE!\n"
+	.string "L'abbinamento è superefficace!$"
 
 TVSpotTheCuties_Text_RibbonBeauty::
 	.string "Il FIOCCO BELLEZZA è davvero\n"
@@ -1803,14 +1803,14 @@ TVSpotTheCuties_Text_RibbonBeauty::
 	.string "L'abbinamento è superefficace!$"
 
 TVSpotTheCuties_Text_RibbonCute::
-	.string "The CUTE RIBBON is especially\n"
-	.string "fetching.\p"
-	.string "{STR_VAR_2} received it for winning\n"
-	.string "a CUTE CONTEST.\p"
-	.string "It verily draws out the cuteness\n"
-	.string "of {STR_VAR_2}.\p"
-	.string "{STR_VAR_2} and the CUTE RIBBON!\n"
-	.string "The combination is super effective!$"
+	.string "Il FIOCCO GRAZIA è davvero\n"
+	.string "incantevole.\p"
+	.string "{STR_VAR_2} l'ha ricevuto per\n"
+	.string "una GARA DI GRAZIA.\p"
+	.string "Esalta la grazia\n"
+	.string "di {STR_VAR_2}.\p"
+	.string "{STR_VAR_2} e il FIOCCO GRAZIA!\n"
+	.string "L'abbinamento è superefficace!$"
 
 TVSpotTheCuties_Text_RibbonSmart::
 	.string "Il NASTRO CLASSE è davvero\n"
@@ -2015,12 +2015,12 @@ gTVWhatsNo1InHoennTodayText00::
 	.string "che {STR_VAR_1}!$"
 
 gTVWhatsNo1InHoennTodayText01::
-	.string "In one day, {STR_VAR_1} spun the SLOTS\n"
-	.string "at the GAME CORNER {STR_VAR_2} times.\p"
-	.string "While playing, {STR_VAR_1} was heard\n"
-	.string "murmuring, “For me, the reels don't\l"
-	.string "even move…”\l"
-	.string "Isn't that interesting?$"
+	.string "In un giorno, {STR_VAR_1} ha girato le SLOT\n"
+	.string "al GAME CORNER {STR_VAR_2} volte.\p"
+	.string "Mentre giocava, {STR_VAR_1} diceva,\n"
+	.string "“Per me i rulli non\l"
+	.string "si muovono…”\l"
+	.string "Non è interessante?$"
 
 gTVWhatsNo1InHoennTodayText02::
 	.string "In un giorno, {STR_VAR_1} ha giocato\n"
@@ -2124,23 +2124,23 @@ TVSecretBaseSecrets_Text_Outro::
 	.string "BASE SEGRETA! Grazie della compagnia!$"
 
 TVSecretBaseSecrets_Text_StoppedMoving1::
-	.string "The visitor has stopped!\p"
-	.string "The visitor isn't moving at all!\p"
-	.string "Was {STR_VAR_1}'s SECRET BASE\n"
-	.string "that unimpressive?$"
+	.string "Il visitatore si è fermato!\p"
+	.string "Non si muove più!\p"
+	.string "La BASE SEGRETA di {STR_VAR_1}\n"
+	.string "era così deludente?$"
 
 TVSecretBaseSecrets_Text_StoppedMoving2::
-	.string "The visitor has stopped!\p"
-	.string "The visitor isn't moving at all!\p"
-	.string "Is it fatigue?\n"
-	.string "Has the visitor grown weary?$"
+	.string "Il visitatore si è fermato!\p"
+	.string "Non si muove più!\p"
+	.string "È la stanchezza?\n"
+	.string "Il visitatore è esausto?$"
 
 TVSecretBaseSecrets_Text_UsedChair::
-	.string "The visitor sat down on a chair!\n"
-	.string "The visitor is seated!\p"
-	.string "Look at that look of delight!\p"
-	.string "That chair must be very comfortable\n"
-	.string "to get that response!$"
+	.string "Il visitatore si è seduto!\n"
+	.string "È seduto!\p"
+	.string "Guardate che faccia felice!\p"
+	.string "Quella sedia dev'essere comoda\n"
+	.string "per una reazione simile!$"
 
 TVSecretBaseSecrets_Text_UsedBalloon::
 	.string "Il visitatore si è lanciato su un pallone!\p"
@@ -2292,9 +2292,9 @@ TVSecretBaseSecrets_Text_UsedDesk::
 	.string "all'ordine!$"
 
 TVSecretBaseSecrets_Text_UsedBrick::
-	.string "The visitor is staring at a BRICK!\p"
-	.string "Perhaps the visitor is thinking about\n"
-	.string "the object on the BRICK.$"
+	.string "Il visitatore fissa un MATTONE!\p"
+	.string "Forse sta pensando\n"
+	.string "all'oggetto sul MATTONE.$"
 
 TVSecretBaseSecrets_Text_UsedSolidBoard::
 	.string "Il visitatore cammina sopra\n"
@@ -2767,14 +2767,14 @@ GabbyAndTy_Text_DescribeYourFeelings:
 	.string "breve e conciso. Vai!$"
 
 GabbyAndTy_Text_PerfectWellBeSeeingYou:
-	.string "GABBY: Mmm, yeah!\n"
-	.string "That's the perfect clincher!\p"
-	.string "I get the feeling that this will make\n"
-	.string "a great TV show.\p"
-	.string "There's a chance that they'll air this\n"
-	.string "on TV, so make sure to look for us!\p"
-	.string "Okay!\n"
-	.string "We'll be seeing you!$"
+	.string "GABBY: Mmm, sì!\n"
+	.string "È il finale perfetto!\p"
+	.string "Ho la sensazione che ne verrà\n"
+	.string "un grande programma TV.\p"
+	.string "Potrebbero mandarlo in TV,\n"
+	.string "quindi cercaci!\p"
+	.string "Ok!\n"
+	.string "Ci vediamo!$"
 
 GabbyAndTy_Text_DontGiveUpKeepingEyeOut:
 	.string "GABBY: Oh…\p"

@@ -22,9 +22,9 @@ BattleFrontier_Lounge4_Text_IfIOpenedRestaurantHere_hns:
 	.string "farebbe sicuramente soldi.$"
 
 BattleFrontier_Lounge4_Text_NeedBreatherAfterBattles_hns:
-	.string "Whew…\p"
-	.string "I need to take a breather after\n"
-	.string "some intense battles…\p"
-	.string "But even now, I never take a break\n"
-	.string "from plotting strategy and combos.$"
+	.string "Uff…\p"
+	.string "Dopo le lotte intense mi serve\n"
+	.string "una pausa…\p"
+	.string "Ma non smetto mai di studiare\n"
+	.string "tattiche e combo.$"
 

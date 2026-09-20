@@ -43,9 +43,9 @@ gBirchDexRatingText_LessThan70::
 	.string "che ne dici di farli anche evolvere?$"
 
 gBirchDexRatingText_LessThan80::
-	.string "This is going to be a fantastic\n"
-	.string "POKéDEX.\l"
-	.string "That's the feeling I'm getting.$"
+	.string "Sarà un POKéDEX\n"
+	.string "fantastico.\l"
+	.string "È quello che sento.$"
 
 gBirchDexRatingText_LessThan90::
 	.string "Ne hai raccolti così tanti…\n"
@@ -252,13 +252,13 @@ gElmDexRatingText_Robbery::
 
 gElmDexRatingText_AreYouCurious::
 	.string "PROF. ELM: Ah, {PLAYER}{KUN}!\p"
-	.string "Are you curious about how your\n"
-	.string "POKéDEX is coming along?$"
+	.string "Vuoi sapere come va\n"
+	.string "il tuo POKéDEX?$"
 
 gElmDexRatingText_AreYouCuriousNational::
 	.string "PROF. ELM: Ah, {PLAYER}{KUN}!\p"
-	.string "Are you curious about how your\n"
-	.string "National POKéDEX is coming along?$"
+	.string "Vuoi sapere come va il tuo\n"
+	.string "POKéDEX Nazionale?$"
 
 gJohtoDexRatingText_LessThan10::
 	.string "Cerca POKéMON nell'erba alta!$"
@@ -318,8 +318,8 @@ gJohtoDexRatingText_LessThan185::
 	.string "possono aiutarti davvero!$"
 
 gJohtoDexRatingText_LessThan200::
-	.string "Are you trading your POKéMON?\n"
-	.string "It's tough to do this alone!$"
+	.string "Scambi i tuoi POKéMON?\n"
+	.string "Da soli è dura!$"
 
 gJohtoDexRatingText_LessThan215::
 	.string "Wow! Hai raggiunto 200!\n"
@@ -384,9 +384,9 @@ gNationalDexRatingText_LessThan300::
 	.string "a volte un POKéMON cade giù!$"
 
 gNationalDexRatingText_LessThan350::
-	.string "A lot of POKéMON not found in the\n"
-	.string "Johto region like to congregate\p"
-	.string "at the Safari Zone$"
+	.string "Molti POKéMON che non vivono a\n"
+	.string "Johto si radunano\p"
+	.string "alla Zona Safari$"
 
 gNationalDexRatingText_LessThan400::
 @	.string "Music on the radio might also\n"

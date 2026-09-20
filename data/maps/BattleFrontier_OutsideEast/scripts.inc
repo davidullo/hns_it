@@ -263,12 +263,12 @@ BattleFrontier_OutsideEast_Text_BattleTowerFeelsSpecial:
 	.string "Diversa dalle altre.$"
 
 BattleFrontier_OutsideEast_Text_ConquerLeagueAndFrontier:
-	.string "My grand ambition is to conquer both\n"
-	.string "the BATTLE FRONTIER and the POKéMON\l"
-	.string "LEAGUE.\p"
-	.string "And if my dream comes true…\p"
-	.string "I… I'm going to ask MIMI next door\n"
-	.string "if she will be friends with me!$"
+	.string "Il mio sogno è vincere sia la\n"
+	.string "FRONTIERA LOTTA che la LEGA\l"
+	.string "POKéMON.\p"
+	.string "E se il sogno si avvera…\p"
+	.string "Io… io chiedo a MIMI qui accanto\n"
+	.string "se vuole essere mia amica!$"
 
 BattleFrontier_OutsideEast_Text_PyramidTooHarsh:
 	.string "La PIRAMIDE DI LOTTA è troppo dura!\n"

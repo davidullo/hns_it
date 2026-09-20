@@ -249,12 +249,12 @@ Route22_Text_EarlyRivalDefeat::
 	.string "È stata solo fortuna!$"
 
 Route22_Text_EarlyRivalPostBattle::
-	.string "I heard the POKéMON LEAGUE is\n"
-	.string "crawling with tough TRAINERS.\p"
-	.string "I have to figure out how to get\n"
-	.string "past them.\p"
-	.string "You should quit dawdling and get a\n"
-	.string "move on!$"
+	.string "Ho sentito che alla LEGA POKéMON\n"
+	.string "pullulano di ALLENATORI forti.\p"
+	.string "Devo capire come\n"
+	.string "superarli.\p"
+	.string "Smetti di perdere tempo e\n"
+	.string "muoviti!$"
 
 @ Translated in RB as "{RIVAL}: What? Why do I have 2 POKéMON? You should catch some more too!"
 Route22_Text_RivalShouldCatchSomeMons::

@@ -432,23 +432,23 @@ ThreeIsland_Text_FollowersRaisingHavoc::
 	.string "isola?$"
 
 ThreeIsland_Text_OughtToBeThankingUs::
-	.string "No, man, I don't get it at all.\p"
-	.string "Look at this place.\n"
-	.string "What do you do for entertainment?\p"
-	.string "You ought to be thanking us for\n"
-	.string "livening up this sleepy village.\p"
-	.string "But hey, if you insist, you can try\n"
-	.string "making us leave.$"
+	.string "No, amico, non capisco proprio.\p"
+	.string "Guarda questo posto.\n"
+	.string "Come ti diverti?\p"
+	.string "Dovresti ringraziarci per\n"
+	.string "aver rallegrato questo paesino.\p"
+	.string "Ma ehi, se insisti, puoi provare\n"
+	.string "a farci andare via.$"
 
 ThreeIsland_Text_YouCowardsToughInPack::
 	.string "Grr… Codardi…\n"
 	.string "Forti in branco, eh…$"
 
 ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
-	.string "You, what are you staring at?\n"
-	.string "Don't you know it's not polite?\p"
-	.string "You wanna make something of it\n"
-	.string "or what?$"
+	.string "Ehi, cosa fissi?\n"
+	.string "Non sai che è maleducato?\p"
+	.string "Vuoi farne una questione\n"
+	.string "o no?$"
 
 ThreeIsland_Text_ThatsSmart::
 	.string "Saggio.\n"
@@ -474,9 +474,9 @@ ThreeIsland_Text_Biker2Defeat::
 	.string "Smettila di scherzare!$"
 
 ThreeIsland_Text_Biker2PostBattle::
-	.string "What's the matter with you,\n"
-	.string "getting all hot like that?\p"
-	.string "Totally uncool, man!$"
+	.string "Che ti prende,\n"
+	.string "ti scaldi così tanto?\p"
+	.string "Che sfigato, amico!$"
 
 ThreeIsland_Text_Biker3Intro::
 	.string "Abbiamo invitato il capo qui,\n"
@@ -509,10 +509,10 @@ ThreeIsland_Text_PaxtonPostBattle::
 	.string "girare con questi bifolchi!$"
 
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
-	.string "Thank you! Those goons were\n"
-	.string "nothing but bad trouble.\p"
-	.string "Oh, look, your POKéMON got hurt\n"
-	.string "on my account.$"
+	.string "Grazie! Quei teppisti erano\n"
+	.string "solo guai.\p"
+	.string "Oh, guarda, il tuo POKéMON si è\n"
+	.string "ferito per colpa mia.$"
 
 ThreeIsland_Text_GivenFullRestore::
 	.string "{PLAYER} riceve\n"

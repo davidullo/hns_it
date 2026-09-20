@@ -49,10 +49,10 @@ IndigoPlateau_Text_Blackbelt:
 	.string "Torna più tardi.$"
 
 IndigoPlateau_Text_CooltrainerM:
-    .string "At the POKéMON LEAGUE, you'll get\n"
-    .string "tested by the ELITE FOUR.\p"
-    .string "You have to beat them all. If you\n"
-    .string "lose, you have to start all over!$"
+    .string "Alla LEGA POKéMON ti metterà\n"
+    .string "alla prova il SUPERQUATTRO.\p"
+    .string "Devi batterli tutti. Se perdi,\n"
+    .string "ricominci da capo!$"
 
 IndigoPlateau_EventScript_Silver::
 	lock
@@ -86,14 +86,14 @@ IndigoPlateau_Silver_Battle_Chikorita::
 	return
 
 IndigoPlateau_Text_RivalEntrance1:
-    .string "Hold it.\p"
-    .string "You're going to take the POKéMON\n"
-    .string "LEAGUE challenge now?\p"
-    .string "That's not going to happen.\p"
-    .string "My super-well-trained POKéMON\n"
-    .string "are going to pound you.\p"
+    .string "Fermo.\p"
+    .string "Affronterai la sfida della\n"
+    .string "LEGA POKéMON adesso?\p"
+    .string "Non succederà.\p"
+    .string "I miei POKéMON super allenati\n"
+    .string "ti daranno una bella lezione.\p"
     .string "{PLAYER}!\n"
-    .string "I challenge you!$"
+    .string "Ti sfido!$"
 
 IndigoPlateau_Text_RivalWin:
     .string "…\p"

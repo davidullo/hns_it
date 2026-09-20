@@ -169,19 +169,19 @@ BattleFrontier_Lounge1_Text_AverageAbility_hns:
 	.string "è di abilità nella media.$"
 
 BattleFrontier_Lounge1_Text_BetterThanAverageAbility_hns:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would describe as\n"
-	.string "having better-than-average ability.$"
+	.string "…Mmm…\p"
+	.string "Nel complesso direi che è\n"
+	.string "sopra la media.$"
 
 BattleFrontier_Lounge1_Text_ImpressiveAbility_hns:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "quite impressive in ability!$"
+	.string "…Mmm…\p"
+	.string "Nel complesso direi proprio\n"
+	.string "notevole!$"
 
 BattleFrontier_Lounge1_Text_OutstandingAbility_hns:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "wonderfully outstanding in ability!$"
+	.string "…Mmm…\p"
+	.string "Nel complesso direi che è\n"
+	.string "fuori dal comune!$"
 
 BattleFrontier_Lounge1_Text_BestAspectHP_hns:
 	.string "Peraltro, il suo punto\n"
@@ -224,10 +224,10 @@ BattleFrontier_Lounge1_Text_StatFlawless_hns:
 	.string "…Hm… Così lo chiamo io.$"
 
 BattleFrontier_Lounge1_Text_NoTimeForMyAdvice_hns:
-	.string "What?\n"
-	.string "You have no time for my advice?\p"
-	.string "You should always be eager to learn\n"
-	.string "from the experiences of your elders!$"
+	.string "Come?\n"
+	.string "Non hai tempo per i consigli?\p"
+	.string "Dovresti sempre imparare\n"
+	.string "dai più anziani!$"
 
 @ Unused
 BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending_hns:

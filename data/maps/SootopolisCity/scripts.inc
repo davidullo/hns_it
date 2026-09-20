@@ -1532,9 +1532,9 @@ SootopolisCity_Text_AwakenedPokemonClash:
 	.string "di un terzo POKéMON…$"
 
 SootopolisCity_Text_CaveOfOriginSleepsToo:
-	.string "This is the CAVE OF ORIGIN…\p"
-	.string "With the passing of the crisis,\n"
-	.string "the cave, too, shall sleep…$"
+	.string "Questa è la GROTTA ORIGINE…\p"
+	.string "Passata la crisi,\n"
+	.string "anche la grotta dormirà…$"
 
 SootopolisCity_Text_SootopolisSkyBeautiful:
 	.string "SOOTOPOLIS è nata come città nel\n"
@@ -1676,10 +1676,10 @@ SootopolisCity_Text_HaventYouScaledSkyPillar:
 
 SootopolisCity_Text_AquaMagmaDidntMeanHarm:
 	.string "WALLACE: {PLAYER}{KUN}…\p"
-	.string "The leaders of TEAM MAGMA and AQUA,\n"
-	.string "I don't think they meant harm.\p"
-	.string "It wouldn't hurt to hear what they\n"
-	.string "have to say for themselves.$"
+	.string "I capi del TEAM MAGMA e AQUA,\n"
+	.string "non credo volessero far male.\p"
+	.string "Non guasta ascoltare cosa\n"
+	.string "hanno da dire.$"
 
 SootopolisCity_Text_ThankYouForHelpAcceptThis:
 	.string "WALLACE: {PLAYER}{KUN}…\n"

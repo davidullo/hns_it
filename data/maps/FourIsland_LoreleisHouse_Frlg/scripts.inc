@@ -33,14 +33,14 @@ FourIsland_LoreleisHouse_EventScript_Doll::
 	end
 
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
-	.string "LORELEI: There's something weighing\n"
-	.string "heavily on my mind.\p"
-	.string "If anything were to happen on\n"
-	.string "the island where I was born…\p"
-	.string "I wouldn't know about it if I were\n"
-	.string "in the POKéMON LEAGUE.\p"
-	.string "I wonder if that would make me\n"
-	.string "irresponsible to my home…$"
+	.string "LORELEI: Ho un pensiero che\n"
+	.string "mi pesa molto.\p"
+	.string "Se accadesse qualcosa\n"
+	.string "sull'isola dove sono nata…\p"
+	.string "non lo saprei se fossi\n"
+	.string "alla LEGA POKéMON.\p"
+	.string "Non so se sarei\n"
+	.string "sleale verso casa mia…$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
 	.string "LORELEI: Hai risolto\n"

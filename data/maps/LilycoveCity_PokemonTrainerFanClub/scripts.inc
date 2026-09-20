@@ -737,10 +737,10 @@ LilycoveCity_PokemonTrainerFanClub_Text_YoureAmazingAfterAll:
 	.string "Il mio occhio non mi ha ingannato.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ImInYourCorner:
-	.string "Who cares about the others.\n"
-	.string "I'm in your corner!\p"
-	.string "You don't need to worry. Just get\n"
-	.string "out there and battle like always.$"
+	.string "Chi se ne importa degli altri.\n"
+	.string "Io tifo per te!\p"
+	.string "Non preoccuparti. Esci e\n"
+	.string "lotta come sempre.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ThinkTrainerIsNumberOne:
 	.string "Sei un ALLENATORE niente male,\n"
@@ -758,10 +758,10 @@ LilycoveCity_PokemonTrainerFanClub_Text_YoureMaybeStrongerThanTrainer:
 	.string "chi lo farà?$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouChangedMyMind:
-	.string "You've changed my mind!\n"
-	.string "You are strong, aren't you?\p"
-	.string "I'd like you to tell me how you managed\n"
-	.string "to get so strong!$"
+	.string "Mi hai fatto cambiare idea!\n"
+	.string "Sei forte, eh?\p"
+	.string "Vorrei che mi dicessi come hai fatto\n"
+	.string "a diventare così forte!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouBattleAttractivelyInToughSituation:
 	.string "Più la situazione è difficile, più\n"

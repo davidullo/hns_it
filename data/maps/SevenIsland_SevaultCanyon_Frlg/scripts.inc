@@ -17,10 +17,10 @@ SevenIsland_SevaultCanyon_Text_CyndyPostBattle::
 	.string "ALLENATORI può aspettare…$"
 
 SevenIsland_SevaultCanyon_Text_EvanIntro::
-	.string "It doesn't matter if you happen to\n"
-	.string "have the strongest POKéMON…\p"
-	.string "It doesn't mean a thing if you don't\n"
-	.string "know how to use them properly!$"
+	.string "Non importa se hai i POKéMON\n"
+	.string "più forti…\p"
+	.string "Non valgono nulla se non sai\n"
+	.string "usarli bene!$"
 
 SevenIsland_SevaultCanyon_Text_EvanDefeat::
 	.string "Sei un maestro in questo.$"

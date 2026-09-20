@@ -39,10 +39,10 @@ ShoalCave_LowTideEntranceRoom_Text_WantedToMakeShellBell:
 	.string "Volevo preparare un GUSCIOSONAGLIO…$"
 
 ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag:
-	.string "You don't have space in your BAG\n"
-	.string "if I were to make it for you.\p"
-	.string "You should make room and come back\n"
-	.string "for a SHELL BELL.$"
+	.string "Non hai spazio nello ZAINO\n"
+	.string "se te lo preparassi.\p"
+	.string "Fai spazio e torna\n"
+	.string "per un GUSCIOSONAGLIO.$"
 
 ShoalCave_Text_WasShoalSaltNowNothing:
 	.string "Qui c'era del SALE SHOAL.\n"

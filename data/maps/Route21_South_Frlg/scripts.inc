@@ -81,9 +81,9 @@ Route21_North_Text_IanDefeat::
 	.string "Datti una mossa!$"
 
 Route21_North_Text_IanPostBattle::
-	.string "IAN: Come on, Sis!\p"
-	.string "You're not going to lose weight\n"
-	.string "like this!$"
+	.string "IAN: Dai, sorella!\p"
+	.string "Così non perdi\n"
+	.string "peso!$"
 
 Route21_North_Text_IanNotEnoughMons::
 	.string "IAN: Vogliamo una lotta 2 contro 2.\n"

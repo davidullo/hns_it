@@ -45,9 +45,9 @@ Route8_Text_BikerDwayneAfter:
 	.string "non cadrà mai!$"
 
 Route8_Text_BikerHarrisSeen:
-	.string "The cops shut down our\n"
-	.string "UNDERGROUND PATH!\p"
-	.string "That really fries me!$"
+	.string "La polizia ci ha chiuso\n"
+	.string "il PASSAGGIO SOTTERRANEO!\p"
+	.string "Mi fa infuriare!$"
 
 Route8_Text_BikerHarrisBeaten:
 	.string "P-perdonami!$"

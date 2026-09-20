@@ -74,8 +74,8 @@ SilphCo_5F_Text_Grunt1Defeat::
 	.string "Boom!$"
 
 SilphCo_5F_Text_Grunt1PostBattle::
-	.string "It's not smart to pick a fight with\n"
-	.string "TEAM ROCKET!$"
+	.string "Non è furbo sfidare\n"
+	.string "il TEAM ROCKET!$"
 
 SilphCo_5F_Text_BeauIntro::
 	.string "Su questo piano studiamo la\n"

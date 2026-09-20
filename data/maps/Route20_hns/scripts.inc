@@ -100,13 +100,13 @@ Route20_Text_Dennis:
 	.string "DENNIS: SHAAAAAAAA!$"
 
 Route20_Text_Headlocker:
-	.string "There's a rare POKéMON on this\n"
-	.string "route.\p"
-	.string "And sometimes it carries a rare\n"
-	.string "evolution item.\p"
-	.string "That's double rare!\p"
-	.string "I need to finish my POKéDEX, so\n"
-	.string "I've been fishing here for hours!$"
+	.string "C'è un POKéMON raro su questa\n"
+	.string "rotta.\p"
+	.string "E a volte porta un raro\n"
+	.string "oggetto evolutivo.\p"
+	.string "Doppia rarità!\p"
+	.string "Devo finire il POKéDEX, quindi\n"
+	.string "pesco qui da ore!$"
 
 Route20_Text_Seel:
 	.string "SEEL: Seel seel!$"

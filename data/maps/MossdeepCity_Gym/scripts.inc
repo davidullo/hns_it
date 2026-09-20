@@ -370,18 +370,18 @@ MossdeepCity_Gym_EventScript_RedFloorSwitch::
 	end
 
 MossdeepCity_Gym_Text_GymGuideAdvice:
-	.string "Yo, how's it going, CHAMPION-bound\n"
+	.string "Ehi, come va, campione in erba\n"
 	.string "{PLAYER}?\p"
-	.string "The GYM LEADERS here use\n"
-	.string "PSYCHIC-type POKéMON.\p"
-	.string "If you go up against them with\n"
-	.string "FIGHTING- or POISON-type POKéMON,\l"
-	.string "they'll inflict horrible damage!\p"
-	.string "Plus, they'll come at you with\n"
-	.string "outstanding combination attacks.\p"
-	.string "If you want to win, you'll need to show\n"
-	.string "them how tight you are with your\l"
-	.string "POKéMON. Go for it!$"
+	.string "I CAPIPALESTRA qui usano\n"
+	.string "POKéMON di tipo PSICHICO.\p"
+	.string "Se li affronti con POKéMON di tipo\n"
+	.string "LOTTA o VELENO,\l"
+	.string "ti faranno danni tremendi!\p"
+	.string "E ti attaccano anche con\n"
+	.string "combinazioni eccezionali.\p"
+	.string "Per vincere devi mostrare loro\n"
+	.string "quanto siete affiatati tu e i tuoi\l"
+	.string "POKéMON. Vai e combatti!$"
 
 MossdeepCity_Gym_Text_GymGuidePostVictory:
 	.string "Caspita, sei incredibile!\n"

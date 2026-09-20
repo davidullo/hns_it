@@ -910,10 +910,10 @@ LittlerootTown_ProfessorBirchsLab_Text_YoullTakeTotodile:
 	.string "Allora prendi TOTODILE?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_YoullTakeChikorita:
-	.string "PROF. BIRCH: The GRASS POKéMON\n"
-	.string "CHIKORITA is your choice!\p"
-	.string "You sure know what you're doing.\p"
-	.string "So, you'll take the CHIKORITA?$"
+	.string "PROF. BIRCH: Il POKéMON ERBA\n"
+	.string "scelto è CHIKORITA!\p"
+	.string "Sai il fatto tuo.\p"
+	.string "Allora prendi CHIKORITA?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_TakeYourTimeAllInvaluable:
 	.string "PROF. BIRCH: Prenditi il tuo tempo\n"

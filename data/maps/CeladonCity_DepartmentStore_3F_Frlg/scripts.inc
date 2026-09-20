@@ -109,8 +109,8 @@ Text_CounterTeach::
 	.string "intesi?$"
 
 Text_CounterDeclined::
-	.string "You're not interested? Come see\n"
-	.string "me if you change your mind.$"
+	.string "Non ti interessa? Passa da me\n"
+	.string "se cambi idea.$"
 
 Text_CounterWhichMon::
 	.string "CONTRATTACCO: a quale\n"

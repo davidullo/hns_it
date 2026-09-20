@@ -915,9 +915,9 @@ Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1:
 	.string "sul PERCORSO 110. Qual è?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not of the\n"
-	.string "WATER type. Which one is it?$"
+	.string "QUIZ DI MECHADOLL 1.\p"
+	.string "Uno di questi POKéMON non è di tipo\n"
+	.string "ACQUA. Qual è?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3:
 	.string "QUIZ DI MECHADOLL 1.\p"

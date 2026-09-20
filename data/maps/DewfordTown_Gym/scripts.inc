@@ -409,9 +409,9 @@ DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
 	.string "MT.$"
 
 DewfordTown_Gym_Text_ExplainBulkUp:
-	.string "That TM08 contains BULK UP.\p"
-	.string "It's a move that raises both ATTACK\n"
-	.string "and DEFENSE stats.\p"
+	.string "La MT08 contiene BULK UP.\p"
+	.string "È una mossa che alza ATTACCO\n"
+	.string "e DIFESA.\p"
 	.string "… … … … … …$"
 
 DewfordTown_Gym_Text_RegisteredBrawly:

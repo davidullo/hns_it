@@ -6,7 +6,7 @@ UndergroundPath_EastEntrance_EventScript_Woman::
 	end
 
 UndergroundPath_EastEntrance_Text_DoYouGoToCeladonDeptStore::
-	.string "The DEPARTMENT STORE in CELADON\n"
-	.string "has a great selection.\p"
-	.string "Do you go there very often?$"
+	.string "Il GRANDEMAGAZZINO di AZZURROPOLI\n"
+	.string "ha un'ottima scelta.\p"
+	.string "Ci vai spesso?$"
 

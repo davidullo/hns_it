@@ -19,9 +19,9 @@ Route15_Text_KindraPostBattle::
 	.string "farlo cambiare.$"
 
 Route15_Text_BeckyIntro::
-	.string "You look gentle, so I think I can\n"
-	.string "beat you.\p"
-	.string "I'll give it a go!$"
+	.string "Sembri gentile, credo di\n"
+	.string "poterti battere.\p"
+	.string "Ci provo!$"
 
 Route15_Text_BeckyDefeat::
 	.string "No, sbagliato!$"

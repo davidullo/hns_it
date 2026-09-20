@@ -349,12 +349,12 @@ OldaleTown_Text_IWorkAtPokemonMart:
 	.string "Puoi venire con me?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "This is a POKéMON MART.\n"
-	.string "Just look for our blue roof.\p"
-	.string "We sell a variety of goods including\n"
-	.string "POKé BALLS for catching POKéMON.\p"
-	.string "Here, I'd like you to have this as\n"
-	.string "a promotional item.$"
+	.string "Questo è un POKéMON MART.\n"
+	.string "Cerca il tetto blu.\p"
+	.string "Vendiamo di tutto, anche\n"
+	.string "POKé BALL per catturare POKéMON.\p"
+	.string "Tieni, questo è un\n"
+	.string "articolo promozionale.$"
 
 OldaleTown_Text_PotionExplanation:
 	.string "Una POZIONE si può usare sempre, quindi è\n"

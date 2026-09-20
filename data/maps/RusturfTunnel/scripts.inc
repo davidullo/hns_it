@@ -419,8 +419,8 @@ RusturfTunnel_EventScript_Mike::
 	end
 
 RusturfTunnel_Text_ComeAndGetSome:
-	.string "What, are you coming?\n"
-	.string "Come and get some, then!$"
+	.string "Beh, vieni?\n"
+	.string "Fatti avanti, allora!$"
 
 RusturfTunnel_Text_Peeko:
 	.string "PEEKO: Pii pioh!$"

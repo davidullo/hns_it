@@ -22,13 +22,13 @@ MatchCall_HNS_Joey_General2::
 	.string "figo quanto lui!$"
 
 MatchCall_HNS_Joey_General3::
-	.string "Yo, {PLAYER}!\n"
-	.string "How're you doing?\p"
-	.string "I'm checking out\n"
-	.string "{STR_VAR_3}'s moves and\l"
-	.string "devising some strategies.\p"
-	.string "When I come up with a good\n"
-	.string "one, let's battle!$"
+	.string "Ehi, {PLAYER}!\n"
+	.string "Come te la passi?\p"
+	.string "Sto studiando le mosse di\n"
+	.string "{STR_VAR_3} e\l"
+	.string "ideando strategie.\p"
+	.string "Quando ne trovo una buona,\n"
+	.string "lottiamo!$"
 
 MatchCall_HNS_Joey_Battle::
 	.string "Ehi, {PLAYER}!\p"
@@ -96,12 +96,12 @@ MatchCall_HNS_Ralph_General1::
 	.string "i tuoi compagni!$"
 
 MatchCall_HNS_Ralph_General2::
-	.string "Hey, {PLAYER}!\p"
-	.string "I've been spending more\n"
-	.string "time with my {STR_VAR_3}\l"
-	.string "than I have with my kids.\p"
-	.string "That's a bit sad,\n"
-	.string "actually.$"
+	.string "Ehi, {PLAYER}!\p"
+	.string "Passo più tempo col mio\n"
+	.string "{STR_VAR_3} che con\l"
+	.string "i miei figli.\p"
+	.string "A dire il vero, è un\n"
+	.string "po' triste.$"
 
 MatchCall_HNS_Ralph_General3::
 	.string "Ehi, {PLAYER}!\n"
@@ -420,16 +420,16 @@ MatchCall_HNS_Chad_General1::
 	.string "professore POKéMON.$"
 
 MatchCall_HNS_Chad_General2::
-	.string "Hello, {PLAYER}!\n"
-	.string "It's CHAD!\p"
-	.string "I recently began observing\n"
-	.string "wild {STR_VAR_3}.\p"
-	.string "I've been learning all\n"
-	.string "sorts of new things\l"
-	.string "through my observations.\p"
-	.string "I wish I could become a\n"
-	.string "POKéMON researcher like\l"
-	.string "PROF. OAK soon.$"
+	.string "Ciao, {PLAYER}!\n"
+	.string "Sono CHAD!\p"
+	.string "Ho iniziato a osservare\n"
+	.string "i {STR_VAR_3} selvatici.\p"
+	.string "Sto imparando tante\n"
+	.string "cose nuove\l"
+	.string "con le osservazioni.\p"
+	.string "Vorrei diventare un\n"
+	.string "ricercatore POKéMON come\l"
+	.string "il PROF. OAK presto.$"
 
 MatchCall_HNS_Chad_General3::
 	.string "Ciao, {PLAYER}!\n"
@@ -588,12 +588,12 @@ MatchCall_HNS_Tiffany_General1::
 	.string "ogni giorno.$"
 
 MatchCall_HNS_Tiffany_General2::
-	.string "Hi, {PLAYER}!\n"
-	.string "It's TIFFANY!\p"
-	.string "My {STR_VAR_3}'s adorable,\n"
-	.string "don't you think so?\p"
-	.string "I always sleep with it--\n"
-	.string "it's so fluffy and warm!$"
+	.string "Ciao, {PLAYER}!\n"
+	.string "Sono TIFFANY!\p"
+	.string "Il mio {STR_VAR_3} è adorabile,\n"
+	.string "non trovi?\p"
+	.string "Dormo sempre con lui…\n"
+	.string "è morbidone e caldo!$"
 
 MatchCall_HNS_Tiffany_General3::
 	.string "Ciao, {PLAYER}!\n"
@@ -917,15 +917,15 @@ MatchCall_HNS_Gaven_Battle::
 
 @ Beth - Cooltrainer F, Route 26
 MatchCall_HNS_Beth_General1::
-	.string "Hi, {PLAYER}!\n"
-	.string "It's BETH!\p"
-	.string "Are you the kind of person\n"
-	.string "who goes to POKéMON\l"
-	.string "CENTERS often?\p"
-	.string "I go every day. Watching\n"
-	.string "out for the health of your\l"
-	.string "POKéMON is a basic part of\l"
-	.string "being a POKéMON trainer.$"
+	.string "Ciao, {PLAYER}!\n"
+	.string "Sono BETH!\p"
+	.string "Vai spesso ai\n"
+	.string "CENTRI POKéMON?\l"
+	.string "Io ci vado ogni giorno.\p"
+	.string "Badare alla salute dei\n"
+	.string "POKéMON è la base per\l"
+	.string "un allenatore di\l"
+	.string "POKéMON.$"
 
 MatchCall_HNS_Beth_General2::
 	.string "Ciao, {PLAYER}!\n"
@@ -1277,11 +1277,11 @@ MatchCall_HNS_Joel_Battle::
 
 @ Charles - Biker, Route 17
 MatchCall_HNS_Charles_General1::
-	.string "Hey, {PLAYER}!\n"
-	.string "CHARLES here.\p"
-	.string "I was something of a\n"
-	.string "heartbreaker in UNOVA.\p"
-	.string "Now I'm a highway star!$"
+	.string "Ehi, {PLAYER}!\n"
+	.string "Sono CHARLES.\p"
+	.string "Ero un rubacuori\n"
+	.string "a UNIMA.\p"
+	.string "Ora sono una stella della pista!$"
 
 MatchCall_HNS_Charles_General2::
 	.string "Ehi, {PLAYER}!\p"

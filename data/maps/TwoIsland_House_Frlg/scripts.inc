@@ -153,8 +153,8 @@ TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
 	.string "due MINIFUNGHI.$"
 
 TwoIsland_House_Text_HandedOverOneBigMushroom::
-	.string "{PLAYER} handed over one\n"
-	.string "BIG MUSHROOM in exchange.$"
+	.string "{PLAYER} ha dato in cambio\n"
+	.string "un FUNGO MAX.$"
 
 TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::
 	.string "Se i tuoi POKéMON devono imparare\n"

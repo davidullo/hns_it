@@ -20,9 +20,9 @@ SSTidalLowerDeck_Text_PhillipDefeat:
 	.string "Fratellino, ho perso!$"
 
 SSTidalLowerDeck_Text_PhillipPostBattle:
-	.string "We're the CLEANUP BROTHERS!\p"
-	.string "The old one dumps the detergent,\n"
-	.string "and the young one does the scrubbing!$"
+	.string "Siamo i FRATELLI PULIZIE!\p"
+	.string "Il vecchio versa il detersivo,\n"
+	.string "il giovane strofina!$"
 
 SSTidalLowerDeck_Text_LeonardIntro:
 	.string "Questa è la stiva della nave.\n"
@@ -33,7 +33,7 @@ SSTidalLowerDeck_Text_LeonardDefeat:
 	.string "Fratellone, ho perso!$"
 
 SSTidalLowerDeck_Text_LeonardPostBattle:
-	.string "We're the CLEANUP BROTHERS!\p"
-	.string "The old one dumps the detergent,\n"
-	.string "and the young one does the scrubbing!$"
+	.string "Siamo i FRATELLI PULIZIE!\p"
+	.string "Il vecchio versa il detersivo,\n"
+	.string "il giovane strofina!$"
 

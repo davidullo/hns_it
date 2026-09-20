@@ -16,9 +16,9 @@ gFameCheckerFlavorText_ProfOak2:: @ 0x81AD1BB
 	.string "grande considerazione.$"
 
 gFameCheckerFlavorText_ProfOak3:: @ 0x81AD258
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK reportedly lives with his\n"
-	.string "grandchildren, DAISY and {RIVAL}.$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Famiglia e amici?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Il PROF. OAK vive coi nipoti,\n"
+	.string "DAISY e {RIVAL}.$"
 
 gFameCheckerFlavorText_ProfOak4:: @ 0x81AD2B9
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Famiglia e amici?\p"
@@ -56,9 +56,9 @@ gFameCheckerFlavorText_Daisy2:: @ 0x81AD516
 	.string "Mi pare fosse DAISY.$"
 
 gFameCheckerFlavorText_Daisy3:: @ 0x81AD5A7
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK reportedly lives with his\n"
-	.string "grandchildren, DAISY and {RIVAL}.$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Famiglia e amici?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Il PROF. OAK vive coi nipoti,\n"
+	.string "DAISY e {RIVAL}.$"
 
 gFameCheckerFlavorText_Daisy4:: @ 0x81AD608
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Che tipo è?\p"

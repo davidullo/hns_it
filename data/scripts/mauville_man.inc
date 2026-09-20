@@ -390,12 +390,12 @@ MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtAction::
 	.string "POKéMON pescati con la LENZA$"
 
 MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER caught\n"
-	.string "{STR_VAR_1} POKéMON while fishing!\p"
-	.string "{STR_VAR_3} is a legendary fishing\n"
-	.string "expert!$"
+	.string "Questa è la storia di un ALLENATORE\n"
+	.string "di nome {STR_VAR_3}.\p"
+	.string "Questo ALLENATORE ha pescato\n"
+	.string "{STR_VAR_1} POKéMON!\p"
+	.string "{STR_VAR_3} è un esperto\n"
+	.string "di pesca leggendario!$"
 
 MauvilleCity_PokemonCenter_1F_Text_EggsHatchedTitle::
 	.string "L'ALLENATORE covauova$"
@@ -440,7 +440,7 @@ MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterStory::
 	.string "più di {STR_VAR_3}!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeTitle::
-	.string "The Homebody TRAINER$"
+	.string "L'ALLENATORE pigrone$"
 
 MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeAction::
 	.string "POKéMON curati a casa$"
@@ -474,12 +474,12 @@ MauvilleCity_PokemonCenter_1F_Text_UsedCutAction::
 	.string "Ha usato TAGLIO$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER used CUT\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER who just must\n"
-	.string "love to CUT!$"
+	.string "Questa è la storia di un ALLENATORE\n"
+	.string "di nome {STR_VAR_3}.\p"
+	.string "Ha usato TAGLIO\n"
+	.string "{STR_VAR_1} volte!\p"
+	.string "{STR_VAR_3} adora\n"
+	.string "usare TAGLIO!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashTitle::
 	.string "L'ALLENATORE SPACCAROCCE$"
@@ -614,12 +614,12 @@ MauvilleCity_PokemonCenter_1F_Text_WonContestsAction::
 	.string "Ha vinto GARE$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonContestsStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER won CONTESTS\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be an incredible\n"
-	.string "CONTEST master!$"
+	.string "Questa è la storia di un ALLENATORE\n"
+	.string "di nome {STR_VAR_3}.\p"
+	.string "Ha vinto GARE\n"
+	.string "{STR_VAR_1} volte!\p"
+	.string "{STR_VAR_3} dev'essere un\n"
+	.string "maestro delle GARE!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesShoppedTitle::
 	.string "Lo SHOPPER felice$"

@@ -67,8 +67,8 @@ AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons:
 
 AbandonedShip_Rooms2_1F_Text_KiraIntro:
 	.string "KIRA: Oh?\n"
-	.string "We were searching for treasures.\l"
-	.string "But we discovered a TRAINER instead!$"
+	.string "Cercavamo tesori.\l"
+	.string "Ma trovato un ALLENATORE!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraDefeat:
 	.string "KIRA: Oh, ma che forte!$"

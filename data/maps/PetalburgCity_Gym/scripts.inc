@@ -1139,17 +1139,17 @@ PetalburgCity_Gym_EventScript_GymStatue::
 	end
 
 PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon:
-	.string "DAD: Hm?\p"
-	.string "Well, if it isn't {PLAYER}!\n"
-	.string "So you're all finished moving in?\p"
-	.string "I'm surprised that you managed to\n"
-	.string "get here by yourself.\p"
-	.string "Oh, I see.\n"
-	.string "You're with your POKéMON.\p"
-	.string "Hm… Then I guess you're going to\n"
-	.string "become a TRAINER like me, {PLAYER}.\p"
-	.string "That's great news!\n"
-	.string "I'll be looking forward to it!$"
+	.string "PAPÀ: Hm?\p"
+	.string "Ma guarda, {PLAYER}!\n"
+	.string "Hai finito il trasloco?\p"
+	.string "Mi sorprende che tu sia\n"
+	.string "arrivato fin qui da solo.\p"
+	.string "Ah, capisco.\n"
+	.string "Sei con i tuoi POKéMON.\p"
+	.string "Hm… Allora diventerai\n"
+	.string "un ALLENATORE come me, {PLAYER}.\p"
+	.string "Che bella notizia!\n"
+	.string "Non vedo l'ora!$"
 
 PetalburgCity_Gym_Text_WallyIdLikeAPokemon:
 	.string "Ehm… Io…\n"
@@ -1302,9 +1302,9 @@ PetalburgCity_Gym_Text_DadHappyAndSad:
 	.string "felice che un po' triste. Che strano…$"
 
 PetalburgCity_Gym_Text_PleaseComeWithMe:
-	.string "Ah, there you are, {PLAYER}{KUN}!\p"
-	.string "Please come with me.\n"
-	.string "I have something I want you to have.$"
+	.string "Ah, eccoti, {PLAYER}{KUN}!\p"
+	.string "Vieni con me.\n"
+	.string "Ho una cosa per te.$"
 
 PetalburgCity_Gym_Text_LetMeBorrowPlayer:
 	.string "NORMAN, non ti dispiace, vero?\p"
@@ -1507,8 +1507,8 @@ PetalburgCity_Gym_Text_DoorAppearsLocked:
 	.string "per ora…$"
 
 PetalburgCity_Gym_Text_EnterSpeedRoom:
-	.string "“SPEED ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“SALA VELOCITÀ”, dice il cartello.\p"
+	.string "Vuoi passare?$"
 
 @ Unused
 PetalburgCity_Gym_Text_DoorAppearsLocked2:
@@ -1516,34 +1516,34 @@ PetalburgCity_Gym_Text_DoorAppearsLocked2:
 	.string "per ora…$"
 
 PetalburgCity_Gym_Text_EnterAccuracyRoom:
-	.string "“ACCURACY ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“SALA PRECISIONE”, dice il cartello.\p"
+	.string "Vuoi entrare?$"
 
 PetalburgCity_Gym_Text_EnterConfusionRoom:
-	.string "“CONFUSION ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“SALA CONFUSIONE”, dice il cartello.\p"
+	.string "Vuoi entrare?$"
 
 PetalburgCity_Gym_Text_EnterDefenseRoom:
-	.string "“DEFENSE ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“SALA DIFESA”, dice il cartello.\p"
+	.string "Vuoi entrare?$"
 
 PetalburgCity_Gym_Text_EnterRecoveryRoom:
-	.string "“RECOVERY ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“SALA RECUPERO”, dice il cartello.\p"
+	.string "Vuoi passare?$"
 
 PetalburgCity_Gym_Text_EnterStrengthRoom:
-	.string "“STRENGTH ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“SALA FORZA”, dice il cartello.\p"
+	.string "Vuoi passare?$"
 
 PetalburgCity_Gym_Text_EnterOHKORoom:
-	.string "“ONE-HIT KO ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“SALA KO IN UN COLPO”, dice il cartello.\p"
+	.string "Vuoi passare?$"
 
 PetalburgCity_Gym_Text_EnterGymLeadersRoom:
-	.string "“GYM LEADER'S ROOM\p"
-	.string "“See for yourself what POKéMON await\n"
-	.string "you!” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“SALA DEL CAPO PALESTRA\p"
+	.string "“Scopri da te quali POKéMON\n"
+	.string "ti attendono!” dice il cartello.\p"
+	.string "Vuoi entrare?$"
 
 PetalburgCity_Gym_Text_GymStatue:
 	.string "PALESTRA POKéMON DI PETALBURG$"

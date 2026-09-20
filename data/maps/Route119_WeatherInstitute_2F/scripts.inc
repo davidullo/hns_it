@@ -285,8 +285,8 @@ Route119_WeatherInstitute_2F_Text_ThanksPleaseTakePokemon:
 
 @ Unused
 Route119_WeatherInstitute_2F_Text_NoRoomForPokemon:
-	.string "Hm? You don't seem to have any room\n"
-	.string "for this POKéMON.$"
+	.string "Hm? Non hai spazio\n"
+	.string "per questo POKéMON.$"
 
 Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform:
 	.string "{PLAYER} riceve CASTFORM!$"

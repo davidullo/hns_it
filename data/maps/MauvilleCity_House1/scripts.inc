@@ -20,23 +20,23 @@ MauvilleCity_House1_EventScript_ReceivedRockSmash::
 
 MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
 	.string "Woohoo!\p"
-	.string "I hear people call me the ROCK SMASH\n"
-	.string "GUY, but I find that sort of degrading.\p"
-	.string "I think I deserve a bit more respect,\n"
-	.string "like maybe the ROCK SMASH DUDE.\p"
+	.string "Mi chiamano TIPO SPACCAROCCIA,\n"
+	.string "ma lo trovo un po' sminuente.\p"
+	.string "Merito più rispetto,\n"
+	.string "chessò, il TIZIO SPACCAROCCIA.\p"
 	.string "Woohoo!\p"
-	.string "Anyways, your POKéMON look pretty\n"
-	.string "strong.\p"
-	.string "I like that!\n"
-	.string "Here, take this HIDDEN MACHINE!$"
+	.string "Comunque, i tuoi POKéMON sembrano\n"
+	.string "forti.\p"
+	.string "Mi piace!\n"
+	.string "Tieni, prendi questa MACCHINA NASCOSTA!$"
 
 MauvilleCity_House1_Text_ExplainRockSmash:
-	.string "That HM contains ROCK SMASH.\p"
-	.string "If you come across large boulders\n"
-	.string "that block your path…\p"
-	.string "Well, use that HM move and smash\n"
-	.string "them right out of your way!\p"
-	.string "Yes, sir! Smash rocks aside, I say!\n"
+	.string "Quella MN contiene SPACCAROCCIA.\p"
+	.string "Se trovi massi enormi\n"
+	.string "che ti bloccano la strada…\p"
+	.string "Beh, usa quella mossa MN e\n"
+	.string "spaccali via!\p"
+	.string "Sì, signore! Spacca i sassi!\n"
 	.string "Woohoo!$"
 
 MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock:

@@ -31,9 +31,9 @@ CeladonMansionRoofHouse_Text_PharmacistIntro:
 	.string "Ti racconto una storia terrificante…$"
 
 CeladonMansionRoofHouse_Text_PharmacistNotNight:
-	.string "Then again, it's not as scary\n"
-	.string "while it's still light outside.\p"
-	.string "Come back after sunset, OK?$"
+	.string "Però di giorno, finché c'è\n"
+	.string "luce, non fa tanta paura.\p"
+	.string "Torna dopo il tramonto, OK?$"
 
 CeladonMansionRoofHouse_Text_PharmacistStory:
 	.string "C'era una volta un\n"

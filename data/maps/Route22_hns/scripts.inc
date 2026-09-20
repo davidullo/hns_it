@@ -325,16 +325,16 @@ Route22_Text_Giovanni3:
 	.string "capirai.$"
 
 Route22_Text_Silver4:
-	.string "{RIVAL}: I don't want to\n"
-	.string "understand you!\p"
-	.string "I will never become someone like\n"
-	.string "you.\p"
-	.string "A coward when you're alone and\n"
-	.string "acting like a tyrant when you're\l"
-	.string "in front of other cowards!\p"
-	.string "I will become strong!\p"
-	.string "I will become a stronger man all\n"
-	.string "by myself!$"
+	.string "{RIVAL}: Non voglio\n"
+	.string "capirti!\p"
+	.string "Non sarò mai uno come\n"
+	.string "te.\p"
+	.string "Codardo quando sei solo e\n"
+	.string "tiranno davanti agli altri\l"
+	.string "codardi!\p"
+	.string "Diventerò forte!\p"
+	.string "Sarò un uomo più forte\n"
+	.string "tutto da solo!$"
 
 Route22_Text_Silver5:
 	.string "TUTTO DA SOLO!$"

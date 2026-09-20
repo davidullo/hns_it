@@ -109,9 +109,9 @@ LilycoveCity_House3_Text_LearnFromMasterOfPokeblocks:
 	.string "maestro di {POKEBLOCK}?$"
 
 LilycoveCity_House3_Text_OhAreYouSure:
-	.string "Oh? Are you sure?\p"
-	.string "You shouldn't always try to do\n"
-	.string "everything by yourself, dear!$"
+	.string "Oh? Sicuro?\p"
+	.string "Non devi fare sempre\n"
+	.string "tutto da solo, caro!$"
 
 LilycoveCity_House3_Text_ExplainPokeblocks:
 	.string "Oh, bene! Sei una persona sveglia!\n"

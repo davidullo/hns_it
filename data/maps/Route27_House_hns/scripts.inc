@@ -44,12 +44,12 @@ Route27_Movement_FollowerJump:
 	step_end
 
 SandstormHouse_Text_Woman1:
-    .string "Where are you off to with\n"
-    .string "POKéMON?\p"
-    .string "POKéMON LEAGUE?\p"
-    .string "Are your POKéMON loyal enough for\n"
-    .string "you to win?\p"
-    .string "Let me see…$"
+    .string "Dove vai con\n"
+    .string "i POKéMON?\p"
+    .string "Alla LEGA POKéMON?\p"
+    .string "I tuoi POKéMON sono abbastanza\n"
+    .string "fedeli per vincere?\p"
+    .string "Fammi vedere…$"
 
 SandstormHouse_Text_LoyalMon:
     .string "Ah! Il tuo POKéMON si fida molto\n"

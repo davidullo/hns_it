@@ -29,13 +29,13 @@ BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
 	.string "dalle BACCHE?$"
 
 BerryBlender_Text_BlendMasterExplainBerryBlending:
-	.string "Hmmm!\p"
-	.string "Ah, but it is a simple process!\p"
-	.string "When the BLENDER's arrow comes to\n"
-	.string "your marker, just press the A Button.\p"
-	.string "That's all you have to do.\p"
-	.string "When you see how precisely I press\n"
-	.string "the A Button, you will understand.$"
+	.string "Mmmh!\p"
+	.string "Ah, ma è una cosa semplice!\p"
+	.string "Quando la freccia del MIXER arriva\n"
+	.string "sul tuo segno, premi il tasto A.\p"
+	.string "Tutto qui.\p"
+	.string "Quando vedrai con quanta precisione\n"
+	.string "premo il tasto A, capirai.$"
 
 BerryBlender_Text_BlendMasterLetsBerryBlender:
 	.string "Bene!\p"

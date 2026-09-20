@@ -136,8 +136,8 @@ AquaHideout_B2F_Text_Grunt6Intro:
 	.string "colpirlo! È il nostro piano!$"
 
 AquaHideout_B2F_Text_Grunt6Defeat:
-	.string "What's wrong with you?\n"
-	.string "You're not tired at all!$"
+	.string "Ma che hai?\n"
+	.string "Non sei stanco per niente!$"
 
 AquaHideout_B2F_Text_Grunt6PostBattle:
 	.string "A proposito… non ricordo dove\n"

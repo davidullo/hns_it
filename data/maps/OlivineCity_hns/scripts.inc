@@ -33,18 +33,18 @@ OlivineCity_Text_BaobaName:
 
 OlivineCity_Text_Baoba:
 	.string "{PLAYER}!\p"
-	.string "This is WARDEN BAOBA.\p"
-	.string "Sorry to have kept you waiting.\n"
-	.string "We've finally opened the\l"
-	.string "SAFARI ZONE!\p"
-	.string "Do you know where it is?\p"
-	.string "You know the GATE inside the cavern\n"
-	.string "in CIANWOOD CITY?\p"
-	.string "If you go through there and walk for\n"
-	.string "a short while, you should soon see\l"
-	.string "the SAFARI ZONE!\p"
-	.string "We're a little out of the way, but\n"
-	.string "please come visit!$"
+	.string "Sono il GUARDIANO BAOBA.\p"
+	.string "Scusa l'attesa.\n"
+	.string "Abbiamo aperto\l"
+	.string "la ZONA SAFARI!\p"
+	.string "Sai dov'è?\p"
+	.string "Conosci il CANCELLO nella caverna\n"
+	.string "di CIANWOOD?\p"
+	.string "Se lo attraversi e cammini\n"
+	.string "un po', vedrai subito\l"
+	.string "la ZONA SAFARI!\p"
+	.string "È fuori mano, ma\n"
+	.string "vieni a trovarci!$"
 
 OlivineCity_EventScript_CityTrigger:: @FLAGHEAP
 	setflag FLAG_HIDE_OLIVINE_CITY_GYM_JASMINE
@@ -301,16 +301,16 @@ OlivineCity_Text_YoungsterPokedex:
 	.string "Che cosa fantastica.$"
 
 OlivineCity_Text_Sailor2:
-	.string "The league has JASMINE\n"
-	.string "pegged as the sixth\l"
-	.string "strongest GYM LEADER!\p"
-	.string "Hah! That's a load of crud.\p"
-	.string "There's no way PRYCE could\n"
-	.string "hurt JASMINE's STEEL-type\l"
-	.string "POKéMON!\p"
-	.string "Bureaucracy if you ask me.\p"
-	.string "She's something to be feared,\n"
-	.string "that's for sure!$"
+	.string "La lega dice JASMINE\n"
+	.string "la sesta\l"
+	.string "CAPOPALESTRA più forte!\p"
+	.string "Ah! Che sciocchezza.\p"
+	.string "PRYCE non potrebbe mai\n"
+	.string "ferire i POKéMON di tipo\l"
+	.string "ACCIAIO di JASMINE!\p"
+	.string "Burocrazia, dico io.\p"
+	.string "È una da temere,\n"
+	.string "certo!$"
 
 OlivineCity_Text_Sign:
 	.string "OLIVINE\p"

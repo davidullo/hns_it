@@ -750,16 +750,16 @@ SaffronCity_FightingDojoVIP_Text_Whitney_RematchDefeat:
 	.string "…Singhiozzo… …Che cattivo!$"
 
 SaffronCity_FightingDojoVIP_Text_Morty_Rematch:
-	.string "Ah, the JOHTO CHAMPION! Good of\n"
-	.string "you to come.\p"
-	.string "You've shown your strength and\n"
-	.string "skill, but have you improved\l"
-	.string "since our last battle?\p"
-	.string "I've been training with my\n"
-	.string "GHOST-type POKéMON.\p"
-	.string "Let's see if you can overcome\n"
-	.string "the shadows once again.\p"
-	.string "Want to have a rematch with me?$"
+	.string "Ah, il CAMPIONE di JOHTO!\n"
+	.string "Bene che sia venuto.\p"
+	.string "Hai mostrato forza e\n"
+	.string "abilità, ma sei migliorato\l"
+	.string "dall'ultima battaglia?\p"
+	.string "Mi sono allenato con POKéMON\n"
+	.string "di tipo SPETTRO.\p"
+	.string "Vediamo se superi ancora\n"
+	.string "le ombre.\p"
+	.string "Vuoi la rivincita?$"
 
 SaffronCity_FightingDojoVIP_Text_Morty_RematchDefeat:
 	.string "Non sono ancora abbastanza forte…\p"

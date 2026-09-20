@@ -68,12 +68,12 @@ MtPyre_3F_Text_GabrielleDefeat:
 	.string "Sei un TRAINER davvero speciale.$"
 
 MtPyre_3F_Text_GabriellePostBattle:
-	.string "POKéMON no longer of this world.\n"
-	.string "POKéMON that are with you now.\p"
-	.string "And the POKéMON that you will meet\n"
-	.string "in the future…\p"
-	.string "They are all to be equally cherished.\n"
-	.string "Please remember that.$"
+	.string "POKéMON non più di questo mondo.\n"
+	.string "POKéMON che sono con te ora.\p"
+	.string "E i POKéMON che incontrerai\n"
+	.string "in futuro…\p"
+	.string "Vanno tutti amati allo stesso modo.\n"
+	.string "Ricordalo.$"
 
 MtPyre_3F_Text_GabrielleRegister:
 	.string "Vorrei vedere i tuoi POKéMON\n"

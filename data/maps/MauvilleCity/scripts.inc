@@ -561,17 +561,17 @@ MauvilleCity_Text_RegisteredWally:
 	.string "nel POKéNAV.$"
 
 MauvilleCity_Text_ScottYouDidntHoldBack:
-	.string "SCOTT: Hehe…\n"
-	.string "I was watching that match!\p"
-	.string "You're friends with that boy WALLY,\n"
-	.string "aren't you?\p"
-	.string "But you didn't hold anything back\n"
-	.string "and beat him impressively.\p"
-	.string "Yeah! That's what a real POKéMON\n"
-	.string "battle is all about!\p"
-	.string "I idolize TRAINERS like that!\p"
+	.string "SCOTT: Eh eh…\n"
+	.string "Stavo guardando quella lotta!\p"
+	.string "Sei amico di quel ragazzo, WALLY,\n"
+	.string "vero?\p"
+	.string "Ma non ti sei trattenuto\n"
+	.string "e l'hai battuto alla grande.\p"
+	.string "Sì! Una vera lotta POKéMON\n"
+	.string "è così!\p"
+	.string "Adoro gli ALLENATORI così!\p"
 	.string "… … … … … …\n"
-	.string "I'll be cheering for you!$"
+	.string "Tiferò per te!$"
 
 MauvilleCity_Text_WattsonNeedFavorTakeKey:
 	.string "WATTSON: Oh, {PLAYER}{KUN}!\n"
@@ -610,16 +610,16 @@ MauvilleCity_Text_WattsonYoungTakeCharge:
 	.string "i giovani che si danno da fare!$"
 
 MauvilleCity_Text_NurseHurtMonBackToHealth:
-	.string "You know, it's cool to have POKéMON\n"
-	.string "battles and stuff…\p"
-	.string "But if your POKéMON gets hurt,\n"
-	.string "you have to nurse it back to health.$"
+	.string "Sai, è forte fare lotte coi\n"
+	.string "POKéMON…\p"
+	.string "Ma se un POKéMON si fa male,\n"
+	.string "devi curarlo per guarirlo.$"
 
 MauvilleCity_Text_AllSortsOfPeopleComeThrough:
-	.string "The roads of this town stretch north\n"
-	.string "and south, and east and west.\p"
-	.string "Because of that, we get all sorts of\n"
-	.string "people coming through.$"
+	.string "Le strade di questa città vanno\n"
+	.string "a nord e a sud, a est e a ovest.\p"
+	.string "Perciò passano tutti i tipi\n"
+	.string "di gente.$"
 
 MauvilleCity_Text_RydelVeryGenerous:
 	.string "Sei già stato da CICLI RYDEL?\p"

@@ -194,12 +194,12 @@ SlateportCity_ContestHall_Text_ExplainTorment:
 
 @ Unused
 SlateportCity_ContestHall_Text_MCStepUpTakePartInContest:
-	.string "MC: Oh, my, my!\n"
-	.string "Now isn't that a dandy of a POKéMON?\p"
-	.string "Please! Do step right up and take\n"
-	.string "part in our splendid CONTESTS!\p"
-	.string "You'll do well! I'm sure of it!\n"
-	.string "My eyes have never failed me!$"
+	.string "PRESENTATORE: Oh, ciao!\n"
+	.string "Che bel POKéMON!\p"
+	.string "Prego! Fatti avanti e prendi\n"
+	.string "parte alle nostre splendide GARE!\p"
+	.string "Farai bene! Ne sono certo!\n"
+	.string "I miei occhi non sbagliano mai!$"
 
 @ Unused
 SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:

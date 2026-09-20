@@ -791,16 +791,16 @@ AzaleaTown_Gym_Text_TwinsAmyMay2After:
 	.string "via ai POKéMON ROCCIA!$"
 
 AzaleaTown_Gym_Text_GymGuide:
-	.string "Yo, challenger!\p"
-	.string "BUGSY's young, but his knowledge\n"
-	.string "of bug POKéMON is for real.\p"
-	.string "It's going to be tough\n"
-	.string "without my advice.\p"
-	.string "Let's see… BUGSY's bagworm POKéMON\n"
-	.string "knows a move that covers its\l"
-	.string "ROCK-type weakness.\p"
-	.string "Oh, and don't forget about those\n"
-	.string "nasty critical hits! Good luck!$"
+	.string "Ehi, sfidante!\p"
+	.string "BUGSY è giovane, ma sui\n"
+	.string "POKéMON coleottero è forte.\p"
+	.string "Sarà dura\n"
+	.string "senza i miei consigli.\p"
+	.string "Vediamo… il POKéMON di BUGSY\n"
+	.string "conosce una mossa che copre\l"
+	.string "la debolezza ROCCIA.\p"
+	.string "E attento ai brutti\n"
+	.string "colpi critici! In bocca al lupo!$"
 
 AzaleaTown_Gym_Text_GymGuideWin:
 	.string "Bravo! Che bella\n"

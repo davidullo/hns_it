@@ -953,9 +953,9 @@ MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
 	.string "metterli dentro.$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥500 for 50 COINS.\n"
-	.string "Would you like some?$"
+	.string "Cercavi dei GETTONI?\p"
+	.string "Sono ¥500 per 50 GETTONI.\n"
+	.string "Ne vuoi?$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
 	.string "Grazie mille!\n"
@@ -1011,8 +1011,8 @@ MauvilleCity_GameCorner_Text_NotEnoughCoins:
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
-	.string "There isn't any room available for\n"
-	.string "placing {STR_VAR_1}.$"
+	.string "Non c'è spazio per\n"
+	.string "mettere {STR_VAR_1}.$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
 	.string "Oh, davvero? \n"
@@ -1030,9 +1030,9 @@ MauvilleCity_GameCorner_Text_CantCarryAnyMore:
 	.string "Oh, non puoi portarne altri.$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
-	.string "I made a mistake and got two of\n"
-	.string "the same DOLLS.\p"
-	.string "Would you like one of them?$"
+	.string "Ho sbagliato e ho preso due\n"
+	.string "PELUCHE uguali.\p"
+	.string "Ne vuoi una?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
 	.string "Ecco a te!$"

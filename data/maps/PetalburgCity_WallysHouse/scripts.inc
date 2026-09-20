@@ -106,16 +106,16 @@ PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces:
 	.string "andare in tantissimi posti.$"
 
 PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon:
-	.string "WALLY's coming home soon.\n"
-	.string "I'm looking forward to that.$"
+	.string "WALLY tornerà presto a casa.\n"
+	.string "Non vedo l'ora.$"
 
 PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity:
-	.string "Oh? You met WALLY in\n"
+	.string "Oh? Hai visto WALLY a\n"
 	.string "EVER GRANDE CITY?\p"
-	.string "Oh, {PLAYER}{KUN}, don't be silly.\p"
-	.string "He may have gotten healthy, but he\n"
-	.string "can't go somewhere far away like\l"
-	.string "that all by himself.$"
+	.string "Oh, {PLAYER}{KUN}, non dire sciocchezze.\p"
+	.string "Sarà anche guarito, ma non può\n"
+	.string "andare da solo in un posto\l"
+	.string "così lontano.$"
 
 PetalburgCity_WallysHouse_Text_WallyWasReallyHappy:
 	.string "WALLY era davvero felice quando ci ha\n"

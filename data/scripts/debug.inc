@@ -158,7 +158,7 @@ Debug_BoxFilledMessage::
 	goto Debug_MessageEnd
 
 Debug_BoxFilledMessage_Text:
-	.string "Storage boxes filled!$"
+	.string "Box pieni!$"
 
 Debug_EventScript_CheckEVs::
 	lockall

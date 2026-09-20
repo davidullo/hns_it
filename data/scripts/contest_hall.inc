@@ -1489,10 +1489,10 @@ LilycoveCity_ContestLobby_Text_ConfirmContestMon:
 	.string "È quello il POKéMON per il CONCORSO?$"
 
 LilycoveCity_ContestLobby_Text_YourMonIsEntryNum4:
-	.string "Okay, your POKéMON will be entered\n"
-	.string "in this CONTEST.\p"
-	.string "Your POKéMON is Entry No. 4.\n"
-	.string "The CONTEST will begin shortly.$"
+	.string "Okay, il tuo POKéMON parteciperà\n"
+	.string "a questa GARA.\p"
+	.string "È il numero 4.\n"
+	.string "La GARA sta per iniziare.$"
 
 LilycoveCity_ContestLobby_Text_ComeThroughHere:
 	.string "Prego, passa da qui.\n"

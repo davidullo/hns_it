@@ -158,10 +158,10 @@ FortreeCity_Gym_Text_JaredDefeat:
 	.string "Sei forte…$"
 
 FortreeCity_Gym_Text_JaredPostBattle:
-	.string "A TRAINER has to be smart to keep\n"
-	.string "up with unexpected turns of events.\p"
-	.string "Do you have the smarts to get to\n"
-	.string "our LEADER?$"
+	.string "Un ALLENATORE deve essere sveglio\n"
+	.string "davanti agli imprevisti.\p"
+	.string "Sei abbastanza sveglio per\n"
+	.string "arrivare alla CAPO?$"
 
 FortreeCity_Gym_Text_EdwardoIntro:
 	.string "Chi ama i POKéMON UCCELLO vuole\n"
@@ -215,9 +215,9 @@ FortreeCity_Gym_Text_HumbertoDefeat:
 	.string "Non ti ho fermato.$"
 
 FortreeCity_Gym_Text_HumbertoPostBattle:
-	.string "You'd better watch it!\n"
-	.string "Don't get distracted staring at WINONA\l"
-	.string "or you'll go crashing down in a heap!$"
+	.string "Occhio!\n"
+	.string "Non fissare WINONA\l"
+	.string "o cadi a terra con un tonfo!$"
 
 FortreeCity_Gym_Text_DariusIntro:
 	.string "Sappi che ci sono davvero molti\n"

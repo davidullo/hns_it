@@ -375,10 +375,10 @@ RivalsHouse_2F_Text_MayJustCheckingMyPokedex:
 	.string "catturare POKéMON ora?$"
 
 RivalsHouse_2F_Text_MayWhereShouldIGoNext:
-	.string "MAY: I wonder where I should go catch\n"
-	.string "some POKéMON next?\p"
-	.string "Wouldn't it be funny if we ran into each\n"
-	.string "other, {PLAYER}{KUN}?$"
+	.string "MAY: Dove andrò a\n"
+	.string "catturare POKéMON ora?\p"
+	.string "Sarebbe buffo se ci\n"
+	.string "incontrassimo, {PLAYER}{KUN}?$"
 
 RivalsHouse_2F_Text_BrendanJustCheckingMyPokedex:
 	.string "BRENDAN: Ehi, {PLAYER}.\p"

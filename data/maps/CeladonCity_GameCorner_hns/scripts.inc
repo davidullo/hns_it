@@ -107,8 +107,8 @@ CeladonGameCorner_Text_Fisher1:
 
 CeladonGameCorner_Text_Fisher2:
 	.string "Gahahaha!\p"
-	.string "It makes me feel good to do nice\n"
-	.string "things for other people!$"
+	.string "Mi fa star bene fare del bene\n"
+	.string "agli altri!$"
 
 CeladonGameCorner_Text_GymGuide:
 	.string "Ehi! Futuro CAMPIONE!\p"

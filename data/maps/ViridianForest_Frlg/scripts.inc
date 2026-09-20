@@ -99,8 +99,8 @@ ViridianForest_Text_SammyIntro::
 	.string "Che fretta hai? Perché corri?$"
 
 ViridianForest_Text_SammyDefeat::
-	.string "I give!\n"
-	.string "You're good at this!$"
+	.string "Mi arrendo!\n"
+	.string "Sei bravo!$"
 
 ViridianForest_Text_SammyPostBattle::
 	.string "A volte si trovano cose per\n"

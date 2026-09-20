@@ -22,11 +22,11 @@ LavenderTown_House1_EventScript_Marowak::
 	end
 
 LavenderTown_House1_Text_Girl:
-	.string "Can you believe it?\p"
-	.string "Some people get bored with taking\n"
-	.string "care of POKéMON.\p"
-	.string "GRANPDA takes in such poor homeless\n"
-	.string "POKéMON and takes care of them.$"
+	.string "Ci credi?\p"
+	.string "C'è chi si stanca di prendersi\n"
+	.string "cura dei POKéMON.\p"
+	.string "NONNO accoglie i POKéMON\n"
+	.string "senza casa e si prende cura di loro.$"
 LavenderTown_House1_Text_Guy:
 	.string "Il SIG. FUJI vive qui, ma ora\n"
 	.string "non c'è. Dovrebbe essere alla\l"

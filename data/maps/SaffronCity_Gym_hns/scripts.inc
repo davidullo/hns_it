@@ -95,10 +95,10 @@ SaffronCity_Gym_Text_Sabrina_GiveTM:
 	.string "Tieni, prendi anche questo.$"
 
 SaffronCity_Gym_Text_Sabrina_ExplainTM:
-	.string "It holds SKILL SWAP.\p"
-	.string "It can take your opponents' abilities\n"
-	.string "away from them and give them your own.\p"
-	.string "Use it wisely...$"
+	.string "Contiene SKILL SWAP.\p"
+	.string "Toglie le abilità agli avversari\n"
+	.string "e dà loro le tue.\p"
+	.string "Usala bene...$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle:
 	.string "SABRINA: Il tuo amore per i\n"

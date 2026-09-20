@@ -30,10 +30,10 @@ VermilionCity_PokemonCenter1F_Text_FishingGuru:
 	.string "prenderlo, ma come lo svegli?$"
 
 VermilionCity_PokemonCenter1F_Text_FishingGuru_FoughtSnorlax:
-	.string "There used to be a sleeping\n"
-	.string "POKéMON lying in front of\l"
-	.string "DIGLETT'S CAVE.\p"
-	.string "But it seems to have disappeared.$"
+	.string "C'era un POKéMON che dormiva\n"
+	.string "proprio davanti alla\l"
+	.string "GROTTA DIGLETT.\p"
+	.string "Ma sembra sparito.$"
 
 VermilionCity_PokemonCenter1F_Text_Sailor:
 	.string "La NAVE VELOCE è un ottimo posto\n"

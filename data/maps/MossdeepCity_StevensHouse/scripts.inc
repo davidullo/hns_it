@@ -158,14 +158,14 @@ MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
 	.string "guadagnata.$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "STEVEN: While you're using SURF, you\n"
-	.string "should notice dark patches of water.\p"
-	.string "Use DIVE if you come to deep water\n"
-	.string "like it. You'll drop to the seafloor.\p"
-	.string "When you want to come back up, use\n"
-	.string "DIVE again.\p"
-	.string "In some places, it won't be possible\n"
-	.string "for you to surface, though.$"
+	.string "STEVEN: Mentre usi SURF, dovresti\n"
+	.string "notare chiazze d'acqua scura.\p"
+	.string "Usa SUB se arrivi in acque profonde\n"
+	.string "come quelle. Scenderai sul fondale.\p"
+	.string "Quando vuoi risalire, usa\n"
+	.string "di nuovo SUB.\p"
+	.string "In alcuni punti, però, non potrai\n"
+	.string "riemergere.$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
 	.string "STEVEN: Pare che ci sia una\n"

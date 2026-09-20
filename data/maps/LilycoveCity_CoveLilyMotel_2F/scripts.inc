@@ -92,13 +92,13 @@ LilycoveCity_CoveLilyMotel_2F_EventScript_MetScott::
 	end
 
 LilycoveCity_CoveLilyMotel_2F_Text_ShowMeCompletedDex:
-	.string "I'm the GAME DESIGNER.\p"
-	.string "Oh, is that right?\n"
-	.string "You're working on a POKéDEX?\p"
-	.string "It's tough trying to complete it,\n"
-	.string "but don't give up.\p"
-	.string "If you do complete it, please come\n"
-	.string "show me.$"
+	.string "Sono il GAME DESIGNER.\p"
+	.string "Ah, davvero?\n"
+	.string "Lavori a un POKéDEX?\p"
+	.string "È dura finirlo,\n"
+	.string "ma non arrenderti.\p"
+	.string "Se ci riuscirai, vieni\n"
+	.string "a mostrarmelo.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_FilledPokedexGiveYouThis:
 	.string "Wow! Fantastico!\n"
@@ -132,26 +132,26 @@ LilycoveCity_CoveLilyMotel_2F_Text_SeaBreezeTicklesHeart:
 	.string "il cuore. Che bello qui!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_NeverLeaveWithoutGameBoy:
-	.string "You never know when and where\n"
-	.string "people will challenge you.\p"
-	.string "That's why I never leave home without\n"
-	.string "my GAME BOY ADVANCE.$"
+	.string "Non sai mai quando e dove\n"
+	.string "ti sfideranno.\p"
+	.string "Perciò non esco mai senza\n"
+	.string "il GAME BOY ADVANCE.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_SnoozingPreferBattles:
 	.string "SCOTT: … … … … …\n"
 	.string "… … … … … Zzz…\p"
-	.string "… … … … … Huh?!\n"
-	.string "Oh, sorry, sorry! I was snoozing!\p"
-	.string "I came to check out this POKéMON\n"
-	.string "CONTEST thing.\p"
-	.string "I have to admit, it does look quite\n"
-	.string "entertaining, but…\p"
-	.string "Consider me a purist--I prefer\n"
-	.string "battles and tough TRAINERS.\p"
-	.string "But that's just me.\p"
-	.string "{PLAYER}{KUN}, I hope you'll enjoy everything\n"
-	.string "like the GYMS, CONTESTS, BATTLE TENT,\l"
-	.string "the whole works!$"
+	.string "… … … … … Eh?!\n"
+	.string "Oh, scusa, scusa! Sonno!\p"
+	.string "Sono qui per vedere la\n"
+	.string "GARA POKéMON.\p"
+	.string "Ammetto che sembra proprio\n"
+	.string "divertente, ma…\p"
+	.string "Sono un purista: amo\n"
+	.string "lotte e ALLENATORI tosti.\p"
+	.string "Ma son fatto così.\p"
+	.string "{PLAYER}{KUN}, goditi tutto:\n"
+	.string "PALESTRE, GARE, TENDONE LOTTA,\l"
+	.string "tutto quanto!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_ContestsDoTakeStrategy:
 	.string "SCOTT: credo che per vincere una\n"

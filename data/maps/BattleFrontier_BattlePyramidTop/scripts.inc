@@ -283,18 +283,18 @@ BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
 	.string "Non vedo l'ora di rivederti!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
-	.string "BRANDON: …You've finally returned,\n"
-	.string "young explorer…\p"
-	.string "Your love of adventure seems to come\n"
-	.string "deep from within your heart…\p"
-	.string "Yes… You are exactly as I was in\n"
-	.string "my own youth…\p"
+	.string "BRANDON: …Sei tornato,\n"
+	.string "giovane esploratore…\p"
+	.string "Il tuo amore per l'avventura\n"
+	.string "viene dal profondo del cuore…\p"
+	.string "Sì… Sei proprio com'ero\n"
+	.string "io da giovane…\p"
 	.string "… … …Ah…\p"
-	.string "The passionate!\p"
-	.string "The dangerous!\p"
-	.string "The desperate!\p"
-	.string "Those days of death-defying,\n"
-	.string "life-affirming adventures are back…$"
+	.string "L'ardore!\p"
+	.string "Il pericolo!\p"
+	.string "La disperazione!\p"
+	.string "Quei giorni di avventure\n"
+	.string "tra vita e morte son tornati…$"
 
 BattleFrontier_BattlePyramidTop_Text_MyCourageIsOffMeter:
 	.string "Ora, allora!\p"
@@ -307,11 +307,11 @@ BattleFrontier_BattlePyramidTop_Text_EverythingYouHave:
 
 BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis:
 	.string "BRANDON: Hahahah!\n"
-	.string "Remarkable!\l"
-	.string "Yes, it's grand, indeed!\p"
-	.string "Young explorer!\p"
-	.string "You've bested me through and through!\n"
-	.string "Here! I want you to have this!$"
+	.string "Notevole!\l"
+	.string "Sì, davvero grande!\p"
+	.string "Giovane esploratore!\p"
+	.string "Mi hai battuto su tutta la linea!\n"
+	.string "Tieni! Voglio darti questo!$"
 
 BattleFrontier_BattlePyramidTop_Text_BraveSymbolTookGoldenShine:
 	.string "Il Simbolo Audace\n"

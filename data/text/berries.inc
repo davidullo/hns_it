@@ -60,9 +60,9 @@ Route120_Text_YesYouUnderstand:
 	.string "Dovresti prendere questo.$"
 
 Route120_Text_MakeYourOwnImpressions:
-	.string "Oh… But it is important to make your\n"
-	.string "own impressions, I guess…\p"
-	.string "You can have this.$"
+	.string "Oh… Ma è importante farsi le proprie\n"
+	.string "idee, credo…\p"
+	.string "Puoi avere questo.$"
 
 Route120_Text_BerryIsRareRaiseItWithCare:
 	.string "Penso che quella BACCA sia rara.\n"
@@ -73,11 +73,11 @@ Route120_Text_IllGetMoreBerriesFromBerryMaster:
 	.string "BERRY MASTER.$"
 
 LilycoveCity_Text_BerrySuitsYou:
-	.string "When it gets right down to it…\p"
-	.string "The same way suits suit me perfectly,\n"
-	.string "a crisp breeze suits the sea.\p"
-	.string "And you, a BERRY suits you to a “T”…\p"
-	.string "Why should that be so?$"
+	.string "In fondo, in fin dei conti…\p"
+	.string "Come i completi stanno bene a me,\n"
+	.string "una brezza fresca sta bene al mare.\p"
+	.string "E a te una BACCA sta proprio bene…\p"
+	.string "Come mai?$"
 
 LilycoveCity_Text_BecauseYoureTrainer:
 	.string "In fondo, in fin dei conti…\p"
@@ -176,14 +176,14 @@ Route104_PrettyPetalFlowerShop_Text_YouCanHaveThis:
 	.string "Ne sono certo. Prendi questo.$"
 
 Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation:
-	.string "While BERRY plants are growing,\n"
-	.string "water them with the WAILMER PAIL.\p"
-	.string "Oh, another thing.\p"
-	.string "If you don't pick BERRIES for a while,\n"
-	.string "they'll drop off onto the ground.\l"
-	.string "But they'll sprout again.\p"
-	.string "Isn't that awesome?\n"
-	.string "It's like they have the will to live.$"
+	.string "Mentre le BACCE crescono,\n"
+	.string "annaffiale con l'INNAFFIATOIO WAILMER.\p"
+	.string "Ah, un'altra cosa.\p"
+	.string "Se non raccogli le BACCE per un po',\n"
+	.string "cadranno a terra.\l"
+	.string "Ma germoglieranno di nuovo.\p"
+	.string "Non è fantastico?\n"
+	.string "È come se avessero voglia di vivere.$"
 
 Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers:
 	.string "Provo a imitare le mie sorelle grandi.\n"

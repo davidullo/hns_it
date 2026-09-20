@@ -174,9 +174,9 @@ SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked:
 	.string "La porta sembra chiusa a chiave.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer:
-	.string "A TRAINER named {STR_VAR_1}\n"
-	.string "is visiting my home.\p"
-	.string "Would you like to challenge\n"
+	.string "Un ALLENATORE di nome {STR_VAR_1}\n"
+	.string "è in visita a casa mia.\p"
+	.string "Vuoi sfidare\n"
 	.string "{STR_VAR_1}?$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_YouWontBattle:
@@ -184,10 +184,10 @@ SootopolisCity_MysteryEventsHouse_1F_Text_YouWontBattle:
 	.string "non potrò vedervi lottare…$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_KeepItTo3On3:
-	.string "Oh, good, good!\p"
-	.string "But my house isn't all that sturdy.\p"
-	.string "Could I ask you to keep it down to\n"
-	.string "a 3-on-3 match?$"
+	.string "Oh, bene, bene!\p"
+	.string "Ma casa mia non è molto solida.\p"
+	.string "Potreste limitarvi\n"
+	.string "a una lotta 3 contro 3?$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_SaveProgressBeforeBattle:
 	.string "Prima di lottare, dovreste\n"

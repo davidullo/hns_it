@@ -301,12 +301,12 @@ SlateportCity_PokemonFanClub_Text_HmHmISee:
 	.string "Capisco…$"
 
 SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
-	.string "Hmmm… It's not bad, but it's not\n"
-	.string "good, either…\p"
-	.string "You, the TRAINER, must put more\n"
-	.string "effort into raising this POKéMON!\p"
-	.string "For instance, may I suggest that\n"
-	.string "you give it more {POKEBLOCK}S?$"
+	.string "Mmm… Non è male, ma non è\n"
+	.string "un granché…\p"
+	.string "Tu, ALLENATORE, devi impegnarti di più\n"
+	.string "ad allevare questo POKéMON!\p"
+	.string "Per esempio, che ne dici di dargli\n"
+	.string "più {POKEBLOCK}S?$"
 
 SlateportCity_PokemonFanClub_Text_NoSpaceForReward:
 	.string "Ohi, ohi…\p"
@@ -348,11 +348,11 @@ SlateportCity_PokemonFanClub_Text_ExplainYellowScarf:
 	.string "la resistenza!$"
 
 SlateportCity_PokemonFanClub_Text_NothingElseToGiveYou:
-	.string "I'm sorry, but I've nothing else to\n"
-	.string "give you! None at all!\p"
-	.string "After all, you're blessed with the gift\n"
-	.string "of raising POKéMON without resorting\l"
-	.string "to any items!$"
+	.string "Mi spiace, ma non ho altro da\n"
+	.string "darti! Proprio niente!\p"
+	.string "Del resto hai il dono\n"
+	.string "di allevare POKéMON senza usare\l"
+	.string "alcun oggetto!$"
 
 SlateportCity_PokemonFanClub_Text_ShowMePokemonThatLoveYou:
 	.string "Adoro vedere i POKéMON che amano\n"

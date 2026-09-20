@@ -329,10 +329,10 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals:
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "You're one win from the championship.\n"
-	.string "Are you ready?$"
+	.string "Complimenti, sei in\n"
+	.string "finale.\p"
+	.string "Ti manca una vittoria al titolo.\n"
+	.string "Sei pronto?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer:
 	.string "Ora {PLAYER} sfida\n"
@@ -367,19 +367,19 @@ BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch:
 	.string "ultima sfida sul SUPERPASS?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.string "Complimenti, sei in\n"
+	.string "finale.\p"
+	.string "In finale affronterai\n"
+	.string "il DOME ACE TUCKER.\p"
+	.string "Sei pronto?$"
 
 @ Identical to ReadyForTuckerSilver
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.string "Complimenti, sei in\n"
+	.string "finale.\p"
+	.string "In finale affronterai\n"
+	.string "il DOME ACE TUCKER.\p"
+	.string "Sei pronto?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort:
 	.string "La finale con TUCKER è\n"

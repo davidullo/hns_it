@@ -1283,8 +1283,8 @@ SlateportCity_Text_BroughtMeSomeBerryPowder:
 	.string "PULVISCOPPIO?$"
 
 SlateportCity_Text_ExchangeWhatWithIt:
-	.string "What would you like to exchange\n"
-	.string "it with?$"
+	.string "Con cosa vuoi\n"
+	.string "scambiarlo?$"
 
 SlateportCity_Text_ExchangeBerryPowderForItem:
 	.string "Ok, vuoi scambiare il tuo\n"
@@ -1324,10 +1324,10 @@ SlateportCity_Text_MaybeThisTrainer:
 	.string "Forse, e dico forse, questo ALLENATORE…$"
 
 SlateportCity_Text_LetsRegisterEachOther:
-	.string "SCOTT: All right! I think you're going\n"
-	.string "to become a good friend.\p"
-	.string "So, let's register each other in our\n"
-	.string "POKéNAVS.\p"
+	.string "SCOTT: Bene! Penso che diventeremo\n"
+	.string "buoni amici.\p"
+	.string "Registriamoci a vicenda nei\n"
+	.string "POKéNAV.\p"
 	.string "… … … … … …$"
 
 SlateportCity_Text_RegisteredScott:
@@ -1335,20 +1335,20 @@ SlateportCity_Text_RegisteredScott:
 	.string "nel POKéNAV.$"
 
 SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
-	.string "SCOTT: What I'd like to do is tag along\n"
-	.string "with you, but I do want to keep an eye\l"
-	.string "on the talents of other people, too.\p"
-	.string "So, I'll be off to roam other towns\n"
-	.string "a bit more.\p"
-	.string "Be seeing you, {PLAYER}{KUN}!$"
+	.string "SCOTT: Vorrei venire\n"
+	.string "con te, ma voglio tenere d'occhio\l"
+	.string "anche il talento degli altri.\p"
+	.string "Quindi me ne vado in giro per\n"
+	.string "altre città.\p"
+	.string "Ci vediamo, {PLAYER}{KUN}!$"
 
 SlateportCity_Text_TakingBattleTentChallenge:
-	.string "SCOTT: Oh, hey!\n"
-	.string "If it isn't {PLAYER}{KUN}!\p"
-	.string "{PLAYER}{KUN}, let me guess--you're going\n"
-	.string "to take the BATTLE TENT challenge?\p"
-	.string "Yeah! That's a good idea!\n"
-	.string "That's a really great idea!\p"
-	.string "After all, a tough TRAINER is\n"
-	.string "the perfect fit for the BATTLE TENT!\p"
-	.string "Give it your best effort!$"
+	.string "SCOTT: Oh, ehi!\n"
+	.string "Ma sei {PLAYER}{KUN}!\p"
+	.string "{PLAYER}{KUN}, fammi indovinare: vai\n"
+	.string "alla TENDa LOTTA?\p"
+	.string "Sì! Ottima idea!\n"
+	.string "Un'idea davvero geniale!\p"
+	.string "Del resto, un ALLENATORE forte è\n"
+	.string "perfetto per la TENDa LOTTA!\p"
+	.string "Dacci dentro!$"

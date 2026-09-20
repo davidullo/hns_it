@@ -193,7 +193,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_BUG] =
     {
         .name = _("COLEOTTERO"),
-        .generic = _("a BUG move"),
+        .generic = _("mossa BUG"),
         .palette = 15,
         .zMove = MOVE_SAVAGE_SPIN_OUT,
         .maxMove = MOVE_MAX_FLUTTERBY,
@@ -259,7 +259,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_MYSTERY] =
     {
         .name = _("???"),
-        .generic = _("a ??? move"),
+        .generic = _("mossa ???"),
         .palette = 15,
         .teraTypeRGBValue = RGB_WHITE,
         .damageCategory = DAMAGE_CATEGORY_SPECIAL,
@@ -314,7 +314,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_GRASS] =
     {
         .name = _("ERBA"),
-        .generic = _("a GRASS move"),
+        .generic = _("mossa ERBA"),
         .palette = 15,
         .zMove = MOVE_BLOOM_DOOM,
         .maxMove = MOVE_MAX_OVERGROWTH,
@@ -424,7 +424,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_DARK] =
     {
         .name = _("BUIO"),
-        .generic = _("a DARK move"),
+        .generic = _("mossa BUIO"),
         .palette = 13,
         .zMove = MOVE_BLACK_HOLE_ECLIPSE,
         .maxMove = MOVE_MAX_DARKNESS,

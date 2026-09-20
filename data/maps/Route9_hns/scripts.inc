@@ -52,10 +52,10 @@ Route9_Text_CamperDeanBeaten:
 	.string "Whoa! Pericolo, amico.$"
 
 Route9_Text_CamperDeanAfter:
-	.string "My POKéMON were hurt before even\n"
-	.string "entering ROCK TUNNEL.\p"
-	.string "I'd better take them to a POKéMON\n"
-	.string "CENTER right away.$"
+	.string "I miei POKéMON erano feriti prima\n"
+	.string "di entrare nel TUNNEL ROCCIOSO.\p"
+	.string "Meglio portarli subito al CENTRO\n"
+	.string "POKéMON.$"
 
 Route9_Text_PicnickerHeidiSeen:
 	.string "Sei mai stato a un picnic?\p"

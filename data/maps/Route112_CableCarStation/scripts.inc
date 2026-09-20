@@ -85,8 +85,8 @@ Route112_CableCarStation_Movement_ExitCableCar:
 	step_end
 
 Route112_CableCarStation_Text_CableCarReadyGetOn:
-	.string "The CABLE CAR is ready to go up.\n"
-	.string "Would you like to be on it?$"
+	.string "La FUNIVIA è pronta a salire.\n"
+	.string "Vuoi salirci?$"
 
 Route112_CableCarStation_Text_StepThisWay:
 	.string "Da questa parte, prego.$"

@@ -167,11 +167,11 @@ BattleFrontier_Lounge2_Text_SalonMaidenGoldMons::
 	.string "e un SONNO di tipo NORMALE.$"
 
 BattleFrontier_Lounge2_Text_DomeAceIsThere::
-	.string "Bet you didn't know this!\p"
-	.string "One of those top TRAINERS that SCOTT\n"
-	.string "calls the FRONTIER BRAINS is there.\p"
-	.string "It's this flamboyant TRAINER called\n"
-	.string "the DOME ACE that runs the place.$"
+	.string "Scommetto che non lo sai!\p"
+	.string "Uno dei forti ALLENATORI che SCOTT\n"
+	.string "chiama MENTI DELLA FRONTIERA è lì.\p"
+	.string "È lo stravagante ALLENATORE\n"
+	.string "chiamato AS DELLA CUPOLA.$"
 
 BattleFrontier_Lounge2_Text_DomeAceSilverMons::
 	.string "Hai mai sfidato il MAESTRO\p"
@@ -346,10 +346,10 @@ BattleFrontier_Lounge2_Text_MultiBattleAdvice::
 	.string "Tieni gli occhi ben aperti!$"
 
 BattleFrontier_Lounge2_Text_LinkMultiBattleAdvice::
-	.string "If you're with a friend, head for the\n"
-	.string "LINK MULTI BATTLE ROOM.\p"
-	.string "If you play with a strong friend,\n"
-	.string "you can expect to see tough foes!$"
+	.string "Se sei con un amico, vai nella\n"
+	.string "SALA LOTTA IN COLLEGAMENTO.\p"
+	.string "Con un amico forte,\n"
+	.string "troverai avversari tosti!$"
 
 BattleFrontier_Lounge2_Text_NewsGatheringPower::
 	.string "Che fiuto per le notizie!\n"

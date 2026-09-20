@@ -346,9 +346,9 @@ PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
 	.string "Allora ecco un regalo dalla tua MAMMA!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
-	.string "Don't push yourself too hard, dear.\n"
-	.string "You can always come home.\p"
-	.string "Go for it, honey!$"
+	.string "Non strafare, caro.\n"
+	.string "Puoi sempre tornare a casa.\p"
+	.string "Forza, vai, tesoro!$"
 
 PlayersHouse_1F_Text_IsThatAPokenav:
 	.string "MAMMA: Cos'è quello, tesoro? Un POKéNAV?\n"
@@ -407,10 +407,10 @@ PlayersHouse_1F_Text_BetterGetBackToGym:
 	.string "alla casa mentre sono via.$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
-	.string "MOM: That DAD of yours…\p"
-	.string "He comes home for the first time in a\n"
-	.string "while, but all he talks about is POKéMON.\p"
-	.string "He should relax and stay a little longer.$"
+	.string "MAMMA: Quel tuo papà…\p"
+	.string "Torna a casa dopo tanto, ma\n"
+	.string "parla solo di POKéMON.\p"
+	.string "Dovrebbe rilassarsi e restare un po'.$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
 	.string "MAMMA: È un'ultim'ora?$"

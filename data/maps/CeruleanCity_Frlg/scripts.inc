@@ -394,12 +394,12 @@ CeruleanCity_Text_OhRightLittlePresentAsFavor::
 	.string "regalino, dai.$"
 
 CeruleanCity_Text_ExplainFameCheckerSmellYa::
-	.string "A chatty gossip like you…\n"
-	.string "That thing's perfect.\p"
-	.string "I don't need it because I don't\n"
-	.string "give a hoot about others.\p"
-	.string "All right, this time I really am\n"
-	.string "gone. Smell ya!$"
+	.string "Una chiacchierona come te…\n"
+	.string "È perfetto per te.\p"
+	.string "Non mi serve, non m'importa\n"
+	.string "degli altri.\p"
+	.string "Ok, stavolta me ne vado\n"
+	.string "davvero. Ci sentiamo!$"
 
 CeruleanCity_Text_GruntIntro::
 	.string "Ehi! Vattene!\n"
@@ -426,8 +426,8 @@ CeruleanCity_Text_BetterGetMovingBye::
 	.string "Ciao!$"
 
 CeruleanCity_Text_MakeRoomForThisCantRun::
-	.string "Make room for this!\n"
-	.string "I can't run until I give it to you!$"
+	.string "Fai posto!\n"
+	.string "Non scappo finché non te lo do!$"
 
 CeruleanCity_Text_TrainerLifeIsToughIsntIt::
 	.string "Anche tu ALLENATORE?\p"

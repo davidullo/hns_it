@@ -59,8 +59,8 @@ Route40_Text_SwimmerfElaineBeaten:
 	.string "Ho perso!$"
 
 Route40_Text_SwimmerfElaineAfter:
-	.string "I'd say I'm a better swimmer\n"
-	.string "than you. Yeah!$"
+	.string "Io nuoto meglio\n"
+	.string "di te. Già!$"
 
 Route40_EventScript_Paula::
 	trainerbattle_single TRAINER_PAULA_HNS, Route40_Text_SwimmerfPaulaSeen, Route40_Text_SwimmerfPaulaBeaten
@@ -134,10 +134,10 @@ Route40_Text_MonicaGivesGift:
 	.string "ho un regalo per te!$"
 
 Route40_Text_MonicaGaveGift:
-	.string "MONICA: It's an item that raises\n"
-	.string "the power of FLYING-type moves.\p"
-	.string "You should equip a bird\n"
-	.string "POKéMON with that item.$"
+	.string "MONICA: È un oggetto che aumenta\n"
+	.string "la potenza delle mosse VOLANTE.\p"
+	.string "Dovresti darlo a un POKéMON\n"
+	.string "uccello.$"
 
 Route40_Text_MonicaMonday:
 	.string "MONICA: I miei fratelli e\n"

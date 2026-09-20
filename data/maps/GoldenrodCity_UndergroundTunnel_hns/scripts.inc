@@ -422,9 +422,9 @@ GoldenrodUnderground_Text_PokemaniacDonaldBeaten:
     .string "Gah! Ho perso! Che rabbia!$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
-	.string "When I was walking near the BIKE\n"
-	.string "SHOP last night, I felt like I was\l"
-	.string "being watched from the rooftops...$"
+	.string "Ieri notte, vicino al NEGOZIO\n"
+	.string "DI BICICLETTE, mi sembrava di\l"
+	.string "essere spiato dai tetti…$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:
     .string "Stai facendo il POKéDEX? Ecco un\n"

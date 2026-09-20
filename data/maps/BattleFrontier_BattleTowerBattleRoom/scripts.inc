@@ -489,10 +489,10 @@ BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved::
 	.string "Il record non è stato salvato.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay:
-	.string "Excuse me, but…\p"
-	.string "Our leader, the SALON MAIDEN, is on\n"
-	.string "her way here in hopes of battling you.\p"
-	.string "She should be arriving very shortly.$"
+	.string "Mi scusi, ma…\p"
+	.string "La nostra PLATANISTA sta\n"
+	.string "venendo qui per sfidarti.\p"
+	.string "Arriverà tra pochissimo.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden:
 	.string "Affronterai la PLATANISTA.\n"
@@ -525,12 +525,12 @@ BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol:
 
 BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime:
 	.string "… … … … … …\p"
-	.string "You have confidence in your POKéMON\n"
-	.string "battling talent, don't you?\p"
-	.string "I urge you to keep battling and\n"
-	.string "keep on winning.\p"
-	.string "I will be waiting for you.\n"
-	.string "Until the next time we meet…$"
+	.string "Hai fiducia nel talento\n"
+	.string "dei tuoi POKéMON, vero?\p"
+	.string "Continua a lottare e\n"
+	.string "continua a vincere.\p"
+	.string "Ti aspetterò.\n"
+	.string "Alla prossima volta…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack:
 	.string "ANABEL: Sei davvero tornato\n"

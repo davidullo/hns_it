@@ -101,8 +101,8 @@ CianwoodPokecenter_EventScript_Nerd::
 	end
 
 CianwoodCity_Text_PokecenterSuperNerd:
-	.string "I love showing off the POKéMON\n"
-	.string "that I've raised.\p"
-	.string "Don't you?\p"
-	.string "I'm going to get into a bunch of\n"
-	.string "battles, and show off my POKéMON!$"
+	.string "Adoro mostrare i POKéMON\n"
+	.string "che ho allevato.\p"
+	.string "E tu no?\p"
+	.string "Farò un sacco di sfide\n"
+	.string "per mostrare i miei POKéMON!$"

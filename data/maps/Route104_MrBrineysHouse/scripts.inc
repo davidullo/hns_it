@@ -119,10 +119,10 @@ Route104_MrBrineysHouse_Text_SetSailForDewford:
 	.string "PEEKO, si salpa, tesoro!$"
 
 Route104_MrBrineysHouse_Text_DeclineDeliverySail:
-	.string "MR. BRINEY: Is that so?\n"
-	.string "Your deliveries can wait?\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail!$"
+	.string "SIG. BRINEY: Davvero?\n"
+	.string "Le consegne possono aspettare?\p"
+	.string "Dimmi quando vuoi salpare e\n"
+	.string "si parte!$"
 
 Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford:
 	.string "SIG. BRINEY: Ehi!\n"
@@ -148,10 +148,10 @@ Route104_MrBrineysHouse_Text_WhereAreWeBound:
 	.string "Allora, amico, dove andiamo?$"
 
 Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail:
-	.string "MR. BRINEY: Is that so?\n"
-	.string "Well, PEEKO owes her life to you.\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail!$"
+	.string "SIG. BRINEY: Davvero?\n"
+	.string "Beh, PEEKO ti deve la vita.\p"
+	.string "Dimmi quando vuoi salpare e\n"
+	.string "si parte!$"
 
 Route104_MrBrineysHouse_Text_Peeko:
 	.string "PEEKO: Pii piihyoro!$"

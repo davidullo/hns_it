@@ -16,9 +16,9 @@ PetalburgCity_House2_Text_NormanBecameGymLeader:
 	.string "chissà quanto lontano.$"
 
 PetalburgCity_House2_Text_BattledNormanOnce:
-	.string "I battled NORMAN once, but, whew,\n"
-	.string "he was way too strong.\p"
-	.string "How would I put it?\p"
-	.string "I just got the feeling that he\n"
-	.string "lives for POKéMON.$"
+	.string "Ho sfidato NORMAN, ma, uff,\n"
+	.string "era troppo forte.\p"
+	.string "Come dire?\p"
+	.string "Ho avuto la sensazione che lui\n"
+	.string "viva per i POKéMON.$"
 

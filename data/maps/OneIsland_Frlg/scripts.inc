@@ -122,16 +122,16 @@ Text_WhereDoYouWantToSail::
 	.string "Dove vuoi salpare?$"
 
 OneIsland_Text_LuckyToHaveCelioHere::
-	.string "Here we are on an island smack in\n"
-	.string "the middle of nowhere.\p"
-	.string "We're lucky to have an upstanding\n"
-	.string "young man like CELIO here.\p"
-	.string "My granddaughter was in a tizzy\n"
-	.string "over CELIO's friend.\p"
-	.string "Something about a famous\n"
-	.string "POKéMANIAC?\p"
-	.string "I'm not sure what that means, but\n"
-	.string "CELIO is quite the man!$"
+	.string "Siamo su un'isola in mezzo al\n"
+	.string "nulla.\p"
+	.string "Fortuna avere un ragazzo\n"
+	.string "perbene come CELIO qui.\p"
+	.string "Mia nipote era in agitazione\n"
+	.string "per l'amico di CELIO.\p"
+	.string "Qualcosa su un famoso\n"
+	.string "POKéMANIACO?\p"
+	.string "Non so cosa significhi, ma\n"
+	.string "CELIO è un grande!$"
 
 OneIsland_Text_HavePCLinkageWithKanto::
 	.string "Mia nipote era in agitazione\n"

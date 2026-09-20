@@ -28,10 +28,10 @@ Route14_Text_MitchPostBattle::
 	.string "mosse migliori.$"
 
 Route14_Text_BeckIntro::
-	.string "They have TMs on sale at the\n"
-	.string "CELADON DEPT. STORE.\p"
-	.string "TMs aren't really rare, but not\n"
-	.string "many people have HMs.$"
+	.string "Vendono MT al\n"
+	.string "CENTRO COMMERCIALE di CELADON.\p"
+	.string "Le MT non sono rare, ma pochi\n"
+	.string "hanno le MN.$"
 
 Route14_Text_BeckDefeat::
 	.string "Ah, che peccato!$"

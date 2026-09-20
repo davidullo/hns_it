@@ -257,12 +257,12 @@ TwoIsland_Text_BringingItemsFromDistantLands::
 	.string "Dai un'occhiata!$"
 
 TwoIsland_Text_FellowMovedFromCeladonCity::
-	.string "That fellow there, he moved here\n"
-	.string "from CELADON CITY.\p"
-	.string "He started up a shop with his\n"
-	.string "younger brother.\p"
-	.string "You have to wonder if he knew what\n"
-	.string "he was getting into.$"
+	.string "Quel tizio là, si è trasferito\n"
+	.string "da AZZURROPOLI.\p"
+	.string "Ha aperto un negozio con il suo\n"
+	.string "fratello minore.\p"
+	.string "Chissà se sapeva\n"
+	.string "in cosa si stava cacciando.$"
 
 TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
 	.string "Il fratello del negoziante ha preso\n"
@@ -271,15 +271,15 @@ TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
 	.string "per comprare più merce.$"
 
 TwoIsland_Text_BrunoCameToIslandWhileBack::
-	.string "Listen, listen.\n"
-	.string "Did you know?\p"
-	.string "A famous TRAINER came to the\n"
-	.string "ISLAND a little while back.\p"
-	.string "He's one of the ELITE FOUR.\n"
-	.string "His name is BRUNO.\p"
-	.string "He went away disappointed when he\n"
-	.string "found out that they were all sold\l"
-	.string "out of Rage Candybars.$"
+	.string "Ascolta, ascolta.\n"
+	.string "Lo sapevi?\p"
+	.string "Un famoso ALLENATORE è venuto\n"
+	.string "sull'ISOLA un po' di tempo fa.\p"
+	.string "È uno dei SUPERQUATTRO.\n"
+	.string "Si chiama BRUNO.\p"
+	.string "Se ne andò deluso quando scoprì\n"
+	.string "che erano finiti\l"
+	.string "tutti i Ritmo Snack.$"
 
 TwoIsland_Text_BuyRareItemsHere::
 	.string "L'ALLENATORE esperto sa\n"

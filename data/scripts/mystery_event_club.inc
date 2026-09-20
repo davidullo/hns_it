@@ -109,28 +109,28 @@ EventScript_GiveProfile:
 	end
 
 Text_IdLoveToHearYourProfile:
-	.string "Hi, glad to meet you!\p"
-	.string "…That's unfriendly of you.\n"
-	.string "How about saying hi back?\p"
-	.string "So, come on, tell me about\n"
-	.string "yourself.\p"
-	.string "I'd love to hear your profile!$"
+	.string "Ciao, piacere!\p"
+	.string "…Che scortese.\n"
+	.string "E salutare no?\p"
+	.string "Dai, parlami un po'\n"
+	.string "di te.\p"
+	.string "Che bel profilo che hai!$"
 
 Text_TellMeWhatsYourProfile:
 	.string "Dimmi qualcosa di bello su\n"
 	.string "di te. Qual è il tuo profilo?$"
 
 Text_ExplainProfile:
-	.string "A profile is written using four\n"
-	.string "words or phrases.\p"
-	.string "There're plenty of words to choose\n"
-	.string "from for your profile.\p"
-	.string "The words and phrases are placed\n"
-	.string "in several convenient groups.\p"
-	.string "First, choose a group, then choose\n"
-	.string "a word or phrase.\p"
-	.string "…It's easier than it sounds.\n"
-	.string "Why don't you try it?$"
+	.string "Il profilo si scrive con quattro\n"
+	.string "parole o frasi.\p"
+	.string "Ci sono tante parole tra cui\n"
+	.string "scegliere per il profilo.\p"
+	.string "Le parole e le frasi sono divise\n"
+	.string "in comodi gruppi.\p"
+	.string "Prima scegli un gruppo, poi una\n"
+	.string "parola o una frase.\p"
+	.string "…È più facile di quanto sembri.\n"
+	.string "Perché non provi?$"
 
 Text_WhatsYourProfile:
 	.string "Qual è il tuo profilo?$"
@@ -162,10 +162,10 @@ Text_LikeProfileWayItIs:
 
 Text_ProfileSaysSomethingAboutYou:
 	.string "Hmhm…\p"
-	.string "Your profile really says something\n"
-	.string "about who you are.\p"
-	.string "Now that I know you better, it \n"
-	.string "makes us better friends than ever!$"
+	.string "Il tuo profilo dice davvero\n"
+	.string "chi sei.\p"
+	.string "Ora che ti conosco meglio, siamo\n"
+	.string "più amici di prima!$"
 
 Text_HeardThatBefore:
 	.string "Oh, l'ho già sentito…\p"

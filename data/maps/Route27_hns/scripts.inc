@@ -179,8 +179,8 @@ Route27_Text_FisherMessage:
     .string "Controlla il POKéGEAR MAP.$"
 
 Route27_Text_CooltrainermBlakeSeen:
-    .string "You look pretty strong.\n"
-    .string "Let me battle you!$"
+    .string "Sembri forte.\n"
+    .string "Lottiamo!$"
 
 Route27_Text_CooltrainermBlakeBeaten:
     .string "Ahi!$"
@@ -287,10 +287,10 @@ Route27_Text_JoseHasItem:
     .string "gli uccelli! Tieni, è tua!$"
 
 Route27_Text_JoseGaveItem:
-    .string "I find all sorts of things\n"
-    .string "out here on ROUTE 27.\p"
-    .string "I'll let you know if I find\n"
-    .string "anything else!$"
+    .string "Trovo di tutto\n"
+    .string "qui sulla ROUTE 27.\p"
+    .string "Ti faccio sapere se trovo\n"
+    .string "altro!$"
 
 Route27_Text_JoseNoRoom:
     .string "Hmm, la tua BORSA è piena.\p"

@@ -57,12 +57,12 @@ SecretBase_Text_Trainer5PreChampion:
 	.string "Non trovi sia bello?$"
 
 SecretBase_Text_Trainer1Intro:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "Oh! Were you thinking about\n"
-	.string "taking this spot, too?\p"
-	.string "I'll tell you what, you can have this\n"
-	.string "spot if you can beat me.$"
+	.string "Questo posto è richiesto.\n"
+	.string "È sempre occupato.\p"
+	.string "Oh! Ci stavi pensando\n"
+	.string "anche tu?\p"
+	.string "Senti, te lo cedo se\n"
+	.string "riesci a battermi.$"
 
 SecretBase_Text_Trainer1AcceptBattle:
 	.string "Okay!\n"

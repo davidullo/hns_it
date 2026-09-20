@@ -62,9 +62,9 @@ DayCare_Text_WellRaiseYourMon::
 	.string "Torna a riprenderlo più tardi.$"
 
 DayCare_Text_WeCanRaiseOneMore::
-	.string "We can raise two of your POKéMON.\p"
-	.string "Would you like us to raise one\n"
-	.string "more POKéMON for you?$"
+	.string "Possiamo allevare due POKéMON.\p"
+	.string "Vuoi che ne alleviamo un altro\n"
+	.string "per te?$"
 
 DayCare_Text_HusbandWasLookingForYou::
 	.string "Mio marito ti stava cercando.$"

@@ -93,10 +93,10 @@ GoldenrodDeptStore_Text_RoofSuperNerdQuitBotheringMe:
     .string "La smetti di seccarmi?$"
 
 GoldenrodDeptStore_Text_RoofPokefanM:
-    .string "There's something I really want,\n"
-    .string "but I don't have the necessary cash…\p"
-    .string "Maybe I'll sell off the BERRIES I've\n"
-    .string "collected…$"
+    .string "C'è una cosa che voglio davvero,\n"
+    .string "ma non ho abbastanza soldi…\p"
+    .string "Magari vendo le BACche che ho\n"
+    .string "raccolto…$"
 
 GoldenrodDeptStore_Text_RoofTeacher:
     .string "Oh, e' tutto cosi' economico!\p"

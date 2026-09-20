@@ -951,12 +951,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp_hns:
 	.string "Congratulazioni!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait_hns:
-	.string "What an unbelievable finish!\n"
-	.string "We have a double knockout!\p"
-	.string "In this event, the Battle Tournament\n"
-	.string "rules call for a REFEREE'S decision.\p"
-	.string "Please wait while the judging\n"
-	.string "is under way.$"
+	.string "Che finale incredibile!\n"
+	.string "Doppio K.O.!\p"
+	.string "Qui le regole del Torneo\n"
+	.string "di Lotta prevedono l'ARBITRO.\p"
+	.string "Aspettate il verdetto\n"
+	.string "del giudizio.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer_hns:
 	.string "Gli ARBITRI hanno\n"
@@ -988,8 +988,8 @@ BattleFrontier_BattleDomeBattleRoom_Text_WillTheyRaceToChampionship_hns:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAchieveChampionFirstTry_hns:
-	.string "Can the feat of a championship\n"
-	.string "on the first try be achieved?\p"
+	.string "Si può diventare CAMPIONI\n"
+	.string "al primo colpo?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged_hns:
@@ -1066,15 +1066,15 @@ BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant_hns:
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro_hns:
 	.string "TUCKER: Ahahah!\p"
-	.string "Do you hear it? This crowd!\n"
-	.string "They're all itching to see our match!\p"
+	.string "Senti? Questa folla!\n"
+	.string "Non vedono l'ora della sfida!\p"
 	.string "Ahahah!\p"
-	.string "I bet you're twitching all over from\n"
-	.string "the tension of getting to battle me!\p"
-	.string "But don't you worry about a thing!\p"
-	.string "I'm the no. 1 star of the BATTLE DOME!\n"
-	.string "I, TUCKER the DOME ACE, will bathe you\l"
-	.string "in my brilliant glow!$"
+	.string "Scommetto che tremi per\n"
+	.string "l'emozione di sfidarmi!\p"
+	.string "Ma non temere nulla!\p"
+	.string "Sono la star della CUPOLA LOTTA!\n"
+	.string "Io, TUCKER l'ASSE, ti bagno\l"
+	.string "nel mio splendore!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy_hns:
 	.string "La tua strategia!\n"
@@ -1143,12 +1143,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine_hns:
 	.string "un lampo d'oro!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter_hns:
-	.string "You're strong, but above all,\n"
-	.string "you have a unique charm!\p"
-	.string "In you, I see a definite potential for\n"
-	.string "a superstar like me.\p"
-	.string "I will very much look forward to\n"
-	.string "our next encounter!$"
+	.string "Sei forte e hai anche\n"
+	.string "un Fascino unico!\p"
+	.string "In te vedo il potenziale\n"
+	.string "di una star come me.\p"
+	.string "Non vedo l'ora di\n"
+	.string "rincontrarti!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ_hns2_hns:

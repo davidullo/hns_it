@@ -508,11 +508,11 @@ PalletTown_Text_CaughtXImpressiveFollowMe::
 
 PalletTown_Text_OakYouEnjoyingTraveling::
 	.string "OAK: Ah, {PLAYER}!\n"
-	.string "You seem to be enjoying traveling.\p"
-	.string "Knowing you, {PLAYER}, I can easily\n"
-	.string "imagine you going out to even more\l"
-	.string "exotic locales.\p"
-	.string "Good for you, good for you.\n"
+	.string "Sembri divertirti in viaggio.\p"
+	.string "Conoscendoti, {PLAYER}, ti vedo\n"
+	.string "già in luoghi ancora\l"
+	.string "più esotici.\p"
+	.string "Bravo, bravo.\n"
 	.string "Hohoho.$"
 
 @ For the NPC in Pallet Town that talks about the Trainer Tips sign

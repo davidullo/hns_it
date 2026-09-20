@@ -124,11 +124,11 @@ CeladonCity_Gym_Text_ReceivedTM19FromErika::
 	.string "da ERIKA.$"
 
 CeladonCity_Gym_Text_ExplainTM19::
-	.string "TM19 contains GIGA DRAIN.\p"
-	.string "Half the damage it inflicts is\n"
-	.string "drained to heal your POKéMON.\p"
-	.string "Wouldn't you agree that it's a\n"
-	.string "wonderful move?$"
+	.string "La MT19 contiene GIGASSORBIMENTO.\p"
+	.string "Metà del danno che infligge\n"
+	.string "cura i tuoi POKéMON.\p"
+	.string "Non è forse una\n"
+	.string "mossa stupenda?$"
 
 CeladonCity_Gym_Text_ShouldMakeRoomForThis::
 	.string "Dovresti fare spazio.$"

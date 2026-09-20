@@ -202,10 +202,10 @@ LavaridgeTown_Gym_1F_Text_ColeDefeat:
 	.string "Il sudore mi acceca gli occhi…$"
 
 LavaridgeTown_Gym_1F_Text_ColePostBattle:
-	.string "Being buried in hot sand promotes\n"
-	.string "circulation.\p"
-	.string "It's effective for healing pain in\n"
-	.string "your joints.$"
+	.string "La sabbia calda fa bene\n"
+	.string "alla circolazione.\p"
+	.string "Cura i dolori\n"
+	.string "alle articolazioni.$"
 
 LavaridgeTown_Gym_1F_Text_AxleIntro:
 	.string "Sto cercando di sfogare lo stress.\n"
@@ -215,9 +215,9 @@ LavaridgeTown_Gym_1F_Text_AxleDefeat:
 	.string "Spero che FLANNERY ti bruci bene!$"
 
 LavaridgeTown_Gym_1F_Text_AxlePostBattle:
-	.string "Haaah… Whew…\p"
-	.string "If you spend too much time buried in\n"
-	.string "hot sand, it tuckers you out…$"
+	.string "Fiuuu… Uff…\p"
+	.string "Troppa sabbia calda addosso\n"
+	.string "stanca…$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganIntro:
 	.string "Dovresti essere stanco ormai.\n"
@@ -244,10 +244,10 @@ LavaridgeTown_Gym_1F_Text_GeraldDefeat:
 	.string "Non ha bruciato abbastanza…$"
 
 LavaridgeTown_Gym_1F_Text_GeraldPostBattle:
-	.string "The temperature of magma is\n"
-	.string "392 degrees.\p"
-	.string "Your POKéMON beat me, so they should\n"
-	.string "easily survive in magma.$"
+	.string "Il magma sta a\n"
+	.string "392 gradi.\p"
+	.string "I tuoi POKéMON mi hanno battuto:\n"
+	.string "vivranno nel magma.$"
 
 LavaridgeTown_Gym_1F_Text_DanielleIntro:
 	.string "Uhm…\n"
@@ -274,8 +274,8 @@ LavaridgeTown_Gym_B1F_Text_JacePostBattle:
 	.string "battere la nostra CAPO.$"
 
 LavaridgeTown_Gym_B1F_Text_JeffIntro:
-	.string "See how the flames blaze wildly?\n"
-	.string "They flare in anticipation of my win!$"
+	.string "Vedi le fiamme?\n"
+	.string "Bruciano per la mia vittoria!$"
 
 LavaridgeTown_Gym_B1F_Text_JeffDefeat:
 	.string "Qualcosa è andato storto.$"
@@ -299,19 +299,19 @@ LavaridgeTown_Gym_B1F_Text_EliPostBattle:
 	.string "Eh eh eh eh.$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryIntro:
-	.string "Welcome… No, wait.\p"
-	.string "Puny TRAINER, how good to see you've\n"
-	.string "made it here!\p"
-	.string "I have been entrusted with the…\n"
-	.string "No, wait.\p"
-	.string "I am FLANNERY, and I'm the GYM\n"
-	.string "LEADER here!\p"
-	.string "Uh…\n"
-	.string "Dare not underestimate me, though\l"
-	.string "I have been LEADER only a short time!\p"
-	.string "With skills inherited from my grand-\n"
-	.string "father, I shall, uh…demonstrate the\l"
-	.string "hot moves we have honed on this land!$"
+	.string "Benvenuto… No, aspetta.\p"
+	.string "Allenatore scarso, che bello\n"
+	.string "vederti arrivare!\p"
+	.string "Mi è stato affidato il…\n"
+	.string "No, aspetta.\p"
+	.string "Sono FLANNERY, e sono la\n"
+	.string "CAPOPALESTRA qui!\p"
+	.string "Ehm…\n"
+	.string "Non sottovalutarmi, anche se\l"
+	.string "sono CAPO da poco!\p"
+	.string "Con le doti ereditate da mio\n"
+	.string "nonno, ti mostrerò, ehm… le\l"
+	.string "mosse calde di questa terra!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
 	.string "Oh…\n"

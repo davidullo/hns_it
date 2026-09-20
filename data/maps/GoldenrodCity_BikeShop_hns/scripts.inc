@@ -42,17 +42,17 @@ GoldenrodCity_BikeShop_EventScript_Bike::
 	end
 
 GoldenrodCity_BikeShop_Text_Clerk2:
-	.string "Riding the BIKE is as simple as\n"
-	.string "pressing a button if you\l"
-	.string "REGISTER it from the BAG.\p"
-	.string "If you need to go faster,\n"
-	.string "you first need to come to a stop!\p"
-	.string "That might seem like strange\n"
-	.string "advice, but you can only change\l"
-	.string "gears on the BIKE while stopped.\p"
-	.string "Press your R button when stopped\n"
-	.string "and the next time you pedal,\l"
-	.string "you will reach greater speeds!$"
+	.string "Andare in BICICLETTA è facile:\n"
+	.string "basta premere un tasto se\l"
+	.string "la REGISTRI dalla BORSA.\p"
+	.string "Per andare più veloce,\n"
+	.string "prima devi fermarti!\p"
+	.string "Sembra un consiglio strano,\n"
+	.string "ma cambi marcia sulla\l"
+	.string "BICICLETTA solo da fermo.\p"
+	.string "Premi R da fermo\n"
+	.string "e alla prossima pedalata\l"
+	.string "andrai più veloce!$"
 
 GoldenrodCity_BikeShop_Text_ClerkIntro:
     .string "…sigh… Mi sono trasferito, ma non\n"

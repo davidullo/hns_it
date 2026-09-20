@@ -376,7 +376,7 @@ GoldenrodCity_RadioTower_1F_Text_LotteryCornerDrawTicket:
 	.string "LOTO TICKET?$"
 
 GoldenrodCity_RadioTower_1F_Text_ComeBackTomorrow:
-	.string "Please come back tomorrow.$"
+	.string "Torna domani.$"
 
 GoldenrodCity_RadioTower_1F_Text_PleaseVisitAgain:
 	.string "Torna a trovarci.$"

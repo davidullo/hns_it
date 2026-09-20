@@ -9,7 +9,7 @@ LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
 	.string "LOTO POKéMON?$"
 
 LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow:
-	.string "Please come back tomorrow.$"
+	.string "Torna domani.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain:
 	.string "Torna a trovarci.$"

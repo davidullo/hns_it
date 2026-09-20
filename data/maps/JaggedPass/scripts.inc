@@ -158,9 +158,9 @@ JaggedPass_Text_EricDefeat:
 	.string "Perdere mi ha lasciato l'amaro!$"
 
 JaggedPass_Text_EricPostBattle:
-	.string "Yes, I did lose at POKéMON…\p"
-	.string "But, when it comes to the love of\n"
-	.string "the mountains, I have you beat!$"
+	.string "Sì, ho perso ai POKéMON…\p"
+	.string "Ma sull'amore per la montagna\n"
+	.string "ti batto!$"
 
 JaggedPass_Text_DianaIntro:
 	.string "Questo posto non è una passeggiata.\n"

@@ -342,10 +342,10 @@ RivalsHouse_1F_Text_TooBusyToNoticeVisit:
 	.string "venuto a trovarci, {PLAYER}{KUN}.$"
 
 RivalsHouse_1F_Text_WentOutToRoute103:
-	.string "Oh, {RIVAL} went out to ROUTE 103\n"
-	.string "just a little while ago.\p"
-	.string "Like father, like child.\n"
-	.string "{RIVAL} can't stay quietly at home.$"
+	.string "Oh, {RIVAL} è andato al PERCORSO 103\n"
+	.string "poco fa.\p"
+	.string "Tale padre, tale figlio.\n"
+	.string "{RIVAL} non sta mai fermo a casa.$"
 
 RivalsHouse_1F_Text_ShouldGoHomeEverySoOften:
 	.string "Penso sia bello viaggiare\n"
