@@ -389,7 +389,7 @@ const u8 gMoveBackgroundNames[BG_COUNT][MOVE_BACKGROUND_NAME_LENGTH] =
     [BG_FIRE]                      = _("Fire"),
     [BG_FIRE_2]                    = _("Fire 2"),
     [BG_WATER_2]                   = _("Water 2"),
-    [BG_POISON]                    = _("Poison"),
+    [BG_POISON]                    = _("Veleno"),
     [BG_AEROBLAST]                 = _("Aeroblast"),
     [BG_HURRICANE]                 = _("Hurricane"),
     [BG_ELECTRIC_TERRAIN]          = _("Electric Terrain"),
@@ -430,7 +430,7 @@ const u8 gMoveBackgroundNames[BG_COUNT][MOVE_BACKGROUND_NAME_LENGTH] =
     [BG_CHLOROBLAST]               = _("Chloroblast"),
     [BG_RAINBOW_PLAYER]            = _("Rainbow - Player"),
     [BG_RAINBOW_OPPONENT]          = _("Rainbow - Opponent"),
-    [BG_SWAMP]                     = _("Swamp"),
+    [BG_SWAMP]                     = _("Palude"),
 };
 
 const u8 sShadowSizeLabels[][4] =

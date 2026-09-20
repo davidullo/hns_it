@@ -361,7 +361,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Battle[] = {
     },
     [EC_INDEX(EC_WORD_LEADER)] =
     {
-        .text = COMPOUND_STRING("LEADER"),
+        .text = COMPOUND_STRING("CAPO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WIN),
         .enabled = TRUE,
     },

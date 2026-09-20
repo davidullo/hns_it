@@ -60,71 +60,71 @@ GoldenrodCity_BillsHouse_EventScript_Bill_Refused::
 	end
 
 BillHouse_Text_TakeThisEevee:
-    .string "BILL: Hi, {PLAYER}! Do us a favor and\n"
-    .string "take this EEVEE.\p"
-    .string "It was left in our care while\n"
-    .string "I was away working on my system.\p"
-    .string "Someone has to take care of it,\n"
-    .string "but I don't like being outside.\p"
-    .string "Can I count on you to play with it,\n"
-    .string "{PLAYER}?$"
+    .string "BILL: Ciao, {PLAYER}! Fammi un\n"
+    .string "piacere, prendi questo EEVEE.\p"
+    .string "Era affidato a noi mentre\n"
+    .string "ero via per il mio sistema.\p"
+    .string "Qualcuno deve occuparsene,\n"
+    .string "ma io non amo stare fuori.\p"
+    .string "Posso contare su di te per\n"
+    .string "giocare con lui, {PLAYER}?$"
 
 BillHouse_Text_CountingOnYou:
-    .string "BILL: I knew you'd come through!\p"
-    .string "Way to go! You're the real deal!\p"
-    .string "OK, I'm counting on you.\p"
-    .string "Take good care of it!$"
+    .string "BILL: Sapevo che ce l'avresti fatta!\p"
+    .string "Grande! Sei un vero fenomeno!\p"
+    .string "OK, conto su di te.\p"
+    .string "Prenditene cura!$"
 
 BillHouse_Text_ReceivedEevee:
-    .string "{PLAYER} received EEVEE!$"
+    .string "{PLAYER} riceve EEVEE!$"
 
 BillHouse_Text_EeveeMayEvolve:
-    .string "BILL: PROF.ELM claims EEVEE may\n"
-    .string "evolve in new and unknown ways.$"
+    .string "BILL: Il PROF.ELM dice che EEVEE può\n"
+    .string "evolversi in modi nuovi e ignoti.$"
 
 BillHouse_Text_PartyFull:
-    .string "Whoa, wait. You can't carry any\n"
-    .string "more POKéMON.$"
+    .string "Ehi, aspetta. Non puoi portare altri\n"
+    .string "POKéMON.$"
 
 BillHouse_Text_NoEevee:
-    .string "Oh… Now what to do?$"
+    .string "Oh… E ora che faccio?$"
 
 BillHouse_Text_PopWontWork:
-    .string "BILL: My pop, he won't work. All he\n"
-    .string "does is goof off all day long.\p"
-    .string "He's getting to be a real headache…$"
+    .string "BILL: Mio padre non lavora. Non fa\n"
+    .string "altro che bighellonare tutto il giorno.\p"
+    .string "Sta diventando un bel problema…$"
 
 BillHouse_Text_MomBeforeEcruteak:
-    .string "Oh, you collect POKéMON? My son\n"
-    .string "BILL is an expert.\p"
-    .string "He just got called to the POKéMON\n"
-    .string "CENTER in ECRUTEAK CITY.\p"
-    .string "My husband went off to the GAME\n"
-    .string "CORNER without being called…$"
+    .string "Oh, collezioni POKéMON? Mio figlio\n"
+    .string "BILL è un esperto.\p"
+    .string "L'hanno appena chiamato al CENTRO\n"
+    .string "POKéMON di AMARANTOPOLI.\p"
+    .string "Mio marito è andato al CASINÒ\n"
+    .string "senza che lo chiamassero…$"
 
 BillHouse_Text_MomAfterEcruteak:
-    .string "My husband was once known as a\n"
+    .string "Mio marito era noto come\n"
     .string "POKéMANIAC.\p"
-    .string "BILL must have taken after his\n"
-    .string "father.$"
+    .string "BILL deve aver preso da suo\n"
+    .string "padre.$"
 
 BillHouse_Text_SisterUsefulNumber:
-    .string "Are you a TRAINER?\p"
-    .string "I've got a useful phone number\n"
-    .string "for you.$"
+    .string "Sei un ALLENATORE?\p"
+    .string "Ho un numero utile\n"
+    .string "per te.$"
 
 BillHouse_Text_RecordedBillsNumber:
-    .string "{PLAYER} recorded BILL's number.$"
+    .string "{PLAYER} ha registrato il numero di BILL.$"
 
 BillHouse_Text_SisterRefusedNumber:
-    .string "My brother made the PC POKéMON\n"
-    .string "storage system.\p"
-    .string "I was going to give you BILL's\n"
-    .string "number…$"
+    .string "Mio fratello ha creato il sistema\n"
+    .string "di archiviazione POKéMON del PC.\p"
+    .string "Stavo per darti il numero\n"
+    .string "di BILL…$"
 
 BillHouse_Text_SisterPhoneFull:
-    .string "You can't record any more numbers.$"
+    .string "Non puoi registrare altri numeri.$"
 
 BillHouse_Text_SisterStorageSystem:
-    .string "My big brother BILL made the PC\n"
-    .string "POKéMON storage system.$"
+    .string "Mio fratello BILL ha creato il\n"
+    .string "sistema di archiviazione POKéMON.$"

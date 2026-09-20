@@ -75,24 +75,24 @@ GoldenrodDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
 	.string "impegnarti più.$"
 
 GoldenrodDeptStore_Text_5FReceptionistThisMoveShouldBePerfect:
-    .string "It's very attached to you.\p"
-    .string "This move should be perfect for a\n"
-    .string "pair like you.$"
+    .string "Ti è molto affezionato.\p"
+    .string "Questa mossa è perfetta per\n"
+    .string "voi due.$"
 
 GoldenrodDeptStore_Text_5FLass:
-    .string "During the day, a lady comes to check\n"
-    .string "out POKéMON.\p"
-    .string "She even gives away TMs!$"
+    .string "Di giorno una signora passa a vedere\n"
+    .string "i POKéMON.\p"
+    .string "Regala anche delle MT!$"
 
 GoldenrodDeptStore_Text_5FPokefanM:
-    .string "You can't rename a POKéMON you get\n"
-    .string "in a trade.\p"
-    .string "The name is a reflection of the\n"
-    .string "original trainer's feelings for it.$"
+    .string "Non puoi rinominare un POKéMON\n"
+    .string "scambiato.\p"
+    .string "Il nome riflette i\n"
+    .string "sentimenti del suo Allenatore.$"
 
 GoldenrodDeptStore_Text_Girl:
-	.string "The lady gave me RETURN!\n"
-    .string "My POKéMON must really like me!$"
+	.string "Mi ha dato RITORNO!\n"
+    .string "I miei POKéMON mi adorano!$"
 
 GoldenrodDeptStore5_EventScript_Clerk::
 	lock
@@ -120,5 +120,5 @@ GoldenrodDeptStore5_Pokemart:
 
 
 GoldenrodDeptStore_Text_5FDirectory:
-    .string "Customize Your POKéMON\p"
+    .string "Personalizza i POKéMON\p"
     .string "5F TM CORNER$"

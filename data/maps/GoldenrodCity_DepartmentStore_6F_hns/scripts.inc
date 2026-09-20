@@ -16,11 +16,11 @@ GoldenrodDeptStore6_EventScript_Whitney::
 	end
 
 GoldenrodDeptStore6_Text_Whitney:
-	.string "{PLAYER}! Fancy seeing you here!\p"
-	.string "I'm picking up something for\n"
-	.string "my MILTANK.\p"
-	.string "If you want another battle, come to\n"
-	.string "the FIGHTING DOJO!$"
+	.string "{PLAYER}! Che sorpresa!\p"
+	.string "Devo prendere una cosa per\n"
+	.string "il MILTANK.\p"
+	.string "Se vuoi un'altra lotta, vieni\n"
+	.string "al DOJO LOTTA!$"
 
 GoldenrodCity_DepartmentStore_6F_EventScript_Jose::
 	lock
@@ -65,7 +65,7 @@ GoldenrodCity_DepartmentStore_6F_Text_YouWontTradeMe:
 	.string "Non vuoi scambiare? Oh…$"
 
 GoldenrodCity_DepartmentStore_6F_Text_After:
-	.string "Hi, how's my old MACHOP doing?$"
+	.string "Ciao, come sta il mio MACHOP?$"
 
 
 GoldenrodDeptStore6_EventScript_Lass::
@@ -93,19 +93,19 @@ GoldenrodDeptStore6_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_6FLass:
-    .string "Do you listen to LUCKY CHANNEL?\p"
-    .string "They say if you want to win,\n"
-	.string "you should trade POKéMON with as\l"
-    .string "many people as possible to get\l"
-    .string "different ID numbers.\p"
-	.string "However, trading isn't as widely\n"
-	.string "available as it once was.$"
+    .string "Ascolti il CANALE FORTUNA?\p"
+    .string "Dicono che per vincere\n"
+	.string "dovresti scambiare POKéMON con\l"
+    .string "piu' persone possibile per avere\l"
+    .string "ID diversi.\p"
+	.string "Pero' gli scambi non sono piu'\n"
+	.string "diffusi come una volta.$"
 
 GoldenrodDeptStore_Text_6FSuperNerd:
-    .string "If you're tired, try the vending\n"
-    .string "machine's drinks.\p"
-    .string "Your POKéMON will love them too.$"
+    .string "Se sei stanco, prova le bibite\n"
+    .string "del distributore.\p"
+    .string "Piacera' anche ai tuoi POKéMON.$"
 
 GoldenrodDeptStore_Text_6FDirectory:
-    .string "Take a Break from Shopping!\p"
-    .string "6F TRANQUIL SQUARE$"
+    .string "Pausa dallo shopping!\p"
+    .string "6F PIAZZA TRANQUILLA$"

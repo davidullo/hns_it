@@ -35,20 +35,20 @@ GoldenrodDeptStore2_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_2FYoungster:
-    .string "POKéGEAR can store up to 100 phone\n"
-    .string "numbers.\p"
-    .string "It's hard to decide which numbers\n"
-    .string "to keep.$"
+    .string "Il POKéGEAR tiene fino a 100\n"
+    .string "numeri.\p"
+    .string "È dura scegliere quali\n"
+    .string "tenere.$"
 
 GoldenrodDeptStore_Text_2FCooltrainerF:
-    .string "I got my ABRA at the GAME CORNER.\p"
-    .string "Now it's my best partner.$"
+    .string "Ho preso ABRA al CASINÒ.\p"
+    .string "Ora è il mio miglior partner.$"
 
 GoldenrodDeptStore_Text_2FGentleman:
-    .string "This DEPT.STORE makes me realize\n"
-    .string "that GOLDENROD is a big city.\p"
-    .string "The selection here is unmatched\n"
-    .string "anywhere else.$"
+    .string "Questo GRANDE MAGAZZINO mi fa\n"
+    .string "capire che FIORLISOPOLI è grande.\p"
+    .string "La scelta qui non ha eguali\n"
+    .string "altrove.$"
 
 GoldenrodDeptStore2_EventScript_Clerk::
 	lock
@@ -206,12 +206,12 @@ GoldenrodDeptStore_EventScript_ExitVendingMachine::
 	end
 
 GoldenrodDeptStore_Text_WhichDrinkWouldYouLike:
-	.string "It's a VENDING MACHINE.\n"
-	.string "Which drink would you like?$"
+	.string "È un DISTRIBUTORE.\n"
+	.string "Quale bevanda vuoi?$"
 
 GoldenrodDeptStore_Text_DrinkClankedDown:
 	.string "Clang!\p"
-	.string "A can of {STR_VAR_1} dropped down.$"
+	.string "È caduta una bibita {STR_VAR_1}.$"
 
 GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
 	.string "Clang!\p"
@@ -219,11 +219,11 @@ GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
 	.string "dropped down!$"
 
 GoldenrodDeptStore_Text_NotEnoughMoney:
-	.string "Not enough money…$"
+	.string "Soldi insufficienti…$"
 
 GoldenrodDeptStore_Text_DecidedAgainstBuyingDrink:
-	.string "Decided against buying a drink.$"
+	.string "Non hai comprato la bibita.$"
 
 GoldenrodDeptStore_Text_2FDirectory:
-    .string "Your Travel Companion\p"
-    .string "2F TRAINER'S MARKET$"
+    .string "Il tuo compagno di viaggio\p"
+    .string "2P MERCATO ALLENATORI$"

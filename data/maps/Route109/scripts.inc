@@ -505,12 +505,12 @@ DewfordTown_Text_BrineyLandedInSlateport:
 
 Route109_Text_BrineyWhereAreWeBound:
 	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "Per te prendo il mare quando vuoi!\p"
+	.string "Allora, amico, dove andiamo?$"
 
 Route109_Text_BrineyTellMeWhenYouNeedToSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
-	.string "you need to set sail again!$"
+	.string "MR. BRINEY: Dimmi quando vuoi\n"
+	.string "salpare di nuovo!$"
 
 Route109_Text_ChillAtMyPapasSpot:
 	.string "Yo, TRAINERS!\n"

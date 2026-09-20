@@ -324,9 +324,9 @@ SlateportCity_BattleTentLobby_Text_AwardYouThisPrize:
 
 SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
 	.string "Oh?\n"
-	.string "You seem to have no room for this.\p"
-	.string "Please make room in your BAG and\n"
-	.string "let me know.$"
+	.string "Sembra che tu non abbia spazio.\p"
+	.string "Fai spazio nella BORSA e\n"
+	.string "avvisami.$"
 
 SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
 	.string "Ti aspettavamo!\p"

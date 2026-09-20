@@ -21,20 +21,20 @@ FuchsiaCity_Text_BaobaName:
 	.string "BAOBA$"
 
 FuchsiaCity_Text_Baoba:
-	.string "WARDEN BAOBA: {PLAYER}!\p"
-	.string "This is WARDEN BAOBA.\p"
-	.string "Something awful has happened!\n"
-	.string "My old SAFARI ZONE in FUCHSIA CITY\l"
-	.string "was bought out and reopened!\p"
-	.string "And apparently it has exotic new\n"
-	.string "POKéMON!\p"
-	.string "It's hurting my business!\p"
-	.string "{PLAYER}, you must venture into the\n"
-	.string "new SAFARI ZONE and catch a POKéMON\l"
-	.string "to show me. I must know about these\l"
-	.string "'exotic' POKéMON.\p"
-	.string "Please {PLAYER}, my business depends\n"
-	.string "on you!$"
+	.string "GUARDIANO BAOBA: {PLAYER}!\p"
+	.string "Sono il GUARDIANO BAOBA.\p"
+	.string "È successo qualcosa di grave!\n"
+	.string "La mia vecchia ZONA SAFARI di\l"
+	.string "FUCHSIA è stata comprata e\p"
+	.string "riaperta! Pare che abbia POKéMON\n"
+	.string "esotici!\p"
+	.string "Danneggia i miei affari!\p"
+	.string "{PLAYER}, devi avventurarti\n"
+	.string "nella nuova ZONA SAFARI e catturare un\l"
+	.string "un POKéMON da mostrarmi. Devo sapere\l"
+	.string "“esotici” POKéMON.\p"
+	.string "Ti prego {PLAYER}, dipende tutto\n"
+	.string "da te!$"
 
 FuchsiaCity_EventScript_Dratini::
 	lock
@@ -97,44 +97,44 @@ FuchsiaCity_EventScript_SafariZone::
 	end
 
 FuchsiaCity_Text_Youngster:
-	.string "One of the ELITE FOUR used to be\n"
-	.string "the LEADER of FUCHSIA's GYM.$"
+	.string "Uno dei SUPERQUATTRO era\n"
+	.string "il CAPOPALESTRA di FUCHSIA.$"
 
 FuchsiaCity_Text_PokefanM:
-	.string "KOGA's daughter succeeded him as\n"
-	.string "the GYM LEADER after he joined the\l"
-	.string "ELITE FOUR.$"
+	.string "La figlia di KOGA gli è succeduta\n"
+	.string "come CAPOPALESTRA, poi entra nei\l"
+	.string "SUPERQUATTRO.$"
 
 FuchsiaCity_Text_Teacher:
-	.string "The SAFARI ZONE is under new\n"
-	.string "management.\p"
-	.string "And it has tons of new POKéMON!$"
+	.string "La ZONA SAFARI ha una nuova\n"
+	.string "gestione.\p"
+	.string "E ha tanti POKéMON nuovi!$"
 
 FuchsiaCity_Text_Sign:
 	.string "FUCHSIA CITY\p"
-	.string "Behold! It's Passion Pink!$"
+	.string "Ammira! Il Rosa Passione!$"
 
 FuchsiaCity_Text_GymSign:
-	.string "FUCHSIA CITY POKéMON GYM\n"
-	.string "LEADER: JANINE\p"
-	.string "The Poisonous Ninja Master$"
+	.string "PALESTRA DI FUCHSIA\n"
+	.string "CAPO: JANINE\p"
+	.string "La Maestra Ninja del Veleno$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign:
-	.string "There's a notice here…\p"
-	.string "SAFARI ZONE OFFICE is closed until\n"
-	.string "further notice.$"
+	.string "C'è un avviso qui…\p"
+	.string "UFFICIO ZONA SAFARI chiuso fino a\n"
+	.string "nuovo avviso.$"
 
 FuchsiaCity_Text_SafariZone:
-	.string "SAFARI ZONE\n"
-	.string "NOW OWNED BY\l"
-	.string "DEVON CORP.$"
+	.string "ZONA SAFARI\n"
+	.string "DI PROPRIETÀ\l"
+	.string "DEVON SPA.$"
 
 FuchsiaCity_Text_SafariZoneClosedSign:
-	.string "The WARDEN is traveling abroad.\p"
-	.string "Therefore, the SAFARI ZONE is\n"
-	.string "closed.$"
+	.string "Il GUARDIANO è all'estero.\p"
+	.string "Perciò la ZONA SAFARI è\n"
+	.string "chiusa.$"
 
 FuchsiaCity_Text_NoLitteringSign:
-	.string "No littering.\p"
-	.string "Please take your waste with you.$"
+	.string "Non sporcare.\p"
+	.string "Porta via i tuoi rifiuti.$"
 

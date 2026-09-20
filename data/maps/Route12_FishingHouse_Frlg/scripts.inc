@@ -106,9 +106,9 @@ Route12_FishingHouse_Text_DoYouLikeToFish::
 	.string "Tell me, do you like to fish?$"
 
 Route12_FishingHouse_Text_TakeThisAndFish::
-	.string "Grand! I like your style.\n"
-	.string "I think we can be friends.\p"
-	.string "Take this and fish, young friend!$"
+	.string "Grande! Mi piaci.\n"
+	.string "Possiamo diventare amici.\p"
+	.string "Prendi e pesca, amico mio!$"
 
 Route12_FishingHouse_Text_ReceivedSuperRod::
 	.string "{PLAYER} received a SUPER ROD from\n"
@@ -127,7 +127,7 @@ Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
 
 Route12_FishingHouse_Text_OhThatsDisappointing::
 	.string "Oh…\n"
-	.string "That's so disappointing…$"
+	.string "Che delusione…$"
 
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
 	.string "Hello there, {PLAYER}!\n"

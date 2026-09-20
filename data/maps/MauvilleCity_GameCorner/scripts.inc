@@ -999,8 +999,8 @@ MauvilleCity_GameCorner_Text_WhichPrize:
 	.string "Quale premio vuoi?$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
-	.string "So your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+	.string "Allora scegli\n"
+	.string "{STR_VAR_1} {STR_VAR_2}?$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
 	.string "Grazie!\n"
@@ -1023,7 +1023,7 @@ MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
 	.string "So your choice is {STR_VAR_1}?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "Ecco a te!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
@@ -1035,7 +1035,7 @@ MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
 	.string "Would you like one of them?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
-	.string "Here you go!$"
+	.string "Ecco a te!$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
 	.string "Huh?\n"

@@ -1326,7 +1326,7 @@ CableClub_Text_PlayersMadeDifferentSelections_Frlg::
 	.string "made different selections.$"
 
 CableClub_Text_PleaseVisitAgain_Frlg::
-	.string "Please do visit again.$"
+	.string "Torna a trovarci.$"
 
 CableClub_Text_IncorrectNumberOfParticipants_Frlg::
 	.string "The number of participants is\n"

@@ -290,21 +290,21 @@ SaffronStation_Movement_SlideLeft:
 	step_end
 
 SaffronMagnetTrainStation_Text_OfficerTrainHasntComeIn:
-    .string "The train hasn't come in…\p"
-    .string "I know! I'll carry the passengers\n"
-    .string "on my back!\p"
-    .string "That won't work.$"
+    .string "Il treno non è arrivato…\p"
+    .string "Ci sono! Porterò i passeggeri\n"
+    .string "sulla mia schiena!\p"
+    .string "Così non va.$"
 
 SaffronMagnetTrainStation_Text_OfficerComingAboard:
     .string "We'll soon depart for GOLDENROD.\p"
     .string "Are you coming aboard?$"
 
 SaffronMagnetTrainStation_Text_OfficerRightThisWay:
-    .string "May I see your rail PASS, please?\p"
-    .string "OK. Right this way, please.$"
+    .string "Posso vedere il tuo PASS?\p"
+    .string "OK. Da questa parte, prego.$"
 
 SaffronMagnetTrainStation_Text_OfficerNoRailPass:
-    .string "Sorry. You don't have a rail PASS.$"
+    .string "Scusa. Non hai il PASS.$"
 
 SaffronMagnetTrainStation_Text_OfficerHopeToSeeYouAgain:
     .string "We hope to see you again!$"

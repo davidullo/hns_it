@@ -33,14 +33,14 @@ CianwoodPokemoncenter_EventScript_FisherGiveTentacool::
 	end
 
 CianwoodPokemoncenter_Text_Fisher1:
-	.string "As far as water POKéMON go,\n"
-	.string "TENTACOOL is the best by a\l"
-	.string "nautical mile!$"
+	.string "Tra i POKéMON ACQUA,\n"
+	.string "TENTACOOL è il migliore\l"
+	.string "di gran lunga!$"
 
 CianwoodPokemoncenter_Text_Fisher2:
-	.string "You seem like you need a water\n"
+	.string "Credo che ti serva un\n"
 	.string "POKéMON.\p"
-	.string "Here, take this one, I have plenty.$"
+	.string "Tieni, prendi questo, ne ho tanti.$"
 
 CianwoodPokecenter_EventScript_Lass::
 	lock
@@ -51,9 +51,9 @@ CianwoodPokecenter_EventScript_Lass::
 	end
 
 CianwoodCity_Text_PokecenterLass:
-	.string "Did you meet the POKéMANIAC?\p"
-	.string "He's always bragging about his\n"
-	.string "rare POKéMON.$"
+	.string "Hai conosciuto il POKéMANIAC?\p"
+	.string "Si vanta sempre dei suoi\n"
+	.string "POKéMON rari.$"
 
 
 CianwoodGym_EventScript_GymGuide::
@@ -72,25 +72,25 @@ CianwoodGym_EventScript_GymGuideAfter::
 	end
 
 CianwoodCity_Text_GymGuide:
-	.string "The POKéMON GYM trainers here are\n"
-	.string "macho bullies.\p"
-	.string "If I stick around, they might\n"
-	.string "come after me.\p"
-	.string "Here's some advice: the GYM LEADER\n"
-	.string "uses the FIGHTING-type.\p"
-	.string "So you should confound him with\n"
-	.string "psychic POKéMON.\p"
-	.string "Wipe out his POKéMON before they\n"
-	.string "can use their physical strength.\p"
-	.string "And those boulders in the middle\n"
-	.string "of the GYM?\p"
-	.string "If you don't move them correctly,\n"
-	.string "you won't reach the GYM LEADER.\p"
-	.string "If you get stuck, go outside.$"
+	.string "Gli allenatori della PALESTRA POKéMON\n"
+	.string "sono dei bulli macho.\p"
+	.string "Se resto qui, potrebbero\n"
+	.string "venire a prendermi.\p"
+	.string "Un consiglio: il CAPOPALESTRA\n"
+	.string "usa il tipo Lotta.\p"
+	.string "Quindi confondilo con\n"
+	.string "POKéMON psichici.\p"
+	.string "Metti KO i suoi POKéMON prima\n"
+	.string "che usino la loro forza fisica.\p"
+	.string "E quei massi al centro\n"
+	.string "della PALESTRA?\p"
+	.string "Se non li sposti bene,\n"
+	.string "non arriverai al CAPOPALESTRA.\p"
+	.string "Se ti blocchi, vai fuori.$"
 
 CianwoodCity_Text_GymGuideWin:
-	.string "{PLAYER}! You won!\n"
-	.string "I could tell by looking at you!$"
+	.string "{PLAYER}! Hai vinto!\n"
+	.string "Si vedeva dal tuo sguardo!$"
 
 CianwoodPokecenter_EventScript_Nerd::
 	lock
@@ -101,8 +101,8 @@ CianwoodPokecenter_EventScript_Nerd::
 	end
 
 CianwoodCity_Text_PokecenterSuperNerd:
-	.string "I love showing off the POKéMON\n"
-	.string "that I've raised.\p"
-	.string "Don't you?\p"
-	.string "I'm going to get into a bunch of\n"
-	.string "battles, and show off my POKéMON!$"
+	.string "Mi piace vantarmi dei POKéMON\n"
+	.string "che ho allevato.\p"
+	.string "E tu no?\p"
+	.string "Farò un sacco di\n"
+	.string "sfide e mostrerò i miei POKéMON!$"

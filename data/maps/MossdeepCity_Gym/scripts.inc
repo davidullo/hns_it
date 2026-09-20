@@ -452,7 +452,7 @@ MossdeepCity_Gym_Text_SamanthaIntro:
 	.string "your future!$"
 
 MossdeepCity_Gym_Text_SamanthaDefeat:
-	.string "I surrender!$"
+	.string "Mi arrendo!$"
 
 MossdeepCity_Gym_Text_SamanthaPostBattle:
 	.string "You will wage a terrifically intense\n"

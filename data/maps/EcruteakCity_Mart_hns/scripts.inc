@@ -18,12 +18,12 @@ EcruteakCity_Mart_EventScript_Granny::
 	end
 
 EcruteakMart_Text_SuperNerd:
-	.string "My EEVEE evolved into an ESPEON.\p"
-	.string "But my friend's EEVEE turned into\n"
-	.string "an UMBREON.\p"
-	.string "I wonder why? We both were raising\n"
-	.string "our EEVEE in the same way…$"
+	.string "Il mio EEVEE è diventato ESPEON.\p"
+	.string "Ma l'EEVEE del mio amico è un\n"
+	.string "UMBREON.\p"
+	.string "Chissà perché? Entrambi allevavamo\n"
+	.string "l'EEVEE allo stesso modo…$"
 
 EcruteakMart_Text_Granny:
-	.string "If you use REVIVE, a POKéMON that's\n"
-	.string "fainted will wake right up.$"
+	.string "Usa REVITALIZZANTE e il POKéMON\n"
+	.string "esausto si sveglia subito.$"

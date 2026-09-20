@@ -301,7 +301,7 @@ const struct EasyChatWordInfo gEasyChatGroup_People[] = {
     },
     [EC_INDEX(EC_WORD_LADY)] =
     {
-        .text = COMPOUND_STRING("LADY"),
+        .text = COMPOUND_STRING("DAMA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SON),
         .enabled = TRUE,
     },

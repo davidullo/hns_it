@@ -15,8 +15,8 @@ EcruteakCity_SageOffice1_EventScript_Sign::
 	end
 
 EcruteakCity_SageOffice1_Text_Sign:
-	.string "The bell of tin rings clearly for\n"
-	.string "those under the tower's wing.$"
+	.string "Il sonaglio di stagno risuona per\n"
+	.string "chi sta sotto l'ala della torre.$"
 
 EcruteakCity_SageOffice2_EventScript_SageA::
 	lock
@@ -89,63 +89,63 @@ EcruteakCity_SageOffice2_Movement_StandAside:
 	step_end
 
 EcruteakTinTowerEntrance_Text_SageNoBadge:
-	.string "TIN TOWER is off limits to the\n"
-	.string "unworthy. Sorry but you'll have\l"
-	.string "to leave.$"
+	.string "La TORRE CAMPANA è vietata ai\n"
+	.string "non degni. Scusa, ma devi\l"
+	.string "andartene.$"
 
 EcruteakTinTowerEntrance_Text_SageWithBadge:
-	.string "TIN TOWER is off limits to anyone\n"
-	.string "without ECRUTEAK GYM's BADGE.\p"
+	.string "La TIN TOWER è vietata a chi\n"
+	.string "non ha la MEDAGLIA ECRUTEAK.\p"
 	.string "Ah!\p"
-	.string "ECRUTEAK's GYM BADGE! Please, go\n"
-	.string "right through.$"
+	.string "La MEDAGLIA di ECRUTEAK! Prego,\n"
+	.string "accomodati.$"
 
 EcruteakTinTowerEntrance_Text_SageNoClearBell:
-	.string "A momentous event has occurred.\p"
-	.string "I beg your pardon, but I must ask\n"
-	.string "you to leave.\p"
-	.string "…What soothes the soul…\p"
-	.string "The WISE TRIO say things that are\n"
-	.string "so very difficult to understand…$"
+	.string "È accaduto un evento solenne.\p"
+	.string "Chiedo scusa, ma devo chiederti\n"
+	.string "di uscire.\p"
+	.string "…Ciò che calma l'anima…\p"
+	.string "Il WISE TRIO dice cose davvero\n"
+	.string "difficili da capire…$"
 
 EcruteakTinTowerEntrance_Text_SageHearsClearBell1:
-	.string "A momentous event has occurred.\p"
-	.string "I beg your pardon, but I must ask\n"
-	.string "you to leave.\p"
+	.string "È accaduto un evento solenne.\p"
+	.string "Chiedo scusa, ma devo pregarti\n"
+	.string "di andartene.\p"
 	.string "..............................$"
 EcruteakTinTowerEntrance_Text_SageHearsClearBell2:
 	.string "Ah!\p"
-	.string "The sound of that CLEAR BELL!\p"
-	.string "It… It's sublime!\p"
-	.string "I've never heard so beautiful a\n"
-	.string "sound before!\p"
-	.string "That bell's chime is indicative of\n"
-	.string "the bearer's soul.\p"
-	.string "You…\p"
-	.string "You may be able to make it through\n"
-	.string "TIN TOWER.\p"
-	.string "Please, do go on.$"
+	.string "Il suono del SONAGLIO CHIARO!\p"
+	.string "È… È sublime!\p"
+	.string "Non ho mai sentito un suono\n"
+	.string "così bello!\p"
+	.string "Il suono di quel sonaglio indica\n"
+	.string "l'anima di chi lo porta.\p"
+	.string "Tu…\p"
+	.string "Forse riuscirai ad attraversare\n"
+	.string "la TORRE CAMPANA.\p"
+	.string "Prego, prosegui.$"
 
 EcruteakTinTowerEntrance_Text_SagePleaseDoGoOn:
-	.string "Please, do go on.$"
+	.string "Prego, continua.$"
 
 EcruteakTinTowerEntrance_Text_SageDone:
-	.string "That bell's chime is indicative of\n"
-	.string "the bearer's soul.\p"
-	.string "You…\n"
-	.string "Truly are worthy.$"
+	.string "Il suono di quel sonaglio indica\n"
+	.string "l'anima di chi lo porta.\p"
+	.string "Tu…\n"
+	.string "Lo meriti davvero.$"
 
 EcruteakTinTowerEntrance_Text_WanderingSage:
-	.string "The TIN TOWER ahead is a nine-\n"
-	.string "tier tower of divine beauty.\p"
-	.string "It soothes the soul of all who\n"
-	.string "see it.$"
+	.string "La TIN TOWER davanti è una\n"
+	.string "torre divina a nove piani.\p"
+	.string "Placa l'anima di chiunque la\n"
+	.string "veda.$"
 
 EcruteakTinTowerEntrance_Text_WanderingSageClearBell:
-	.string "The TIN TOWER shook! A POKéMON must\n"
-	.string "have returned to the top!$"
+	.string "La TIN TOWER ha tremato!\n"
+	.string "Un POKéMON è tornato su!$"
 
 EcruteakTinTowerEntrance_Text_Gramps:
-	.string "Two towers… Two POKéMON…\p"
-	.string "But when one burned down, both\n"
-	.string "POKéMON flew away, never to return.$"
+	.string "Due torri… Due POKéMON…\p"
+	.string "Ma quando una bruciò, i due\n"
+	.string "POKéMON volarono via per non tornare.$"

@@ -41,22 +41,22 @@ LavaridgeTown_HerbShop_EventScript_ExplainCharcoal::
 	end
 
 LavaridgeTown_HerbShop_Text_WelcomeToHerbShop:
-	.string "Welcome to the HERB SHOP, home of\n"
-	.string "effective and inexpensive medicine!$"
+	.string "Benvenuto all'ERBORISTERIA, patria\n"
+	.string "di medicine efficaci ed economiche!$"
 
 LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
-	.string "You've come to look at herbal medicine\n"
-	.string "in LAVARIDGE?\p"
-	.string "That's rather commendable.\p"
-	.string "I like you! Take this!$"
+	.string "Sei venuto a LAVARIDGE per le\n"
+	.string "medicine erbacee?\p"
+	.string "Notevole.\p"
+	.string "Mi piaci! Tieni!$"
 
 LavaridgeTown_HerbShop_Text_ExplainCharcoal:
-	.string "That CHARCOAL I gave you, it's used\n"
-	.string "for making herbal medicine.\p"
-	.string "It also does wonders when held by\n"
-	.string "a POKéMON.\p"
-	.string "It intensifies the power of FIRE-type\n"
-	.string "moves.$"
+	.string "Il CARBONELLA che ti ho dato serve\n"
+	.string "a preparare medicine erbacee.\p"
+	.string "Fa miracoli anche se tenuto\n"
+	.string "da un POKéMON.\p"
+	.string "Intensifica la potenza delle mosse\n"
+	.string "di tipo FUOCO.$"
 
 LavaridgeTown_HerbShop_Text_HerbalMedicineWorksButMonWillDislike:
 	.string "Herbal medicine works impressively well.\n"

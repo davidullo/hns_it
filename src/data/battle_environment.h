@@ -643,7 +643,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_SWAMP] =
     {
-        .name = _("Swamp"),
+        .name = _("Palude"),
         .naturePower = MOVE_MUD_BOMB,
         .secretPowerAnimation = gBattleAnimMove_MudShot,
         .secretPowerEffect = MOVE_EFFECT_SPD_MINUS_1,

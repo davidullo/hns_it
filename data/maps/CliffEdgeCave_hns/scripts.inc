@@ -10,8 +10,8 @@ CliffEdgeCave_EventScript_BaldMan::
 	end
 
 CliffEdgeCave_Text_Baldman:
-	.string "If you see a fork in the road\n"
-	.string "inside a cave, most likely one\l"
-	.string "way is right and the other leads\l"
-	.string "to a dead end.\p"
-	.string "But people can't help trying both.$"
+	.string "Se in una grotta trovi un\n"
+	.string "bivio, di solito una via\l"
+	.string "è giusta e l'altra porta\l"
+	.string "a un vicolo cieco.\p"
+	.string "Ma tutti finiscono per provarle.$"

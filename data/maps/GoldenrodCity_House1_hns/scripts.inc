@@ -16,13 +16,13 @@ GoldenrodCity_NameRatersHouse_EventScript_ToggleShiniesRefused::
 	end
 
 GoldenrodCity_NameRatersHouse_Text_AskToggleShinies:
-	.string "Would you like to toggle the Unique\n"
-	.string "Shiny Colors setting?$"
+	.string "Vuoi cambiare l'impostazione dei\n"
+	.string "Colori Alternativi?$"
 
 GoldenrodCity_NameRatersHouse_Text_ToggleShinies:
-	.string "Shiny Colors Toggled!\p"
-	.string "View your setting at the CHALLENGE\n"
-	.string "VIEWER at any PC.$"
+	.string "Colori Alternativi attivati!\p"
+	.string "Controlla l'impostazione alla\n"
+	.string "SALA SFIDE di un PC.$"
 
 GoldenrodCity_NameRatersHouse_EventScript_RenameRival::
 	msgbox GoldenrodCity_NameRatersHouse_Text_RenameRival, MSGBOX_DEFAULT
@@ -32,10 +32,10 @@ GoldenrodCity_NameRatersHouse_EventScript_RenameRival::
 	end
 
 GoldenrodCity_NameRatersHouse_Text_RenameRival:
-	.string "It's the news...\p"
-	.string "The POLICE are looking for this\n"
-	.string "REDHEADED BOY!\p"
-	.string "Do YOU know his name?$"
+	.string "È il telegiornale…\p"
+	.string "La POLIZIA cerca questo\n"
+	.string "RAGAZZO DAI CAPELLI ROSSI!\p"
+	.string "Sai il suo nome?$"
 
 GoldenrodCity_NameRatersHouse_EventScript_NameRater::
 	lock
@@ -99,51 +99,51 @@ GoldenrodCity_NameRatersHouse_EventScript_NewNameDifferent::
 	end
 
 GoldenrodCity_NameRatersHouse_Text_PleasedToRateMonNickname:
-	.string "Hi, hi! I'm the NAME RATER!\n"
-	.string "I'm the fortune-teller of names!\p"
-	.string "I shall be pleased to rate your\n"
-	.string "POKéMON's nickname.$"
+	.string "Ciao, ciao! Sono l'ONOMANTE!\n"
+	.string "Sono l'indovino dei nomi!\p"
+	.string "Sarò felice di giudicare il\n"
+	.string "soprannome del tuo POKéMON.$"
 
 GoldenrodCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
-	.string "Which POKéMON's nickname should\n"
-	.string "I critique?$"
+	.string "Il soprannome di quale\n"
+	.string "POKéMON giudico?$"
 
 GoldenrodCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
-	.string "Hmmm… {STR_VAR_1}, is it? That is\n"
-	.string "quite a fine name you bestowed.\p"
-	.string "But! What say you, if I were to\n"
-	.string "suggest a slightly better name?$"
+	.string "Mmm… {STR_VAR_1}, vero?\n"
+	.string "Bel nome, davvero.\p"
+	.string "Ma! Che ne dici se ti\n"
+	.string "suggerissi un nome migliore?$"
 
 GoldenrodCity_NameRatersHouse_Text_WhatShallNewNameBe:
-	.string "Ah, good. Then, what shall the new\n"
-	.string "nickname be?$"
+	.string "Ah, bene. E quale sarà il\n"
+	.string "nuovo soprannome?$"
 
 GoldenrodCity_NameRatersHouse_Text_MonShallBeKnownAsName:
-	.string "Done! From now on, this POKéMON\n"
-	.string "shall be known as {STR_VAR_1}!\p"
-	.string "It is a better name than before!\n"
-	.string "How fortunate for you!$"
+	.string "Fatto! Da ora questo POKéMON\n"
+	.string "si chiamerà {STR_VAR_1}!\p"
+	.string "È un nome migliore di prima!\n"
+	.string "Che fortuna per te!$"
 
 GoldenrodCity_NameRatersHouse_Text_DoVisitAgain:
-	.string "I see.\n"
-	.string "Do come visit again.$"
+	.string "Capisco.\n"
+	.string "Torna a trovarmi.$"
 
 GoldenrodCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
-	.string "Done! From now on, this POKéMON\n"
-	.string "shall be known as {STR_VAR_1}!\p"
-	.string "It looks no different from before,\n"
-	.string "and yet, this is vastly superior!\p"
-	.string "How fortunate for you!$"
+	.string "Fatto! Da ora questo POKéMON\n"
+	.string "si chiamerà {STR_VAR_1}!\p"
+	.string "Sembra uguale a prima,\n"
+	.string "eppure è molto meglio!\p"
+	.string "Che fortuna per te!$"
 
 GoldenrodCity_NameRatersHouse_Text_MagnificentName:
-	.string "Hmmm… {STR_VAR_1} it is!\p"
-	.string "This is a magnificent nickname!\n"
-	.string "It is impeccably beyond reproach!\p"
-	.string "You'll do well to cherish your\n"
-	.string "{STR_VAR_1} now and beyond.$"
+	.string "Mmm… {STR_VAR_1}!\p"
+	.string "Che soprannome magnifico!\n"
+	.string "È impeccabile, senza difetti!\p"
+	.string "Custodisci con cura il tuo\n"
+	.string "{STR_VAR_1}, ora e sempre.$"
 
 GoldenrodCity_NameRatersHouse_Text_ThatIsMerelyAnEgg:
-	.string "Now, now.\n"
-	.string "That is merely an EGG!$"
+	.string "Calma, calma.\n"
+	.string "È solo un UOVO!$"
 
 

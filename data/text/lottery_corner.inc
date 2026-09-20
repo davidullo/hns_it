@@ -9,20 +9,20 @@ LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
 	.string "LOTO TICKET?$"
 
 LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow:
-	.string "Please come back tomorrow.$"
+	.string "Torna domani.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain:
-	.string "Please do visit again.$"
+	.string "Torna a trovarci.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket:
-	.string "Please pick a LOTO TICKET.\n"
+	.string "Scegli un BIGLIETTO LOTO.\n"
 	.string "…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketNumberIsXPleaseWait:
-	.string "The LOTO TICKET number is {STR_VAR_1}.\p"
-	.string "I need to run a check on this number\n"
-	.string "to see if it matches any of your\l"
-	.string "POKéMON's ID numbers. Please wait.$"
+	.string "Il numero del BIGLIETTO LOTO è {STR_VAR_1}.\p"
+	.string "Devo controllare questo numero\n"
+	.string "per vedere se corrisponde a un\l"
+	.string "ID dei tuoi POKéMON. Attendi.$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPartyMon:
 	.string "Congratulations!\p"
@@ -37,41 +37,41 @@ LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPCMon:
 	.string "LOTO TICKET's number!$"
 
 LilycoveCity_DepartmentStore_1F_Text_NoNumbersMatched:
-	.string "I'm sorry.\n"
-	.string "None of the numbers matched.$"
+	.string "Mi dispiace.\n"
+	.string "Nessun numero corrisponde.$"
 
 LilycoveCity_DepartmentStore_1F_Text_TwoDigitsMatched:
-	.string "Two digits matched, so you win the\n"
-	.string "third prize!\l"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Due cifre uguali: vinci il\n"
+	.string "terzo premio!\l"
+	.string "Hai vinto {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_ThreeDigitsMatched:
-	.string "Three digits matched, so you win the\n"
-	.string "second prize!\l"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Tre cifre uguali: vinci il\n"
+	.string "secondo premio!\l"
+	.string "Hai vinto {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FourDigitsMatched:
-	.string "Four digits matched, so you win the\n"
-	.string "first prize!\l"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Quattro cifre azzeccate, vinci il\n"
+	.string "secondo premio!\l"
+	.string "Hai vinto {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_AllFiveDigitsMatched:
-	.string "Oh, my goodness, all five digits\n"
-	.string "matched!\p"
-	.string "You've won the jackpot prize!\n"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Oh, santo cielo, cinque cifre\n"
+	.string "azzeccate!\p"
+	.string "Hai vinto il primo premio!\n"
+	.string "Hai vinto {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_NoRoomForThis:
 	.string "Oh?\n"
-	.string "You seem to have no room for this.\p"
-	.string "Please make room in your BAG and\n"
-	.string "let me know.$"
+	.string "Sembra che tu non abbia spazio.\p"
+	.string "Fai spazio nella BORSA e\n"
+	.string "avvisami.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PrizeWeveBeenHolding:
 	.string "{PLAYER}?\n"
-	.string "Yes, I've been expecting you.\p"
-	.string "This is the prize we've been holding\n"
-	.string "for you.$"
+	.string "Sì, ti aspettavo.\p"
+	.string "Questo è il premio che ti abbiamo\n"
+	.string "serbato.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain2:
-	.string "Please do visit again.$"
+	.string "Torna a trovarci.$"

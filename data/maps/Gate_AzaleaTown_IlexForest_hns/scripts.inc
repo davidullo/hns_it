@@ -18,11 +18,11 @@ Gate_AzaleaTown_IlexForest_EventScript_Granny::
 	end
 
 Gate_AzaleaTown_IlexForest_Text_Officer:
-	.string "ILEX FOREST is big.\n"
-	.string "Be careful!\l"
-	.string "Don't get lost.$"
+	.string "ILEX FOREST è vasto.\n"
+	.string "Cautela!\l"
+	.string "Non perderti.$"
 
 Gate_AzaleaTown_IlexForest_Text_Granny:
-	.string "The ILEX FOREST is watched\n"
-	.string "over by its protector.\p"
-	.string "Stay out of mischief!$"
+	.string "L'ILEX FOREST è protetto\n"
+	.string "dal suo protettore.\p"
+	.string "Non fate i birbanti!$"

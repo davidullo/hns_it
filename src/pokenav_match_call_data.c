@@ -525,7 +525,7 @@ static const struct MatchCallStructTrainer sJuanMatchCallHeader =
     .textData = sJuanTextScripts
 };
 
-static const u8 gText_EliteFourMatchCallDesc[] = _("ELITE FOUR");
+static const u8 gText_EliteFourMatchCallDesc[] = _("SUPERQUATTRO");
 
 static const match_call_text_data_t sSidneyTextScripts[] = {
     { MatchCall_Text_Sidney, ALWAYS_AVAILABLE, NO_FLAG_TO_SET },
@@ -602,7 +602,7 @@ static const struct MatchCallStructTrainer sWallaceMatchCallHeader =
     .mapSec = MAPSEC_INDIGO_PLATEAU,
     .flag = FLAG_REGISTERED_WALLACE,
     .rematchTableIdx = REMATCH_WALLACE,
-    .desc = COMPOUND_STRING("CHAMPION"),
+    .desc = COMPOUND_STRING("CAMPIONE"),
     .name = NULL,
     .textData = sWallaceTextScripts
 };
@@ -973,7 +973,7 @@ static const struct MatchCallStructTrainer sJuanMatchCallHeader =
     .textData = sJuanTextScripts
 };
 
-static const u8 gText_EliteFourMatchCallDesc[] = _("ELITE FOUR");
+static const u8 gText_EliteFourMatchCallDesc[] = _("SUPERQUATTRO");
 
 static const match_call_text_data_t sSidneyTextScripts[] = {
     { MatchCall_Text_Sidney, ALWAYS_AVAILABLE, NO_FLAG_TO_SET },
@@ -1050,7 +1050,7 @@ static const struct MatchCallStructTrainer sWallaceMatchCallHeader =
     .mapSec = MAPSEC_EVER_GRANDE_CITY,
     .flag = FLAG_REGISTERED_WALLACE,
     .rematchTableIdx = REMATCH_WALLACE,
-    .desc = COMPOUND_STRING("CHAMPION"),
+    .desc = COMPOUND_STRING("CAMPIONE"),
     .name = NULL,
     .textData = sWallaceTextScripts
 };

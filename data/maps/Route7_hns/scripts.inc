@@ -26,5 +26,5 @@ Route7_Text_UndergroundPathSign:
 	.string "CELADON POLICE$"
 
 Route7_Text_LockedDoor:
-	.string "It's locked…$"
+	.string "È chiuso…$"
 

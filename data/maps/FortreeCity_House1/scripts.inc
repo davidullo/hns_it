@@ -41,37 +41,37 @@ FortreeCity_House1_EventScript_Zigzagoon::
 	end
 
 FortreeCity_House1_Text_YouWillTradeWontYou:
-	.string "Wrooooaaar! I need it!\n"
-	.string "I have to get me a {STR_VAR_1}!\l"
-	.string "I'll do anything for it!\p"
-	.string "…Uh… Did you hear that?\n"
-	.string "My shout from the bottom of my heart?\p"
-	.string "Having heard that, you will trade\n"
-	.string "your {STR_VAR_1} for my {STR_VAR_2},\l"
-	.string "won't you?$"
+	.string "Wrooooaaar! Mi serve!\n"
+	.string "Devo avere un {STR_VAR_1}!\l"
+	.string "Per questo farei di tutto!\p"
+	.string "…Uh… Hai sentito?\n"
+	.string "Il mio grido dal profondo del cuore?\p"
+	.string "Sentito ciò, scambierai il tuo\n"
+	.string "{STR_VAR_1} col mio {STR_VAR_2},\l"
+	.string "vero?$"
 
 FortreeCity_House1_Text_MonYouTakeCare:
-	.string "Oh, yeah, right on!\p"
-	.string "{STR_VAR_1}, welcome!\n"
-	.string "{STR_VAR_2}, you take care!$"
+	.string "Oh, sì, ottimo!\p"
+	.string "Ciao, {STR_VAR_1}!\n"
+	.string "{STR_VAR_2}, abbi cura di te!$"
 
 FortreeCity_House1_Text_ThisIsntAMon:
 	.string "Ah, no, temo di no.\n"
 	.string "Non è un {STR_VAR_1}.$"
 
 FortreeCity_House1_Text_YouWontTradeMe:
-	.string "No? You won't trade me?\n"
-	.string "Even after I bared my heart to you?$"
+	.string "No? Non mi scambi?\n"
+	.string "Dopo che ti ho aperto il cuore?$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
-	.string "I'm going to make VOLBEAT super\n"
-	.string "strong from this moment on!\p"
-	.string "I hope you do the same with PLUSLE!$"
+	.string "Rendo VOLBEAT fortissimo\n"
+	.string "da questo momento in poi!\p"
+	.string "Fallo anche tu con PLUSLE!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers:
-	.string "Trading POKéMON with others…\p"
-	.string "It's as if you're trading your own\n"
-	.string "memories with other people.$"
+	.string "Scambiare POKéMON con altri…\p"
+	.string "È come scambiare le tue\n"
+	.string "memorie con altri.$"
 
 FortreeCity_House1_Text_Zigzagoon:
 	.string "ZIGZAGOON: Gumomoh?$"

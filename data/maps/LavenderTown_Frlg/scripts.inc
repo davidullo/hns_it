@@ -47,42 +47,42 @@ LavenderTown_EventScript_PokemonTowerSign::
 	end
 
 LavenderTown_Text_DoYouBelieveInGhosts::
-	.string "Do you believe in ghosts?$"
+	.string "Credi nei fantasmi?$"
 
 LavenderTown_Text_SoThereAreBelievers::
-	.string "Really?\n"
-	.string "So there are believers…$"
+	.string "Davvero?\n"
+	.string "Quindi ci sono dei credenti…$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
-	.string "Hahaha, I guess not.\p"
-	.string "That white hand on your shoulder…\n"
-	.string "I'm just imagining it.$"
+	.string "Ah ah ah, immaginavo.\p"
+	.string "Quella mano bianca sulla tua spalla…\n"
+	.string "Me la sono solo immaginata.$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-	.string "This town is known as the grave\n"
-	.string "site of POKéMON.\p"
-	.string "Memorial services are held in\n"
-	.string "POKéMON TOWER.$"
+	.string "Questa città è nota come il\n"
+	.string "cimitero dei POKéMON.\p"
+	.string "Le funzioni si tengono alla\n"
+	.string "TORRE POKéMON.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-	.string "Ghosts appeared in POKéMON TOWER.\p"
-	.string "I think they're the spirits of\n"
-	.string "POKéMON that the ROCKETS killed.$"
+	.string "Sono apparsi fantasmi alla TORRE\p"
+	.string "POKéMON. Credo siano gli spiriti dei\n"
+	.string "POKéMON uccisi dai ROCKET.$"
 
 LavenderTown_Text_TownSign::
-	.string "LAVENDER TOWN\n"
-	.string "The Noble Purple Town$"
+	.string "LAVENDER\n"
+	.string "La nobile città viola$"
 
 LavenderTown_Text_SilphScopeNotice::
-	.string "New SILPH SCOPE!\n"
-	.string "Make the Invisible Plain to See!\p"
-	.string "SILPH CO.$"
+	.string "Nuovo SPETTROSCOPIO!\n"
+	.string "Rendi visibile l'invisibile!\p"
+	.string "SILPH SPA$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-	.string "LAVENDER VOLUNTEER\n"
-	.string "POKéMON HOUSE$"
+	.string "CASA DEI POKéMON\n"
+	.string "DEI VOLONTARI$"
 
 LavenderTown_Text_PokemonTowerSign::
-	.string "POKéMON TOWER\n"
-	.string "Becalm the Spirits of POKéMON$"
+	.string "TORRE POKéMON\n"
+	.string "Placa gli spiriti dei POKéMON$"
 

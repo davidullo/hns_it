@@ -73,74 +73,74 @@ CeruleanCity_House1_EventScript_StopDescribingBadges::
 	end
 
 CeruleanCity_House1_Text_BadgesHaveAmazingSecrets::
-	.string "Only skilled TRAINERS can collect\n"
-	.string "POKéMON BADGES.\p"
-	.string "I see you have at least one.\p"
-	.string "Those BADGES have amazing secrets,\n"
-	.string "did you know?$"
+	.string "Solo gli ALLENATORI esperti\n"
+	.string "le ottengono.\p"
+	.string "Ne vedo almeno una.\p"
+	.string "Quelle MEDAGLIE nascondono\n"
+	.string "segreti, sai?$"
 
 CeruleanCity_House1_Text_DescribeWhichBadge::
-	.string "Now then…\p"
-	.string "Which of the eight BADGES should\n"
-	.string "I describe?$"
+	.string "Allora…\p"
+	.string "Quale delle otto MEDAGLIE\n"
+	.string "descrivo?$"
 
 CeruleanCity_House1_Text_ComeVisitAnytime::
-	.string "Come visit me anytime you wish.$"
+	.string "Vieni a trovarmi quando vuoi.$"
 
 CeruleanCity_House1_Text_AttackStatFlash::
-	.string "The ATTACK stat of all your\n"
-	.string "POKéMON increases a little bit.\p"
-	.string "It also lets you use the move\n"
-	.string "FLASH outside of battle.$"
+	.string "L'ATTACCO di tutti i tuoi\n"
+	.string "POKéMON aumenta un po'.\p"
+	.string "Inoltre, fuori dalla lotta\n"
+	.string "puoi usare BALENO.$"
 
 CeruleanCity_House1_Text_ObeyLv30Cut::
-	.string "POKéMON up to Lv. 30 will obey\n"
-	.string "you.\p"
-	.string "That includes even outsiders you\n"
-	.string "obtain in trades.\p"
-	.string "POKéMON of higher levels will\n"
-	.string "be unruly in battle, however.\p"
-	.string "It also lets you use the move\n"
-	.string "CUT outside of battle.$"
+	.string "I POKéMON fino al liv. 30\n"
+	.string "ti ubbidiranno.\p"
+	.string "Anche quelli ottenuti\n"
+	.string "negli scambi.\p"
+	.string "Quelli di livello più alto\n"
+	.string "in lotta saranno ribelli.\p"
+	.string "Inoltre, fuori dalla lotta\n"
+	.string "puoi usare TAGLIO.$"
 
 CeruleanCity_House1_Text_SpeedStatFly::
-	.string "The SPEED stat of all your\n"
-	.string "POKéMON increases a little bit.\p"
-	.string "It also lets you use the move\n"
-	.string "FLY outside of battle.$"
+	.string "La VELOCITÀ di tutti i\n"
+	.string "tuoi POKéMON aumenta un po'.\p"
+	.string "Inoltre, fuori dalla lotta\n"
+	.string "puoi usare VOLO.$"
 
 CeruleanCity_House1_Text_ObeyLv50Strength::
-	.string "POKéMON up to Lv. 50 will obey\n"
-	.string "you.\p"
-	.string "That includes even outsiders you\n"
-	.string "obtain in trades.\p"
-	.string "POKéMON of higher levels will\n"
-	.string "be unruly in battle, however.\p"
-	.string "It also lets you use the move\n"
-	.string "STRENGTH outside of battle.$"
+	.string "I POKéMON fino al liv. 50\n"
+	.string "ti ubbidiranno.\p"
+	.string "Anche quelli ottenuti\n"
+	.string "negli scambi.\p"
+	.string "Quelli di livello più alto\n"
+	.string "in lotta saranno ribelli.\p"
+	.string "Inoltre, fuori dalla lotta\n"
+	.string "puoi usare FORZA.$"
 
 CeruleanCity_House1_Text_DefenseStatSurf::
-	.string "The DEFENSE stat of all your\n"
-	.string "POKéMON increases a little bit.\p"
-	.string "It also lets you use the move\n"
-	.string "SURF outside of battle.$"
+	.string "La DIFESA di tutti i tuoi\n"
+	.string "POKéMON aumenta un po'.\p"
+	.string "Inoltre, fuori dalla lotta\n"
+	.string "puoi usare SURF.$"
 
 CeruleanCity_House1_Text_ObeyLv70RockSmash::
-	.string "POKéMON up to Lv. 70 will obey\n"
-	.string "you.\p"
-	.string "That includes even outsiders you\n"
-	.string "obtain in trades.\p"
-	.string "POKéMON of higher levels will\n"
-	.string "be unruly in battle, however.\p"
-	.string "It also lets you use the move\n"
-	.string "ROCK SMASH outside of battle.$"
+	.string "I POKéMON fino al liv. 70\n"
+	.string "ti ubbidiranno.\p"
+	.string "Anche quelli ottenuti\n"
+	.string "negli scambi.\p"
+	.string "Quelli di livello più alto\n"
+	.string "in lotta saranno ribelli.\p"
+	.string "Inoltre, fuori dalla lotta\n"
+	.string "puoi usare SPACCAROCCIA.$"
 
 CeruleanCity_House1_Text_SpStatsWaterfall::
-	.string "The SP. ATK and SP. DEF stats of\n"
-	.string "all your POKéMON rise a little bit.\p"
-	.string "It also lets you use the move\n"
-	.string "WATERFALL outside of battle.$"
+	.string "ATT. SPEC. e DIF. SPEC. dei\n"
+	.string "tuoi POKéMON salgono un po'.\p"
+	.string "Inoltre, fuori dalla lotta\n"
+	.string "puoi usare CASCATA.$"
 
 CeruleanCity_House1_Text_AllMonsWillObeyYou::
-	.string "All POKéMON will obey you!$"
+	.string "Ogni POKéMON ti ubbidirà!$"
 

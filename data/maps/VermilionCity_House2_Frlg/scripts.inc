@@ -50,7 +50,7 @@ VermilionCity_House2_Text_ThisIsNoMon::
 	.string "to me!$"
 
 VermilionCity_House2_Text_ThankYou::
-	.string "Thank you!$"
+	.string "Grazie!$"
 
 VermilionCity_House2_Text_HowIsMyOldMon::
 	.string "How is my old {STR_VAR_2}?\p"

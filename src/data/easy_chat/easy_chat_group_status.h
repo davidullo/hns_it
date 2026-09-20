@@ -73,7 +73,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_BEAUTY)] =
     {
-        .text = COMPOUND_STRING("BEAUTY"),
+        .text = COMPOUND_STRING("BELLEZZA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_COLOR_CHANGE),
         .enabled = TRUE,
     },

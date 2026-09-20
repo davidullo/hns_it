@@ -55,21 +55,21 @@ FuchsiaCity_House3_EventScript_CancelForgetMove::
 
 FuchsiaCity_House3_Text_WouldYouLikeToForgetMove::
 	.string "Uh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their\n"
-	.string "moves.\p"
-	.string "Would you like me to do that?$"
+	.string "Ah, sì, sono il CANCELLAMOSSE.\p"
+	.string "Faccio dimenticare le mosse ai\n"
+	.string "POKéMON.\p"
+	.string "Vuoi che lo faccia?$"
 
 FuchsiaCity_House3_Text_WhichMonShouldForgetMove::
-	.string "Which POKéMON should forget a\n"
-	.string "move?$"
+	.string "Quale POKéMON dimentica una\n"
+	.string "mossa?$"
 
 FuchsiaCity_House3_Text_WhichMoveShouldBeForgotten::
 	.string "Quale mossa dimenticare?$"
 
 FuchsiaCity_House3_Text_MonOnlyKnowsOneMove::
-	.string "{STR_VAR_1} seems to know only one\n"
-	.string "move…$"
+	.string "{STR_VAR_1} conosce una sola\n"
+	.string "mossa…$"
 
 FuchsiaCity_House3_Text_MonsMoveShouldBeForgotten::
 	.string "Hm! {STR_VAR_2} di {STR_VAR_1}?\n"
@@ -81,8 +81,8 @@ FuchsiaCity_House3_Text_MonHasForgottenMoveCompletely::
 	.string "del tutto {STR_VAR_2}.$"
 
 FuchsiaCity_House3_Text_ComeAgainToForgetOtherMoves::
-	.string "Come again if there are other\n"
-	.string "moves to be forgotten.$"
+	.string "Torna se ci sono altre mosse\n"
+	.string "da dimenticare.$"
 
 FuchsiaCity_House3_Text_NoEggShouldKnowMoves::
 	.string "Cosa?\n"

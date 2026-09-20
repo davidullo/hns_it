@@ -39,9 +39,9 @@ VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
 	.string "Tell me, do you like to fish?$"
 
 VermilionCity_House1_Text_TakeThisAndFish::
-	.string "Grand! I like your style.\n"
-	.string "I think we can be friends.\p"
-	.string "Take this and fish, young friend!$"
+	.string "Grande! Mi piaci.\n"
+	.string "Possiamo diventare amici.\p"
+	.string "Prendi e pesca, amico mio!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
 	.string "{PLAYER} received an OLD ROD from\n"
@@ -55,11 +55,11 @@ VermilionCity_House1_Text_FishingIsAWayOfLife::
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
 	.string "Oh…\n"
-	.string "That's so disappointing…$"
+	.string "Che delusione…$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
-	.string "Hello there, {PLAYER}!\p"
-	.string "How are the fish biting?$"
+	.string "Ciao, {PLAYER}!\p"
+	.string "Come abboccano i pesci?$"
 
 VermilionCity_House1_Text_NoRoomForNiceGift::
 	.string "Oh, no!\p"

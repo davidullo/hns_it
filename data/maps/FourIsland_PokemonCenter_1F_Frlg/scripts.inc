@@ -28,22 +28,22 @@ FourIsland_PokemonCenter_1F_EventScript_Gentleman::
 
 @ The 5 texts below are supposed to be in FourIsland_House1
 Text_BodySlamTeach::
-	.string "Ready?\n"
+	.string "Si va?\n"
 	.string "Boing!\p"
-	.string "We're having a BODY SLAM match\n"
-	.string "to see who wimps out first.\p"
-	.string "If you were to join us, you'd be\n"
-	.string "squashed like a bug, though…\p"
-	.string "How about I teach BODY SLAM to\n"
-	.string "a POKéMON of yours instead?$"
+	.string "Facciamo a CORPOSCONTRO\n"
+	.string "chi molla per primo.\p"
+	.string "Se ti unissi a noi, finiresti\n"
+	.string "schiacciato come un insetto…\p"
+	.string "Ti insegno CORPOSCONTRO\n"
+	.string "a un tuo POKéMON, va bene?$"
 
 Text_BodySlamDeclined::
-	.string "Come again!\n"
+	.string "Ripassa!\n"
 	.string "Boing!$"
 
 Text_BodySlamWhichMon::
-	.string "Which POKéMON wants to learn how\n"
-	.string "to BODY SLAM?$"
+	.string "Quale POKéMON vuole imparare\n"
+	.string "SCHIANTO?$"
 
 Text_BodySlamTaught::
 	.string "Boioing!$"
@@ -53,21 +53,21 @@ FourIsland_House1_Text_FatMan::
 	.string "おまえ　おもいなあー！$"
 
 FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
-	.string "There's a rare kind of ICE POKéMON\n"
-	.string "that lives in the cave.\p"
-	.string "We get a lot of visitors hoping to\n"
-	.string "see that POKéMON.$"
+	.string "C'è un raro POKéMON GHIACCIO\n"
+	.string "che vive nella grotta.\p"
+	.string "Molti visitatori sperano\n"
+	.string "di vederlo.$"
 
 FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
-	.string "Oh? A POKéMON EGG?\n"
-	.string "…I have no idea.\p"
-	.string "…Oh, wait. The DAY-CARE people\n"
-	.string "in town were saying something.\p"
-	.string "They said that they'd found EGGS\n"
-	.string "before on their property.$"
+	.string "Un UOVO POKéMON?\n"
+	.string "…Non ne ho idea.\p"
+	.string "…Ah, aspetta. Alla PENSIONE\n"
+	.string "in città dicevano qualcosa.\p"
+	.string "Dicevano di aver trovato UOVA\n"
+	.string "già nel loro terreno.$"
 
 FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
-	.string "What's this?\p"
-	.string "The new POKéMON JOURNAL hasn't\n"
-	.string "arrived on this island?$"
+	.string "Cos'è?\p"
+	.string "La nuova AGENDA POKéMON non\n"
+	.string "è arrivata sull'isola?$"
 

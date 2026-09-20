@@ -124,7 +124,7 @@ SootopolisCity_Gym_B1F_Text_OliviaIntro:
 	.string "Don't think I'm a pushover.$"
 
 SootopolisCity_Gym_B1F_Text_OliviaDefeat:
-	.string "I was beaten…$"
+	.string "Ho perso…$"
 
 SootopolisCity_Gym_B1F_Text_OliviaPostBattle:
 	.string "I think you have potential.\n"

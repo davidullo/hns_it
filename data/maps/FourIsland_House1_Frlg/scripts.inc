@@ -6,6 +6,6 @@ FourIsland_House1_EventScript_FatMan::
 	end
 
 FourIsland_House1_Text_YoureAwfullyHeavy::
-	.string "There! Boing!\n"
-	.string "You're awfully heavy!$"
+	.string "Ecco! Boing!\n"
+	.string "Sei davvero pesante!$"
 

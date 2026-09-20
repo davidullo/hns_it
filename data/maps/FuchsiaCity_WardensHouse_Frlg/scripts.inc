@@ -59,56 +59,56 @@ FuchsiaCity_WardensHouse_EventScript_DisplaySign2::
 	end
 
 FuchsiaCity_WardensHouse_Text_HifFuffHefifoo::
-	.string "WARDEN: Hif fuff hefifoo!\p"
-	.string "Ha lof ha feef ee hafahi ho.\n"
+	.string "GUARDIANO: Hif fuff fiu!\p"
+	.string "Ha lof ha fif ii hafai ho.\n"
 	.string "Heff hee fwee!$"
 
 FuchsiaCity_WardensHouse_Text_AhHowheeHoHoo::
-	.string "Ah howhee ho hoo!\n"
-	.string "Eef ee hafahi ho!$"
+	.string "Ah ughi ho hu!\n"
+	.string "Iif ii hafai ho!$"
 
 FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
 	.string "Ha?\n"
-	.string "He ohay heh ha hoo ee haheh!$"
+	.string "He ohai heh ha hu i haheh!$"
 
 FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
-	.string "{PLAYER} gave the GOLD TEETH\n"
-	.string "to the WARDEN.$"
+	.string "{PLAYER} dà i DENTI D'ORO\n"
+	.string "al GUARDIANO.$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
-	.string "The WARDEN popped in his teeth!$"
+	.string "Il GUARDIANO si è messo i denti!$"
 
 FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
-	.string "WARDEN: Thanks, son!\n"
-	.string "You're a real lifesaver!\p"
-	.string "No one could understand a word\n"
-	.string "that I said, not a one!\p"
-	.string "I was too ashamed to show my face\n"
-	.string "around the OFFICE, even.\p"
-	.string "Let me give you something for your\n"
-	.string "trouble.$"
+	.string "GUARDIANO: Grazie!\n"
+	.string "Mi hai salvato davvero!\p"
+	.string "Nessuno capiva una parola\n"
+	.string "di quello che dicevo!\p"
+	.string "Mi vergognavo persino a\n"
+	.string "farmi vedere in UFFICIO.\p"
+	.string "Ti meriti qualcosa per la\n"
+	.string "fatica.$"
 
 FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
-	.string "WARDEN: Thank you, lassie!\n"
-	.string "You're a real lifesaver!\p"
-	.string "No one could understand a word\n"
-	.string "that I said, not a one!\p"
-	.string "I was too ashamed to show my face\n"
-	.string "around the OFFICE, even.\p"
-	.string "Let me give you something for your\n"
-	.string "trouble.$"
+	.string "GUARDIANO: Grazie, bimba!\n"
+	.string "Mi hai salvato davvero!\p"
+	.string "Nessuno capiva una parola\n"
+	.string "di quello che dicevo!\p"
+	.string "Mi vergognavo persino a\n"
+	.string "farmi vedere in UFFICIO.\p"
+	.string "Ti meriti qualcosa per la\n"
+	.string "fatica.$"
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
-	.string "{PLAYER} received HM04\n"
-	.string "from the WARDEN.$"
+	.string "{PLAYER} riceve MN04!\n"
+	.string "dal GUARDIANO.$"
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
-	.string "WARDEN: Inside HM04 you'll find\n"
-	.string "STRENGTH.\p"
-	.string "It lets POKéMON move boulders when\n"
-	.string "you're outside of battle.\p"
-	.string "Oh yes, did you find the SECRET\n"
-	.string "HOUSE in the SAFARI ZONE?$"
+	.string "GUARDIANO: Nella MN04 trovi\n"
+	.string "FORZA.\p"
+	.string "Permette ai POKéMON di spostare\n"
+	.string "i massi fuori dalla lotta.\p"
+	.string "Ah, hai trovato la CASA\n"
+	.string "SEGRETA nel SAFARI ZONE?$"
 
 @ Unused
 FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
@@ -116,10 +116,10 @@ FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
 	.string "いっぱいやんけ！$"
 
 FuchsiaCity_WardensHouse_Text_MonPhotosFossilsOnDisplay::
-	.string "POKéMON photos and fossils are on\n"
-	.string "display.$"
+	.string "Foto e fossili di POKéMON in\n"
+	.string "mostra.$"
 
 FuchsiaCity_WardensHouse_Text_OldMonMerchandiseOnDisplay::
-	.string "Old POKéMON merchandise is on\n"
-	.string "display.$"
+	.string "Vecchie cose POKéMON in\n"
+	.string "mostra.$"
 

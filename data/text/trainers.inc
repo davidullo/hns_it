@@ -3622,8 +3622,8 @@ Route124_Text_JennyIntro:
 	.string "this, POKéMON come around to play.$"
 
 Route124_Text_JennyDefeat:
-	.string "Oh, darn.\n"
-	.string "I've gone and lost.$"
+	.string "Oh, no…\n"
+	.string "Ho perso, ecco.$"
 
 Route124_Text_JennyPostBattle:
 	.string "While swimming, I noticed that some\n"
@@ -3786,7 +3786,7 @@ Route125_Text_NolenIntro:
 	.string "around for you!$"
 
 Route125_Text_NolenDefeat:
-	.string "I surrender!$"
+	.string "Mi arrendo!$"
 
 Route125_Text_NolenPostBattle:
 	.string "Sound travels faster in water than\n"

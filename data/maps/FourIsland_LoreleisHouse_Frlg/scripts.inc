@@ -33,31 +33,31 @@ FourIsland_LoreleisHouse_EventScript_Doll::
 	end
 
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
-	.string "LORELEI: There's something weighing\n"
-	.string "heavily on my mind.\p"
-	.string "If anything were to happen on\n"
-	.string "the island where I was born…\p"
-	.string "I wouldn't know about it if I were\n"
-	.string "in the POKéMON LEAGUE.\p"
-	.string "I wonder if that would make me\n"
-	.string "irresponsible to my home…$"
+	.string "LORELEI: Ho un pensiero che\n"
+	.string "mi pesa molto.\p"
+	.string "Se accadesse qualcosa\n"
+	.string "sull'isola dove sono nata…\p"
+	.string "non lo saprei se fossi\n"
+	.string "alla LEGA POKéMON.\p"
+	.string "Non so se sarei\n"
+	.string "sleale verso casa mia…$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
-	.string "LORELEI: So, you managed to solve\n"
-	.string "all the problems here?\p"
-	.string "That's wonderful.\p"
-	.string "That means there isn't any reason\n"
-	.string "for me to be here all the time.\p"
-	.string "Thank you…\p"
-	.string "I'll return to the POKéMON LEAGUE\n"
-	.string "in a short while.$"
+	.string "LORELEI: Hai risolto\n"
+	.string "tutti i problemi qui?\p"
+	.string "Che meraviglia.\p"
+	.string "Quindi non c'è motivo\n"
+	.string "che io resti qui sempre.\p"
+	.string "Grazie…\p"
+	.string "Tornerò alla LEGA POKéMON\n"
+	.string "tra poco.$"
 
 FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
-	.string "I don't know what will happen in\n"
-	.string "the future, but…\p"
-	.string "I will do what I can here and now.\n"
-	.string "That's all I can do.$"
+	.string "Non so cosa succederà\n"
+	.string "in futuro, ma…\p"
+	.string "Farò ciò che posso, qui e ora.\n"
+	.string "Questo posso fare.$"
 
 FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
-	.string "Stuffed POKéMON dolls galore!$"
+	.string "Peluche di POKéMON a iosa!$"
 

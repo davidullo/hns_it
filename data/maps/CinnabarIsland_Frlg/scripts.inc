@@ -352,35 +352,35 @@ CinnabarIsland_EventScript_GymSign::
 	end
 
 CinnabarIsland_Text_DoorIsLocked::
-	.string "The door is locked…$"
+	.string "La porta è chiusa…$"
 
 CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
-	.string "CINNABAR GYM's BLAINE is quite the\n"
-	.string "odd fellow.\p"
-	.string "He's lived on the island since way\n"
-	.string "before the LAB was built.$"
+	.string "BLAINE della PALESTRA di CANNELLA\n"
+	.string "è un tipo\p"
+	.string "strano. Vive sull'isola da molto\n"
+	.string "prima del laboratorio.$"
 
 CinnabarIsland_Text_ScientistsExperimentInMansion::
-	.string "Scientists conduct experiments \n"
-	.string "in the burned-out building.\p"
-	.string "You know, the one they call the\n"
-	.string "POKéMON MANSION.$"
+	.string "Gli scienziati fanno esperimenti\n"
+	.string "nell'edificio bruciato.\p"
+	.string "Sai, quello che chiamano la\n"
+	.string "VILLA POKéMON.$"
 
 CinnabarIsland_Text_IslandSign::
-	.string "CINNABAR ISLAND\n"
-	.string "The Fiery Town of Burning Desire$"
+	.string "ISOLA CANNELLA\n"
+	.string "La città ardente di desiderio$"
 
 CinnabarIsland_Text_PokemonLab::
-	.string "POKéMON LAB$"
+	.string "LABORATORIO POKéMON$"
 
 CinnabarIsland_Text_GymSign::
-	.string "CINNABAR ISLAND POKéMON GYM\n"
-	.string "LEADER: BLAINE\l"
-	.string "The Hotheaded Quiz Master!$"
+	.string "PALESTRA POKéMON DI CANNELLA\n"
+	.string "CAPO: BLAINE\l"
+	.string "Re dei quiz irascibile!$"
 
 CinnabarIsland_Text_HeyIfItIsntPlayer::
-	.string "Huh?\n"
-	.string "Hey, if it isn't {PLAYER}!$"
+	.string "Eh?\n"
+	.string "Ehi, ma sei {PLAYER}!$"
 
 CinnabarIsland_Text_ComeWithMeToOneIsland::
 	.string "Look, it's me, BILL.\n"
@@ -397,32 +397,32 @@ CinnabarIsland_Text_ComeWithMeToOneIsland::
 	.string "Do you feel like coming with me?$"
 
 CinnabarIsland_Text_AllRightLetsGo::
-	.string "All right, then.\n"
-	.string "Let's go!$"
+	.string "Va bene, dai.\n"
+	.string "Andiamo!$"
 
 CinnabarIsland_Text_IllBeWaitingInPokeCenter::
-	.string "What, are you too busy?\p"
-	.string "Well, all right.\n"
-	.string "The boat hasn't arrived yet anyway.\p"
-	.string "I'll be waiting at the POKéMON\n"
-	.string "CENTER over there.\p"
-	.string "Come see me when you're done with\n"
-	.string "your business here.$"
+	.string "Che, sei occupato?\p"
+	.string "Va bene, dai.\n"
+	.string "La nave non è ancora arrivata.\p"
+	.string "Ti aspetto al POKéMON\n"
+	.string "CENTER là.\p"
+	.string "Passa a trovarmi quando hai\n"
+	.string "finito qui.$"
 
 CinnabarIsland_Text_MyPalsBoatArrived::
-	.string "Looks like my pal's boat arrived,\n"
-	.string "too.\p"
-	.string "He sent it specially here to\n"
-	.string "CINNABAR to pick me up.$"
+	.string "Sembra che sia arrivata anche\n"
+	.string "la barca\p"
+	.string "del mio amico. L'ha mandata\n"
+	.string "a CANNELLA per prendermi.$"
 
 CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
-	.string "Hey, wasn't that a long cruise?\p"
-	.string "My buddy CELIO seemed to enjoy\n"
-	.string "your company.\p"
-	.string "I'm sure he'd welcome you if you\n"
-	.string "were to visit him again.\p"
-	.string "If you have a TRI-PASS, you can\n"
-	.string "always take a ferry there from\l"
-	.string "VERMILION PORT.\p"
-	.string "All right, thanks for your company!$"
+	.string "Ehi, che crociera lunga, eh?\p"
+	.string "Il mio amico CELIO si è trovato\n"
+	.string "bene con te.\p"
+	.string "Certo che ti accoglierebbe\n"
+	.string "se tornassi a trovarlo.\p"
+	.string "Col TRI-PASS puoi sempre\n"
+	.string "imbarcarti dal porto di\l"
+	.string "ARANCIOPOLI.\p"
+	.string "Va bene, grazie della compagnia!$"
 

@@ -160,23 +160,23 @@ CeruleanCity_Gym_EventScript_GymGuyAfter::
 	end
 
 CeruleanCity_Gym_Text_GymStatue::
-    .string "CERULEAN POKéMON GYM\n"
-    .string "LEADER: MISTY\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "PALESTRA CERULEAN\n"
+    .string "CAPO: MISTY\p"
+	.string "VINCITORI:\n"
+	.string "BLU,ROSSO$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-    .string "CERULEAN POKéMON GYM\n"
-    .string "LEADER: MISTY\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+    .string "PALESTRA CERULEAN\n"
+    .string "CAPO: MISTY\p"
+    .string "VINCITORI:\n"
+	.string "BLU,ROSSO,{PLAYER}$"
 
 CeruleanGym_Text_Note:
-	.string "Sorry, I'll be out for a while.\n"
-	.string "MISTY, GYM LEADER\p"
-	.string "Since MISTY's out, we'll be away\n"
-	.string "too.\l"
-	.string "GYM TRAINERS$"
+	.string "Scusate, sarò via per un po'.\n"
+	.string "MISTY, CAPOPALESTRA\p"
+	.string "Dato che MISTY è via, anche\n"
+	.string "noi.\l"
+	.string "ALLENATORI$"
 
 
 CeruleanCity_Gym_EventScript_Misty::
@@ -214,116 +214,116 @@ CeruleanCity_Gym_EventScript_Misty_Defeated::
 	end
 
 CeruleanGym_Text_GruntIntro:
-	.string "Oops! I so sorry! You not hurt,\n"
-	.string "okay?\p"
-	.string "I very busy. No time for talking\n"
-	.string "with you. Not good for me if\l"
-	.string "seen by somebody.$"
+	.string "Ops! Scusa! Stai bene,\n"
+	.string "ok?\p"
+	.string "Io molto occupato. Non ho\n"
+	.string "tempo per te. Non va bene\l"
+	.string "se mi vedono.$"
 
 CeruleanGym_Text_GruntBigMistake:
-	.string "Oh no! You seen me already!\n"
-	.string "I make big mistake!$"
+	.string "Oh no! Mi hai già visto!\n"
+	.string "Che errore grande!$"
 
 CeruleanGym_Text_GruntBye:
-	.string "Hey, you! Forget you see me,\n"
-	.string "okay?\p"
-	.string "You see, hear, know nothing,\p"
-	.string "okay? Bye, kid! Nothing!\p"
-	.string "Bye-bye a go-go!$"
+	.string "Ehi, tu! Non mi hai visto,\n"
+	.string "ok?\p"
+	.string "Non vedi, non senti, non sai\p"
+	.string "ok? Ciao, pupo! Niente!\p"
+	.string "Ciao ciao, via!$"
 
 CeruleanGym_Text_Note1:
-	.string "Sorry, I'll be out for a while.\n"
-	.string "MISTY, GYM LEADER\p"
-	.string "Since MISTY's out, we'll be away\n"
-	.string "too. GYM TRAINERS$"
+	.string "Scusate, sarò via per un po'.\n"
+	.string "MISTY, CAPOPALESTRA\p"
+	.string "Dato che MISTY è via, anche\n"
+	.string "noi. ALLENATORI$"
 
 CeruleanGym_Text_MistyIntro:
-	.string "MISTY: I was expecting you, you\n"
-	.string "pest!\p"
-	.string "You may have a lot of JOHTO GYM\n"
-	.string "BADGES, but you'd better not\l"
-	.string "take me too lightly.\p"
-	.string "My WATER-type POKéMON are\n"
-	.string "tough!$"
+	.string "MISTY: Ti aspettavo, sai,\n"
+	.string "peste!\p"
+	.string "Avrai anche molte MEDAGLIE\n"
+	.string "di JOHTO, ma non prendermi\l"
+	.string "alla leggera.\p"
+	.string "I miei POKéMON ACQUA sono\n"
+	.string "tosti!$"
 
 CeruleanGym_Text_MistyWinLoss:
-	.string "MISTY: You really are good…\p"
-	.string "I'll admit that you are skilled…\p"
-	.string "Here you go. It's CASCADEBADGE.$"
+	.string "MISTY: Sei davvero forte…\p"
+	.string "Ammetto che sei abile…\p"
+	.string "Tieni. È la MEDAGLIA CASCATA.$"
 
 CeruleanGym_Text_ReceivedBadge:
-	.string "{PLAYER} received CASCADEBADGE.$"
+	.string "{PLAYER} riceve MEDAGLIA CASCATA.$"
 
 CeruleanGym_Text_MistyFightDone:
-	.string "MISTY: Are there many strong\n"
-	.string "trainers in JOHTO? Like you, I\l"
-	.string "mean.\p"
-	.string "I'm going to travel one day, so\n"
-	.string "I can battle some skilled\l"
-	.string "trainers.$"
+	.string "MISTY: Ci sono forti\n"
+	.string "ALLENATORI a JOHTO come te,\l"
+	.string "dico.\p"
+	.string "Un giorno viaggerò, così\n"
+	.string "potrò sfidare tanti\l"
+	.string "campioni.$"
 
 CeruleanGym_Text_MistyRematch:
-	.string "MISTY: Wow, you're the KANTO\n"
-	.string "CHAMPION now!\p"
-	.string "That's amazing! You've come a\n"
-	.string "long way, {PLAYER}.\p"
-	.string "But I'm not backing down.\p"
-	.string "Want to have a rematch with me?$"
+	.string "MISTY: Wow, sei CAMPIONE\n"
+	.string "di KANTO!\p"
+	.string "Fantastico! Hai fatto tanta\n"
+	.string "strada, {PLAYER}.\p"
+	.string "Ma non mi arrendo.\p"
+	.string "Vuoi una rivincita con me?$"
 
 CeruleanGym_Text_MistyRematchDefeat:
-	.string "MISTY: You really are good…$"
+	.string "MISTY: Sei davvero forte…$"
 
 CeruleanGym_Text_SwimmerfDianaSeen:
-	.string "Sorry about being away. Let's get\n"
-	.string "on with it!$"
+	.string "Scusa l'assenza. Forza,\n"
+	.string "iniziamo!$"
 
 CeruleanGym_Text_SwimmerfDianaBeaten:
-	.string "I give up! You're the winner!$"
+	.string "Mi arrendo! Hai vinto tu!$"
 
 CeruleanGym_Text_SwimmerfDianaAfter:
-	.string "I'll be swimming quietly.$"
+	.string "Nuoterò in silenzio.$"
 
 CeruleanGym_Text_SwimmerfBrianaSeen:
-	.string "Don't let my elegant swimming\n"
-	.string "unnerve you.$"
+	.string "Non lasciarti turbare dal\n"
+	.string "mio nuoto.$"
 
 CeruleanGym_Text_SwimmerfBrianaBeaten:
-	.string "Ooh, you calmly disposed of me…$"
+	.string "Ooh, mi hai battuto con calma…$"
 
 CeruleanGym_Text_SwimmerfBrianaAfter:
-	.string "Don't be too smug about beating\n"
-	.string "me.\p"
-	.string "MISTY will destroy you if you get\n"
-	.string "complacent.$"
+	.string "Non vantarti troppo di avermi\n"
+	.string "battuto.\p"
+	.string "MISTY ti distruggerà se ti\n"
+	.string "rilassi.$"
 
 CeruleanGym_Text_SwimmermParkerSeen:
 	.string "Glub…\p"
-	.string "I'm first! Come and get me!$"
+	.string "Sono il primo! Provaci!$"
 
 CeruleanGym_Text_SwimmermParkerBeaten:
-	.string "This can't be…$"
+	.string "Impossibile…$"
 
 CeruleanGym_Text_SwimmermParkerAfter:
-	.string "MISTY has gotten much better in\n"
-	.string "the past few years.\p"
-	.string "Don't let your guard down, or\n"
-	.string "you'll be crushed!$"
+	.string "MISTY è molto migliorata in\n"
+	.string "questi anni.\p"
+	.string "Non abbassare la guardia o\n"
+	.string "ti schiaccerà!$"
 
 CeruleanGym_Text_GuideIntro:
-	.string "Yo! CHAMP in making!\p"
-	.string "Since MISTY was away, I went out\p"
-	.string "for some fun too. He-he-he.$"
+	.string "CAMPIONE in erba!\p"
+	.string "Con MISTY via, sono uscito\p"
+	.string "a divertirmi anch'io. Eh eh eh.$"
 
 CeruleanGym_Text_GuideWin:
-	.string "Hoo, you showed me how tough you\n"
-	.string "are.\p"
-	.string "As always, that was one heck of a\n"
-	.string "great battle!$"
+	.string "Uau, mi hai mostrato quanto sei\n"
+	.string "forte.\p"
+	.string "Come sempre, è stata una lotta\n"
+	.string "fantastica!$"
 
 CeruleanGym_Text_Misty_GiveTM:
-	.string "Here, take this too.$"
+	.string "Tieni anche questo.$"
 
 CeruleanGym_Text_Misty_ExplainTM:
-	.string "It's the WATER PULSE TM.\p"
-	.string "It causes damage and sometimes\n"
-	.string "causes confusion as well!$"
+	.string "È la MT IDROPULSAR.\p"
+	.string "Infligge danni e a volte\n"
+	.string "causa anche confusione!$"

@@ -311,201 +311,201 @@ LilycoveCity_ContestHall_EventScript_SmartStageSign_hns::
 	end
 
 LilycoveCity_ContestHall_Text_TodayWonSmartnessContest_hns:
-	.string "This POKéMON won the BEAUTY CONTEST\n"
-	.string "here before.\p"
-	.string "Well, guess what? Today, I made it\n"
-	.string "win a SMARTNESS CONTEST!\p"
-	.string "My abilities scare even me…$"
+	.string "Questo POKéMON ha vinto la GARA DI\n"
+	.string "BELLEZZA qui.\p"
+	.string "E indovina? Oggi l'ho fatto\n"
+	.string "vincere una GARA DI INTELLIGENZA!\p"
+	.string "Le mie capacità spaventano me…$"
 
 LilycoveCity_ContestHall_Text_EnteredBunchOfContests_hns:
-	.string "I've entered a bunch of CONTESTS,\n"
-	.string "so I'm seeing how things work.\p"
-	.string "If you're in a COOLNESS CONTEST,\n"
-	.string "cool moves go over as appeals.\p"
-	.string "But smart moves and cute moves\n"
-	.string "don't go over well, for instance.$"
+	.string "Ho partecipato a molte GARE,\n"
+	.string "quindi vedo come funzionano.\p"
+	.string "In una GARA DI CLASSE,\n"
+	.string "le mosse cool piacciono al pubblico.\p"
+	.string "Ma le mosse intelligenti e carine\n"
+	.string "non funzionano bene, per esempio.$"
 
 LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks_hns:
-	.string "That young man who won earlier had\n"
-	.string "a whole bunch of different {POKEBLOCK}S.\p"
-	.string "Can you win if you had that many\n"
-	.string "of those things?$"
+	.string "Il ragazzo che ha vinto prima aveva\n"
+	.string "un mucchio di {POKEBLOCK} diversi.\p"
+	.string "Si può vincere con tutti quei\n"
+	.string "cosi?$"
 
 LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous_hns:
-	.string "Whoa, isn't this place humongous!\p"
-	.string "The tension in the air… It's not\n"
-	.string "like a CONTEST hall in the sticks.$"
+	.string "Uau, che posto enorme!\p"
+	.string "C'è tensione nell'aria… Non è\n"
+	.string "come una sala GARE di provincia.$"
 
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal_hns:
-	.string "MC: Okay, SMART POKéMON and their\n"
-	.string "TRAINERS, are you ready?!\p"
-	.string "Give it your best showing!\n"
-	.string "Let's appeal!$"
+	.string "MC: Ok, POKéMON INTELLIGENTI e\n"
+	.string "ALLENATORI, pronti?!\p"
+	.string "Date il meglio!\n"
+	.string "Esibitevi!$"
 
 LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest_hns:
-	.string "JUDGE: Are you enjoying this CONTEST?\p"
-	.string "Come back with three friends, and\n"
-	.string "all of you may enter a CONTEST!$"
+	.string "GIUDICE: Ti piace questa GARA?\p"
+	.string "Torna con tre amici, e\n"
+	.string "potrete entrarci tutti!$"
 
 LilycoveCity_ContestHall_Text_EnteredWrongContest_hns:
 	.string "Ayayayay…\n"
-	.string "I entered the wrong CONTEST.\p"
-	.string "I entered this tough POKéMON in\n"
-	.string "the SMARTNESS CONTEST…\p"
-	.string "Come on, wow them with a smart-looking\n"
+	.string "Ho sbagliato GARA.\p"
+	.string "Ho iscritto questo POKéMON forte\n"
+	.string "alla GARA DI INTELLIGENZA…\p"
+	.string "Forza, stupiscili con\n"
 	.string "ROCK SMASH.$"
 
 LilycoveCity_ContestHall_Text_RaisedMonToBeSmart_hns:
-	.string "I've spent many a year, and all my\n"
-	.string "wisdom besides, raising this POKéMON\l"
-	.string "to be smart.\p"
-	.string "It won't be easily bested by some\n"
-	.string "young pup's POKéMON.\p"
-	.string "My dear wife, are you seeing this?$"
+	.string "Ho passato anni, e tutta la mia\n"
+	.string "saggezza, ad allenare questo POKéMON\l"
+	.string "per renderlo intelligente.\p"
+	.string "Non sarà facile batterlo per il\n"
+	.string "POKéMON di un pivello.\p"
+	.string "Mia cara moglie, lo vedi?$"
 
 LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext_hns:
-	.string "There it is!\p"
-	.string "If my POKéMON pulls a smart move next,\n"
-	.string "the audience's excitement will peak!$"
+	.string "Eccoci!\p"
+	.string "Se il mio POKéMON usa una mossa\n"
+	.string "intelligente, il pubblico esplode!$"
 
 LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife_hns:
-	.string "Oh, dear, no!\p"
-	.string "My darling ZUBAT's LEECH LIFE is so\n"
-	.string "cute I kept using it over and over!\p"
-	.string "But these mean people don't appreciate\n"
-	.string "it at all!$"
+	.string "Oh, no, no!\p"
+	.string "Il LEECH LIFE del mio ZUBAT è così\n"
+	.string "carino che l'ho usato all'infinito!\p"
+	.string "Ma questa gente antipatica non lo\n"
+	.string "apprezza affatto!$"
 
 LilycoveCity_ContestHall_Text_YoureBeautifulGrandpa_hns:
-	.string "Kiyaaah! You're beautiful, Grandpa!$"
+	.string "Kiyaaah! Sei bellissimo, nonno!$"
 
 LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves_hns:
-	.string "Even when TRAINERS enter the same\n"
-	.string "kind of POKéMON, they all seem to use\l"
-	.string "different moves for appeals.\p"
-	.string "It's just like the way people have\n"
-	.string "different styles for battling.$"
+	.string "Anche se gli ALLENATORI usano\n"
+	.string "POKéMON simili, tutti usano\l"
+	.string "mosse diverse per esibirsi.\p"
+	.string "Come le persone, che hanno\n"
+	.string "stili diversi nel lottare.$"
 
 LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers_hns:
-	.string "I think the POKéMON look smarter\n"
-	.string "than their TRAINERS. By a lot.$"
+	.string "Trovo i POKéMON più intelligenti\n"
+	.string "dei loro ALLENATORI. E di molto.$"
 
 LilycoveCity_ContestHall_Text_StillLoveSmartnessContests_hns:
-	.string "When all's said and done, I still love\n"
-	.string "SMARTNESS CONTESTS.\p"
-	.string "That intellectual green color…\n"
-	.string "It's so… So… Cool.$"
+	.string "Tutto sommato, amo ancora le\n"
+	.string "GARE DI INTELLIGENZA.\p"
+	.string "Quel verde intellettuale…\n"
+	.string "È così… Così… Cool.$"
 
 LilycoveCity_ContestHall_Text_AreYouEnteringBeautyContest_hns:
-	.string "MC: Are you entering the BEAUTY\n"
-	.string "CONTEST, too? Good luck!$"
+	.string "MC: Partecipi anche tu alla\n"
+	.string "GARA BELLEZZA? Buona fortuna!$"
 
 LilycoveCity_ContestHall_Text_EveryPokemonPristineBeauty_hns:
-	.string "JUDGE: Ah, every POKéMON here is\n"
-	.string "a model of pristine beauty!\p"
-	.string "Why, I almost forgot to score them!$"
+	.string "GIUDICE: Ah, ogni POKéMON qui è\n"
+	.string "un modello di pura bellezza!\p"
+	.string "Quasi dimenticavo di valutarli!$"
 
 LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty_hns:
-	.string "A POKéMON this beautiful…\n"
-	.string "There isn't another one like it.\p"
-	.string "Everyone's eyes will be glued to\n"
-	.string "my beauty.$"
+	.string "Un POKéMON così bello…\n"
+	.string "Non ce n'è un altro uguale.\p"
+	.string "Tutti avranno gli occhi puntati\n"
+	.string "sulla mia bellezza.$"
 
 LilycoveCity_ContestHall_Text_OverdidGrooming_hns:
 	.string "Waaaah!\p"
-	.string "I brushed and groomed my POKéMON\n"
-	.string "carefully for this CONTEST…\p"
-	.string "But I overdid it…\n"
-	.string "My POKéMON's coat turned all scraggly…\p"
-	.string "What should I do?$"
+	.string "Ho spazzolato e toelettato il POKéMON\n"
+	.string "con cura per questa GARA…\p"
+	.string "Ma ho esagerato…\n"
+	.string "Il pelo è diventato tutto arruffato…\p"
+	.string "Che faccio?$"
 
 LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam_hns:
-	.string "This AURORA BEAM is so dazzling,\n"
-	.string "the JUDGE won't be able to see it.\p"
-	.string "Uh, wait a second…\n"
-	.string "That'll be meaningless, then!$"
+	.string "Questo AURORA BEAM è così abbagliante\n"
+	.string "che il GIUDICE non lo vedrà.\p"
+	.string "Uh, aspetta un attimo…\n"
+	.string "Allora non servirebbe a niente!$"
 
 LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe_hns:
-	.string "This pretty POKéMON looks just like\n"
-	.string "me when I was younger.\p"
-	.string "Right when I said that, my husband\n"
-	.string "spewed the coffee he was drinking.\p"
-	.string "Did I say something funny?$"
+	.string "Questo bel POKéMON mi somiglia\n"
+	.string "quando ero giovane.\p"
+	.string "Appena l'ho detto, mio marito\n"
+	.string "ha sputato il caffè che beveva.\p"
+	.string "Ho detto qualcosa di buffo?$"
 
 LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy_hns:
-	.string "You know, if I win at a BEAUTY\n"
-	.string "CONTEST, sure it makes me\l"
-	.string "happy. More than usual, anyway.$"
+	.string "Sai, se vinco una GARA DI\n"
+	.string "BELLEZZA, certo mi rende\l"
+	.string "felice. Più del solito, insomma.$"
 
 LilycoveCity_ContestHall_Text_GanderAtAllThosePrettyPokemon_hns:
 	.string "Wahahahah!\p"
-	.string "Will you take a gander at all those\n"
-	.string "pretty POKéMON!\l"
-	.string "I just love this sort of glitz!$"
+	.string "Guardate quanti bei\n"
+	.string "POKéMON!\l"
+	.string "Adoro tutto questo sfarzo!$"
 
 LilycoveCity_ContestHall_Text_CantWinOnBeautyAlone_hns:
-	.string "You can't always win on just beauty\n"
-	.string "alone.\p"
-	.string "You have to groom your POKéMON so\n"
-	.string "it's nice and glossy like mine.$"
+	.string "Non basta la bellezza da sola\n"
+	.string "per vincere.\p"
+	.string "Devi toelettare i POKéMON così\n"
+	.string "sono lucidi come i miei.$"
 
 LilycoveCity_ContestHall_Text_InTheMiddleOfContest_hns:
-	.string "MC: Uh-oh! Hello!\n"
-	.string "We're in the middle of a CONTEST!\p"
-	.string "Please enter at our registration\n"
-	.string "counter and come out, okay?$"
+	.string "MC: Oh-oh! Ciao!\n"
+	.string "Siamo nel mezzo di una GARA!\p"
+	.string "Entra al banco delle iscrizioni\n"
+	.string "e poi esci, ok?$"
 
 LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals_hns:
-	.string "JUDGE: Oh, such charming and cute\n"
-	.string "appeals!\p"
-	.string "Oh, my goodness! What a perfectly\n"
-	.string "adorable WATER SPORT appeal!$"
+	.string "GIUDICE: Oh, che esibizioni carine\n"
+	.string "e affascinanti!\p"
+	.string "Oh, cielo! Che esibizione WATER\n"
+	.string "SPORT adorabile!$"
 
 LilycoveCity_ContestHall_Text_MyAzurillWasDistracted_hns:
-	.string "Oh, no… My sweet AZURILL was\n"
-	.string "distracted by another POKéMON.$"
+	.string "Oh, no… Il mio dolce AZURILL è stato\n"
+	.string "distratto da un altro POKéMON.$"
 
 LilycoveCity_ContestHall_Text_NeverWonBattleButContest_hns:
-	.string "My POKéMON has never won in a battle,\n"
-	.string "but put it in a CONTEST and look out!$"
+	.string "Il mio POKéMON non ha mai vinto una\n"
+	.string "lotta, ma mettilo in una GARA e vedrai!$"
 
 LilycoveCity_ContestHall_Text_PetalDanceIsMarvel_hns:
-	.string "My POKéMON's PETAL DANCE is a marvel\n"
-	.string "of elegance.\p"
-	.string "I won't let anyone disturb its\n"
-	.string "performance.$"
+	.string "Il PETAL DANCE del mio POKéMON è una\n"
+	.string "meraviglia di eleganza.\p"
+	.string "Non lascerò che nessuno disturbi\n"
+	.string "la sua esibizione.$"
 
 LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter_hns:
-	.string "Everyone's POKéMON are very cute.\p"
-	.string "However, if my POKéMON were to make\n"
-	.string "a cute appeal…\p"
-	.string "I'm sure that it would be so much \n"
-	.string "cuter than the others.$"
+	.string "I POKéMON di tutti sono molto carini.\p"
+	.string "Però, se il mio POKéMON facesse\n"
+	.string "un'esibizione carina…\p"
+	.string "Sono certo che sarebbe molto \n"
+	.string "più carino degli altri.$"
 
 LilycoveCity_ContestHall_Text_MyChildIsInContest_hns:
-	.string "My child is in this CONTEST.$"
+	.string "Mio figlio è in questa GARA.$"
 
 LilycoveCity_ContestHall_Text_ComeOnDear_hns:
-	.string "Come on, dear. Go for it!\n"
-	.string "Your POKéMON is the best!$"
+	.string "Dai, forza!\n"
+	.string "Il tuo POKéMON è il migliore!$"
 
 LilycoveCity_ContestHall_Text_ThatGirlThereIsCutest_hns:
-	.string "I think that girl over there is\n"
-	.string "the cutest of the lot.\p"
-	.string "What's that? They're judging\n"
-	.string "POKéMON by their looks?$"
+	.string "Penso che quella ragazza là sia\n"
+	.string "la più carina di tutte.\p"
+	.string "Come? Giudicano i POKéMON\n"
+	.string "dal loro aspetto?$"
 
 LilycoveCity_ContestHall_Text_WantCuteMonOfMyOwn_hns:
-	.string "Ohh, seeing all these cute POKéMON,\n"
-	.string "they make we want to get my own!\p"
-	.string "I'm going to go catch some!$"
+	.string "Ohh, vedere tutti questi POKéMON\n"
+	.string "carini mi fa venire voglia di averne uno!\p"
+	.string "Vado a catturarne qualcuno!$"
 
 LilycoveCity_ContestHall_Text_BeautyContestStage_hns:
-	.string "BEAUTY CONTEST STAGE\n"
-	.string "BE ALLURED BY BEAUTIFUL POKéMON!$"
+	.string "PALCO GARA BELLEZZA\n"
+	.string "LASCIATI AMMALIARE DAI POKéMON!$"
 
 LilycoveCity_ContestHall_Text_CuteContestStage_hns:
-	.string "CUTENESS CONTEST STAGE\n"
-	.string "BE CHARMED BY CUTE POKéMON!$"
+	.string "PALCO GARA GRAZIA\n"
+	.string "FATTI INCANTARE DAI POKéMON!$"
 
 LilycoveCity_ContestHall_Text_SmartContestStage_hns:
 	.string "SMARTNESS CONTEST STAGE\n"

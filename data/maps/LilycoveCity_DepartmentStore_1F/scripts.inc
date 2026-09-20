@@ -142,29 +142,29 @@ LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore:
 	.string "Welcome to LILYCOVE DEPARTMENT STORE.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings:
-	.string "Whenever I come to the DEPARTMENT\n"
-	.string "STORE, I always end up buying all sorts\l"
-	.string "of things because it's so fun.$"
+	.string "Quando vengo al GRAN MAGAZZINO\n"
+	.string "finisco sempre per comprare di tutto,\l"
+	.string "perché è così divertente.$"
 
 LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture:
-	.string "Today, my mom is going to buy me some\n"
-	.string "nice furniture.$"
+	.string "Oggi mia mamma mi compra dei\n"
+	.string "bei mobili.$"
 
 LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill:
-	.string "I'm buying something for my AZUMARILL\n"
-	.string "as a reward for winning a CONTEST.$"
+	.string "Compro qualcosa per il mio AZUMARILL\n"
+	.string "come premio per una GARA vinta.$"
 
 LilycoveCity_DepartmentStore_1F_Text_Azumarill:
 	.string "AZUMARILL: Maririroo!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign:
-	.string "1F: SERVICE COUNTER\n"
-	.string "    LOTTERY CORNER\p"
-	.string "2F: TRAINER'S ZONE\p"
-	.string "3F: BATTLE COLLECTION\p"
-	.string "4F: TM CORNER\p"
-	.string "5F: POKé DOLL FLOOR\p"
-	.string "ROOFTOP: ROOFTOP PLAZA$"
+	.string "1P: BANCO SERVIZI\n"
+	.string "    ANGOLO LOTTERIA\p"
+	.string "2P: ZONA ALLENATORI\p"
+	.string "3P: COLLEZIONE LOTTA\p"
+	.string "4P: ANGOLO MT\p"
+	.string "5P: PIANO POKé DOLL\p"
+	.string "TETTO: PIAZZA SUL TETTO$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun:
@@ -178,6 +178,6 @@ LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun:
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_SpreadWordAboutWirelessComm:
-	.string "I want to spread the word about how\n"
-	.string "fun Wireless Communication can be.$"
+	.string "Voglio far sapere a tutti quanto\n"
+	.string "è bella la Comunicazione Wireless.$"
 

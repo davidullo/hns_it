@@ -738,16 +738,16 @@ SaffronCity_FightingDojoVIP_Text_Bugsy_RematchDefeat:
 	.string "complete…$"
 
 SaffronCity_FightingDojoVIP_Text_Whitney_Rematch:
-	.string "Hi! It's you!\p"
-	.string "Wow, JOHTO CHAMPION now?\p"
-	.string "You really are amazing!\p"
-	.string "I want to see how strong you are.\p"
-	.string "Want to have a rematch with me?$"
+	.string "Ciao! Sei tu!\p"
+	.string "Wow, CAMPIONE JOHTO ora?\p"
+	.string "Sei davvero incredibile!\p"
+	.string "Voglio vedere quanto sei forte.\p"
+	.string "Vuoi una rivincita con me?$"
 
 SaffronCity_FightingDojoVIP_Text_Whitney_RematchDefeat:
 	.string "Waaaaah!\p"
 	.string "Waaaaah!\p"
-	.string "…Snivel, hic… …You meanie!$"
+	.string "…Singhiozzo… …Che cattivo!$"
 
 SaffronCity_FightingDojoVIP_Text_Morty_Rematch:
 	.string "Ah, the JOHTO CHAMPION! Good of\n"
@@ -768,10 +768,10 @@ SaffronCity_FightingDojoVIP_Text_Morty_RematchDefeat:
 	.string "I envy you for that…$"
 
 SaffronCity_FightingDojoVIP_Text_Chuck_Rematch:
-	.string "WAHAHAH! JOHTO CHAMPION!\p"
-	.string "You've come back for more!\p"
-	.string "I see your skills have improved!\p"
-	.string "Ready to see who's stronger?$"
+	.string "WAHAHAH! CAMPIONE JOHTO!\p"
+	.string "Sei tornato per il bis!\p"
+	.string "Vedo che sei migliorato!\p"
+	.string "Vediamo chi è più forte?$"
 
 SaffronCity_FightingDojoVIP_Text_Chuck_RematchDefeat:
 	.string "Wha? Huh? I lost? Again?$"
@@ -836,15 +836,15 @@ SaffronCity_FightingDojoVIP_Text_Brock_RematchDefeat:
 	.string "overcame my rock-hard defense…$"
 
 SaffronCity_FightingDojoVIP_Text_Misty_Rematch:
-	.string "MISTY: Wow, you're the KANTO\n"
-	.string "CHAMPION now!\p"
-	.string "That's amazing! You've come a\n"
-	.string "long way, {PLAYER}.\p"
-	.string "But I'm not backing down.\p"
-	.string "Want to have a rematch with me?$"
+	.string "MISTY: Wow, sei CAMPIONE\n"
+	.string "di KANTO!\p"
+	.string "Fantastico! Hai fatto tanta\n"
+	.string "strada, {PLAYER}.\p"
+	.string "Ma non mi arrendo.\p"
+	.string "Vuoi una rivincita con me?$"
 
 SaffronCity_FightingDojoVIP_Text_Misty_RematchDefeat:
-	.string "MISTY: You really are good…$"
+	.string "MISTY: Sei davvero forte…$"
 
 SaffronCity_FightingDojoVIP_Text_Surge_Rematch:
 	.string "SURGE: So, you're now KANTO\n"

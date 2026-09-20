@@ -89,7 +89,7 @@ Route8_Text_SupernerdTomAfter:
 	.string "battles.$"
 
 Route8_Text_LockedDoor:
-	.string "It's locked…$"
+	.string "È chiuso…$"
 
 Route8_Text_UndergroundPathSign:
 	.string "The flyer's torn.\p"

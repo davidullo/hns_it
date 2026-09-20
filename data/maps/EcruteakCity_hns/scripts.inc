@@ -118,30 +118,30 @@ EcruteakCity_Movement_Silver2:
 	step_end
 
 EcruteakCity_Text_Silver1:
-	.string "THUD!!$"
+	.string "TONF!!$"
 
 EcruteakCity_Text_Silver2:
-	.string "{RIVAL}: How...? How is this\n"
-	.string "possible? How can I lose to mere\l"
-	.string "KIMONO GIRLS...?$"
+	.string "{RIVAL}: Come…? Come è\n"
+	.string "possibile? Perdere contro delle\l"
+	.string "RAGAZZE KIMONO…?$"
 
 EcruteakCity_Text_Silver3:
-	.string "{RIVAL}: You were watching me,\n"
+	.string "{RIVAL}: Mi stavi guardando,\n"
 	.string "{PLAYER}...\p"
-	.string "Yeah, that's right!\p"
-	.string "I never thought defeating five\n"
-	.string "KIMONO GIRLS would be so hard...\p"
-	.string "I got beaten to a pulp...\p"
-	.string "...\p"
-	.string "You must have come here for the\n"
-	.string "same reason, right?\p"
-	.string "Don't get cocky just because you\n"
-	.string "defeated TEAM ROCKET!\p"
-	.string "These KIMONO GIRLS are insanely\n"
-	.string "strong.\p"
-	.string "See if you can defeat them.\p"
-	.string "But I'm not going back, I don't\n"
-	.string "want to see you win.$"
+	.string "Sì, proprio così!\p"
+	.string "Non credevo che battere\n"
+	.string "cinque RAGAZZE KIMONO\p"
+	.string "fosse così duro: mi hanno\p"
+	.string "conciato male.\p"
+	.string "Sei qui per lo stesso\n"
+	.string "motivo, vero?\p"
+	.string "Non fare il gradasso per aver\n"
+	.string "battuto TEAM ROCKET!\p"
+	.string "Le RAGAZZE KIMONO sono\n"
+	.string "forti.\p"
+	.string "Prova a batterle.\p"
+	.string "Ma non torno, non voglio\n"
+	.string "vederti vincere.$"
 
 EcruteakCity_EventScript_Gramps::
 	lock
@@ -284,101 +284,101 @@ EcruteakCity_Text_Eevee:
 	.string "EEVEE: Veee!$"
 
 EcruteakCity_Text_Vulpix:
-	.string "VULPIX: Vullll Pix!$"
+	.string "VULPIX: Vulll Pix!$"
 
 
 EcruteakCity_Text_UnusedMissingDaughter:
-	.string "Oh, no. Oh, no…\p"
-	.string "My daughter is missing.\p"
-	.string "No… She couldn't have gone to the\n"
-	.string "BURNED TOWER.\p"
-	.string "I told her not to go near it…\p"
-	.string "People seem to disappear there…\p"
-	.string "Oh, what should I do…?$"
+	.string "Oddio, no…\p"
+	.string "Mia figlia è sparita.\p"
+	.string "No… Non può essere andata alla\n"
+	.string "TORRE BRUCIATA.\p"
+	.string "Le ho detto di non andarci…\p"
+	.string "Sembra che la gente sparisca…\p"
+	.string "Oh, che faccio…?$"
 
 EcruteakCity_Text_Gramps1:
-	.string "ECRUTEAK used to have two towers:\n"
-	.string "one each in the east and west.$"
+	.string "ECRUTEAK aveva due torri:\n"
+	.string "una a est e una a ovest.$"
 
 EcruteakCity_Text_Gramps2:
-	.string "Ah, child. Have you learned to\n"
-	.string "dance like the KIMONO GIRLS?\p"
-	.string "If you go to their DANCE THEATER,\n"
-	.string "an odd old man will give you\l"
-	.string "something nice, I hear.$"
+	.string "Ah, tesoro. Hai imparato a\n"
+	.string "ballare come le RAGAZZE KIMONO?\p"
+	.string "Se vai al loro TEATRO DI DANZA,\n"
+	.string "un vecchietto strano ti darà\l"
+	.string "una cosa carina, dicono.$"
 
 EcruteakCity_Text_Lass1:
-	.string "I'm going to practice at the DANCE\n"
-	.string "THEATER. Care to join me?$"
+	.string "Vado a esercitarmi al TEATRO\n"
+	.string "DI DANZA. Vieni con me?$"
 
 EcruteakCity_Text_Lass2:
-	.string "The tower that used to be here…\p"
-	.string "My grandma told me it used to be\n"
-	.string "much taller.\p"
-	.string "I hear there are ghosts in it now.$"
+	.string "La torre che c'era qui…\p"
+	.string "Mia nonna dice che era molto\n"
+	.string "più alta.\p"
+	.string "Dicono che ora ci siano fantasmi.$"
 
 EcruteakCity_Text_Lass2_ReleasedBeasts:
-	.string "Three big POKéMON ran off in different\n"
-	.string "directions. What were they?$"
+	.string "Tre grossi POKéMON sono fuggiti in\n"
+	.string "direzioni diverse. Chi erano?$"
 
 EcruteakCity_Text_Fisher:
-	.string "I heard a rumor about OLIVINE\n"
-	.string "LIGHTHOUSE.\p"
-	.string "The POKéMON that serves as the\n"
-	.string "beacon fell ill. Sounds like they\l"
-	.string "are in trouble.$"
+	.string "Ho sentito una voce su OLIVINE\n"
+	.string "FARO.\p"
+	.string "Il POKéMON che fa da\n"
+	.string "faro si è ammalato. Sembra che\l"
+	.string "siano nei guai.$"
 
 EcruteakCity_Text_Fisher_JasmineReturned:
-	.string "The POKéMON at OLIVINE LIGHTHOUSE\n"
-	.string "has been cured.\p"
-	.string "Boats can safely sail out to sea at\n"
-	.string "night again.$"
+	.string "Il POKéMON del FARO DI OLIVINE\n"
+	.string "è guarito.\p"
+	.string "Le navi escono di nuovo in mare\n"
+	.string "di notte.$"
 
 EcruteakCity_Text_Youngster:
-	.string "I hear POKéMON are rampaging at the\n"
-	.string "LAKE OF RAGE. I'd like to see that.$"
+	.string "Al LAGO D'IRA i POKéMON\n"
+	.string "si scatenano: vorrei vederli!$"
 
 EcruteakCity_Text_Gramps3:
-	.string "In the distant past…\p"
-	.string "This tower burned in a fire. Three\n"
-	.string "nameless POKéMON perished in it.\p"
-	.string "A rainbow-colored POKéMON descended\n"
-	.string "from the sky and resurrected them…\p"
-	.string "It's a legend that has been passed\n"
-	.string "down by ECRUTEAK GYM LEADERS.\p"
-	.string "Me?\p"
-	.string "I was a trainer way back when.\n"
-	.string "Hohoho!$"
+	.string "Tanto tempo fa…\p"
+	.string "La torre bruciò. Tre POKéMON\n"
+	.string "senza nome persero la vita.\p"
+	.string "Un POKéMON arcobaleno discese\n"
+	.string "dal cielo e li riportò in vita…\p"
+	.string "È una leggenda tramandata\n"
+	.string "dai CAPIPALESTRA di ECRUTEAK.\p"
+	.string "Io?\p"
+	.string "Allenavo, tanto tempo fa.\n"
+	.string "Ahahah!$"
 
 EcruteakCity_Text_SageGym:
-	.string "Gym Leader MORTY is not here right\n"
-	.string "now. You may find him at the\l"
-	.string "BURNED TOWER.$"
+	.string "Il Capopalestra MORTY non è qui\n"
+	.string "adesso. Forse lo trovi alla\l"
+	.string "TORRE BRUCIATA.$"
 
 EcruteakCity_Text_Sign:
-	.string "ECRUTEAK CITY\n"
-	.string "A Historical City\p"
-	.string "Where the Past Meets the Present$"
+	.string "ECRUTEAK\n"
+	.string "Città storica\p"
+	.string "Il passato incontra il presente$"
 
 EcruteakCity_Text_TinTowerSign:
-	.string "TIN TOWER\p"
-	.string "A legendary POKéMON is said to\n"
-	.string "roost here.$"
+	.string "TORRE CAMPANA\p"
+	.string "Si dice che un POKéMON\n"
+	.string "leggendario riposi qui.$"
 
 EcruteakCity_Text_OfficeSign:
-	.string "Barrier Station to TIN TOWER\p"
-	.string "No Trespassing by the Unworthy.$"
+	.string "Barriera per la TORRE CAMPANA\p"
+	.string "Vietato l'accesso agli indegni.$"
 
 EcruteakCity_Text_GymSign:
-	.string "ECRUTEAK CITY POKéMON GYM\n"
-	.string "LEADER: MORTY\p"
-	.string "The Mystic Seer of the Future$"
+	.string "PALESTRA POKéMON DI ECRUTEAK\n"
+	.string "CAPO: MORTY\p"
+	.string "Il Magico Veggente del Futuro$"
 
 EcruteakCity_Text_DanceTheaterSign:
-	.string "ECRUTEAK DANCE THEATER$"
+	.string "TEATRO DI DANZA ECRUTEAK$"
 
 EcruteakCity_Text_BurnedTowerSign:
-	.string "BURNED TOWER\p"
-	.string "It was destroyed by a mysterious\n"
-	.string "fire.\p"
-	.string "Please stay away, as it is unsafe.$"
+	.string "TORRE BRUCIATA\p"
+	.string "Distrutta da un misterioso\n"
+	.string "rogo.\p"
+	.string "Non avvicinarti: è pericoloso.$"

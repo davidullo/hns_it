@@ -144,8 +144,8 @@ Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford:
 
 Route104_MrBrineysHouse_Text_WhereAreWeBound:
 	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "Per te prendo il mare quando vuoi!\p"
+	.string "Allora, amico, dove andiamo?$"
 
 Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail:
 	.string "MR. BRINEY: Is that so?\n"
