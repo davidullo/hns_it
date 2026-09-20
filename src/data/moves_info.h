@@ -314,11 +314,12 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("GELOPUGNO"),
         .description = COMPOUND_STRING(
-            "Pugno ghiacciato che può\n"
         #if B_USE_FROSTBITE == TRUE
-            "leave the foe with frostbite."),
+            "Colpisce il bersaglio con un\n"
+            "pugno di ghiaccio che può assiderarlo."),
         #else
-            "freeze the foe."),
+            "Colpisce il bersaglio con un\n"
+            "pugno di ghiaccio che può congelarlo."),
         #endif
         .effect = EFFECT_HIT,
         .power = 75,
@@ -1423,13 +1424,15 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("INIBITORE"),
         .description = COMPOUND_STRING(
         #if B_DISABLE_TURNS >= GEN_5
-            "For 4 turns, prevents foe\n"
+            "Per quattro turni impedisce al bersaglio\n"
+            "di riutilizzare l'ultima mossa usata."),
         #elif B_DISABLE_TURNS == GEN_4
-            "For 4-7 turns, prevents foe\n"
+            "Per 4-7 turni impedisce al bersaglio\n"
+            "di riutilizzare l'ultima mossa usata."),
         #else
-            "For 2-5 turns, prevents foe\n"
+            "Per 2-5 turni impedisce al bersaglio\n"
+            "di riutilizzare l'ultima mossa usata."),
         #endif
-            "from using last used move."),
         #if B_UPDATED_MOVE_DATA >= GEN_5
             .accuracy = 100,
         #elif B_UPDATED_MOVE_DATA == GEN_4
@@ -1459,11 +1462,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("ACIDO"),
         .description = COMPOUND_STRING(
-            "Spruzza un acido corrosivo.\n"
         #if B_UPDATED_MOVE_DATA >= GEN_4
-            "May lower Sp. Def."),
+            "Colpisce i nemici intorno\n"
+            "spruzzando un acido corrosivo.\n"
+            "Può anche ridurne la Difesa Speciale."),
         #else
-            "May lower Defense."),
+            "Colpisce i nemici intorno\n"
+            "spruzzando un acido\n"
+            "corrosivo. Può anche ridurne la Difesa."),
         #endif
         .effect = EFFECT_HIT,
         .power = 40,
@@ -1608,11 +1614,13 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("SURF"),
         .description = COMPOUND_STRING(
-            "Crea un'onda enorme, poi\n"
         #if B_UPDATED_MOVE_DATA >= GEN_4
-            "crashes it down on the field."),
+            "Un'onda enorme sommerge il\n"
+            "campo di lotta, colpendo tutti\n"
+            "i POKéMON intorno a chi la scatena."),
         #else
-            "crashes it down on the foes."),
+            "Un'onda enorme sommerge\n"
+            "i nemici intorno a chi la scatena."),
         #endif
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 90 : 95,
@@ -1636,11 +1644,13 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("GELORAGGIO"),
         .description = COMPOUND_STRING(
-            "Investe il nemico con una\n"
         #if B_USE_FROSTBITE == TRUE
-            "beam. May cause frostbite."),
+            "Il bersaglio è colpito\n"
+            "da un raggio di energia\n"
+            "gelida che può anche assiderarlo."),
         #else
-            "beam that may freeze it."),
+            "Il bersaglio è colpito da un raggio di\n"
+            "energia gelida che può anche congelarlo."),
         #endif
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 90 : 95,
@@ -1668,11 +1678,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("BORA"),
         .description = COMPOUND_STRING(
-            "Colpisce i nemici con una\n"
         #if B_USE_FROSTBITE == TRUE
-            "storm. May cause frostbite."),
+            "Colpisce i nemici intorno con\n"
+            "una tremenda tempesta di\n"
+            "ghiaccio che può anche assiderarli."),
         #else
-            "storm that may freeze it."),
+            "Colpisce i nemici intorno\n"
+            "con una tremenda tempesta\n"
+            "di ghiaccio che può anche congelarli."),
         #endif
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 110 : 120,
@@ -2057,11 +2070,13 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("CRESCITA"),
         .description = COMPOUND_STRING(
         #if B_GROWTH_STAT_RAISE >= GEN_5
-            "Forces the body to grow,\n"
-            "raising Attack and Sp. Atk."),
+            "Provoca la crescita immediata del\n"
+            "corpo e l'aumento dell'Attacco\n"
+            "e dell'Attacco Speciale di chi la usa."),
         #else
-            "Forces the body to grow\n"
-            "and heightens Sp. Atk."),
+            "Provoca la crescita immediata\n"
+            "del corpo e l'aumento\n"
+            "dell'Attacco Speciale di chi la usa."),
         #endif
         .effect = B_GROWTH_STAT_RAISE >= GEN_5 ? EFFECT_GROWTH : EFFECT_SPECIAL_ATTACK_UP,
         .power = 0,
@@ -2928,11 +2943,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("MINIMIZZATO"),
         .description = COMPOUND_STRING(
-            "Riduce al minimo le dimensioni\n"
         #if B_MINIMIZE_EVASION >= GEN_5
-            "sharply raise evasiveness."),
+            "Il corpo di chi la usa si comprime\n"
+            "e diventa più piccolo. La sua\n"
+            "capacità di elusione aumenta di molto."),
         #else
-            "raise evasiveness."),
+            "Il corpo di chi la usa si\n"
+            "comprime e diventa più piccolo.\n"
+            "La sua capacità di elusione aumenta."),
         #endif
         .effect = EFFECT_MINIMIZE,
         .power = 0,
@@ -3784,11 +3802,13 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("VELENOGAS"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_5
-            "Envelops the foes in a toxic\n"
+            "Spruzza in faccia ai\n"
+            "nemici che ha intorno una\n"
+            "nuvola di gas tossico che avvelena."),
         #else
-            "Envelops the foe in a toxic\n"
+            "Spruzza in faccia al nemico una\n"
+            "nuvola di gas tossico che avvelena."),
         #endif
-            "gas that may poison."),
         #if B_UPDATED_MOVE_DATA >= GEN_6
             .accuracy = 90,
         #elif B_UPDATED_MOVE_DATA == GEN_5
@@ -4348,11 +4368,12 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("CONVERSIONE"),
         .description = COMPOUND_STRING(
-            "Cambia il tipo di chi la usa\n"
         #if B_UPDATED_CONVERSION >= GEN_6
-            "into first known move's type."),
+            "Il tipo di chi la usa muta in quello della\n"
+            "prima mossa nella lista delle sue mosse."),
         #else
-            "into a known move's type."),
+            "Il tipo di chi la usa\n"
+            "muta in quello di una delle sue mosse."),
         #endif
         .effect = EFFECT_CONVERSION,
         .power = 0,
@@ -4379,11 +4400,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("TRIPLETTA"),
         #if B_UPDATED_MOVE_DATA >= GEN_2
             .description = COMPOUND_STRING(
-                "Spara tre tipi di raggi.\n"
                 #if B_USE_FROSTBITE == TRUE
-                    "May burn/para/frostbite."),
+                    "Colpisce il bersaglio con tre\n"
+                    "raggi di luce che possono\n"
+                    "paralizzarlo, scottarlo o assiderarlo."),
                 #else
-                    "May burn/paralyze/freeze."),
+                    "Colpisce il bersaglio con tre\n"
+                    "raggi di luce che possono\n"
+                    "paralizzarlo, scottarlo o congelarlo."),
                 #endif
         #else
             .description = COMPOUND_STRING(
@@ -4854,11 +4878,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("COTTONSPORA"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_6
-            "Spores cling to the foes,\n"
+            "Rilascia spore simili al cotone che\n"
+            "si attaccano ai nemici nei paraggi\n"
+            "e ne riducono di molto la Velocità."),
         #else
-            "Spores cling to the foe,\n"
+            "Rilascia spore simili al cotone\n"
+            "che si attaccano al nemico\n"
+            "e ne riducono di molto la Velocità."),
         #endif
-            "sharply reducing Speed."),
         .effect = EFFECT_SPEED_DOWN_2,
         .power = 0,
         .type = TYPE_GRASS,
@@ -4905,11 +4932,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("DISPETTO"),
         .description = COMPOUND_STRING(
-            "Riduce i PP del nemico per ripicca.\n"
         #if B_PP_REDUCED_BY_SPITE >= GEN_4
-            "of the foe's last move by 4."),
+            "Chi la usa sfoga la propria\n"
+            "rabbia sull'ultima mossa usata\n"
+            "dal bersaglio e le sottrae quattro PP."),
         #else
-            "of foe's last move by 2-5."),
+            "Chi la usa sfoga la propria\n"
+            "rabbia sull'ultima mossa usata\n"
+            "dal bersaglio e le sottrae da 2 a 5 PP."),
         #endif
         .effect = EFFECT_SPITE,
         .power = 0,
@@ -4934,11 +4964,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("POLNEVE"),
         .description = COMPOUND_STRING(
-            "Colpisce i nemici con una neve\n"
         #if B_USE_FROSTBITE == TRUE
-            "gust. May cause frostbite."),
+            "Attacca i nemici che ha\n"
+            "intorno con una raffica di\n"
+            "neve farinosa e può anche assiderarli."),
         #else
-            "gust. May cause freezing."),
+            "Attacca i nemici che ha\n"
+            "intorno con una raffica di\n"
+            "neve farinosa e può anche congelarli."),
         #endif
         .effect = EFFECT_HIT,
         .power = 40,
@@ -6191,11 +6224,15 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("RAPIGIRO"),
         .description = COMPOUND_STRING(
-            "Chi la usa ruota e rimuove alcune\n"
         #if B_SPEED_BUFFING_RAPID_SPIN >= GEN_8
-            "effects, while upping speed."),
+            "Attacco rotante che elimina gli\n"
+            "effetti di mosse come Legatutto,\n"
+            "Avvolgibotta e Parassiseme.\n"
+            "Aumenta anche la Velocità di chi la usa."),
         #else
-            "effects."),
+            "Attacco rotante che elimina\n"
+            "gli effetti di mosse come\n"
+            "Legatutto, Avvolgibotta e Parassiseme."),
         #endif
         .effect = EFFECT_RAPID_SPIN,
         .power = B_UPDATED_MOVE_DATA >= GEN_8 ? 50 : 20,
@@ -6226,11 +6263,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("PROFUMINO"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_6
-            "Allures the foes to harshly\n"
-            "reduce evasiveness."),
+            "Un dolce profumo che riduce di molto\n"
+            "l'elusione dei nemici intorno a chi la usa."),
         #else
-            "Allures the foes to reduce\n"
-            "evasiveness."),
+            "Un dolce profumo che riduce\n"
+            "l'elusione dei nemici intorno a chi la usa."),
         #endif
         .effect = B_UPDATED_MOVE_DATA >= GEN_6 ? EFFECT_EVASION_DOWN_2 : EFFECT_EVASION_DOWN,
         .power = 0,
@@ -6414,11 +6451,12 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("INTROFORZA"),
         .description = COMPOUND_STRING(
         #if B_HIDDEN_POWER_DMG >= GEN_6
-            "The type varies\n"
-            "with the user."),
+            "Mossa singolare che cambia\n"
+            "tipo a seconda del POKéMON che la usa."),
         #else
-            "The type and effectiveness\n"
-            "vary with the user."),
+            "Mossa singolare che\n"
+            "cambia tipo e potenza\n"
+            "a seconda del POKéMON che la usa."),
         #endif
         .power = B_HIDDEN_POWER_DMG >= GEN_6 ? 60 : 1,
         .effect = EFFECT_HIDDEN_POWER,
@@ -6544,11 +6582,13 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("SGRANOCCHIO"),
         .description = COMPOUND_STRING(
-            "Morde con zanne affilate.\n"
         #if B_UPDATED_MOVE_DATA >= GEN_4
-            "May lower Defense."),
+            "Il bersaglio viene morso con denti\n"
+            "affilati. Può anche ridurne la Difesa."),
         #else
-            "May lower Sp. Def."),
+            "Il bersaglio viene morso\n"
+            "con denti affilati. Può\n"
+            "anche ridurne la Difesa Speciale."),
         #endif
         .effect = EFFECT_HIT,
         .power = 80,
@@ -6857,11 +6897,12 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("BARAONDA"),
         .description = COMPOUND_STRING(
         #if B_UPROAR_TURNS >= GEN_5
-            "Causes an uproar for 3\n"
+            "Chi la usa attacca per tre turni con\n"
+            "un frastuono che non fa dormire nessuno."),
         #else
-            "Causes an uproar for 2 to 5\n"
+            "Chi la usa attacca per 2-5 turni con\n"
+            "un frastuono che non fa dormire nessuno."),
         #endif
-            "turns and prevents sleep."),
         .effect = EFFECT_UPROAR,
         .power = B_UPDATED_MOVE_DATA >= GEN_5 ? 90 : 50,
         .type = TYPE_NORMAL,
@@ -7938,11 +7979,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("CODADILUCE"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_5
-            "Flash light that drastically\n"
+            "Chi la usa fissa una luce\n"
+            "forte per concentrarsi e\n"
+            "aumentare molto l'Attacco Speciale."),
         #else
-            "Flashes a light that sharply\n"
+            "Chi la usa fissa una luce\n"
+            "forte per concentrarsi e\n"
+            "aumentare moltissimo l'Attacco Speciale."),
         #endif
-            "raises Sp. Atk."),
         .effect = B_UPDATED_MOVE_DATA >= GEN_5 ? EFFECT_SPECIAL_ATTACK_UP_3 : EFFECT_SPECIAL_ATTACK_UP_2,
         .power = 0,
         .type = TYPE_BUG,
@@ -9789,11 +9833,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("VENTOINCODA"),
         .description = COMPOUND_STRING(
-            "Solleva una brezza, raddoppiando\n"
         #if B_TAILWIND_TURNS >= GEN_5
-            "ally Speed for 4 turns."),
+            "Chi la usa scatena un turbine che\n"
+            "aumenta la Velocità di tutti i\n"
+            "POKéMON della squadra per quattro turni."),
         #else
-            "ally Speed for 3 turns."),
+            "Chi la usa scatena un turbine\n"
+            "che aumenta la Velocità di tutti\n"
+            "i POKéMON della squadra per tre turni."),
         #endif
         .effect = EFFECT_TAILWIND,
         .power = 0,
@@ -11167,11 +11214,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("GELODENTI"),
         .description = COMPOUND_STRING(
-            "Può causare tentennamento o\n"
         #if B_USE_FROSTBITE == TRUE
-            "leave the foe with frostbite."),
+            "Chi la usa morde con denti\n"
+            "ghiacciati. Può anche\n"
+            "assiderare o far tentennare il bersaglio."),
         #else
-            "leave the foe frozen."),
+            "Chi la usa morde con denti\n"
+            "ghiacciati. Può anche\n"
+            "congelare o far tentennare il bersaglio."),
         #endif
         .effect = EFFECT_HIT,
         .power = 65,
@@ -14839,11 +14889,16 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("LIOFILIZZAZIONE"),
         .description = COMPOUND_STRING(
-            "Superefficace sull'Acqua-\n"
         #if B_USE_FROSTBITE == TRUE
-            "types. May cause frostbite."),
+            "Chi la usa raffredda istantaneamente\n"
+            "il bersaglio e può assiderarlo.\n"
+            "Risulta superefficace\n"
+            "contro i POKéMON di tipo Acqua."),
         #else
-            "types. May cause freezing."),
+            "Chi la usa raffredda istantaneamente\n"
+            "il bersaglio e può congelarlo.\n"
+            "Risulta superefficace\n"
+            "contro i POKéMON di tipo Acqua."),
         #endif
         .effect = EFFECT_SUPER_EFFECTIVE_ON_ARG,
         .power = 70,
@@ -17506,11 +17561,16 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("BOLLASLURP"),
         .description = COMPOUND_STRING(
-            "Attacco che assorbe\n"
         #if B_UPDATED_MOVE_DATA >= GEN_8
-            "all the damage inflicted."),
+            "Chi la usa colpisce il bersaglio\n"
+            "con una raffica di bolle e ne\n"
+            "assorbe l'acqua, recuperando\n"
+            "PS pari a tutto il danno inferto."),
         #else
-            "half the damage inflicted."),
+            "Chi la usa colpisce il bersaglio\n"
+            "con una raffica di bolle, per poi\n"
+            "assorbirle e recuperare una quantità\n"
+            "di PS pari alla metà del danno inferto."),
         #endif
         .effect = EFFECT_ABSORB,
         .power = B_UPDATED_MOVE_DATA >= GEN_8 ? 60 : 90,
@@ -19200,11 +19260,14 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("SGUARDO GELIDO"),
         .description = COMPOUND_STRING(
-            "Scaglia energia psichica\n"
         #if B_USE_FROSTBITE == TRUE
-            "the eyes. May frostbite."),
+            "Il POKéMON attacca rilasciando\n"
+            "energia psichica dagli\n"
+            "occhi. Può assiderare il bersaglio."),
         #else
-            "the eyes. May freeze the foe."),
+            "Il POKéMON attacca rilasciando\n"
+            "energia psichica dagli\n"
+            "occhi. Può congelare il bersaglio."),
         #endif
         .power = 90,
         .effect = EFFECT_HIT,
