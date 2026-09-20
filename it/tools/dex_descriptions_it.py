@@ -100,12 +100,12 @@ EN_WORDS = {
     "about", "over", "under", "because", "while", "which", "very", "also",
 }
 
-# caratteri che il charmap del gioco non ha: sostituzioni sicure
+# caratteri che il charmap del gioco non ha: sostituzioni sicure.
+# Attenzione: la virgoletta dritta `"` NON e' nel charmap, le virgolette
+# tipografiche “ ” (177/178) si': quelle di PokeAPI restano come sono.
 SUBSTITUTIONS = {
     "\u2019": "'",  # apostrofo tipografico
     "\u2018": "'",
-    "\u201c": '"',
-    "\u201d": '"',
     "\u2013": "-",  # en dash
     "\u2014": "-",  # em dash
     "\u2026": "...",
@@ -211,9 +211,11 @@ def build_dex_map(index: dict[int, str]) -> dict[str, int]:
 
 SPECIES_RE = re.compile(r"^\s*\[(SPECIES_[A-Z0-9_]+)\]\s*=\s*$")
 DEX_RE = re.compile(r"^\s*\.natDexNum\s*=\s*(NATIONAL_DEX_[A-Z0-9_]+)\s*,")
-NAME_RE = re.compile(r'^\s*\.speciesName\s*=\s*_\(\s*"([^"]*)"\s*\)')
+NAME_RE = re.compile(r'^\s*\.speciesName\s*=\s*_\("([^"]*)"\)')
 OPEN_RE = re.compile(r"^( *)(\.description = COMPOUND_STRING\()$")
 LIT_RE = re.compile(r'^ *"(.*)"(?:\),)?$')
+MACRO_RE = re.compile(r"^\s*([A-Z][A-Z0-9_]{3,})\s*\(")
+DEFINE_RE = re.compile(r"#define\s+([A-Z0-9_]+)\s*\(")
 
 
 @dataclass
@@ -224,7 +226,38 @@ class Block:
     species: str = ""
     dex: str | None = None
     species_name: str = ""
+    macro: str | None = None  # macro di famiglia usata dalla voce (`..._MISC_INFO`)
     lines: list[str] = field(default_factory=list)  # righe visibili attuali
+
+
+def load_misc_macros() -> dict[str, tuple[str, str]]:
+    """Macro tipo `VIVILLON_MISC_INFO`: nome -> (natDexNum, speciesName).
+
+    Alcune voci (Vivillon, Flabe'be', Floette, Florges, Alcremie, Unown...)
+    non scrivono `.natDexNum` nel blocco: sta dentro la macro di famiglia.
+    Senza questo passaggio quei blocchi resterebbero senza numero di dex.
+    """
+    out: dict[str, tuple[str, str]] = {}
+    for path in sorted(SPECIES_DIR.glob("*.h")):
+        lines = path.read_text(encoding="utf-8").splitlines()
+        i = 0
+        while i < len(lines):
+            m = DEFINE_RE.match(lines[i])
+            if not m:
+                i += 1
+                continue
+            body = [lines[i]]
+            j = i
+            while body[-1].rstrip().endswith("\\") and j + 1 < len(lines):
+                j += 1
+                body.append(lines[j])
+            text = "\n".join(body)
+            dm = re.search(r"\.natDexNum\s*=\s*(NATIONAL_DEX_[A-Z0-9_]+)", text)
+            sn = re.search(r'\.speciesName\s*=\s*_\("([^"]*)"\)', text)
+            if dm:
+                out[m.group(1)] = (dm.group(1), sn.group(1) if sn else "")
+            i = j + 1
+    return out
 
 
 def parse_file(path: Path) -> list[Block]:
@@ -234,12 +267,13 @@ def parse_file(path: Path) -> list[Block]:
     species = ""
     dex: str | None = None
     sname = ""
+    macro: str | None = None
     i = 0
     while i < len(raw):
         line = raw[i]
         m = SPECIES_RE.match(line)
         if m:
-            species, dex, sname = m.group(1), None, ""
+            species, dex, sname, macro = m.group(1), None, "", None
             i += 1
             continue
         m = DEX_RE.match(line)
@@ -250,6 +284,11 @@ def parse_file(path: Path) -> list[Block]:
         m = NAME_RE.match(line)
         if m:
             sname = m.group(1)
+            i += 1
+            continue
+        m = MACRO_RE.match(line)
+        if m and not line.lstrip().startswith("."):
+            macro = m.group(1)
             i += 1
             continue
         m = OPEN_RE.match(line)
@@ -265,7 +304,7 @@ def parse_file(path: Path) -> list[Block]:
                     break
                 j += 1
             blk = Block(path=path, start=i, end=j, species=species, dex=dex,
-                        species_name=sname, lines=visible_lines(literals))
+                        species_name=sname, macro=macro, lines=visible_lines(literals))
             blocks.append(blk)
             i = j + 1
             continue
@@ -342,10 +381,16 @@ def all_entries(sheet: dict, lang: str) -> set[str]:
 
 
 def clean(text: str) -> str:
-    """Toglie `\\n` e `\\f`, normalizza spazi e apostrofi tipografici."""
+    """Toglie `\\n` e `\\f`, normalizza spazi e apostrofi tipografici.
+
+    Il grado centigrado non e' nel charmap: i testi del gioco (e quelli gia'
+    tradotti in questo repo, es. "oltre i 3.000 gradi") usano "gradi".
+    """
     for bad, good in SUBSTITUTIONS.items():
         text = text.replace(bad, good)
     text = text.replace("\f", " ").replace("\n", " ").replace("\r", " ")
+    text = re.sub(r"\s*°\s*C\b", " gradi", text)
+    text = re.sub(r"\s*°", " gradi", text)
     text = re.sub(r"\s+", " ", text)
     # trattino in fondo alla riga spezzata da PokeAPI (parola divisa)
     text = re.sub(r"(\w)-\s+(\w)", r"\1\2", text)
@@ -524,13 +569,20 @@ class Esito:
 def process(blocks: list[Block], index: dict[int, str], dex_map: dict[str, int],
             metrics, only: str | None = None) -> list[Esito]:
     esiti: list[Esito] = []
-    # Alcune forme (Vivillon, Flabe'be'...) non hanno `.natDexNum` nel blocco:
-    # lo prendono dalla macro di famiglia, quindi si eredita dalla specie base
-    # che ha lo stesso prefisso di nome.
+    misc = load_misc_macros()
+    # Alcune forme (Vivillon, Flabe'be', Florges...) non hanno `.natDexNum` nel
+    # blocco: sta dentro la macro di famiglia. Se nemmeno quella c'e', si eredita
+    # il numero dalla specie base con lo stesso prefisso di nome.
     noto: dict[str, str] = {}
     for blk in blocks:
         if blk.dex:
             noto[blk.species] = blk.dex
+    for blk in blocks:
+        if blk.dex is None and blk.macro and blk.macro in misc:
+            blk.dex, sname = misc[blk.macro]
+            if not blk.species_name:
+                blk.species_name = sname
+            noto.setdefault(blk.species, blk.dex)
     for blk in blocks:
         if blk.dex is None:
             for base in sorted(noto, key=len, reverse=True):
@@ -549,16 +601,19 @@ def process(blocks: list[Block], index: dict[int, str], dex_map: dict[str, int],
             continue
         sheet = cached_species(pid)
         if blk.species_name:
-            en = sheet.get("names", [])
-            ufficiale = next((n["name"] for n in en if n["language"]["name"] == "en"), "")
-            if key_name(blk.species_name) != key_name(ufficiale):
+            # il nome ufficiale puo' essere in qualunque lingua: `.speciesName`
+            # in questa fork e' inglese per i primi otto gen e italiano (o
+            # inglese) per i paradossi di gen 9
+            ufficiali = {key_name(n["name"]) for n in sheet.get("names", [])}
+            if key_name(blk.species_name) not in ufficiali:
                 esiti.append(Esito(blk.species, blk.dex, "inglese",
-                                   f"nome non coerente ({blk.species_name} vs {ufficiale})", blk=blk))
+                                   f"nome non coerente ({blk.species_name} vs #{pid})", blk=blk))
                 continue
         entries = italian_entries(sheet)
         if not entries:
-            esiti.append(Esito(blk.species, blk.dex, "inglese",
-                               "nessun testo italiano in PokeAPI", blk=blk))
+            nota = "gia' in italiano" if not looks_english(" ".join(blk.lines)) else "ancora in inglese"
+            esiti.append(Esito(blk.species, blk.dex, "gia_it" if nota.startswith("gia") else "inglese",
+                               f"PokeAPI senza testo italiano ({nota})", blk=blk))
             continue
         stato = classify(blk, sheet)
         if stato == "it":
