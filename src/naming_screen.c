@@ -2282,7 +2282,7 @@ static const struct NamingScreenTemplate sPlayerNamingScreenTemplate =
     .addGenderIcon = FALSE,
     .initialPage = KBPAGE_LETTERS_UPPER,
     .unused = 35,
-    .title = COMPOUND_STRING("TUO NOME?"),
+    .title = COMPOUND_STRING("IL TUO NOME?"),
 };
 
 static const struct NamingScreenTemplate sPCBoxNamingTemplate =
@@ -2304,7 +2304,7 @@ static const struct NamingScreenTemplate sMonNamingScreenTemplate =
     .addGenderIcon = TRUE,
     .initialPage = KBPAGE_LETTERS_UPPER,
     .unused = 35,
-    .title = COMPOUND_STRING("Soprannome di {STR_VAR_1}?"),
+    .title = COMPOUND_STRING(": SOPRANNOME?"),
 };
 
 static const struct NamingScreenTemplate sWaldaWordsScreenTemplate =

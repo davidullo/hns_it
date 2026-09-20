@@ -30,7 +30,24 @@ tradotte nello store, ma quel testo non esiste più nei sorgenti (i file
 `species_info` vengono rigenerati). Da capire se il testo è altrove o se l'unità
 va buttata.
 
-### 4. Grafica: 167 file .png in `graphics/` (il divario vero con `hns_de`)
+### 4. Nomi degli oggetti: 902 mai tradotti (buco trovato giocando)
+Nel codice i nomi degli oggetti usano la macro `ITEM_NAME("...")`, e il lettore
+di stringhe della pipeline guarda solo `_()` e `COMPOUND_STRING()`: **902 nomi
+sono rimasti in inglese** (nel sacchetto si vedono in inglese). Le descrizioni
+degli oggetti invece sono tradotte, e i nomi delle mosse pure (quelli usano
+`COMPOUND_STRING`).
+
+Piano: **896 nomi unici, 819 hanno il nome ufficiale italiano nel glossario**
+(PokeAPI: `ABILITY CAPSULE` → `CAPSULA ABILITÀ`, `ACRO BIKE` → `BICI DA CROSS`).
+Gli altri 77 sono roba inventata dalla hack (`ABSOLITE Z`, `AUX POWER`,
+`BARBARACITE`) e li fa il modello. Attenzione a `ITEM_NAME_LENGTH = 20`: i nomi
+ufficiali vanno in maiuscolo e accorciati se sfondano.
+
+Non si può aggiungere `ITEM_NAME` al lettore esistente senza spostare gli indici
+`#N` di tutte le unita' (le chiavi dello store sono posizionali) → va fatto come
+passata separata, con iniezione per testo esatto su `items.h`.
+
+### 5. Grafica: 167 file .png in `graphics/` (il divario vero con `hns_de`)
 `font/latin_*`, `title_screen`, `naming_screen`, `battle_interface`, `pokedex`,
 `pokenav`. La pipeline **non tocca le immagini**: finché non si fa questo, la
 ROM resta italiana nei testi ma con la grafica in inglese. È il prossimo
