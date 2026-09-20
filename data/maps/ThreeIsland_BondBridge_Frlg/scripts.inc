@@ -103,10 +103,10 @@ ThreeIsland_BondBridge_Text_MegNotEnoughMons::
 	.string "Un solo POKéMON non basta.$"
 
 ThreeIsland_BondBridge_Text_BerryForestAhead::
-	.string "FORESTA BACche AVANTI$"
+	.string "FORESTA BACCHE AVANTI$"
 
 ThreeIsland_BondBridge_Text_BondBridgeSign::
 	.string "PONTE LEGAME\n"
 	.string "Si prega di fare silenzio.\p"
-	.string "FORESTA BACche AVANTI$"
+	.string "FORESTA BACCHE AVANTI$"
 

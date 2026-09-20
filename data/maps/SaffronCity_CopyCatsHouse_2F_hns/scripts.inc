@@ -221,7 +221,7 @@ Copycat_Text_Male_2:
 	.string "{PLAYER}: Ciao! Ho saputo che\n"
 	.string "hai perso il tuo POKé DOLL.\p"
 	.string "{PLAYER}: Se lo trovo, mi dai\n"
-	.string "un SUPERpass?\p"
+	.string "un SUPERPASS?\p"
 	.string "{PLAYER}: Vado a cercarlo per te.\p"
 	.string "Pensi di averlo perso quando\n"
 	.string "sei andata a VERMILION CITY?$"
@@ -240,11 +240,11 @@ Copycat_Text_GiveDoll:
 	.string "la zampa destra? È la prova!$"
 
 Copycat_Text_GivePass:
-	.string "OK. Ecco il SUPERpass del MAGNET TRAIN,\n"
+	.string "OK. Ecco il SUPERPASS del MAGNET TRAIN,\n"
 	.string "come promesso!$"
 
 Copycat_Text_ExplainPass:
-	.string "COPIONA: È il SUPERpass per il\n"
+	.string "COPIONA: È il SUPERPASS per il\n"
 	.string "MAGNET TRAIN.\p"
 	.string "Me l'ha dato l'uomo della\n"
 	.string "ferrovia quando hanno demolito\l"
@@ -252,7 +252,7 @@ Copycat_Text_ExplainPass:
 
 Copycat_Text_Male_3:
 	.string "{PLAYER}: Ciao! Grazie mille per il\n"
-	.string "SUPERpass!\p"
+	.string "SUPERPASS!\p"
 	.string "{PLAYER}: Come?\p"
 	.string "{PLAYER}: Ti diverte così tanto imitare\n"
 	.string "ogni mia mossa?$"

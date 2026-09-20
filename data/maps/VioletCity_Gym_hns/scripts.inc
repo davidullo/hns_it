@@ -145,7 +145,7 @@ VioletGym_Text_GymGuide_Intro:
 	.string "di diventare campione si avvera.\p"
 	.string "Ci credi? Allora ascolta.\p"
 	.string "Il pezzo forte di FALKNER è un grosso\n"
-	.string "gufo che adora mangiare le BACche.\p"
+	.string "gufo che adora mangiare le BACCHE.\p"
 	.string "Non è il più forte,\n"
 	.string "ma incassa molti colpi.\p"
 	.string "Puoi colpirlo con mosse Elettro\n"

@@ -350,7 +350,7 @@ VermilionCity_Text_Seagallop7Departing::
 	.string "parte subito.$"
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
-	.string "Ah, hai un SUPERpass ARCOBALENO.\p"
+	.string "Ah, hai un SUPERPASS ARCOBALENO.\p"
 	.string "Vuoi salire\n"
 	.string "su un SEAGALLOP?$"
 

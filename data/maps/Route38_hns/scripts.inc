@@ -217,7 +217,7 @@ Route38_Text_TrainerTips:
 
 
 Route38_Text_WaterSign:
-	.string "VIETATO NUOTARE E PESCare.\n"
+	.string "VIETATO NUOTARE E PESCARE.\n"
 	.string "ACQUA SOLO PER L'AGRICOLTURA.\p"
 	.string "-CONSIGLIO DI AMANZIA$"
 

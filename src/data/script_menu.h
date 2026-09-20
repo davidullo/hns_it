@@ -550,7 +550,7 @@ static const struct MenuAction MultichoiceList_ContestRank[] =
 
 static const struct MenuAction MultichoiceList_FrontierItemChoose[] =
 {
-    {COMPOUND_STRING("BORSa LOTTA")},
+    {COMPOUND_STRING("BORSA LOTTA")},
     {COMPOUND_STRING("STRUM. TENUTO")},
     {gText_Exit},
 };
@@ -711,7 +711,7 @@ static const struct MenuAction MultichoiceList_BattlePyramidRules[] =
     {COMPOUND_STRING("PIRAMIDE: POKéMON")},
     {COMPOUND_STRING("PIRAMIDE: ALLENATORI")},
     {COMPOUND_STRING("PIRAMIDE: LABIRINTO")},
-    {COMPOUND_STRING("BORSa LOTTA")},
+    {COMPOUND_STRING("BORSA LOTTA")},
     {gText_Exit},
 };
 

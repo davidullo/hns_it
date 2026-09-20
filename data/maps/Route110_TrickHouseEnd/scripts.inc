@@ -297,10 +297,10 @@ Route110_TrickHouseEnd_Text_AllNightPolishingFloors:
 
 Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry:
 	.string "C-cosa devo fare?\n"
-	.string "La mia fonte di idee per i RAGgiri si è\l"
+	.string "La mia fonte di idee per i RAGGIRI si è\l"
 	.string "prosciugata…\p"
 	.string "Forse è ora che giri il paese\n"
-	.string "in cerca di nuovi RAGgiri…$"
+	.string "in cerca di nuovi RAGGIRI…$"
 
 Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent:
 	.string "Detesto ammettere la sconfitta, ma mi hai\n"
@@ -327,7 +327,7 @@ Route110_TrickHouseEnd_Text_NoRoomInPC:
 Route110_TrickHouseEnd_Text_LeavingOnJourney:
 	.string "… … … … … …\p"
 	.string "Parto per un viaggio di scoperta.\n"
-	.string "Una ricerca di nuovi RAGgiri.\p"
+	.string "Una ricerca di nuovi RAGGIRI.\p"
 	.string "Spero che un giorno verrai a\n"
 	.string "divertirmi di nuovo.\p"
 	.string "E ora, addio!$"

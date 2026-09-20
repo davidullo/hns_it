@@ -315,18 +315,18 @@ MauvilleCity_PokemonCenter_1F_Text_TrendsStartedStory::
 	.string "la regione di HOENN!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedTitle::
-	.string "L'ALLENATORE che pianta BACche$"
+	.string "L'ALLENATORE che pianta BACCHE$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedAction::
-	.string "Piantato BACche$"
+	.string "Piantato BACCHE$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedStory::
 	.string "Questa è la storia di un ALLENATORE\n"
 	.string "di nome {STR_VAR_3}.\p"
-	.string "Questo ALLENATORE ha piantato BACche\n"
+	.string "Questo ALLENATORE ha piantato BACCHE\n"
 	.string "{STR_VAR_1} volte!\p"
 	.string "{STR_VAR_3} è un leggendario amante\n"
-	.string "delle BACche!$"
+	.string "delle BACCHE!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BikeTradesTitle::
 	.string "L'ALLENATORE amante delle BICI$"
@@ -499,7 +499,7 @@ MauvilleCity_PokemonCenter_1F_Text_MovedBasesTitle::
 	.string "L'ALLENATORE traslocatore$"
 
 MauvilleCity_PokemonCenter_1F_Text_MovedBasesAction::
-	.string "BASi SEGRETE spostate$"
+	.string "BASI SEGRETE spostate$"
 
 MauvilleCity_PokemonCenter_1F_Text_MovedBasesStory::
 	.string "Questa è la storia di un ALLENATORE\n"

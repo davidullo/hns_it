@@ -85,7 +85,7 @@ Route39_Text_FarmerMSickCow:
 	.string "Questa FATTORIA è famosa per il latte.\p"
 	.string "Quasi tutti ne vogliono un sorso.\p"
 	.string "Mi darà tanto latte se\n"
-	.string "le do tante BACChe,\l"
+	.string "le do tante BACCHE,\l"
 	.string "credo.$"
 
 Route39_Text_FarmerMBuyMilk:
@@ -131,12 +131,12 @@ Route39_Text_FarmerFHealedMiltank:
 	.string "Ecco qualcosa per il disturbo.$"
 
 Route39_Text_FarmerFSnatchSpeech:
-	.string "Quella è SCIppo.\p"
+	.string "Quella è SCIPPO.\p"
 	.string "È una mossa subdola che fa\n"
 	.string "rubare a un POKéMON la mossa\l"
 	.string "del nemico appena la usa.\p"
 	.string "Se più di un POKéMON usa\n"
-	.string "SCIppo, solo il più lento\l"
+	.string "SCIPPO, solo il più lento\l"
 	.string "ruberà la mossa.\p"
 	.string "Usala bene, tesoro. Il tempismo\n"
 	.string "è tutto.$"

@@ -187,7 +187,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Voices[] = {
     },
     [EC_INDEX(EC_WORD_SHOCKED)] =
     {
-        .text = COMPOUND_STRING("SCIoccato"),
+        .text = COMPOUND_STRING("SCIOCCATO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HOHOHO),
         .enabled = TRUE,
     },

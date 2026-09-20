@@ -59,7 +59,7 @@ PewterCity_EventScript_Cooltrainer::
 
 PewterCity_Text_CooltrainerF:
 	.string "Hai visitato la PALESTRA di PEWTER?\p"
-	.string "Il CAPO usa POKéMON di tipo ROCcia.$"
+	.string "Il CAPO usa POKéMON di tipo ROCCIA.$"
 
 PewterCity_Text_BugCatcher:
 	.string "Di notte, i CLEFAIRY vengono a giocare al\n"

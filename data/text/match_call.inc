@@ -666,7 +666,7 @@ MatchCall_PersonalizedText3::
 	.string "Adoro il posto in cui sono ora.\n"
 	.string "È piacevole, con aromi dolci!\p"
 	.string "Credo che qualcuno abbia piantato\n"
-	.string "delle BACche, e sono sbocciate.\p"
+	.string "delle BACCHE, e sono sbocciate.\p"
 	.string "Ci vediamo presto!$"
 
 MatchCall_PersonalizedText4::

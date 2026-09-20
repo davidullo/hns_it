@@ -217,7 +217,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
 	.string "la dolce carezza del vento.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries:
-	.string "È un quadro di BACche\n"
+	.string "È un quadro di BACCHE\n"
 	.string "che fa venire l'acquolina.\p"
 	.string "Ti fa venire fame!$"
 

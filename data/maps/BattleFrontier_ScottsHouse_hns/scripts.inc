@@ -269,7 +269,7 @@ BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain_hns:
 	.string "Meglio ancora, hai ottenuto\n"
 	.string "qualche simbolo da loro?\p"
 	.string "Ho scelto a mano i CERVELLI\n"
-	.string "ZONA LOTTA, ALLENATORi fortissimi.\p"
+	.string "ZONA LOTTA, ALLENATORI fortissimi.\p"
 	.string "Ma vederti all'opera li farà\n"
 	.string "saltare di sorpresa!$"
 

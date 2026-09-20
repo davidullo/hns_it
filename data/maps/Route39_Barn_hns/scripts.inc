@@ -141,7 +141,7 @@ Route39_Barn_EventScript_TwinsAfter::
 
 Route39_Text_BarnTwinMoomooIsSick:
 	.string "MOOMOO è malata…\p"
-	.string "Le servono tante BACChe ORAN.$"
+	.string "Le servono tante BACCHE ORAN.$"
 
 Route39_Text_BarnTwinFeedingMoomoo:
 	.string "MOOMOO è guarita!\n"
@@ -174,7 +174,7 @@ Route39_Text_BarnTotallyHealthy:
 	.string "in salute!$"
 
 Route39_Text_BarnNoBerries:
-	.string "{PLAYER} non ha BACChe ORAN…$"
+	.string "{PLAYER} non ha BACCHE ORAN…$"
 
 Route39_Text_BarnRefusedBerry:
 	.string "{PLAYER} non ha voluto dare\n"

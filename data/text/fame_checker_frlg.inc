@@ -987,7 +987,7 @@ gFameCheckerFlavorTextOriginLocation_Bruno2::
 	.string "ZAFFIROPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno3::
-	.string "TERME SFavillante$"
+	.string "TERME SFAVILLANTE$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno4::
 	.string "DUE ISOLA$"

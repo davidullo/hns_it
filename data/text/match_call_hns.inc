@@ -174,7 +174,7 @@ MatchCall_HNS_Anthony_General2::
 	.string "Ehi, {PLAYER}!\p"
 	.string "L'altro giorno stavo\n"
 	.string "guardando {STR_VAR_3}\l"
-	.string "mangiare delle BACche.\p"
+	.string "mangiare delle BACCHE.\p"
 	.string "Sembrava godersela,\n"
 	.string "così ho deciso di\l"
 	.string "assaggiarle.\p"

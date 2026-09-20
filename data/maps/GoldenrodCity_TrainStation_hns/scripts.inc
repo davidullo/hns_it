@@ -316,7 +316,7 @@ GoldenrodMagnetTrainStation_Text_GentlemanPresident:
     .string "a KANTO.$"
 
 GoldenrodCity_TrainStation_Text_Boy:
-	.string "Hai portato il SUPERpass\n"
+	.string "Hai portato il SUPERPASS\n"
 	.string "del MAGNETOTRENO, giusto?$"
 
 GoldenrodCity_TrainStation_Text_Psychic:

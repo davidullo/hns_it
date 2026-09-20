@@ -95,7 +95,7 @@ GoldenrodDeptStore_Text_RoofSuperNerdQuitBotheringMe:
 GoldenrodDeptStore_Text_RoofPokefanM:
     .string "C'è una cosa che voglio davvero,\n"
     .string "ma non ho abbastanza soldi…\p"
-    .string "Magari vendo le BACche che ho\n"
+    .string "Magari vendo le BACCHE che ho\n"
     .string "raccolto…$"
 
 GoldenrodDeptStore_Text_RoofTeacher:

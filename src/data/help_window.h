@@ -91,9 +91,9 @@ const struct HelpWindow gHelpWindowInfo[] =
                                 "L'abilità di CLEFFA è GRAZIOSO.\n"
                                 "L'abilità di IGGLYBUFF è GRAZIOSO.\n"
                                 "L'abilità di TYROGUE è DENTISTRETTI.\n"
-                                "L'abilità di SMOOCHUM è INDifferenza.\n"
+                                "L'abilità di SMOOCHUM è INDIFFERENZA.\n"
                                 "L'abilità di ELEKID è STATICO.\n"
-                                "L'abilità di MAGBY è CORPOfiamma."
+                                "L'abilità di MAGBY è CORPOFIAMMA."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,

@@ -74,7 +74,7 @@ Route28_Movement_ScientistLeave:
 Route28_Text_Scientist:
 	.string "Ciao, Capo.\p"
 	.string "Sì, ho trovato vari artefatti,\n"
-	.string "ma nessuna traccia del FLauto AZZURRO.\p"
+	.string "ma nessuna traccia del FLAUTO AZZURRO.\p"
 	.string "Forse è dentro la MONTAGNA, ma\n"
 	.string "i POKéMON selvatici qui sono forti,\l"
 	.string "e la squadra ha bisogno di riposo…\p"
@@ -82,7 +82,7 @@ Route28_Text_Scientist:
 	.string "Non ti sento più...\l"
 	.string "Capo....?\p"
 	.string "Vado al CENTRO POKéMON.\p"
-	.string "Ti richiamo se trovo il FLauto.$"
+	.string "Ti richiamo se trovo il FLAUTO.$"
 
 Route28_Text_Scientist2:
 	.string ".......CLICK\p"

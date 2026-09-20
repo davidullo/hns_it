@@ -412,7 +412,7 @@ LilycoveCity_EventScript_DontKnowAboutBerryBlender::
 LilycoveCity_Text_MayShoppingLetsBattle:
 	.string "MAY: Oh, ciao?\n"
 	.string "{PLAYER}{KUN}, fai compere anche tu?\p"
-	.string "Ho comprato un sacco di PUPazzi e\n"
+	.string "Ho comprato un sacco di PUPAZZI e\n"
 	.string "POSTER.\p"
 	.string "Certo, ho preso anche molti\n"
 	.string "POKéMON, e li alleno\l"

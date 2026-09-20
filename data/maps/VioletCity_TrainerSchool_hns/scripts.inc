@@ -143,9 +143,9 @@ VioletCity_TrainerSchool_Text_GameboyKid1:
 	.string "di GIORNO e di NOTTE!$"
 
 VioletCity_TrainerSchool_Text_GameboyKid2:
-	.string "Le BACche di JOHTO sono\n"
+	.string "Le BACCHE di JOHTO sono\n"
 	.string "buone per curarsi e fare BALL.\p"
-	.string "Le BACche di KANTO riducono\n"
+	.string "Le BACCHE di KANTO riducono\n"
 	.string "le statistiche dei POKéMON.\p"
 	.string "Il DOJO di KANTO aiuta i POKéMON\n"
 	.string "a perfezionare le stat singole.$"

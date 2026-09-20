@@ -137,7 +137,7 @@ SaffronCity_Gym_Text_ExplainTM04::
 	.string "aumentare ATT. SP. e DIF. SP.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
-	.string "La tua BORSa è piena di oggetti.$"
+	.string "La tua BORSA è piena di oggetti.$"
 
 SaffronCity_Gym_Text_AmandaIntro::
 	.string "SABRINA è molto più giovane di me,\n"

@@ -42,7 +42,7 @@ NewSinjoh_HotSprings_Text_MualaniBefore:
     .string "Se proprio devi saperlo, sono del posto.\p"
     .string "La mia famiglia è stata tra i primi a\n"
     .string "godersi queste terme.\p"
-    .string "Guarda, ho persino questa IDROPIastra\n"
+    .string "Guarda, ho persino questa LASTRAIDRO\n"
     .string "a provarlo.$"
 
 NewSinjoh_HotSprings_Text_MualaniBeforeBattle:

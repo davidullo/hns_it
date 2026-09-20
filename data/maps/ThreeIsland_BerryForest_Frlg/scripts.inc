@@ -79,7 +79,7 @@ ThreeIsland_BerryForest_Text_ThankYouHaveThis::
 	.string "Ohh! Che paura!\n"
 	.string "Grazie!\p"
 	.string "LOSTELLE era venuta a prendere\n"
-	.string "delle BACche.\p"
+	.string "delle BACCHE.\p"
 	.string "Puoi avere questo!$"
 
 ThreeIsland_BerryForest_Text_LetsGoHome::
@@ -90,15 +90,15 @@ ThreeIsland_BerryForest_Text_LetsGoHome::
 	.string "Andiamo a casa!$"
 
 ThreeIsland_BerryForest_Text_BerryPouchIsFull::
-	.string "La tua BORSa delle BACche è piena.\n"
+	.string "La tua BORSA delle BACCHE è piena.\n"
 	.string "Immagino che non la voglia.$"
 
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
-	.string "Benvenuto nella FORESTA BACche\p"
-	.string "Sii gentile e condividi le BACche con\n"
+	.string "Benvenuto nella FORESTA BACCHE\p"
+	.string "Sii gentile e condividi le BACCHE con\n"
 	.string "gli altri e i POKéMON.$"
 
 ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
 	.string "Attento ai POKéMON selvatici\n"
-	.string "golosi di BACche!$"
+	.string "golosi di BACCHE!$"
 

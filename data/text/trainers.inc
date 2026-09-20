@@ -1495,7 +1495,7 @@ Route111_Text_HaydenDefeat:
 
 Route111_Text_HaydenPostBattle:
 	.string "Il mio stomaco brontola!\n"
-	.string "Forse posso grigliare delle BACche…$"
+	.string "Forse posso grigliare delle BACCHE…$"
 
 Route111_Text_BiancaIntro:
 	.string "Vieni da MAUVILLE?\n"

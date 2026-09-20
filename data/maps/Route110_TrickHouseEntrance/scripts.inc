@@ -747,7 +747,7 @@ Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
 	.string "Tu, sei venuto a sfidare\n"
-	.string "la mia CASA DEI RAGgiri, vero?\p"
+	.string "la mia CASA DEI RAGGIRI, vero?\p"
 	.string "Ecco perché sei qui, no?\n"
 	.string "Sì, è così!\p"
 	.string "La tua sfida è accettata!\p"
@@ -768,7 +768,7 @@ Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote:
 	.string "Non cercarmi. TRICK MASTER”$"
 
 Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick:
-	.string "La prossima volta userò questo RAGgiro,\n"
+	.string "La prossima volta userò questo RAGGIRO,\n"
 	.string "e quel piano, e quegli stratagemmi…\p"
 	.string "Mufufufu… Se posso dirlo, è\n"
 	.string "difficile in modo geniale, anche per me!$"

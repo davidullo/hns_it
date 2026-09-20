@@ -312,8 +312,8 @@ Route36_Text_ArthurGivesGift:
 
 Route36_Text_ArthurGaveGift:
 	.string "ARTHUR: Un POKéMON che usa mosse di\n"
-	.string "tipo ROCcia dovrebbe tenerlo.\p"
-	.string "Potenzia gli attacchi ROCcia.$"
+	.string "tipo ROCCIA dovrebbe tenerlo.\p"
+	.string "Potenzia gli attacchi ROCCIA.$"
 
 Route36_Text_ArthurThursday:
 	.string "ARTHUR: Sono ARTHUR del Giovedì.\n"

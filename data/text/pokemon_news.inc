@@ -130,7 +130,7 @@ gPokeNewsTextBlendMaster_Upcoming::
 	.string "un FRULLAFRUTTE.\p"
 	.string "Chi vuole creare ottimi\n"
 	.string "{POKEBLOCK}S o vedere il CAPO\l"
-	.string "conservi le sue BACche.\p"
+	.string "conservi le sue BACCHE.\p"
 	.string "È tutto da POKéMON NEWS.$"
 
 gPokeNewsTextBlendMaster_Ongoing::

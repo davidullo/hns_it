@@ -267,7 +267,7 @@ MossdeepCity_GameCorner_1F_Text_PokemonJumpInfo:
 MossdeepCity_GameCorner_1F_Text_DodrioBerryPickingInfo:
 	.string "“DODRIO BERRY-PICKING”\p"
 	.string "Guida le tre teste di DODRIO\n"
-	.string "per prendere le BACche che cadono.\p"
+	.string "per prendere le BACCHE che cadono.\p"
 	.string "Premi destra, su o sinistra sul\n"
 	.string "{PLUS} Control Pad per muoverle.\p"
 	.string "Per questo gioco serve\n"

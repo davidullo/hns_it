@@ -1491,7 +1491,7 @@ Text_PokemonJumpInfo_Frlg::
 Text_DodrioBerryPickingInfo_Frlg::
 	.string "“DODRIO BERRY-PICKING”\p"
 	.string "Guida le tre teste di DODRIO\n"
-	.string "per prendere le BACche che cadono.\p"
+	.string "per prendere le BACCHE che cadono.\p"
 	.string "Premi destra, su o sinistra sul\n"
 	.string "{PLUS} Control Pad per muoverle.\p"
 	.string "Per questo gioco serve\n"
