@@ -1,58 +1,58 @@
 MoveRelearner_Text_WouldLearnNewMoves:
-	.string "Hi, I'm the Move Relearner.\n"
-	.string "Would you like to learn new moves?$"
+	.string "Ciao, sono il Maestro Mosse.\n"
+	.string "Vuoi imparare nuove mosse?$"
 
 MoveRelearner_Text_LevelUpMoves:
-	.string "Level Up Moves$"
+	.string "Mosse Livello$"
 
 MoveRelearner_Text_EggMoves:
-	.string "Egg Moves$"
+	.string "Mosse Uovo$"
 
 MoveRelearner_Text_TMMoves:
-	.string "TM Moves$"
+	.string "Mosse MT$"
 
 MoveRelearner_Text_TutormoveMoves:
-	.string "Tutor Moves$"
+	.string "Mosse Tutor$"
 
 MoveRelearner_Text_SeeYa:
-	.string "See ya!$"
+	.string "Ci vediamo!$"
 
 MoveRelearner_Text_AnythingElse:
-	.string "Is there anything else I may do for you?$"
+	.string "Posso fare altro per te?$"
 
 MoveRelearner_Text_ChoosePkmn:
-	.string "Please choose your Pokémon.$"
+	.string "Scegli un POKéMON.$"
 
 MoveRelearner_Text_HaveNoPkmn:
-	.string "You have no Pokémon.$"
+	.string "Non hai POKéMON.$"
 
 MoveRelearner_Text_CantTeachMoveToEgg:
-	.string "Sorry…\n"
-	.string "But an Egg can't learn moves.$"
+	.string "Mi dispiace…\n"
+	.string "Ma un Uovo non impara mosse.$"
 
 MoveRelearner_Text_CantTeachMoveToPkmn:
-	.string "Sorry…\p"
-	.string "It doesn't appear as if I have any move\n"
-	.string "I can teach that Pokémon.$"
+	.string "Mi dispiace…\p"
+	.string "Non mi pare di avere mosse\n"
+	.string "da insegnare a quel POKéMON.$"
 
 MoveRelearner_Text_LevelUpMoveLWR::
-	.string "level up move$"
+	.string "mossa livello$"
 
 MoveRelearner_Text_EggMoveLWR::
-	.string "egg move$"
+	.string "mossa uovo$"
 
 MoveRelearner_Text_TMMoveLWR::
-	.string "TM move$"
+	.string "mossa MT$"
 
 MoveRelearner_Text_TutorMoveLWR::
-	.string "tutor move$"
+	.string "mossa tutor$"
 
 MoveRelearner_Text_MoveLWR::
-	.string "move$"
+	.string "mossa$"
 
 MoveRelearner_Text_WhichXmoveShouldTeach:
-	.string "Which {STR_VAR_3} should I teach?$"
+	.string "Quale {STR_VAR_3} insegno?$"
 
 MoveRelearner_Text_ThankYouComeAgain:
-	.string "Thank you for using our services.\n"
-	.string "Please come again!$"
+	.string "Grazie per averci scelto.\n"
+	.string "Torna presto!$"

@@ -6,108 +6,108 @@ Route9_EventScript_RouteSign::
 	end
 
 Route9_Text_AliciaIntro::
-	.string "You have POKéMON with you!\n"
-	.string "You're mine!$"
+	.string "Hai dei POKéMON con te!\n"
+	.string "Sei mio!$"
 
 Route9_Text_AliciaDefeat::
-	.string "You deceived me…$"
+	.string "Mi hai ingannata…$"
 
 Route9_Text_AliciaPostBattle::
-	.string "The tunnel coming up is pitch-black\n"
-	.string "inside.\p"
-	.string "You'll need FLASH to get through\n"
-	.string "there.$"
+	.string "Il tunnel più avanti è buio\n"
+	.string "pesto.\p"
+	.string "Ti servirà FLASH per passare\n"
+	.string "là dentro.$"
 
 Route9_Text_ChrisIntro::
-	.string "Who's that walking there with those\n"
-	.string "good-looking POKéMON?$"
+	.string "Chi sta passando con quei\n"
+	.string "bei POKéMON?$"
 
 Route9_Text_ChrisDefeat::
-	.string "Out like a light!$"
+	.string "K.O. in un lampo!$"
 
 Route9_Text_ChrisPostBattle::
-	.string "Keep walking!$"
+	.string "Continua a camminare!$"
 
 Route9_Text_DrewIntro::
-	.string "I'm taking the ROCK TUNNEL to\n"
-	.string "go to LAVENDER…$"
+	.string "Prendo il TUNNEL ROCCIOSO per\n"
+	.string "andare a LAVANDONIA…$"
 
 Route9_Text_DrewDefeat::
-	.string "Can't measure up…$"
+	.string "Non sono all'altezza…$"
 
 Route9_Text_DrewPostBattle::
-	.string "Are you off to ROCK TUNNEL, too?$"
+	.string "Vai anche tu al TUNNEL ROCCIOSO?$"
 
 Route9_Text_CaitlinIntro::
-	.string "Don't you dare patronize me!$"
+	.string "Non osare trattarmi dall'alto in basso!$"
 
 Route9_Text_CaitlinDefeat::
 	.string "No!\n"
-	.string "You're too much.$"
+	.string "Sei troppo forte.$"
 
 Route9_Text_CaitlinPostBattle::
-	.string "You're obviously talented.\n"
-	.string "Good luck to you!$"
+	.string "Hai del talento.\n"
+	.string "In bocca al lupo!$"
 
 Route9_Text_JeremyIntro::
 	.string "Bwahaha!\n"
-	.string "Great! I was bored, eh!$"
+	.string "Ottimo! Mi annoiavo, eh!$"
 
 Route9_Text_JeremyDefeat::
-	.string "Keep it coming, eh!\p"
-	.string "Oh wait.\n"
-	.string "I'm out of POKéMON!$"
+	.string "Dammene ancora, eh!\p"
+	.string "Oh, aspetta.\n"
+	.string "Non ho più POKéMON!$"
 
 Route9_Text_JeremyPostBattle::
-	.string "You sure had guts standing up to\n"
-	.string "me there, eh?$"
+	.string "Ci vuole fegato a sfidarmi\n"
+	.string "così, eh?$"
 
 Route9_Text_BriceIntro::
-	.string "Hahaha!\n"
-	.string "Aren't you a little toughie!$"
+	.string "Ahahah!\n"
+	.string "Ma sei un piccolo tutto pepe!$"
 
 Route9_Text_BriceDefeat::
-	.string "What's that?$"
+	.string "Che succede?$"
 
 Route9_Text_BricePostBattle::
-	.string "Hahaha!\n"
-	.string "Kids should be tough!$"
+	.string "Ahahah!\n"
+	.string "I ragazzini devono essere tosti!$"
 
 Route9_Text_BrentIntro::
-	.string "I got up early every day to raise\n"
-	.string "my POKéMON from cocoons!$"
+	.string "Mi alzavo presto ogni giorno per\n"
+	.string "allevare i miei POKéMON dai bozzoli!$"
 
 Route9_Text_BrentDefeat::
-	.string "WHAT?\p"
-	.string "What a total waste of time!$"
+	.string "COSA?\p"
+	.string "Che perdita di tempo!$"
 
 Route9_Text_BrentPostBattle::
-	.string "I have to collect more than bugs\n"
-	.string "to get stronger…$"
+	.string "Devo raccogliere più che insetti\n"
+	.string "per diventare più forte…$"
 
 Route9_Text_AlanIntro::
-	.string "Hahahaha!\n"
-	.string "Bring it on!$"
+	.string "Ahahahah!\n"
+	.string "Fatti sotto!$"
 
 Route9_Text_AlanDefeat::
-	.string "Hahahaha!\n"
-	.string "You beat me fair!$"
+	.string "Ahahahah!\n"
+	.string "Mi hai battuto lealmente!$"
 
 Route9_Text_AlanPostBattle::
-	.string "Hahahaha!\n"
-	.string "Us hearty guys always laugh!$"
+	.string "Ahahahah!\n"
+	.string "Noi ridiamo sempre, che caratterino!$"
 
 Route9_Text_ConnerIntro::
-	.string "Go, my super BUG POKéMON!$"
+	.string "Vai, miei super POKéMON COLEOTTERO!$"
 
 Route9_Text_ConnerDefeat::
-	.string "My bugs…$"
+	.string "I miei insetti…$"
 
 Route9_Text_ConnerPostBattle::
-	.string "If you don't like BUG POKéMON,\n"
-	.string "you bug me!$"
+	.string "Se non ti piacciono i POKéMON\n"
+	.string "COLEOTTERO, mi dai fastidio!$"
 
 Route9_Text_RouteSign::
-	.string "ROUTE 9\n"
-	.string "CERULEAN CITY - ROCK TUNNEL$"
+	.string "PERCORSO 9\n"
+	.string "CERULEAN CITY - TUNNEL ROCCIOSO$"
 

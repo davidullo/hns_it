@@ -27,21 +27,21 @@ SevenIsland_PokemonCenter_1F_EventScript_Beauty::
 	end
 
 SevenIsland_PokemonCenter_1F_Text_EventsDependingOnConnections::
-	.string "On this island, different events\n"
-	.string "occur depending on connections.\p"
-	.string "What are those connections?\p"
-	.string "They are for you to discover on\n"
-	.string "your own.$"
+	.string "Su quest'isola accadono eventi\n"
+	.string "diversi a seconda dei collegamenti.\p"
+	.string "Quali collegamenti?\p"
+	.string "Sta a te scoprirlo\n"
+	.string "da solo.$"
 
 SevenIsland_PokemonCenter_1F_Text_DidYouRideSeagallopHere::
-	.string "Did you ride a SEAGALLOP ferry\n"
-	.string "to get here?\p"
-	.string "There are at least ten of those\n"
-	.string "high-speed ships.\p"
-	.string "I don't know where they all go,\n"
-	.string "though.$"
+	.string "Sei arrivato qui con un\n"
+	.string "traghetto SEAGALLOP?\p"
+	.string "Ci sono almeno dieci di quelle\n"
+	.string "navi veloci.\p"
+	.string "Però non so dove vadano\n"
+	.string "tutte.$"
 
 SevenIsland_PokemonCenter_1F_Text_CheckOutTrainerTower::
-	.string "If you're confident, you should\n"
-	.string "check out TRAINER TOWER.$"
+	.string "Se ti senti sicuro, dovresti\n"
+	.string "visitare la TORRE ALLENATORI.$"
 

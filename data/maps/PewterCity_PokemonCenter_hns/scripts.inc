@@ -15,9 +15,9 @@ PewterCity_PokemonCenter_EventScript_BugCatcher::
 	end
 
 PewterCity_PokemonCenter1F_Text_Teacher:
-	.string "…Yeah, and the GYM in CINNABAR's gone.\p"
-	.string "I was really amazed.\p"
-	.string "…Yes? I'm on the phone. Go away!$"
+	.string "…Sì, e la PALESTRA di CINNABAR è sparita.\p"
+	.string "Sono rimasto davvero stupito.\p"
+	.string "…Sì? Sono al telefono. Vattene!$"
 
 PewterCity_PokemonCenter1F_Text_Jigglypuff:
 	.string "JIGGLYPUFF: Puu pupuu.$"
@@ -48,29 +48,29 @@ PewterCity_PokemonCenter_EventScript_TradeCompleted::
 	end
 
 PewterCity_PokemonCenter_Text_WantToTrade:
-	.string "I've been traveling all over, looking\n"
-	.string "for a good {STR_VAR_1}.\p"
-	.string "Would you trade one for my\n"
+	.string "Ho girato il mondo, cercando\n"
+	.string "un buon {STR_VAR_1}.\p"
+	.string "Lo scambieresti con il mio\n"
 	.string "{STR_VAR_2}?$"
 
 PewterCity_PokemonCenter_Text_TakeCare:
-	.string "Thanks a bunch!\n"
-	.string "Take good care of my {STR_VAR_1}!$"
+	.string "Grazie mille!\n"
+	.string "Abbi cura del mio {STR_VAR_1}!$"
 
 PewterCity_PokemonCenter_Text_DeclineTrade:
-	.string "No? That's too bad…\n"
-	.string "I think you'd like my HAUNTER.$"
+	.string "No? Che peccato…\n"
+	.string "Penso che ti piacerebbe il mio HAUNTER.$"
 
 PewterCity_PokemonCenter_Text_NotRequestedMon:
-	.string "Hmm, that's not a {STR_VAR_1}.\n"
-	.string "That's not what I'm looking for.$"
+	.string "Hmm, non è un {STR_VAR_1}.\n"
+	.string "Non è quello che cerco.$"
 
 PewterCity_PokemonCenter_Text_TradeCompleted:
-	.string "How's that HAUNTER treating you?\n"
-	.string "It's a real trickster!$"
+	.string "Come ti trovi con HAUNTER?\n"
+	.string "È un vero combinaguai!$"
 
 PewterCity_PokemonCenter1F_Text_BugCatcher:
-	.string "Most POKéMON get drowsy if they hear a\n"
-	.string "JIGGLYPUFF singing.\p"
-	.string "There are several moves that can be\n"
-	.string "used only while a POKéMON is asleep.$"
+	.string "Quasi tutti i POKéMON si intontiscono\n"
+	.string "se sentono un JIGGLYPUFF cantare.\p"
+	.string "Ci sono mosse che si possono usare\n"
+	.string "solo mentre un POKéMON dorme.$"

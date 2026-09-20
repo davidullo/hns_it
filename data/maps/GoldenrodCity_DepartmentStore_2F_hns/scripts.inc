@@ -215,8 +215,8 @@ GoldenrodDeptStore_Text_DrinkClankedDown:
 
 GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
 	.string "Clang!\p"
-	.string "Score! An extra can of {STR_VAR_1}\n"
-	.string "dropped down!$"
+	.string "Evviva! Una lattina extra di {STR_VAR_1}\n"
+	.string "è caduta!$"
 
 GoldenrodDeptStore_Text_NotEnoughMoney:
 	.string "Soldi insufficienti…$"

@@ -17,10 +17,10 @@ Alola_Melemele_Pokecenter_EventScript_Swimmer::
 	end
 
 Alola_Melemele_Pokecenter_Text_Swimmer:
-	.string "Ah, it's so hard to keep these\n"
-	.string "isles straight!\p"
-	.string "I always seem to mix them up!\p"
-	.string "Thank goodness for this map!$"
+	.string "Ah, è così difficile tenere a mente\n"
+	.string "queste isole!\p"
+	.string "Le confondo sempre!\p"
+	.string "Meno male che c'è questa mappa!$"
 
 Alola_Melemele_Pokecenter_Map::
 	lockall
@@ -70,13 +70,13 @@ Alola_Melemele_Pokecenter_BugCatcher_Movement_0:
 	step_end
 
 Alola_Melemele_Pokecenter_AceTrainer_Text_0:
-	.string "There are so many unique POKéMON here!\n"
-	.string "I'm gonna catch 'em all!$"
+	.string "Ci sono tanti POKéMON unici qui!\n"
+	.string "Li prenderò tutti!$"
 
 Alola_Melemele_Pokecenter_BugCatcher_Text_0:
-	.string "I found some brand new POKéMON\n"
-	.string "here on the ISLES!\p"
-	.string "Like my new friend RATTATA here!$"
+	.string "Ho trovato POKéMON mai visti\n"
+	.string "qui sulle ISOLE!\p"
+	.string "Come il mio nuovo RATTATA!$"
 
 Alola_Melemele_Pokecenter_Grubbin_Text_0:
 	.string "Grrr!$"
@@ -153,20 +153,20 @@ Alola_Melemele_Pokecenter_Jessica_TradeCompleted::
 	end
 
 Alola_Melemele_Pokecenter_Jessica_Text_WantToTrade:
-	.string "The {STR_VAR_2} out here aren't like\n"
-	.string "the ones on the mainland.\p"
-	.string "Want to trade for my {STR_VAR_2}?$"
+	.string "I {STR_VAR_2} qui non sono come\n"
+	.string "quelli del continente.\p"
+	.string "Vuoi scambiare con il mio {STR_VAR_2}?$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_TakeCare:
-	.string "Thanks!\n"
-	.string "TORY, you take care!$"
+	.string "Grazie!\n"
+	.string "TORY, abbi cura di te!$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_DeclineTrade:
 	.string "Non vuoi scambiare? Oh…$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_TradeCompleted:
-	.string "Hi, how's my old TORY doing?$"
+	.string "Ciao, come sta il mio vecchio TORY?$"
 
 Alola_Melemele_Pokecenter_Map_Text_0:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "ALOLA ISLES map.$"
+	.string "{PLAYER} ha guardato meglio la\n"
+	.string "mappa delle ISOLE DI ALOLA.$"

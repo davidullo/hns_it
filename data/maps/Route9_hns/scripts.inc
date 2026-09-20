@@ -46,72 +46,72 @@ Route9_EventScript_Item_Flash_Cannon::
     end
 
 Route9_Text_CamperDeanSeen:
-	.string "I came to explore ROCK TUNNEL.$"
+	.string "Sono venuto a esplorare la ROCK TUNNEL.$"
 
 Route9_Text_CamperDeanBeaten:
-	.string "Whoa! Danger, man.$"
+	.string "Whoa! Pericolo, amico.$"
 
 Route9_Text_CamperDeanAfter:
-	.string "My POKéMON were hurt before even\n"
-	.string "entering ROCK TUNNEL.\p"
-	.string "I'd better take them to a POKéMON\n"
-	.string "CENTER right away.$"
+	.string "I miei POKéMON erano feriti già\n"
+	.string "prima di entrare nel TUNNEL ROCCIOSO.\p"
+	.string "Meglio portarli subito a un CENTRO\n"
+	.string "POKéMON.$"
 
 Route9_Text_PicnickerHeidiSeen:
-	.string "Have you ever been to a picnic?\p"
-	.string "They're so much fun!$"
+	.string "Sei mai stato a un picnic?\p"
+	.string "Sono divertentissimi!$"
 
 Route9_Text_PicnickerHeidiBeaten:
-	.string "Ohhhh!$"
+	.string "Oooh!$"
 
 Route9_Text_PicnickerHeidiAfter:
-	.string "We bake lots of goodies and share\n"
-	.string "them all around.\p"
-	.string "They're delicious!$"
+	.string "Prepariamo tante leccornie e le\n"
+	.string "dividiamo con tutti.\p"
+	.string "Sono deliziose!$"
 
 Route9_Text_CamperSidSeen:
-	.string "Hey, you! Don't litter!$"
+	.string "Ehi, tu! Non sporcare!$"
 
 Route9_Text_CamperSidBeaten:
-	.string "I was just pointing out…$"
+	.string "Volevo solo farti notare…$"
 
 Route9_Text_CamperSidAfter:
-	.string "Sorry. You weren't littering. It\n"
-	.string "was my mistake.$"
+	.string "Scusa. Non stavi sporcando.\n"
+	.string "È stato un mio errore.$"
 
 Route9_Text_PicnickerEdnaSeen:
-	.string "People shouldn't leave any litter\n"
-	.string "behind.$"
+	.string "Non si dovrebbe lasciare in giro\n"
+	.string "immondizia.$"
 
 Route9_Text_PicnickerEdnaBeaten:
-	.string "Ohh… I lost…$"
+	.string "Ohh… ho perso…$"
 
 Route9_Text_PicnickerEdnaAfter:
-	.string "Conserving energy is important,\n"
-	.string "but the environment is even more\l"
-	.string "vital.$"
+	.string "Risparmiare energia è importante,\n"
+	.string "ma l'ambiente lo è\l"
+	.string "ancora di più.$"
 
 Route9_Text_HikerTimSeen:
-	.string "She'll be coming 'round MT.SILVER\n"
-	.string "when she comes…\p"
-	.string "MT.SILVER is in JOHTO, right?$"
+	.string "Tornerà girando per MT.SILVER\n"
+	.string "quando verrà…\p"
+	.string "MT.SILVER è a JOHTO, vero?$"
 
 Route9_Text_HikerTimBeaten:
-	.string "I was too busy singing…$"
+	.string "Ero troppo impegnato a cantare…$"
 
 Route9_Text_HikerTimAfter:
-	.string "Battles are about concentration.$"
+	.string "Nelle lotte conta la concentrazione.$"
 
 Route9_Text_HikerSidneySeen:
-	.string "I'll tell you a secret.\p"
-	.string "But first, we battle!$"
+	.string "Ti svelo un segreto.\p"
+	.string "Ma prima, lottiamo!$"
 
 Route9_Text_HikerSidneyBeaten:
-	.string "Oh, dang! I lost that…$"
+	.string "Oh, no! Ho perso…$"
 
 Route9_Text_HikerSidneyAfter:
-	.string "The POWER PLANT is across a small\n"
-	.string "river.$"
+	.string "La CENTRALE è oltre un piccolo\n"
+	.string "fiume.$"
 
 Route9_Text_Sign:
 	.string "ROUTE 9\p"

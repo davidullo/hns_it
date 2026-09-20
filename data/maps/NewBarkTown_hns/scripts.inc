@@ -225,55 +225,55 @@ NewBarkTown_Movement_FaceDown:
 	step_end
 
 NewBarkTown_Text_LabSign:
-	.string "PROF.ELM'S LAB$"
+	.string "LAB. DEL PROF.ELM$"
 
 NewBarkTown_Text_Door:
-	.string "The door is locked.$"
+	.string "La porta è chiusa.$"
 
 NewBarkTown_Text_Wooper:
-	.string "WOOPER: Woooooop.$"
+	.string "WOOPER: Woaaap.$"
 
 NewBarkTown_Text_FatManState2:
-	.string "Wow, your POKéGEAR is impressive!\n"
-	.string "Did your mom get it for you?$"
+	.string "Wow, il tuo POKéGEAR è fantastico!\n"
+	.string "Te l'ha preso la mamma?$"
 
 NewBarkTown_Text_FatManState3:
-	.string "Yo, {PLAYER}!\p"
-	.string "I hear PROF.ELM discovered\n"
-	.string "some new POKéMON.$"
+	.string "Ehi, {PLAYER}!\p"
+	.string "Ho sentito che il PROF.ELM ha scoperto\n"
+	.string "dei nuovi POKéMON.$"
 
 NewBarkTown_Text_LassState2:
-	.string "Wait, {PLAYER}!\p"
-	.string "It's dangerous to go out\n"
-	.string "without a POKéMON!\p"
-	.string "Wild POKéMON jump out of the grass\n"
-	.string "on the way to the next town.$"
+	.string "Aspetta, {PLAYER}!\p"
+	.string "È pericoloso uscire\n"
+	.string "senza un POKéMON!\p"
+	.string "I POKéMON selvatici escono dall'erba\n"
+	.string "sulla strada per la città dopo.$"
 
 NewBarkTown_Text_LassState3:
-	.string "Oh! Your POKéMON is adorable!\n"
-	.string "I wish I had one!$"
+	.string "Oh! Il tuo POKéMON è adorabile!\n"
+	.string "Vorrei averne uno!$"
 
 NewBarkTown_Text_LassState4:
-	.string "Hi, {PLAYER}! Leaving again?\p"
-	.string "You should tell your mom if\n"
-	.string "you are leaving.$"
+	.string "Ciao, {PLAYER}! Riparti?\p"
+	.string "Dovresti dirlo a tua mamma\n"
+	.string "se te ne vai.$"
 
 NewBarkTown_Text_LassState5:
-	.string "Call your mom on your POKéGEAR\n"
-	.string "to let her know how you're doing.$\p"
+	.string "Chiama tua mamma col POKéGEAR\n"
+	.string "per farle sapere come va.$\p"
 
 NewBarkTown_Text_Silver1:
 	.string ". . .\p"
-	.string "So this is the famous ELM\n"
-	.string "POKéMON LAB…$"
+	.string "Quindi questo è il famoso LAB\n"
+	.string "POKéMON di ELM…$"
 
 NewBarkTown_Text_Silver2:
-	.string "…What are you staring at?$"
+	.string "…Che cosa guardi?$"
 
 NewBarkTown_Text_Sign:
-	.string "NEW BARK TOWN\p"
-	.string "The Town Where the Winds of\n"
-	.string "a New Beginning Blow$"
+	.string "BORGO FOGLIANOVA\p"
+	.string "La città dove soffiano i venti\n"
+	.string "di un nuovo inizio$"
 
 NewBarkTown_EventScript_PlayersHouseMailbox::
 	msgbox NewBarkTown_Text_PlayersHouse, MSGBOX_SIGN
@@ -284,8 +284,8 @@ NewBarkTown_EventScript_ElmsHouseMailbox::
 	end
 
 NewBarkTown_Text_PlayersHouse:
-	.string "{PLAYER}'S HOUSE$"
+	.string "CASA DI {PLAYER}$"
 
 NewBarkTown_Text_ElmsHouse:
-	.string "PROF.ELM'S HOUSE$"
+	.string "CASA DEL PROF.ELM$"
 

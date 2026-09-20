@@ -17,11 +17,11 @@ MagmaHideout_1F_EventScript_Grunt2::
 	end
 
 MagmaHideout_1F_Text_Grunt1Intro:
-	.string "When TEAM MAGMA has roll call, we get\n"
-	.string "important guarding assignments in\l"
-	.string "the order that we line up.\p"
-	.string "That's why I'm stuck off in this corner.\n"
-	.string "I'm always late to roll call!$"
+	.string "Quando il TEAM MAGMA fa l'appello, ci\n"
+	.string "assegnano i turni di guardia importanti\l"
+	.string "in base all'ordine in cui ci mettiamo.\p"
+	.string "Perciò sono bloccato in questo angolo.\n"
+	.string "Arrivo sempre tardi all'appello!$"
 
 MagmaHideout_1F_Text_Grunt1Defeat:
 	.string "Anch'io arrivo sempre tardi\n"

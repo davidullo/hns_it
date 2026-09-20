@@ -39,34 +39,34 @@ PewterCity_Museum_1F_EventScript_Bones::
 	end
 
 PewterCity_Museum_1F_Text_Recptionist:
-	.string "Welcome!\p"
-	.string "Just to let you know, all the large\n"
-	.string "specimens have been taken to the\l"
-	.string "other museums for display.\p"
-	.string "So for now, admission is free of\n"
-	.string "charge!\p"
-	.string "Please go ahead.$"
+	.string "Benvenuto!\p"
+	.string "Sappi che tutti gli esemplari\n"
+	.string "grandi sono stati portati negli\l"
+	.string "altri musei per l'esposizione.\p"
+	.string "Quindi per ora l'ingresso è\n"
+	.string "gratuito!\p"
+	.string "Prego, accomodati.$"
 
 PewterCity_Museum_1F_Text_FossilWoman:
-	.string "You must be a strong trainer.\p"
-	.string "We don't have much use for the\n"
-	.string "fossils on the counter over there.\p"
-	.string "A strange man with silver hair\n"
-	.string "dropped a ton of them off here.\p"
-	.string "Go ahead and take them if you like.$"
+	.string "Devi essere un allenatore forte.\p"
+	.string "Non ci servono molto i fossili\n"
+	.string "sul bancone là.\p"
+	.string "Un uomo strano dai capelli argento\n"
+	.string "ne ha lasciati un sacco qui.\p"
+	.string "Prendili pure, se ti va.$"
 
 PewterCity_Museum_1F_Text_FossilWomanAfter:
-	.string "We often share research with the\n"
-	.string "RUINS OF ALPH researchers.\p"
-	.string "We even share fossils with them\n"
-	.string "through the PC!$"
+	.string "Spesso condividiamo le ricerche\n"
+	.string "con gli studiosi delle ROVINE D'ALFA.\p"
+	.string "Condividiamo i fossili anche con\n"
+	.string "loro, tramite il PC!$"
 
 PewterCity_Museum_1F_Text_Oldman:
-	.string "I should be grateful for my long\n"
-	.string "life.\p"
-	.string "Never did I think I would get to\n"
-	.string "see the bones of a dragon!$"
+	.string "Devo essere grato per la mia\n"
+	.string "lunga vita.\p"
+	.string "Non avrei mai pensato di poter\n"
+	.string "vedere le ossa di un drago!$"
 
 PewterCity_Museum_1F_Text_Bones:
-	.string "Bones of an ancient dragon\n"
-	.string "POKéMON.$"
+	.string "Ossa di un antico POKéMON\n"
+	.string "drago.$"

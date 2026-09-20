@@ -1065,8 +1065,8 @@ LilycoveCity_ContestLobby_Text_LavishedCareOnMon_hns:
 	.string "Oggi la vittoria è mia!$"
 
 LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily_hns:
-	.string "I made {POKEBLOCK}S with Mom, Dad, and\n"
-	.string "Big Sister. They turned out great!\p"
-	.string "I bet you can make smoother, better\n"
-	.string "{POKEBLOCK}S if you have more people.$"
+	.string "Ho fatto {POKEBLOCK} con mamma, papà\n"
+	.string "e sorella. Sono venuti benissimo!\p"
+	.string "Scommetto che con più persone fai\n"
+	.string "{POKEBLOCK} più lisci e migliori.$"
 

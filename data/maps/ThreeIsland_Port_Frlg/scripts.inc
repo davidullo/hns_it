@@ -37,28 +37,28 @@ ThreeIsland_Port_EventScript_Biker2::
 	end
 
 ThreeIsland_Port_Text_WereKantoRiderFederation::
-	.string "We're the KANTO RIDER FEDERATION!\n"
+	.string "Siamo la FEDERAZIONE CENTAURI DI KANTO!\n"
 	.string "Vroom! Vavavavooom! Vroom!\p"
-	.string "My bike's wimpy, so I have to\n"
-	.string "make exhaust noises myself!$"
+	.string "La mia bici è fiacca, quindi\n"
+	.string "faccio i rumori del motore io!$"
 
 ThreeIsland_Port_Text_ForkOverMoney::
-	.string "Hey, hey, lady!\n"
-	.string "Fork over some spending money!$"
+	.string "Ehi, ehi, signora!\n"
+	.string "Tira fuori un po' di soldi!$"
 
 ThreeIsland_Port_Text_IllCallThePolice::
 	.string "Aiyeeh!\p"
-	.string "Wh-who are you?!\n"
-	.string "I… I'll call the police!$"
+	.string "Ch-chi sei?!\n"
+	.string "Io… io chiamo la polizia!$"
 
 ThreeIsland_Port_Text_ThankGoodnessBikersGone::
-	.string "Those BIKERS…\n"
-	.string "Are they gone?\p"
-	.string "Oh, thank goodness!\n"
-	.string "They certainly had me terrified!$"
+	.string "Quei BIKER…\n"
+	.string "Se ne sono andati?\p"
+	.string "Oh, grazie al cielo!\n"
+	.string "Mi avevano terrorizzata!$"
 
 ThreeIsland_Port_Text_EverythingTurnedOutForBest::
-	.string "Those BIKERS ran off, and\n"
-	.string "LOSTELLE was found safe.\p"
-	.string "Everything turned out for the best!$"
+	.string "Quei BIKER se ne sono andati, e\n"
+	.string "LOSTELLE è stata trovata sana e salva.\p"
+	.string "È finito tutto per il meglio!$"
 

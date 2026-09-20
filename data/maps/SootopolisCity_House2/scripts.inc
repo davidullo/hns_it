@@ -20,15 +20,15 @@ SootopolisCity_House2_EventScript_DontKnowAboutOrbs::
 
 SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
 	.string "MT. PYRE…\p"
-	.string "At its peak are two orbs placed side\n"
-	.string "by side. Did you know?$"
+	.string "Sulla sua cima ci sono due sfere\n"
+	.string "una accanto all'altra. Lo sapevi?$"
 
 SootopolisCity_House2_Text_YesTwoOrbsSideBySide:
-	.string "Yes, two orbs side by side…\p"
-	.string "The sight of them together…\n"
-	.string "It is somehow soothing…$"
+	.string "Sì, due sfere una accanto all'altra…\p"
+	.string "Vederle insieme…\n"
+	.string "È in qualche modo rassicurante…$"
 
 SootopolisCity_House2_Text_OughtToVisitAndSee:
-	.string "Is that so?\n"
-	.string "Perhaps you ought to visit and see…$"
+	.string "Davvero?\n"
+	.string "Forse dovresti andare a vedere…$"
 

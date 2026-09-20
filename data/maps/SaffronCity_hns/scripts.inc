@@ -10,15 +10,15 @@ SaffronCity_Text_BaobaName:
 	.string "BAOBA$"
 
 SaffronCity_Text_Baoba:
-	.string "WARDEN BAOBA: {PLAYER}!\p"
-	.string "This is WARDEN BAOBA.\p"
-	.string "I'm calling to tell you that the\n"
-	.string "SAFARI ZONE has expanded again!\p"
-	.string "Finally, my SAFARI ZONE has been\n"
-	.string "fully realized!\p"
-	.string "You remember where it is, right?\p"
-	.string "Just west of CIANWOOD CITY!\n"
-	.string "see you soon!$"
+	.string "GUARDIA BAOBA: {PLAYER}!\p"
+	.string "Sono la GUARDIA BAOBA.\p"
+	.string "Ti chiamo per dirti che la\n"
+	.string "ZONA SAFARI si è ampliata!\p"
+	.string "Finalmente la mia ZONA SAFARI\n"
+	.string "è completa!\p"
+	.string "Ti ricordi dov'è, vero?\p"
+	.string "Appena a ovest di FIORLISOPOLI!\n"
+	.string "A presto!$"
 
 SaffronCity_EventScript_Lass1A::
 	goto_if_set FLAG_RETURNED_MACHINE_PART, SaffronCity_EventScript_Lass1B
@@ -95,92 +95,92 @@ SaffronCity_EventScript_Elli::
 	end
 
 SaffronCity_Text_Elli:
-	.string "I love VULPIX! :D$"
+	.string "Adoro VULPIX! :D$"
 
 SaffronCity_Text_Lass1:
-	.string "A little girl who is an expert at\n"
-	.string "mimicking people lives here.\p"
-	.string "She even mimics the people she's\n"
-	.string "conversing with. It's confusing.$"
+	.string "Qui vive una bimba esperta\n"
+	.string "nell'imitare la gente.\p"
+	.string "Imita anche chi le parla.\n"
+	.string "È una cosa confusa.$"
 
 SaffronCity_Text_Lass1_ReturnedPart:
-	.string "The COPYCAT girl looked unhappy.\p"
-	.string "She said she lost her favorite\n"
-	.string "POKé DOLL--CLEFAIRY.$"
+	.string "La ragazza COPIONE sembrava triste.\p"
+	.string "Dice che ha perso il suo\n"
+	.string "POKé DOLL preferito, CLEFAIRY.$"
 
 SaffronCity_Text_PokefanM:
-	.string "You came out from JOHTO?\p"
-	.string "You can zip back home if the\n"
-	.string "MAGNET TRAIN's running.$"
+	.string "Vieni da JOHTO?\p"
+	.string "Puoi tornare a casa in un lampo\n"
+	.string "se il MAGNETOTRENO funziona.$"
 
 SaffronCity_Text_PokefanM_ReturnedPart:
-	.string "You came out from JOHTO?\p"
-	.string "You can zip back home by hopping\n"
-	.string "on the MAGNET TRAIN.$"
+	.string "Vieni da JOHTO?\p"
+	.string "Puoi tornare a casa saltando\n"
+	.string "sul MAGNETOTRENO.$"
 
 SaffronCity_Text_CooltrainerM:
-	.string "I went to the GYM, raring for\n"
-	.string "battles against trainers…\p"
-	.string "It turns out, I stumbled into the\n"
-	.string "unused GYM next door.\p"
-	.string "Boy, I was pretty embarrassed.$"
+	.string "Sono andato in PALESTRA, pronto\n"
+	.string "a sfidare gli allenatori…\p"
+	.string "Invece sono finito nella\n"
+	.string "PALESTRA in disuso accanto.\p"
+	.string "Che figuraccia.$"
 
 SaffronCity_Text_CooltrainerF:
-	.string "This is SILPH CO., famous for\n"
-	.string "POKéMON merchandise.\p"
-	.string "In the past, TEAM ROCKET wanted\n"
-	.string "the company because of that.$"
+	.string "Questa è la SILPH CO., famosa per\n"
+	.string "il merchandising POKéMON.\p"
+	.string "In passato il TEAM ROCKET la\n"
+	.string "voleva proprio per quello.$"
 
 SaffronCity_Text_Fisher:
-	.string "Chew… Chew…\p"
-	.string "I hear there's big trouble brewing\n"
-	.string "at the POWER PLANT.\p"
-	.string "Chew… Chew…$"
+	.string "Gnam… Gnam…\p"
+	.string "Sento che ci sono grossi guai\n"
+	.string "alla CENTRALE ELETTRICA.\p"
+	.string "Gnam… Gnam…$"
 
 SaffronCity_Text_Fisher_ReturnedPart:
-	.string "Chew… Chew…\p"
-	.string "I hear there was big trouble at the\n"
-	.string "POWER PLANT.\p"
-	.string "Chew… Chew… Haaah, I'm full!$"
+	.string "Gnam… Gnam…\p"
+	.string "Sento che ci sono stati grossi guai\n"
+	.string "alla CENTRALE ELETTRICA.\p"
+	.string "Gnam… Gnam… Ah, sono sazio!$"
 
 SaffronCity_Text_Youngster1:
-	.string "Going into an alley for the first\n"
-	.string "time makes me sorta anxious.$"
+	.string "Entrare in un vicolo la prima\n"
+	.string "volta mi mette un po' d'ansia.$"
 
 SaffronCity_Text_Youngster2:
-	.string "There's a place called the CONTEST\n"
-	.string "HALL in VIRIDIAN where trainers\l"
-	.string "gather from all over the place.$"
+	.string "C'è un posto chiamato SALA\n"
+	.string "CONCORSI a VIRIDIAN, dove gli\l"
+	.string "allenatori arrivano da ovunque.$"
 
 SaffronCity_Text_Lass2:
-	.string "Our city was featured on a radio\n"
-	.string "program.\p"
-	.string "It's nice to hear praise for your\n"
-	.string "city, but it's a bit embarrassing\l"
-	.string "too.$"
+	.string "La nostra città è stata in un\n"
+	.string "programma radio.\p"
+	.string "Fa piacere sentire elogi sulla tua\n"
+	.string "città, ma è anche un po'\l"
+	.string "imbarazzante.$"
 
 SaffronCity_Text_Sign:
-	.string "SAFFRON CITY\p"
-	.string "Shining, Golden Land of Commerce$"
+	.string "ZAFFIRIOPOLI\p"
+	.string "Luminosa terra d'oro e commercio$"
 
 SaffronCity_Text_GymSign:
-	.string "SAFFRON CITY\n"
-	.string "POKéMON GYM\l"
-	.string "LEADER: SABRINA\p"
-	.string "The Master of Psychic POKéMON!$"
+	.string "ZAFFIRIOPOLI\n"
+	.string "PALESTRA POKéMON\l"
+	.string "CAPO: SABRINA\p"
+	.string "La maestra dei POKéMON Psichico!$"
 
 SaffronCity_Text_FightingDojoSign:
-	.string "Everyone Welcome!\n"
-	.string "FIGHTING DOJO$"
+	.string "Aperti a tutti!\n"
+	.string "DOJO LOTTA$"
 
 SaffronCity_Text_SilphCoSign:
 	.string "SILPH CO.\n"
-	.string "OFFICE BUILDING$"
+	.string "PALAZZO$"
 
 SaffronCity_Text_MrPsychicHouseSign:
-	.string "MR.PSYCHIC'S\n"
-	.string "HOUSE$"
+	.string "CASA DEL\n"
+	.string "SIGNOR PSICHICO$"
 
 SaffronCity_Text_MagnetTrainStationSign:
-	.string "SAFFRON CITY\n"
-	.string "MAGNET TRAIN STATION$"
+	.string "ZAFFIRIOPOLI\n"
+	.string "STAZIONE MAGNETOTRENO$"

@@ -94,95 +94,95 @@ ViridianCity_School_EventScript_ExitBlackboard::
 	end
 
 ViridianCity_School_Text_TryingToMemorizeNotes::
-	.string "Whew! I'm trying to memorize all my\n"
-	.string "notes.$"
+	.string "Uff! Sto cercando di imparare a\n"
+	.string "memoria tutti i miei appunti.$"
 
 ViridianCity_School_Text_ReadBlackboardCarefully::
 	.string "Okay!\p"
-	.string "Be sure to read what's on the\n"
-	.string "blackboard carefully!$"
+	.string "Leggi con attenzione quello che\n"
+	.string "c'è scritto sulla lavagna!$"
 
 ViridianCity_School_Text_NotebookFirstPage::
-	.string "Let's check out the notebook.\p"
-	.string "First page…\p"
-	.string "POKé BALLS are used to catch\n"
-	.string "POKéMON.\p"
-	.string "Up to six POKéMON can be carried\n"
-	.string "in your party.\p"
-	.string "People who raise and battle\n"
-	.string "with POKéMON are called TRAINERS.$"
+	.string "Diamo un'occhiata al quaderno.\p"
+	.string "Prima pagina…\p"
+	.string "Le POKé BALL servono a catturare\n"
+	.string "i POKéMON.\p"
+	.string "Puoi portare fino a sei POKéMON\n"
+	.string "nella tua squadra.\p"
+	.string "Chi alleva e fa lottare i POKéMON\n"
+	.string "si chiama ALLENATORE.$"
 
 ViridianCity_School_Text_NotebookSecondPage::
-	.string "Second page…\p"
-	.string "A healthy POKéMON may be hard to\n"
-	.string "catch, so weaken it first.\p"
-	.string "Poison, burn, or cause another\n"
-	.string "status problem to weaken it.$"
+	.string "Seconda pagina…\p"
+	.string "Un POKéMON in salute è difficile\n"
+	.string "da catturare, prima indeboliscilo.\p"
+	.string "Avvelenalo, scottalo o dagli un\n"
+	.string "altro problema di stato.$"
 
 ViridianCity_School_Text_NotebookThirdPage::
-	.string "Third page…\p"
-	.string "POKéMON TRAINERS seek others to\n"
-	.string "engage in POKéMON battles.\p"
-	.string "To TRAINERS, the taste of victory\n"
-	.string "is sweet, indeed.\p"
-	.string "Battles are constantly waged at\n"
-	.string "POKéMON GYMS everywhere.$"
+	.string "Terza pagina…\p"
+	.string "Gli ALLENATORI cercano altri per\n"
+	.string "fare lotte POKéMON.\p"
+	.string "Per loro il sapore della vittoria\n"
+	.string "è davvero dolce.\p"
+	.string "Si lotta di continuo nelle\n"
+	.string "PALESTRE POKéMON ovunque.$"
 
 ViridianCity_School_Text_NotebookFourthPage::
-	.string "Fourth page…\p"
-	.string "The ultimate goal for all POKéMON\n"
-	.string "TRAINERS is simple.\p"
-	.string "It is to defeat the top eight\n"
-	.string "POKéMON GYM LEADERS.\p"
-	.string "Do so to earn the right to face…\p"
-	.string "The ELITE FOUR of the POKéMON\n"
-	.string "LEAGUE!$"
+	.string "Quarta pagina…\p"
+	.string "L'obiettivo di ogni ALLENATORE di\n"
+	.string "POKéMON è semplice.\p"
+	.string "Battere i primi otto\n"
+	.string "CAPOPALESTRA POKéMON.\p"
+	.string "Così otterrai il diritto di sfidare…\p"
+	.string "I SUPERQUATTRO della LEGA\n"
+	.string "POKéMON!$"
 
 ViridianCity_School_Text_TurnThePage::
-	.string "Turn the page?$"
+	.string "Girare la pagina?$"
 
 ViridianCity_School_Text_HeyDontLookAtMyNotes::
-	.string "GIRL: Hey!\n"
-	.string "Don't look at my notes!$"
+	.string "RAGAZZA: Ehi!\n"
+	.string "Non guardare i miei appunti!$"
 
 ViridianCity_School_Text_BlackboardListsStatusProblems::
-	.string "The blackboard lists POKéMON\n"
-	.string "STATUS problems during battles.$"
+	.string "La lavagna elenca i problemi di\n"
+	.string "STATO dei POKéMON in lotta.$"
 
 ViridianCity_School_Text_ReadWhichTopic::
-	.string "Which topic do you want to read?$"
+	.string "Quale argomento vuoi leggere?$"
 
 ViridianCity_School_Text_ExplainSleep::
-	.string "A POKéMON can't attack if it's\n"
-	.string "asleep.\p"
-	.string "POKéMON will stay asleep even\n"
-	.string "after battles.\p"
-	.string "Use AWAKENING to awaken one\n"
-	.string "from sleep.$"
+	.string "Un POKéMON non può attaccare se\n"
+	.string "è addormentato.\p"
+	.string "Resta addormentato anche dopo\n"
+	.string "la fine della lotta.\p"
+	.string "Usa la SVEGLIA per risvegliarlo\n"
+	.string "dal sonno.$"
 
 ViridianCity_School_Text_ExplainBurn::
-	.string "A burn reduces ATTACK power.\n"
-	.string "It also causes ongoing HP loss.\p"
-	.string "A burn remains after a battle.\n"
-	.string "Use BURN HEAL to cure a burn.$"
+	.string "Una scottatura riduce l'ATTACCO.\n"
+	.string "Inoltre fa perdere PS a ogni turno.\p"
+	.string "La scottatura resta dopo la lotta.\n"
+	.string "Usa l'ANTISCOTTATURA per curarla.$"
 
 ViridianCity_School_Text_ExplainPoison::
-	.string "When poisoned, a POKéMON's health\n"
-	.string "steadily drops.\p"
-	.string "Poison lingers after battles.\n"
-	.string "Use an ANTIDOTE to cure poison!$"
+	.string "Un POKéMON avvelenato perde PS\n"
+	.string "poco alla volta.\p"
+	.string "Il veleno resta dopo la lotta.\n"
+	.string "Usa l'ANTIDOTO per curare il veleno!$"
 
 ViridianCity_School_Text_ExplainFreeze::
-	.string "A frozen POKéMON becomes\n"
-	.string "helplessly immobile.\p"
-	.string "It stays frozen even after the\n"
-	.string "battle ends.\p"
-	.string "Use ICE HEAL to thaw out the\n"
-	.string "suffering POKéMON.$"
+	.string "Un POKéMON congelato non può\n"
+	.string "muoversi per niente.\p"
+	.string "Resta congelato anche dopo la\n"
+	.string "fine della lotta.\p"
+	.string "Usa il DISGELO per scongelare il\n"
+	.string "povero POKéMON.$"
 
 ViridianCity_School_Text_ExplainParalysis::
-	.string "Paralysis reduces SPEED and may\n"
-	.string "prevent the POKéMON from moving.\p"
-	.string "Paralysis remains after battles.\n"
-	.string "Use PARLYZ HEAL for treatment.$"
+	.string "La paralisi riduce la VELOCITÀ e\n"
+	.string "può impedire di muoversi.\p"
+	.string "La paralisi resta dopo la lotta.\n"
+	.string "Usa l'ANTIPARALISI per curarla.$"
 

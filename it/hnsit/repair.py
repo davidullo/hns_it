@@ -62,16 +62,24 @@ def wrong_context(unit, units: dict | None = None) -> str | None:
     return None
 
 
-def _tm_kind(note: str, units: dict | None = None) -> str:
-    """Tipo di glossario dell'unita' sorgente di una copia `tm:<key>`."""
+def _tm_kind(note: str, units: dict | None = None, _seen: set | None = None) -> str:
+    """Tipo di glossario dell'unita' sorgente di una copia `tm:<key>`.
+
+    Le copie possono essere reciproche (l'unita' base copia dalla `_hns` e
+    viceversa): senza guardia sui nodi gia' visitati la catena non termina.
+    """
     key = note[3:]
+    seen = set() if _seen is None else _seen
+    if key in seen:
+        return ""
+    seen.add(key)
     src = (units or store.load_all()).get(key)
     if src is None or not src.note:
         return ""
     if src.note.startswith("glossary"):
         return src.note.split(":")[-1]
     if src.note.startswith("tm:"):
-        return _tm_kind(src.note, units)
+        return _tm_kind(src.note, units, seen)
     return ""
 
 

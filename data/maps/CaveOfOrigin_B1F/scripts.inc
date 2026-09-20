@@ -110,9 +110,9 @@ CaveOfOrigin_B1F_Text_CantYouRememberSomehow:
 	.string "Non ti viene in mente niente?$"
 
 CaveOfOrigin_B1F_Text_WellHeadToSkyPillar:
-	.string "WALLACE: The SKY PILLAR?\p"
-	.string "That's it!\n"
-	.string "It must be the SKY PILLAR!\p"
-	.string "{PLAYER}{KUN}, there's not a moment to lose!\n"
-	.string "We'll head to the SKY PILLAR right away!$"
+	.string "WALLACE: Il PILASTRO CIELO?\p"
+	.string "È quello!\n"
+	.string "Dev'essere il PILASTRO CIELO!\p"
+	.string "{PLAYER}{KUN}, non c'è tempo da perdere!\n"
+	.string "Andiamo subito al PILASTRO CIELO!$"
 

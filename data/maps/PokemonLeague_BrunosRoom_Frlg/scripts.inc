@@ -113,36 +113,36 @@ PokemonLeague_BrunosRoom_EventScript_BrunoLookAwayDown::
 	return
 
 PokemonLeague_BrunosRoom_Text_Intro::
-	.string "I am BRUNO of the ELITE FOUR!\p"
-	.string "Through rigorous training, people\n"
-	.string "and POKéMON can become stronger\l"
-	.string "without limit.\p"
-	.string "I've lived and trained with my\n"
-	.string "fighting POKéMON!\l"
-	.string "And that will never change!\p"
+	.string "Sono BRUNO dei SUPERQUATTRO!\p"
+	.string "Con un duro allenamento, persone\n"
+	.string "e POKéMON possono diventare forti\l"
+	.string "senza limiti.\p"
+	.string "Ho vissuto e mi sono allenato coi miei\n"
+	.string "POKéMON lottatori!\l"
+	.string "E questo non cambierà mai!\p"
 	.string "{PLAYER}!\p"
-	.string "We will grind you down with our\n"
-	.string "superior power!\p"
+	.string "Ti schiacceremo con la nostra\n"
+	.string "forza superiore!\p"
 	.string "Hoo hah!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_BrunosRoom_Text_RematchIntro::
-	.string "I am BRUNO of the ELITE FOUR!\p"
-	.string "Through rigorous training, people\n"
-	.string "and POKéMON can become stronger\l"
-	.string "without limit.\p"
-	.string "I've lived and trained with my\n"
-	.string "fighting POKéMON!\l"
-	.string "And that will never change!\p"
+	.string "Sono BRUNO dei SUPERQUATTRO!\p"
+	.string "Con un duro allenamento, persone\n"
+	.string "e POKéMON possono diventare forti\l"
+	.string "senza limiti.\p"
+	.string "Ho vissuto e mi sono allenato coi miei\n"
+	.string "POKéMON lottatori!\l"
+	.string "E questo non cambierà mai!\p"
 	.string "{PLAYER}!\p"
-	.string "We will grind you down with our\n"
-	.string "superior power!\p"
+	.string "Ti schiacceremo con la nostra\n"
+	.string "forza superiore!\p"
 	.string "Hoo hah!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_BrunosRoom_Text_Defeat::
-	.string "Why?\n"
-	.string "How could I lose?$"
+	.string "Come?\n"
+	.string "Come ho potuto perdere?$"
 
 PokemonLeague_BrunosRoom_Text_PostBattle::
-	.string "My job is done.\n"
-	.string "Go face your next challenge.$"
+	.string "Il mio compito è finito.\n"
+	.string "Affronta la prossima sfida.$"
 

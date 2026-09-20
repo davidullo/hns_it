@@ -27,30 +27,30 @@ NewSinjoh_Cafe_Pokemart_Resturant:
 	end
 
 NewSinjoh_Cafe_Text_ResturantGreeting:
-	.string "H-hello! Welcome to our Cafe!\n"
-	.string "How can I help you today?$"
+	.string "C-ciao! Benvenuto al nostro Caffè!\n"
+	.string "Come posso aiutarti?$"
 
 NewSinjoh_Cafe_Text_ResturantEnd:
-	.string "Please come again!$"
+	.string "Torna a trovarci!$"
 
 NewSinjoh_Cafe_EventScript_BaldingMan::
 	msgbox NewSinjoh_Cafe_Text_BaldingMan, MSGBOX_NPC
 	end
 
 NewSinjoh_Cafe_Text_BaldingMan:
-	.string "A local family has run this\n"
-	.string "cafe for as long as anyone\l"
-	.string "can remember.\p"
-	.string "Their youngest girl over there\n"
-	.string "isn't used to serving so many\l"
-	.string "strangers.$"
+	.string "Una famiglia del posto gestisce\n"
+	.string "questo caffè da che\l"
+	.string "si ricordi.\p"
+	.string "La figlia più piccola, là,\n"
+	.string "non è abituata a servire tanti\l"
+	.string "stranieri.$"
 
 NewSinjoh_Cafe_EventScript_ScientistF::
 	msgbox NewSinjoh_Cafe_Text_ScientistF, MSGBOX_NPC
 	end
 
 NewSinjoh_Cafe_Text_ScientistF:
-	.string "This drink is so goo--ood!\n"
+	.string "Questa bevanda è buo--ona!\n"
 	.string ".......\p"
 	.string ".......\p"
 	.string "Hahaha\p"
@@ -65,22 +65,22 @@ NewSinjoh_Cafe_EventScript_ScientistM::
 	end
 
 NewSinjoh_Cafe_Text_ScientistM:
-	.string "Please forgive my colleague...\p"
-	.string "The drinks here are stronger than\n"
-	.string "what we're used to in HOENN.\p"
-	.string "I tried to warn her, but she said\n"
-	.string "she needed to unwind.\p"
-	.string "This research expedition has been\n"
-	.string "hard on us all.$"
+	.string "Perdona la mia collega...\p"
+	.string "Le bevande qui sono più forti\n"
+	.string "di quelle a cui siamo abituati a HOENN.\p"
+	.string "L'avevo avvertita, ma ha detto\n"
+	.string "che doveva distendersi.\p"
+	.string "Questa spedizione è stata\n"
+	.string "dura per tutti noi.$"
 
 NewSinjoh_Cafe_EventScript_Gentleman::
 	msgbox NewSinjoh_Cafe_Text_Gentleman, MSGBOX_NPC
 	end
 
 NewSinjoh_Cafe_Text_Gentleman:
-	.string "What are you staring at, kid?\p"
-	.string "Nothin' wrong with a man and his\n"
-	.string "POKéMON eating at the same table.$"
+	.string "Cosa guardi, ragazzo?\p"
+	.string "Non c'è niente di male se un uomo e il suo\n"
+	.string "POKéMON mangiano allo stesso tavolo.$"
 
 NewSinjoh_EventScript_Scyther::
 	lock

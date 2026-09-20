@@ -1,33 +1,33 @@
 	.align 2
 gText_ConfirmSave::
-	.string "Would you like to save the game?$"
+	.string "Vuoi salvare il gioco?$"
 
 gText_AlreadySavedFile::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "C'è già un file salvato.\n"
+	.string "Va bene sovrascriverlo?$"
 
 gText_SavingDontTurnOff::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "SALVATAGGIO…\n"
+	.string "NON SPEGNERE LA CONSOLE.$"
 
 gText_PlayerSavedGame::
-	.string "{PLAYER} saved the game.$"
+	.string "{PLAYER} ha salvato il gioco.$"
 
 gText_DifferentSaveFile::
-	.string "WARNING!\p"
-	.string "There is a different game file that\n"
-	.string "is already saved.\p"
-	.string "If you save now, the other file's\n"
-	.string "adventure, including items and\l"
-	.string "POKéMON, will be entirely lost.\p"
-	.string "Are you sure you want to save now\n"
-	.string "and overwrite the other save file?$"
+	.string "ATTENZIONE!\p"
+	.string "C'è un file di gioco diverso\n"
+	.string "già salvato.\p"
+	.string "Se salvi ora, l'avventura dell'altro\n"
+	.string "file, compresi oggetti e\l"
+	.string "POKéMON, andrà persa del tutto.\p"
+	.string "Vuoi davvero salvare ora\n"
+	.string "e sovrascrivere l'altro file?$"
 
 gText_SaveError::
-	.string "Save error.\p"
-	.string "Please exchange the\n"
-	.string "backup memory.$"
+	.string "Errore di salvataggio.\p"
+	.string "Scambia la\n"
+	.string "memoria di backup.$"
 
 gText_SavingDontTurnOffPower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "SALVATAGGIO…\n"
+	.string "NON SPEGNERE LA CONSOLE.$"

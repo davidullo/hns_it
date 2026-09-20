@@ -392,16 +392,16 @@ GoldenrodCity_RadioTower_1F_Text_TicketNumberIsXPleaseWait:
 	.string "ID dei tuoi POKéMON. Attendi.$"
 
 GoldenrodCity_RadioTower_1F_Text_TicketMatchesPartyMon:
-	.string "Congratulations!\p"
-	.string "The ID number of your team's\n"
-	.string "{STR_VAR_1} matches your\l"
-	.string "LOTO TICKET's number!$"
+	.string "Congratulazioni!\p"
+	.string "Il numero ID del tuo\n"
+	.string "{STR_VAR_1} in squadra corrisponde\l"
+	.string "al numero del BIGLIETTO LOTTO!$"
 
 GoldenrodCity_RadioTower_1F_Text_TicketMatchesPCMon:
-	.string "Congratulations!\p"
-	.string "The ID number of your PC-boxed\n"
-	.string "{STR_VAR_1} matches your\l"
-	.string "LOTO TICKET's number!$"
+	.string "Congratulazioni!\p"
+	.string "Il numero ID del tuo\n"
+	.string "{STR_VAR_1} nel PC corrisponde\l"
+	.string "al numero del tuo BIGLIETTO LOTTO!$"
 
 GoldenrodCity_RadioTower_1F_Text_NoNumbersMatched:
 	.string "Mi dispiace.\n"

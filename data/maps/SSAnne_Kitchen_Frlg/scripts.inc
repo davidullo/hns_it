@@ -50,50 +50,50 @@ SSAnne_Kitchen_EventScript_Chef7::
 	end
 
 SSAnne_Kitchen_Text_BusyOutOfTheWay::
-	.string "You, mon petit!\n"
-	.string "We're busy here!\l"
-	.string "Out of the way!$"
+	.string "Ehi, mon petit!\n"
+	.string "Siamo occupati qui!\l"
+	.string "Fuori dai piedi!$"
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
-	.string "I saw an odd BERRY in the trash.\n"
-	.string "I wonder what that was?$"
+	.string "Ho visto una strana BACCA nei rifiuti.\n"
+	.string "Chissà cosa era?$"
 
 SSAnne_Kitchen_Text_SoBusyImDizzy::
-	.string "I'm so busy I'm getting dizzy!\n"
-	.string "You have to give me room here!$"
+	.string "Sono così occupato che mi gira la testa!\n"
+	.string "Dammi un po' di spazio!$"
 
 SSAnne_Kitchen_Text_PeelSpudsEveryDay::
 	.string "Hum-de-hum-de-ho…\p"
-	.string "I peel spuds every day!\n"
+	.string "Pelo patate ogni giorno!\n"
 	.string "Hum-hum…$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-	.string "Did you hear about SNORLAX?\n"
-	.string "It's a glutton.\p"
-	.string "No other POKéMON eats and sleeps\n"
-	.string "the way SNORLAX can and does!$"
+	.string "Hai sentito di SNORLAX?\n"
+	.string "È un mangione.\p"
+	.string "Nessun POKéMON mangia e dorme\n"
+	.string "come fa SNORLAX!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
-	.string "Snivel… Sniff…\p"
-	.string "I only get to peel onions…\n"
-	.string "Snivel…$"
+	.string "Tira… Fiut…\p"
+	.string "Io pelo solo cipolle…\n"
+	.string "Tira…$"
 
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
-	.string "Er-hem!\n"
-	.string "Indeed I am le CHEF!\p"
-	.string "Le main course is$"
+	.string "Ehm!\n"
+	.string "Sì, sono le CHEF!\p"
+	.string "Il piatto principale è$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::
-	.string "Salmon du Salad!\p"
-	.string "Les guests may gripe it's fish\n"
-	.string "again, however!$"
+	.string "Insalata di salmone!\p"
+	.string "Però gli ospiti potrebbero dire\n"
+	.string "che è ancora pesce!$"
 
 SSAnne_Kitchen_Text_EelsAuBarbecue::
-	.string "Eels au Barbecue!\p"
-	.string "Les guests will mutiny, I fear.$"
+	.string "Anguille al barbecue!\p"
+	.string "Temo che gli ospiti si ribelleranno.$"
 
 SSAnne_Kitchen_Text_PrimeBeefsteak::
-	.string "Prime Beefsteak!\p"
-	.string "But, have I enough fillets du\n"
-	.string "beef?$"
+	.string "Bistecca di prima scelta!\p"
+	.string "Ma ho abbastanza filetti di\n"
+	.string "manzo?$"
 

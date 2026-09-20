@@ -149,56 +149,56 @@ Route4_PokemonCenter_1F_EventScript_Newspaper::
 	end
 
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-	.string "Okay, set six POKé BALLS in my\n"
-	.string "belt…\p"
-	.string "Yeah, that'll do it. At most, you\n"
-	.string "can have six POKéMON with you.$"
+	.string "Ok, sei POKé BALL nella cintura…\n"
+	.string "\p"
+	.string "Sì, così va bene. Al massimo puoi\n"
+	.string "avere sei POKéMON con te.$"
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
-	.string "TEAM ROCKET attacks CERULEAN\n"
-	.string "citizens…\p"
-	.string "Not a day goes by without TEAM\n"
-	.string "ROCKET being in the news.$"
+	.string "Il TEAM ROCKET attacca i cittadini\n"
+	.string "di CERULEAN…\p"
+	.string "Non passa giorno senza che il TEAM\n"
+	.string "ROCKET finisca sulle notizie.$"
 
 Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
-	.string "MAN: Hello there, laddie!\n"
-	.string "Have I got a deal just for you!\p"
-	.string "I'll let you have a secret POKéMON\n"
-	.string "- a MAGIKARP - for just ¥500!\p"
-	.string "So, you'll buy it, am I right?$"
+	.string "UOMO: Ciao, ragazzo!\n"
+	.string "Ho un'offerta solo per te!\p"
+	.string "Ti cedo un POKéMON segreto,\n"
+	.string "un MAGIKARP, per soli ¥500!\p"
+	.string "Allora lo compri, vero?$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
-	.string "MAN: Hello there, sweetie pie!\n"
-	.string "Have I got a deal just for you!\p"
-	.string "I'll let you have a secret POKéMON\n"
-	.string "- a MAGIKARP - for just ¥500!\p"
-	.string "So, you'll buy it, am I right?$"
+	.string "UOMO: Ciao, tesoro!\n"
+	.string "Ho un'offerta solo per te!\p"
+	.string "Ti cedo un POKéMON segreto,\n"
+	.string "un MAGIKARP, per soli ¥500!\p"
+	.string "Allora lo compri, vero?$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
-	.string "{PLAYER} paid an outrageous ¥500\n"
-	.string "and bought the MAGIKARP…$"
+	.string "{PLAYER} ha pagato ben ¥500\n"
+	.string "e ha comprato il MAGIKARP…$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
-	.string "No? You say no? I'm only doing this\n"
-	.string "as a favor to you!$"
+	.string "No? Dici no? Lo faccio solo\n"
+	.string "per farti un favore!$"
 
 Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon::
-	.string "There's no more room for any more\n"
-	.string "POKéMON, it looks like.$"
+	.string "Non c'è più spazio per altri\n"
+	.string "POKéMON, a quanto pare.$"
 
 Route4_PokemonCenter_1F_Text_YoullNeedMoreMoney::
-	.string "You'll need more money than that!$"
+	.string "Ti servono più soldi di così!$"
 
 Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
-	.string "MAN: Well, I don't give refunds.\n"
-	.string "You knew what you were getting!$"
+	.string "UOMO: Beh, io non faccio rimborsi.\n"
+	.string "Sapevi cosa stavi comprando!$"
 
 Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
-	.string "Sometimes, you'll have too many\n"
-	.string "POKéMON with you to add any more.\p"
-	.string "In that case, you should just\n"
-	.string "store some using any PC.$"
+	.string "A volte avrai troppi\n"
+	.string "POKéMON con te per aggiungerne altri.\p"
+	.string "In tal caso, dovresti\n"
+	.string "depositarne alcuni usando un PC.$"
 
 Route4_PokemonCenter_1F_Text_ItsANewspaper::
-	.string "It's a newspaper.$"
+	.string "È un giornale.$"
 

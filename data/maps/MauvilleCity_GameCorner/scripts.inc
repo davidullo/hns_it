@@ -944,56 +944,56 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "This is the GAME CORNER.$"
+	.string "Questo è il GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, you wanted some COINS for\n"
-	.string "the games?\p"
-	.string "But you don't have a COIN CASE for\n"
-	.string "stowing the COINS.$"
+	.string "Va bene, volevi dei GETTONI per\n"
+	.string "i giochi?\p"
+	.string "Ma non hai un PORTAMONETE per\n"
+	.string "metterli dentro.$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥500 for 50 COINS.\n"
-	.string "Would you like some?$"
+	.string "Cercavi dei GETTONI?\p"
+	.string "Sono ¥500 per 50 GETTONI.\n"
+	.string "Ne vuoi?$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
-	.string "Thank you very much!\n"
-	.string "Here are your COINS!$"
+	.string "Grazie mille!\n"
+	.string "Ecco i tuoi GETTONI!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoneyFor50:
-	.string "Um… You don't appear to have\n"
-	.string "enough money to buy COINS…\p"
-	.string "Please come back when you have\n"
-	.string "at least ¥1000!$"
+	.string "Ehm… Non sembri avere\n"
+	.string "abbastanza soldi per i GETTONI…\p"
+	.string "Torna quando ne avrai\n"
+	.string "almeno ¥1000!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
-	.string "Um… You don't appear to have\n"
-	.string "enough money for that many COINS…$"
+	.string "Ehm… Non sembri avere\n"
+	.string "abbastanza soldi per tutti quei GETTONI…$"
 
 MauvilleCity_GameCorner_Text_NoRoomFor50Coins:
-	.string "Oh! Your COIN CASE is too full to buy\n"
-	.string "any more COINS!\p"
-	.string "Enjoy the GOLDENROD GAME CORNER or\n"
-	.string "exchange your COINS for prizes before\l"
-	.string "coming back!$"
+	.string "Oh! Il tuo PORTAGETTONI è troppo pieno\n"
+	.string "per altri GETTONI!\p"
+	.string "Goditi il GOLDENROD GAME CORNER o\n"
+	.string "scambia i GETTONI con dei premi,\l"
+	.string "poi torna!$"
 
 MauvilleCity_GameCorner_Text_NoRoomForCoins:
 	.string "Oh?\n"
-	.string "Your COIN CASE can't fit those COINS...$"
+	.string "Il tuo PORTAGETTONI è pieno...$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… You don't need COINS, then?\n"
-	.string "Good luck on your adventure!$"
+	.string "Oh… Non ti servono GETTONI, allora?\n"
+	.string "Buona fortuna per la tua avventura!$"
 
 MauvilleCity_GameCorner_Text_ThanksBuyCoins:
-	.string "Thank you for buying some COINS!\n"
-	.string "Good luck on your adventure!$"
+	.string "Grazie per aver comprato dei GETTONI!\n"
+	.string "Buona fortuna per la tua avventura!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
-	.string "Welcome.\p"
-	.string "You can exchange your COINS for\n"
-	.string "prizes here.$"
+	.string "Benvenuto.\p"
+	.string "Qui puoi scambiare i GETTONI con\n"
+	.string "dei premi.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
 	.string "Quale premio vuoi?$"
@@ -1007,106 +1007,106 @@ MauvilleCity_GameCorner_Text_SendToYourHomePC:
 	.string "Te lo invieremo al PC di casa.$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "You don't have enough COINS.$"
+	.string "Non hai abbastanza GETTONI.$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
-	.string "There isn't any room available for\n"
-	.string "placing {STR_VAR_1}.$"
+	.string "Non c'è spazio per\n"
+	.string "mettere {STR_VAR_1}.$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
-	.string "Oh, is that so? \n"
-	.string "You need to save some COINS before\l"
-	.string "coming back here.$"
+	.string "Oh, davvero? \n"
+	.string "Devi mettere da parte dei GETTONI prima\l"
+	.string "di tornare qui.$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
-	.string "So your choice is {STR_VAR_1}?$"
+	.string "Quindi la tua scelta è {STR_VAR_1}?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
 	.string "Ecco a te!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
-	.string "Oh, you can't carry any more than that.$"
+	.string "Oh, non puoi portarne altri.$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
-	.string "I made a mistake and got two of\n"
-	.string "the same DOLLS.\p"
-	.string "Would you like one of them?$"
+	.string "Ho sbagliato e ho preso due\n"
+	.string "PELUCHE uguali.\p"
+	.string "Ne vuoi una?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
 	.string "Ecco a te!$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
-	.string "Huh?\n"
-	.string "You want it, but not right now?$"
+	.string "Eh?\n"
+	.string "Lo vuoi, ma non adesso?$"
 
 MauvilleCity_GameCorner_Text_DontBeNegative:
-	.string "Oh, don't be so negative!\n"
-	.string "You can have this!$"
+	.string "Oh, non essere così negativo!\n"
+	.string "Puoi prendere questo!$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "There's a prize I want, but I can't win\n"
-	.string "the jackpot.$"
+	.string "C'è un premio che voglio, ma non riesco\n"
+	.string "a vincere il jackpot.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
-	.string "Hey, kid, if you want to play here,\n"
-	.string "you need a COIN CASE.\p"
-	.string "I think the young lady next door\n"
-	.string "had one. Go see her!$"
+	.string "Ehi, ragazzo, se vuoi giocare qui,\n"
+	.string "ti serve un PORTAMONETE.\p"
+	.string "Credo che la ragazza qui accanto\n"
+	.string "ne avesse uno. Vai da lei!$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
-	.string "My luck can only last so long.\n"
-	.string "This is too much for me.\l"
-	.string "Here, take some COINS!$"
+	.string "La mia fortuna non può durare a lungo.\n"
+	.string "È troppo per me.\l"
+	.string "Tieni, prendi dei GETTONI!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "MAUVILLE has something for\n"
-	.string "everyone.\p"
-	.string "For me, it's the GAME CORNER.$"
+	.string "MAUVILLE ha qualcosa per\n"
+	.string "tutti.\p"
+	.string "Per me è il GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "The ROULETTE tables have different\n"
-	.string "rates.\p"
-	.string "Check your COINS if you're going to\n"
-	.string "pick a table.$"
+	.string "I tavoli della ROULETTE hanno\n"
+	.string "puntate diverse.\p"
+	.string "Controlla i GETTONI se vuoi\n"
+	.string "scegliere un tavolo.$"
 
 MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
-	.string "It's easy to lose track of time in here. \n"
-	.string "I should get back to work.$"
+	.string "Qui il tempo passa senza accorgersene. \n"
+	.string "Devo tornare al lavoro.$"
 
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "COINS are needed to play here\n"
-	.string "in the GAME CORNER.$"
+	.string "Per giocare qui servono\n"
+	.string "dei GETTONI.$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "This ROULETTE thing…\n"
-	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
+	.string "Questa ROULETTE…\n"
+	.string "È piuttosto esigente.\p"
+	.string "Vinci o perdi, solo per fortuna.$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Up to three COINS can be used to play\n"
-	.string "the SLOTS.$"
+	.string "Puoi usare fino a tre GETTONI per giocare\n"
+	.string "agli SLOT.$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
-	.string "It's very difficult to make it stop\n"
-	.string "right on “7.”\p"
-	.string "If it stops on “7” during the REEL TIME\n"
-	.string "bonus game, you'll receive extra COINS.$"
+	.string "È molto difficile farlo fermare\n"
+	.string "proprio sul “7.”\p"
+	.string "Se si ferma sul “7” durante il REEL TIME\n"
+	.string "riceverai GETTONI extra.$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
-	.string "Here's some information for you\n"
-	.string "about the SLOTS.\p"
-	.string "The more lightning bolts you stock,\n"
-	.string "the more REEL TIME chances you get.\p"
-	.string "In a game with the maximum five\n"
-	.string "REEL TIME chances…\p"
-	.string "It is possible to receive four regular\n"
-	.string "bonuses, then a big bonus.\p"
-	.string "That would total 660 COINS, but it's\n"
-	.string "very difficult to get.$"
+	.string "Ecco qualche informazione\n"
+	.string "sui SLOT.\p"
+	.string "Più fulmini accumuli,\n"
+	.string "più possibilità di REEL TIME ottieni.\p"
+	.string "In una partita con il massimo di cinque\n"
+	.string "possibilità di REEL TIME…\p"
+	.string "Si possono ricevere quattro bonus\n"
+	.string "normali e poi un bonus grosso.\p"
+	.string "In tutto sarebbero 660 GETTONI, ma è\n"
+	.string "difficilissimo riuscirci.$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:
-	.string "You can't play if you don't have\n"
-	.string "a COIN CASE.$"
+	.string "Non puoi giocare senza\n"
+	.string "un PORTAMONETE.$"
 

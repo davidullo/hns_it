@@ -49,66 +49,66 @@ Route46_EventScript_Item_Revive::
 	end
 
 Route46_Text_HikerBaileySeen:
-	.string "Awright! I'll show you the\n"
-	.string "power of mountain POKéMON!$"
+	.string "Bene! Ti mostro la\n"
+	.string "forza dei POKéMON di montagna!$"
 
 Route46_Text_HikerBaileyBeaten:
-	.string "Mercy! You showed me your\n"
-	.string "power!$"
+	.string "Pietà! Mi hai mostrato la\n"
+	.string "tua forza!$"
 
 Route46_Text_HikerBaileyAfterBattle:
-	.string "It's over. I don't mind.\n"
-	.string "We HIKERS are like that.$"
+	.string "È finita. Non mi importa.\n"
+	.string "Noi MONTANARI siamo così.$"
 
 Route46_Text_CamperTedSeen:
-	.string "I'm raising POKéMON too!\p"
-	.string "Will you battle with me?$"
+	.string "Anch'io alleno POKéMON!\p"
+	.string "Ti va di lottare con me?$"
 
 Route46_Text_CamperTedBeaten:
-	.string "Wha…?$"
+	.string "Cosa…?$"
 
 Route46_Text_CamperTedAfterBattle:
-	.string "I did my best but came up\n"
-	.string "short.\p"
-	.string "No excuses--I admit I lost.$"
+	.string "Ho dato il massimo ma non\n"
+	.string "è bastato.\p"
+	.string "Niente scuse, ammetto di aver perso.$"
 
 Route46_Text_PicnickerErinSeen:
-	.string "I raise POKéMON too!\p"
-	.string "Will you battle with me?$"
+	.string "Anch'io alleno POKéMON!\p"
+	.string "Ti va di lottare con me?$"
 
 Route46_Text_PicnickerErinBeaten:
-	.string "Oh, rats!$"
+	.string "Oh, cavoli!$"
 
 Route46_Text_PicnickerErinAfterBattle:
-	.string "I've been to many GYMS, but the\n"
-	.string "GYM in GOLDENROD is my favorite.\p"
-	.string "It's filled with pretty flowers!$"
+	.string "Ho visto molte PALESTRE, ma quella\n"
+	.string "di FIORDOROPOLI è la mia preferita.\p"
+	.string "È piena di bei fiori!$"
 
 Route46_Text_ErinRegister:
-	.string "I've been to many GYMS, but the\n"
-	.string "GYM in GOLDENROD is my favorite.\p"
-	.string "It's filled with pretty flowers!$"
+	.string "Ho visto molte PALESTRE, ma quella\n"
+	.string "di FIORDOROPOLI è la mia preferita.\p"
+	.string "È piena di bei fiori!$"
 
 Route46_Text_ErinRematchIntro:
-	.string "I raise POKéMON too!\p"
-	.string "Will you battle with me?$"
+	.string "Anch'io alleno POKéMON!\p"
+	.string "Ti va di lottare con me?$"
 
 Route46_Text_ErinRematchDefeat:
-	.string "Oh, rats!$"
+	.string "Oh, cavoli!$"
 
 Route46_Text_ErinPostRematch:
-	.string "I've been to many GYMS, but the\n"
-	.string "GYM in GOLDENROD is my favorite.\p"
-	.string "It's filled with pretty flowers!$"
+	.string "Ho visto molte PALESTRE, ma quella\n"
+	.string "di FIORDOROPOLI è la mia preferita.\p"
+	.string "È piena di bei fiori!$"
 
 Route46_Text_PicnickerErin2Beaten:
-	.string "Aww… I keep losing all the time!\p"
-	.string "I'll just have to try harder!\n"
-	.string "Anyway, thanks for battling\n"
-	.string "me again and again.\p"
-	.string "Here's that present from the\n"
-	.string "other time.$"
+	.string "Uff… perdo sempre!\p"
+	.string "Dovrò solo impegnarmi di più!\n"
+	.string "Comunque grazie per aver lottato\n"
+	.string "con me ancora e ancora.\p"
+	.string "Ecco il regalo\n"
+	.string "dell'altra volta.$"
 
 Route46_Text_Sign:
-	.string "ROUTE 46\n"
-	.string "MOUNTAIN RD. AHEAD$"
+	.string "PERCORSO 46\n"
+	.string "STRADA MONTANA AVANTI$"

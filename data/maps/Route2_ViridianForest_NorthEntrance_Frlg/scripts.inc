@@ -14,22 +14,22 @@ Route2_ViridianForest_NorthEntrance_EventScript_CooltrainerF::
 	end
 
 Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests::
-	.string "Many POKéMON live only in forests \n"
-	.string "and caves.\p"
-	.string "You need to be persistent and look\n"
-	.string "everywhere to get different kinds.$"
+	.string "Molti POKéMON vivono solo nelle foreste \n"
+	.string "e nelle caverne.\p"
+	.string "Devi essere persistente e guardare\n"
+	.string "ovunque per trovarne di diversi.$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees::
-	.string "Have you noticed the skinny trees\n"
-	.string "on the roadside?\p"
-	.string "They can be cut down by a special\n"
-	.string "POKéMON move, I hear.$"
+	.string "Hai notato gli alberi sottili\n"
+	.string "sul ciglio della strada?\p"
+	.string "Si possono tagliare con una mossa\n"
+	.string "speciale dei POKéMON, dicono.$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution::
-	.string "Do you know the evolution-cancel\n"
-	.string "technique?\p"
-	.string "When a POKéMON is evolving, you\n"
-	.string "can stop the process.\p"
-	.string "It's a technique for raising\n"
-	.string "POKéMON the way they are.$"
+	.string "Conosci la tecnica per annullare\n"
+	.string "l'evoluzione?\p"
+	.string "Quando un POKéMON si evolve, puoi\n"
+	.string "fermare il processo.\p"
+	.string "È una tecnica per allevare\n"
+	.string "i POKéMON così come sono.$"
 

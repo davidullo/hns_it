@@ -258,42 +258,42 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "H-help me!$"
+	.string "A-aiutami!$"
 
 Route101_Text_PleaseHelp:
-	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.string "Ehi! Tu, laggiù!\n"
+	.string "Ti prego! Aiuto!\p"
+	.string "Nella mia BORSA!\n"
+	.string "C'è una POKé BALL!$"
 
 Route101_Text_DontLeaveMe:
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "Do-Dove stai andando?!\n"
+	.string "Non lasciarmi così!$"
 
 Route101_Text_YouSavedMe:
-	.string "PROF. BIRCH: Whew…\p"
-	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
+	.string "PROF. BIRCH: Uff…\p"
+	.string "Stavo nell'erba alta a studiare i POKéMON\n"
+	.string "selvatici quando mi hanno assalito.\p"
+	.string "Mi hai salvato.\n"
+	.string "Grazie mille!\p"
 	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "Ciao, tu sei {PLAYER}{KUN}!\p"
+	.string "Qui non è il posto per parlare, passa\n"
+	.string "dopo dal mio LABORATORIO POKéMON, ok?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "If POKéMON get tired, take them to\n"
-	.string "a POKéMON CENTER.\p"
-	.string "There's a POKéMON CENTER in OLDALE\n"
-	.string "TOWN right close by.$"
+	.string "Se i POKéMON si stancano, portali\n"
+	.string "in un CENTRO POKéMON.\p"
+	.string "C'è un CENTRO POKéMON a OLDALE\n"
+	.string "TOWN, qui vicino.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wild POKéMON will jump out at you in\n"
-	.string "tall grass.\p"
-	.string "If you want to catch POKéMON, you have\n"
-	.string "to go into the tall grass and search.$"
+	.string "I POKéMON selvatici ti saltano addosso\n"
+	.string "nell'erba alta.\p"
+	.string "Se vuoi catturare dei POKéMON, devi\n"
+	.string "entrare nell'erba alta e cercare.$"
 
 Route101_Text_RouteSign:
-	.string "ROUTE 101\n"
+	.string "PERCORSO 101\n"
 	.string "{UP_ARROW} OLDALE TOWN$"
 

@@ -24,20 +24,20 @@ ViridianCity_PokemonCenter_EventScript_BugCatcher::
 	end
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM:
-	.string "Where in the world is VIRIDIAN's GYM\n"
-	.string "LEADER? I wanted to challenge him.$"
+	.string "Dov'è finito il CAPOPALESTRA di\n"
+	.string "VIRIDIAN? Volevo sfidarlo.$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM_BlueReturned:
-	.string "There are no GYM TRAINERS at the\n"
-	.string "VIRIDIAN GYM.\p"
-	.string "The LEADER claims his policy is to\n"
-	.string "win without having any underlings.$"
+	.string "Non ci sono ALLENATORI alla\n"
+	.string "PALESTRA di VIRIDIAN.\p"
+	.string "Il CAPO dice che la sua politica è\n"
+	.string "vincere senza sottoposti.$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerF:
-	.string "I heard that the GYM in CINNABAR is\n"
-	.string "gone.\p"
-	.string "I wonder what became of BLAINE, the\n"
-	.string "GYM LEADER.$"
+	.string "Ho sentito che la PALESTRA di\n"
+	.string "CINNABAR non c'è più.\p"
+	.string "Chissà che fine ha fatto BLAINE,\n"
+	.string "il CAPOPALESTRA.$"
 
 ViridianCity_PokemonCenter_Text_1FBugCatcher:
-	.string "My dream is to become a GYM LEADER.$"
+	.string "Il mio sogno è diventare CAPOPALESTRA.$"

@@ -17,11 +17,11 @@ MahoganyTown_Gym_EventScript_Statue2::
 	end
 
 MahoganyTown_Gym_Text_GymStatue:
-	.string "MAHOGANY TOWN POKéMON GYM$"
+	.string "PALESTRA POKéMON DI MAHOGANY$"
 
 MahoganyTown_Gym_Text_GymStatueCertified:
-	.string "MAHOGANY TOWN POKéMON GYM\p"
-	.string "PRYCE'S CERTIFIED TRAINERS:\n"
+	.string "PALESTRA POKéMON DI MAHOGANY\p"
+	.string "ALLENATORI CERTIFICATI DA PRYCE:\n"
 	.string "{PLAYER}$"
 
 
@@ -123,138 +123,138 @@ MahoganyTown_Gym_EventScript_Pryce_Defeated::
 	end
 
 MahoganyTown_Gym_Text_PryceIntro:
-    .string "POKéMON have many experiences\n"
-    .string "in their lives, just like we do.\p"
-    .string "I, too, have seen and suffered\n"
-    .string "much in my life.\p"
-    .string "Since I am your elder, let me\n"
-    .string "show you what I mean.\p"
-    .string "I have been with POKéMON since\n"
-    .string "before you were born.\p"
-    .string "I do not lose easily.\p"
-    .string "I, PRYCE--the winter trainer--\n"
-    .string "shall demonstrate my power!$"
+    .string "I POKéMON vivono molte\n"
+    .string "esperienze, come noi.\p"
+    .string "Anch'io ho visto e sofferto\n"
+    .string "molto nella vita.\p"
+    .string "Dato che sono il tuo anziano,\n"
+    .string "lascia che ti mostri.\p"
+    .string "Sto con i POKéMON da\n"
+    .string "prima che tu nascessi.\p"
+    .string "Non perdo facilmente.\p"
+    .string "Io, PRYCE, allenatore d'inverno,\n"
+    .string "ti mostrerò la mia forza!$"
 
 MahoganyTown_Gym_Text_PryceImpressed:
-    .string "Ah, I am impressed by your\n"
-    .string "prowess.\p"
-    .string "With your strong will, I know you\n"
-    .string "will overcome all life's obstacles.\p"
-    .string "You are worthy of this BADGE!$"
+    .string "Ah, sono colpito dalla tua\n"
+    .string "bravura.\p"
+    .string "Con la tua forza so che\n"
+    .string "supererai ogni ostacolo.\p"
+    .string "Meriti questa MEDAGLIA!$"
 
 MahoganyTown_Gym_Text_ReceivedBadge:
-    .string "{PLAYER} received GLACIERBADGE.$"
+    .string "{PLAYER} riceve la GLACIERBADGE.$"
 
 MahoganyTown_Gym_Text_GlacierBadgeSpeech:
-    .string "That BADGE will raise the SPECIAL\n"
-    .string "ATTACK of POKéMON.\p"
-    .string "It also lets your POKéMON use\n"
-    .string "WHIRLPOOL to get across\l"
-    .string "real whirlpools.\p"
-    .string "And this… This is a gift from me!$"
+    .string "Quella MEDAGLIA alza l'ATTACCO\n"
+    .string "SPECIALE dei POKéMON.\p"
+    .string "Permette anche ai POKéMON di usare\n"
+    .string "MULINELLO per attraversare\l"
+    .string "i veri mulinelli.\p"
+    .string "E questo… è un regalo per te!$"
 
 MahoganyTown_Gym_Text_HailSpeech:
-    .string "That TM contains HAIL.\p"
-    .string "It inflicts damage every\n"
-    .string "turn for 5 turns.\p"
-    .string "It demonstrates the harshness\n"
-    .string "of winter.$"
+    .string "Questa MT contiene GRANDINE.\p"
+    .string "Infligge danni ogni\n"
+    .string "turno per 5 turni.\p"
+    .string "Mostra la durezza\n"
+    .string "dell'inverno.$"
 
 MahoganyTown_Gym_Text_CherishPokemon:
-    .string "When the ice and snow melt,\n"
-    .string "spring arrives.\p"
-    .string "You and your POKéMON will be\n"
-    .string "together for many years to come.\p"
-    .string "Cherish your time together!$"
+    .string "Quando ghiaccio e neve si sciolgono,\n"
+    .string "arriva la primavera.\p"
+    .string "Tu e i tuoi POKéMON starete\n"
+    .string "insieme per molti anni.\p"
+    .string "Godetevi il tempo insieme!$"
 
 MahoganyTown_Gym_Text_PryceRematch:
-    .string "Ah, JOHTO CHAMPION!\p"
-    .string "Your skills are indeed\n"
-    .string "remarkable.\p"
-    .string "I am impressed.\p"
-    .string "But even now, there is much to\n"
-    .string "learn from each other.\p"
-    .string "I, PRYCE--the winter trainer--\n"
-    .string "still have a few tricks left.\p"
-    .string "Want to have a rematch with me?$"
+    .string "Ah, CAMPIONE DI JOHTO!\p"
+    .string "Le tue abilità sono davvero\n"
+    .string "notevoli.\p"
+    .string "Sono colpito.\p"
+    .string "Ma c'è ancora molto da\n"
+    .string "imparare l'uno dall'altro.\p"
+    .string "Io, PRYCE, allenatore d'inverno,\n"
+    .string "ho ancora qualche trucco.\p"
+    .string "Vuoi una rivincita con me?$"
 
 MahoganyTown_Gym_Text_PryceRematchDefeat:
-    .string "Ah, yet again I'm impressed by\n"
-    .string "your prowess.\p"
-    .string "With your strong will, I know you\n"
-    .string "will overcome all life's obstacles.$"
+    .string "Ah, di nuovo colpito dalla\n"
+    .string "tua bravura.\p"
+    .string "Con la tua forza so che\n"
+    .string "supererai ogni ostacolo.$"
 
 MahoganyTown_Gym_Text_Guide:
-    .string "PRYCE is a veteran who has\n"
-    .string "trained POKéMON for some 50 years.\p"
-    .string "He's got a solid lineup of\n"
-    .string "POKéMON to cover whatever\l"
-    .string "you bring his way.\p"
-    .string "Fire is a good place to start,\n"
-    .string "but watch out for the rain!$"
+    .string "PRYCE è un veterano che allena\n"
+    .string "POKéMON da 50 anni.\p"
+    .string "Ha una squadra solida di\n"
+    .string "POKéMON per coprire qualsiasi\l"
+    .string "cosa tu gli porti.\p"
+    .string "Il FUOCO è un buon inizio,\n"
+    .string "ma attento alla pioggia!$"
 
 MahoganyTown_Gym_Text_GuideWin:
-    .string "PRYCE is something, but you're\n"
-    .string "something else!\p"
-    .string "That was a hot battle that\n"
-    .string "bridged the generation gap!$"
+    .string "PRYCE è forte, ma tu sei\n"
+    .string "un'altra cosa!\p"
+    .string "È stata una bella lotta che\n"
+    .string "ha unito le generazioni!$"
 
 MahoganyTown_Gym_Text_BoarderRonaldSeen:
-    .string "I'll freeze your POKéMON,\n"
-    .string "so you can't do a thing!$"
+    .string "Congelerò i tuoi POKéMON,\n"
+    .string "così non farai nulla!$"
 
 MahoganyTown_Gym_Text_BoarderRonaldBeaten:
-    .string "Darn. I couldn't do a thing.$"
+    .string "Dannazione. Non ho fatto nulla.$"
 
 MahoganyTown_Gym_Text_BoarderRonaldAfter:
-    .string "I think there's a move a\n"
-    .string "POKéMON can use while it's\l"
-    .string "frozen.$"
+    .string "Credo ci sia una mossa che un\n"
+    .string "POKéMON può usare mentre è\l"
+    .string "congelato.$"
 
 MahoganyTown_Gym_Text_BoarderBradSeen:
-    .string "This GYM has a slippery floor.\p"
-    .string "It's fun, isn't it?\p"
-    .string "But hey--we're not playing\n"
-    .string "games here!$"
+    .string "Questa PALESTRA ha il pavimento liscio.\p"
+    .string "È divertente, no?\p"
+    .string "Ma non siamo qui\n"
+    .string "per giocare!$"
 
 MahoganyTown_Gym_Text_BoarderBradBeaten:
-    .string "Do you see how serious we are?$"
+    .string "Vedi quanto siamo seri?$"
 
 MahoganyTown_Gym_Text_BoarderBradAfter:
-    .string "This GYM is great.\n"
-    .string "I love boarding with my\l"
+    .string "Questa PALESTRA è grande.\n"
+    .string "Adoro scendere con i miei\l"
     .string "POKéMON!$"
 
 MahoganyTown_Gym_Text_BoarderDouglasSeen:
-    .string "I know PRYCE's secret.$"
+    .string "So il segreto di PRYCE.$"
 
 MahoganyTown_Gym_Text_BoarderDouglasBeaten:
-    .string "OK. I'll tell you PRYCE's secret.$"
+    .string "OK. Ti dico il segreto di PRYCE.$"
 
 MahoganyTown_Gym_Text_BoarderDouglasAfter:
-    .string "The secret behind PRYCE's power…\p"
-    .string "He meditates under a waterfall\n"
-    .string "daily to strengthen his mind\l"
-    .string "and body.$"
+    .string "Il segreto di PRYCE…\p"
+    .string "Medita sotto una cascata\n"
+    .string "ogni giorno per temprare mente\l"
+    .string "e corpo.$"
 
 MahoganyTown_Gym_Text_SkierRoxanneSeen:
-    .string "To get to PRYCE, our GYM LEADER,\n"
-    .string "you need to think before you skate.$"
+    .string "Per arrivare a PRYCE, il nostro\n"
+    .string "CAPOPALESTRA, pensa prima di scendere.$"
 
 MahoganyTown_Gym_Text_SkierRoxanneBeaten:
-    .string "I wouldn't lose to you in skiing!$"
+    .string "Sugli sci non ti perderei!$"
 
 MahoganyTown_Gym_Text_SkierRoxanneAfter:
-    .string "If you don't skate with precision,\n"
-    .string "you won't get far in this GYM.$"
+    .string "Se non scendi con precisione,\n"
+    .string "non andrai lontano qui.$"
 
 MahoganyTown_Gym_Text_SkierClarissaSeen:
-    .string "Check out my parallel turn!$"
+    .string "Guarda la mia curva parallela!$"
 
 MahoganyTown_Gym_Text_SkierClarissaBeaten:
-    .string "No! You made me wipe out!$"
+    .string "No! Mi hai fatto cadere!$"
 
 MahoganyTown_Gym_Text_SkierClarissaAfter:
-    .string "I shouldn't have been bragging\n"
-    .string "about my skiing…$"
+    .string "Non avrei dovuto vantarmi\n"
+    .string "della mia sciata…$"
 

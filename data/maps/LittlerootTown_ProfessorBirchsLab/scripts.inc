@@ -657,23 +657,23 @@ LittlerootTown_ProfessorBirchsLab_EventScript_ScottAboardSSTidalCall::
 	end
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchAwayOnFieldwork:
-	.string "Hunh? PROF. BIRCH?\p"
-	.string "The PROF's away on fieldwork.\n"
-	.string "Ergo, he isn't here.\p"
-	.string "Oh, let me explain what fieldwork is.\p"
-	.string "It is to study things in the natural\n"
-	.string "environment, like fields and mountains,\l"
-	.string "instead of a laboratory.\p"
-	.string "The PROF isn't one for doing desk work.\n"
-	.string "He's the type of person who would\l"
-	.string "rather go outside and experience\l"
-	.string "things than read about them here.$"
+	.string "Eh? Il PROF. BIRCH?\p"
+	.string "Il PROF è fuori per ricerche.\n"
+	.string "Quindi non è qui.\p"
+	.string "Lascia che ti spieghi cosa sono.\p"
+	.string "È studiare le cose nell'ambiente\n"
+	.string "naturale, campi e montagne,\l"
+	.string "invece che in laboratorio.\p"
+	.string "Il PROF non sta mai alla scrivania.\n"
+	.string "È il tipo che preferisce uscire\l"
+	.string "e provare le cose di persona\l"
+	.string "invece di leggere qui.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchIsntOneForDeskWork:
-	.string "The PROF isn't one for doing desk work.\n"
-	.string "He's the type of person who would\l"
-	.string "rather go outside and experience\l"
-	.string "things than read about them here.$"
+	.string "Il PROF non sta mai alla scrivania.\n"
+	.string "È il tipo che preferisce uscire\l"
+	.string "e provare le cose di persona\l"
+	.string "invece di leggere qui.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchEnjoysRivalsHelpToo:
 	.string "Il PROF. BIRCH studia gli habitat\n"
@@ -743,15 +743,15 @@ LittlerootTown_ProfessorBirchsLab_Text_ReceivedPokedex:
 	.string "{PLAYER} riceve il POKéDEX!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ExplainPokedex:
-	.string "PROF. BIRCH: The POKéDEX is a high-tech\n"
-	.string "tool that automatically makes a record\l"
-	.string "of any POKéMON you meet or catch.\p"
-	.string "My kid, {RIVAL}, goes everywhere\n"
-	.string "with it.\p"
-	.string "Whenever my kid catches a rare POKéMON\n"
-	.string "and records its data in the POKéDEX,\l"
-	.string "why, {RIVAL} looks for me while I'm out\l"
-	.string "doing fieldwork, and shows me.$"
+	.string "PROF. BIRCH: Il POKéDEX è uno strumento\n"
+	.string "tecnologico che registra da solo\l"
+	.string "i POKéMON che incontri o catturi.\p"
+	.string "Mio figlio, {RIVAL}, lo porta\n"
+	.string "sempre con sé.\p"
+	.string "Quando cattura un POKéMON raro\n"
+	.string "e ne registra i dati nel POKéDEX,\l"
+	.string "ecco, {RIVAL} mi cerca mentre sono\l"
+	.string "fuori a lavorare, e me lo mostra.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CountlessPokemonAwait:
 	.string "PROF. BIRCH: Innumerevoli POKéMON\n"

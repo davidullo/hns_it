@@ -45,29 +45,29 @@ PewterCity_PokemonCenter_1F_EventScript_GBAKid2::
 	end
 
 PewterCity_PokemonCenter_1F_Text_TeamRocketMtMoonImOnPhone::
-	.string "What!?\p"
-	.string "TEAM ROCKET is at MT. MOON?\n"
-	.string "Huh?\p"
-	.string "I'm on the phone!\n"
-	.string "Scram!$"
+	.string "Cosa!?\p"
+	.string "Il TEAM ROCKET è al MT. MOON?\n"
+	.string "Eh?\p"
+	.string "Sono al telefono!\n"
+	.string "Via!$"
 
 PewterCity_PokemonCenter_1F_Text_Jigglypuff::
 	.string "JIGGLYPUFF: Puu pupuu!$"
 
 PewterCity_PokemonCenter_1F_Text_WhenJiggylypuffSingsMonsGetDrowsy::
 	.string "Yawn!\p"
-	.string "When JIGGLYPUFF sings, POKéMON get\n"
-	.string "drowsy…\p"
-	.string "…Me, too…\n"
+	.string "Quando JIGGLYPUFF canta, i POKéMON\n"
+	.string "si intontiscono…\p"
+	.string "…Io pure…\n"
 	.string "Snore…$"
 
 PewterCity_PokemonCenter_1F_Text_TradingMyClefairyForPikachu::
-	.string "I really want a PIKACHU, so I'm\n"
-	.string "trading my CLEFAIRY for one.$"
+	.string "Voglio tanto un PIKACHU, quindi\n"
+	.string "scambio il mio CLEFAIRY.$"
 
 PewterCity_PokemonCenter_1F_Text_TradingPikachuWithKid::
-	.string "I'm trading POKéMON with that kid\n"
-	.string "there.\p"
-	.string "I had two PIKACHU, so I figured\n"
-	.string "I might as well trade one.$"
+	.string "Sto scambiando POKéMON con quel\n"
+	.string "ragazzo.\p"
+	.string "Avevo due PIKACHU, così ho pensato\n"
+	.string "di scambiarne uno.$"
 

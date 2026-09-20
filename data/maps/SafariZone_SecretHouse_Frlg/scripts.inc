@@ -25,30 +25,30 @@ SafariZone_SecretHouse_EventScript_ExplainSurf::
 	end
 
 SafariZone_SecretHouse_Text_CongratsYouveWon::
-	.string "Ah! Finally!\p"
-	.string "You're the first person to reach\n"
-	.string "the SECRET HOUSE!\p"
-	.string "Although I made a campaign\n"
-	.string "for our grand opening,\p"
-	.string "I was getting worried that no one\n"
-	.string "would win our campaign prize.\p"
-	.string "Congratulations!\n"
-	.string "You have won!$"
+	.string "Ah! Finalmente!\p"
+	.string "Sei il primo ad arrivare\n"
+	.string "alla CASA SEGRETA!\p"
+	.string "Anche se ho fatto una campagna\n"
+	.string "per la nostra grande apertura,\p"
+	.string "temevo che nessuno avrebbe\n"
+	.string "vinto il premio della campagna.\p"
+	.string "Congratulazioni!\n"
+	.string "Hai vinto!$"
 
 SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
-	.string "{PLAYER} received HM03\n"
-	.string "from the attendant!$"
+	.string "{PLAYER} riceve la MN03\n"
+	.string "dall'addetto!$"
 
 SafariZone_SecretHouse_Text_ExplainSurf::
-	.string "HM03 is SURF.\p"
-	.string "POKéMON will be able to ferry you\n"
-	.string "across water using it.\p"
-	.string "And, this HM isn't disposable, so\n"
-	.string "you can use it over and over.\p"
-	.string "You're super lucky for winning this\n"
-	.string "fabulous prize!$"
+	.string "La MN03 è SURF.\p"
+	.string "Con essa i POKéMON potranno\n"
+	.string "portarti sull'acqua.\p"
+	.string "E questa MN non si consuma, quindi\n"
+	.string "puoi usarla all'infinito.\p"
+	.string "Sei fortunatissimo ad aver vinto questo\n"
+	.string "favoloso premio!$"
 
 SafariZone_SecretHouse_Text_DontHaveRoomForPrize::
-	.string "You don't have room for this\n"
-	.string "fabulous prize!$"
+	.string "Non hai spazio per questo\n"
+	.string "favoloso premio!$"
 

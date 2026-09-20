@@ -31,17 +31,17 @@ PewterCity_House1_EventScript_DoNidoranCry::
 	return
 
 PewterCity_House1_Text_Nidoran::
-	.string "NIDORAN♂: Bowbow!$"
+	.string "NIDORAN♂: Bau bau!$"
 
 PewterCity_House1_Text_NidoranSit::
-	.string "NIDORAN, sit!$"
+	.string "NIDORAN, seduto!$"
 
 PewterCity_House1_Text_TradeMonsAreFinicky::
-	.string "Our POKéMON's an outsider, so it's\n"
-	.string "finicky and hard to handle.\p"
-	.string "An outsider is a POKéMON that you\n"
-	.string "get in a trade.\p"
-	.string "It grows fast, but it may ignore an\n"
-	.string "unskilled TRAINER in battle.\p"
-	.string "If only we had some BADGES…$"
+	.string "Il nostro POKéMON è di scambio, quindi è\n"
+	.string "capriccioso e difficile da gestire.\p"
+	.string "Un POKéMON di scambio è quello che\n"
+	.string "ottieni tramite uno scambio.\p"
+	.string "Cresce in fretta, ma può ignorare un\n"
+	.string "ALLENATORE inesperto in lotta.\p"
+	.string "Se solo avessimo qualche MEDAGLIA…$"
 

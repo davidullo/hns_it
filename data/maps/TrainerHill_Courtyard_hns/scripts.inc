@@ -67,42 +67,42 @@ TrainerHill_Courtyard_EventScript_Sailor::
 	end
 
 BattleTowerOutsideYoungsterText:
-	.string "Wow, the TRAINER HILL is huge!\p"
-	.string "There must be many kinds of\n"
-	.string "POKéMON in there!$"
+	.string "Wow, il TRAINER HILL è enorme!\p"
+	.string "Devono esserci tanti tipi di\n"
+	.string "POKéMON là dentro!$"
 
 BattleTowerOutsideBeautyText:
-	.string "In the BATTLE TENTS, you can\n"
-	.string "use only three POKéMON.\p"
-	.string "It's so hard to decide which\n"
-	.string "three should go into battle…$"
+	.string "Nelle BATTLE TENT puoi usare\n"
+	.string "solo tre POKéMON.\p"
+	.string "È così difficile decidere\n"
+	.string "quali tre mandare in lotta…$"
 
 BattleTowerOutsideSailorText:
-	.string "Hehehe, I snuck out from work.\p"
-	.string "I can't bail out until I've won!\p"
-	.string "I have to win it all. That I must!$"
+	.string "Eh eh eh, sono scappato dal lavoro.\p"
+	.string "Non me ne vado finché non ho vinto!\p"
+	.string "Devo vincere tutto. Assolutamente!$"
 
 BattleTowerOutsideSignText:
-	.string "{UP_ARROW} TRAINER HILL ENTRANCE\p"
-	.string "“Scale the heights, you hot-blooded\n"
-	.string "TRAINERS!”\p"
-	.string "{RIGHT_ARROW} BATTLE TENTS.$"
+	.string "{UP_ARROW} INGRESSO TRAINER HILL\p"
+	.string "“Scalate le vette, ALLENATORI\n"
+	.string "dal sangue caldo!”\p"
+	.string "{RIGHT_ARROW} BATTLE TENT.$"
 
 BattleTower_Battle_Tent_Text_Factory:
 	.string "BATTLE TENT: FACTORY\n"
-	.string "“Find it! The ultimate POKéMON!”$"
+	.string "“Trovatelo! Il POKéMON supremo!”$"
 
 BattleTower_Battle_Tent_Text_Palace:
 	.string "BATTLE TENT: PALACE\n"
-	.string "“Feast Your Eyes on Battles!”$"
+	.string "“Godetevi lo spettacolo delle lotte!”$"
 
 BattleTower_Battle_Tent_Text_Arena:
 	.string "BATTLE TENT: ARENA\n"
-	.string "“May the Greatest Teams Gather!”$"
+	.string "“Che i team più forti si radunino!”$"
 
 BattleTowerOutsideText_Closed:
-	.string "The TRAINER HILL is currently\n"
-	.string "closed for repairs.$"
+	.string "Il TRAINER HILL è attualmente\n"
+	.string "chiuso per riparazioni.$"
 
 
 TrainerHill_Courtyard_EventScript_LeftMoveTutor::
@@ -198,9 +198,9 @@ TrainerHill_Courtyard_ExchangeServiceCorner_EventScript_OldWTMan::
 	end
 
 TrainerHill_Courtyard_ExchangeServiceCorner_EventScript_OldWTMan_Text:
-	.string "Hi! If you are looking for the\n"
-	.string "WONDERTRADE, they're now located in\l"
-	.string "every POKéMON CENTER. Have fun!$"
+	.string "Ciao! Se cerchi lo\n"
+	.string "SCAMBIO MERAVIGLIOSO, ora è in\l"
+	.string "ogni POKéMON CENTER. Divertiti!$"
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
 	.string "Salve, questo è il SERVIZIO\n"

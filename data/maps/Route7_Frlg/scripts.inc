@@ -6,6 +6,6 @@ Route7_EventScript_UndergroundPathSign::
 	end
 
 Route7_Text_UndergroundPathSign::
-	.string "UNDERGROUND PATH\n"
+	.string "VIA SOTTERRANEA\n"
 	.string "CELADON CITY - LAVENDER TOWN$"
 

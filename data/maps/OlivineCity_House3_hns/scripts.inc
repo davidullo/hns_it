@@ -28,30 +28,30 @@ OlivineCityHouse3_EventScriptFishingGuruRefused::
 	end
 
 OlivineCity_Text_OfferGoodRod:
-	.string "OLIVINE is on the sea!\p"
-	.string "And if it's on the sea, there\n"
-	.string "are bound to be fish!\p"
-	.string "I've fished here for 30 years.\p"
-	.string "Would you like to face the sea\n"
-	.string "and try your hand at fishing?$"
+	.string "OLIVINE è sul mare!\p"
+	.string "E se è sul mare, ci saranno\n"
+	.string "di certo dei pesci!\p"
+	.string "Pesco qui da 30 anni.\p"
+	.string "Vuoi provare a pescare\n"
+	.string "dando le spalle al mare?$"
 
 OlivineCity_Text_GiveGoodRod:
-	.string "Ah, hahah! We have ourselves\n"
-	.string "a new angler in the making!$"
+	.string "Ah, ahah! Ecco un nuovo\n"
+	.string "pescatore in erba!$"
 
 OlivineCity_Text_GaveGoodRod:
-	.string "Fish aren't only found in the\n"
-	.string "sea--they're wherever there's\l"
-	.string "water.\p"
-	.string "By the way, your POKéDEX shows\n"
-	.string "fishing groups for POKéMON.\p"
-	.string "Different spots may contain\n"
-	.string "similar fish types.$"
+	.string "I pesci non stanno solo nel\n"
+	.string "mare, sono ovunque ci sia\l"
+	.string "acqua.\p"
+	.string "A proposito, il POKéDEX mostra\n"
+	.string "i gruppi di pesca dei POKéMON.\p"
+	.string "Posti diversi possono avere\n"
+	.string "pesci simili.$"
 
 OlivineCity_Text_DontWantGoodRod:
-	.string "Whaaat? You don't like to fish!?\n"
-	.string "That's incomprehensible!$"
+	.string "Cosa?! Non ti piace pescare!?\n"
+	.string "Incomprensibile!$"
 
 OlivineCity_Text_HaveGoodRod:
-	.string "How are things?\n"
-	.string "Did you land the big one?$"
+	.string "Come va?\n"
+	.string "Hai preso il pesce grosso?$"

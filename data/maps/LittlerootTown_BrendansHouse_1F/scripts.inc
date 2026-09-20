@@ -303,8 +303,8 @@ PlayersHouse_1F_Text_ArentYouInterestedInRoom:
 	.string "stanza tutta tua?$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
-	.string "MOM: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "MAMMA: {PLAYER}.\p"
+	.string "Vai a regolare l'orologio in camera tua.$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
 	.string "MAMMA: Oh! {PLAYER}, {PLAYER}!\n"
@@ -342,8 +342,8 @@ PlayersHouse_1F_Text_TakeCareHoney:
 	.string "MAMMA: Stai attento, tesoro!$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-	.string "MOM: Oh? Did DAD give you that BADGE?\p"
-	.string "Then here's something from your MOM!$"
+	.string "MAMMA: Oh? Te l'ha data PAPÀ la MEDAGLIA?\p"
+	.string "Allora ecco un regalo dalla tua MAMMA!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
 	.string "Non strafare, caro.\n"
@@ -368,8 +368,8 @@ PlayersHouse_1F_Text_Vigoroth2:
 	.string "Ugho, ugo ugo…$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-	.string "INTERVIEWER: …We brought you this\n"
-	.string "report from in front of PETALBURG GYM.$"
+	.string "INTERVISTATORE: …Ecco il servizio\n"
+	.string "davanti alla PALESTRA di PETALBURGO.$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
 	.string "C'è un film in TV.\p"
@@ -397,9 +397,9 @@ PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
 	.string "MR. BRINEY.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
-	.string "DAD: Hm, a TICKET for a ferry?\p"
-	.string "If I recall, there are ferry ports in\n"
-	.string "SLATEPORT and LILYCOVE.$"
+	.string "PAPÀ: Hm, un BIGLIETTO per il traghetto?\p"
+	.string "Se non sbaglio, ci sono porti a\n"
+	.string "PORTOVECCHIO e PORTO ALTO.$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
 	.string "I'd better get back to PETALBURG GYM.\p"
@@ -407,10 +407,10 @@ PlayersHouse_1F_Text_BetterGetBackToGym:
 	.string "while I'm away.$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
-	.string "MOM: That DAD of yours…\p"
-	.string "He comes home for the first time in a\n"
-	.string "while, but all he talks about is POKéMON.\p"
-	.string "He should relax and stay a little longer.$"
+	.string "MAMMA: Quel tuo papà…\p"
+	.string "Torna a casa dopo tanto tempo, ma\n"
+	.string "parla solo di POKéMON.\p"
+	.string "Dovrebbe rilassarsi e restare un po'.$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
 	.string "MAMMA: È un'ultim'ora?$"

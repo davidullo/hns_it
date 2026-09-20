@@ -37,22 +37,22 @@ MossdeepCity_Mart_EventScript_Sailor::
 	end
 
 MossdeepCity_Mart_Text_ReviveIsFantastic:
-	.string "REVIVE is fantastic!\p"
-	.string "Give it to a fainted POKéMON,\n"
-	.string "and the POKéMON will arise.\p"
-	.string "But be careful, REVIVE doesn't restore\n"
-	.string "the used-up PP of moves.$"
+	.string "Il REVITALIZZANTE è fantastico!\p"
+	.string "Dallo a un POKéMON esausto,\n"
+	.string "e il POKéMON si riprenderà.\p"
+	.string "Ma attento, non ripristina\n"
+	.string "i PP delle mosse già usati.$"
 
 MossdeepCity_Mart_Text_MaxRepelLastsLongest:
-	.string "MAX REPEL keeps all weak POKéMON away.\p"
-	.string "Out of all the REPEL sprays, it lasts\n"
-	.string "the longest.$"
+	.string "Il SUPERREPELLENTE tiene via i POKéMON\p"
+	.string "deboli. Fra tutti gli spray REPELLENTE,\n"
+	.string "dura di più.$"
 
 MossdeepCity_Mart_Text_NetAndDiveBallsRare:
-	.string "The NET and DIVE BALLS are rare POKé\n"
-	.string "BALLS that are only made in MOSSDEEP.\p"
-	.string "A NET BALL is effective against\n"
-	.string "BUG-type and WATER-type POKéMON.\p"
-	.string "A DIVE BALL works best on POKéMON\n"
-	.string "at the bottom of the sea.$"
+	.string "La RETE BALL e la SUB BALL sono POKé\n"
+	.string "BALL rare, prodotte solo a MOSSDEEP.\p"
+	.string "La RETE BALL è efficace contro i\n"
+	.string "POKéMON di tipo Coleottero e Acqua.\p"
+	.string "La SUB BALL funziona meglio sui POKéMON\n"
+	.string "in fondo al mare.$"
 

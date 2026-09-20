@@ -991,8 +991,8 @@ LittlerootTown_Text_GoodLuckCatchingPokemon:
 	.string "Buona fortuna!$"
 
 LittlerootTown_Text_TownSign:
-	.string "LITTLEROOT TOWN\n"
-	.string "“A town that can't be shaded any hue.”$"
+	.string "BORGO PETALO\n"
+	.string "“Una città che non si tinge.$"
 
 LittlerootTown_Text_ProfBirchsLab:
 	.string "LABORATORIO POKéMON DEL PROF. BIRCH$"

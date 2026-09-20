@@ -57,46 +57,46 @@ Route111_WinstrateFamilysHouse_EventScript_FaceOriginalDirection::
 	end
 
 Route111_WinstrateFamilysHouse_Text_MySonIsStrongerThanYou:
-	.string "You're the first TRAINER I've seen who\n"
-	.string "deploys POKéMON so masterfully.\p"
-	.string "But, I should tell you--my son is\n"
-	.string "stronger than you.\p"
-	.string "He even took the POKéMON LEAGUE\n"
-	.string "challenge, I'll have you know.$"
+	.string "Sei il primo ALLENATORE che io abbia\n"
+	.string "visto usare i POKéMON così bene.\p"
+	.string "Ma sai, mio figlio è\n"
+	.string "più forte di te.\p"
+	.string "Ha pure affrontato la LEGA\n"
+	.string "POKéMON, che tu sappia.$"
 
 Route111_WinstrateFamilysHouse_Text_LikeYouToHaveMachoBrace:
-	.string "We use this MACHO BRACE to more\n"
-	.string "effectively strengthen our POKéMON\l"
-	.string "in training.\p"
-	.string "Since you've beaten all of us here,\n"
-	.string "I don't know if you need it, but we\l"
-	.string "would like you to have our MACHO BRACE.$"
+	.string "Usiamo questo BRACCIALE FORTE per\n"
+	.string "rafforzare i POKéMON\l"
+	.string "in allenamento.\p"
+	.string "Dato che ci hai battuti tutti,\n"
+	.string "non so se ti serva, ma vorremmo\l"
+	.string "regalarti il nostro BRACCIALE FORTE.$"
 
 Route111_WinstrateFamilysHouse_Text_PassionateAboutBattles:
-	.string "When it comes to POKéMON battles,\n"
-	.string "we tend to be pretty passionate.$"
+	.string "Quando si tratta di lotte POKéMON,\n"
+	.string "siamo piuttosto appassionati.$"
 
 Route111_WinstrateFamilysHouse_Text_StrongerFamilyMembers:
-	.string "Mommy is stronger than Daddy.\p"
-	.string "I'm stronger than Mommy.\p"
-	.string "And Grandma's stronger than me!\p"
-	.string "But my big brother is even stronger\n"
-	.string "than Grandma.$"
+	.string "La mamma è più forte del papà.\p"
+	.string "Io sono più forte della mamma.\p"
+	.string "E la nonna è più forte di me!\p"
+	.string "Ma mio fratello grande è ancora\n"
+	.string "più forte della nonna.$"
 
 Route111_WinstrateFamilysHouse_Text_GrandsonStrong:
-	.string "There's no question that you're strong.\p"
-	.string "But if you were to battle my grandson,\n"
-	.string "you'd end up crying in frustration.\p"
-	.string "He's much stronger than any TRAINER\n"
-	.string "our family knows.\p"
-	.string "He must be challenging the POKéMON\n"
-	.string "LEAGUE CHAMPION by now.\p"
-	.string "Knowing my grandson, he could be the\n"
-	.string "CHAMPION already!$"
+	.string "Non c'è dubbio che tu sia forte.\p"
+	.string "Ma se sfidassi mio nipote,\n"
+	.string "finiresti a piangere dalla frustrazione.\p"
+	.string "È più forte di qualsiasi ALLENATORE\n"
+	.string "conosca la nostra famiglia.\p"
+	.string "A quest'ora starà sfidando il\n"
+	.string "CAMPIONE della LEGA POKéMON.\p"
+	.string "Conoscendolo, potrebbe essere già\n"
+	.string "il CAMPIONE!$"
 
 Route111_WinstrateFamilysHouse_Text_GrandsonStrongShort:
-	.string "My grandson must be challenging the\n"
-	.string "POKéMON LEAGUE CHAMPION by now.\p"
-	.string "Knowing my grandson, he could be the\n"
-	.string "CHAMPION already!$"
+	.string "Mio nipote starà sfidando il\n"
+	.string "CAMPIONE della LEGA POKéMON.\p"
+	.string "Conoscendolo, potrebbe essere già\n"
+	.string "il CAMPIONE!$"
 

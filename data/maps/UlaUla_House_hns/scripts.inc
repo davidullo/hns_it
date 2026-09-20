@@ -158,34 +158,34 @@ Alola_Ulaula_House_Phant_Movement_5:
 	step_end
 
 Alola_Ulaula_House_Phant_Text_0:
-	.string "Welcome, {PLAYER}.\p"
-	.string "Thanks again for playing!$"
+	.string "Benvenuto, {PLAYER}.\p"
+	.string "Grazie ancora per aver giocato!$"
 
 Alola_Ulaula_House_Phant_Text_1:
-	.string "I hope you're prepared…\n"
-	.string "good luck.$"
+	.string "Spero che tu sia pronto…\n"
+	.string "buona fortuna.$"
 
 Alola_Ulaula_House_Phant_Text_2:
-	.string "Congratulations, {PLAYER}!$"
+	.string "Congratulazioni, {PLAYER}!$"
 
 Alola_Ulaula_House_Phant_Text_3:
-	.string "I think you've earned this.$"
+	.string "Credo che ti sia guadagnato questo.$"
 
 Alola_Ulaula_House_Phant_Text_4:
-	.string "You received an EGG from PHANTONOMY!$"
+	.string "Hai ricevuto un UOVO da PHANTONOMY!$"
 
 Alola_Ulaula_House_Phant_Text_5:
-	.string "That EGG contains my favorite POKéMON.\p"
-	.string "Please, take good care of it…$"
+	.string "Quell'UOVO contiene il mio POKéMON\p"
+	.string "preferito. Per favore, prenditene cura…$"
 
 Alola_Ulaula_House_Phant_Text_6:
-	.string "No worries, {PLAYER}.\n"
-	.string "Come back when you're ready…$"
+	.string "Nessun problema, {PLAYER}.\n"
+	.string "Torna quando sei pronto…$"
 
 Alola_Ulaula_House_Phant_Text_7:
-	.string "I hope you enjoyed this taste of ALOLA.\p"
-	.string "I'm working on a full demake of the\n"
-	.string "region called ULTRA ECLIPSE.$"
+	.string "Spero ti sia piaciuto questo assaggio\p"
+	.string "di ALOLA. Sto lavorando a un demake\n"
+	.string "completo della regione, ULTRA ECLIPSE.$"
 
 Alola_Ulaula_House_Noivern_Text_0:
 	.string "Scree!$"

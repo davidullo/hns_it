@@ -6,132 +6,132 @@ SevenIsland_SevaultCanyon_EventScript_RouteSign::
 	end
 
 SevenIsland_SevaultCanyon_Text_CyndyIntro::
-	.string "My conditioning's in top form!$"
+	.string "Sono in forma smagliante!$"
 
 SevenIsland_SevaultCanyon_Text_CyndyDefeat::
-	.string "Huh?\n"
-	.string "Something's not right…$"
+	.string "Eh?\n"
+	.string "Qualcosa non va…$"
 
 SevenIsland_SevaultCanyon_Text_CyndyPostBattle::
-	.string "The way I am now, I may have to\n"
-	.string "hold off on TRAINER TOWER…$"
+	.string "Così come sono, forse la TORRE\n"
+	.string "ALLENATORI può aspettare…$"
 
 SevenIsland_SevaultCanyon_Text_EvanIntro::
-	.string "It doesn't matter if you happen to\n"
-	.string "have the strongest POKéMON…\p"
-	.string "It doesn't mean a thing if you don't\n"
-	.string "know how to use them properly!$"
+	.string "Non importa se hai i POKéMON\n"
+	.string "più forti…\p"
+	.string "Non contano nulla se non sai\n"
+	.string "usarli come si deve!$"
 
 SevenIsland_SevaultCanyon_Text_EvanDefeat::
-	.string "You're a master at this.$"
+	.string "Sei un maestro in questo.$"
 
 SevenIsland_SevaultCanyon_Text_EvanPostBattle::
-	.string "You see them every so often,\n"
-	.string "TRAINERS with awesome POKéMON\l"
-	.string "who have no idea what to do.\p"
-	.string "Before training POKéMON, TRAINERS\n"
-	.string "themselves need to grow up.$"
+	.string "Ne vedi ogni tanto,\n"
+	.string "ALLENATORI con POKéMON fortissimi\l"
+	.string "che non sanno cosa fare.\p"
+	.string "Prima di allenare i POKéMON,\n"
+	.string "gli ALLENATORI devono crescere.$"
 
 SevenIsland_SevaultCanyon_Text_JacksonIntro::
-	.string "I work to protect the environment.\n"
-	.string "In turn, nature protects me!$"
+	.string "Proteggo l'ambiente.\n"
+	.string "E la natura protegge me!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonDefeat::
-	.string "Whoa! You're tough!\n"
-	.string "How about protecting me?$"
+	.string "Uao! Sei tosto!\n"
+	.string "Mi fai da guardia del corpo?$"
 
 SevenIsland_SevaultCanyon_Text_JacksonPostBattle::
-	.string "From far out among the stars, our\n"
-	.string "planet is just a drop of water.\p"
-	.string "But we want to protect that drop\n"
-	.string "of water for everyone.$"
+	.string "Da lassù, tra le stelle, il nostro\n"
+	.string "pianeta è una goccia d'acqua.\p"
+	.string "Ma vogliamo proteggere quella\n"
+	.string "goccia d'acqua per tutti.$"
 
 SevenIsland_SevaultCanyon_Text_KatelynIntro::
-	.string "Those shoes you have are pretty\n"
-	.string "snazzy.$"
+	.string "Che scarpe sgargianti\n"
+	.string "che hai.$"
 
 SevenIsland_SevaultCanyon_Text_KatelynDefeat::
-	.string "You're hot stuff in spite of your\n"
-	.string "cute looks.$"
+	.string "Sei un fenomeno, nonostante\n"
+	.string "l'aria da bravo.$"
 
 SevenIsland_SevaultCanyon_Text_KatelynPostBattle::
-	.string "Your mom bought those snazzy\n"
-	.string "RUNNING SHOES for you?\p"
-	.string "She must adore you.$"
+	.string "Tua mamma ti ha comprato quelle\n"
+	.string "SCARPE DA GINNASTICA?\p"
+	.string "Ti adora di certo.$"
 
 SevenIsland_SevaultCanyon_Text_LeroyIntro::
-	.string "You look strong.\n"
-	.string "Let me battle you, please!$"
+	.string "Sembri forte.\n"
+	.string "Lottiamo, ti prego!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyDefeat::
-	.string "I knew it!\n"
-	.string "You're as tough as I thought!$"
+	.string "Lo sapevo!\n"
+	.string "Sei tosto come pensavo!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyPostBattle::
-	.string "The way you battle has given me\n"
-	.string "a lot of useful data.\p"
-	.string "Thanks so much!$"
+	.string "Il tuo stile di lotta mi ha dato\n"
+	.string "dati molto utili.\p"
+	.string "Grazie mille!$"
 
 SevenIsland_SevaultCanyon_Text_MichelleIntro::
-	.string "I was given the best possible\n"
-	.string "education to become this strong.\p"
-	.string "I don't want to lose to anyone!$"
+	.string "Ho ricevuto la migliore\n"
+	.string "istruzione per diventare forte.\p"
+	.string "Non voglio perdere con nessuno!$"
 
 SevenIsland_SevaultCanyon_Text_MichelleDefeat::
-	.string "Thank you. I feel like I've been\n"
-	.string "set free by losing to you.$"
+	.string "Grazie. Persa contro di te,\n"
+	.string "mi sento libera.$"
 
 SevenIsland_SevaultCanyon_Text_MichellePostBattle::
-	.string "For some reason, I get furious\n"
-	.string "over the slightest thing.\p"
-	.string "I'll calm myself by breathing\n"
-	.string "deeply.$"
+	.string "Per qualche motivo, mi infurio\n"
+	.string "per un nonnulla.\p"
+	.string "Mi calmerò respirando\n"
+	.string "a fondo.$"
 
 SevenIsland_SevaultCanyon_Text_LexIntro::
-	.string "LEX: My darling NYA, together\n"
-	.string "we could win!$"
+	.string "LEX: Mio caro NYA, insieme\n"
+	.string "possiamo vincere!$"
 
 SevenIsland_SevaultCanyon_Text_LexDefeat::
-	.string "LEX: I seem to have been too\n"
-	.string "careless…$"
+	.string "LEX: Sono stato troppo\n"
+	.string "sbadato…$"
 
 SevenIsland_SevaultCanyon_Text_LexPostBattle::
-	.string "LEX: I think it was a good\n"
-	.string "experience for NYA.\p"
-	.string "You have my gratitude.$"
+	.string "LEX: Credo sia stata una bella\n"
+	.string "esperienza per NYA.\p"
+	.string "Ti sono grato.$"
 
 SevenIsland_SevaultCanyon_Text_LexNotEnoughMons::
-	.string "LEX: May I ask you to battle the\n"
-	.string "both of us at the same time?$"
+	.string "LEX: Possiamo lottare contro\n"
+	.string "noi due insieme?$"
 
 SevenIsland_SevaultCanyon_Text_NyaIntro::
-	.string "NYA: I'll do my best so I won't\n"
-	.string "drag down my mentor, LEX!$"
+	.string "NYA: Darò il massimo per non\n"
+	.string "essere da peso al mio maestro LEX!$"
 
 SevenIsland_SevaultCanyon_Text_NyaDefeat::
 	.string "NYA: Oh, no…\n"
-	.string "I'm so sorry, I…$"
+	.string "Mi dispiace tanto, io…$"
 
 SevenIsland_SevaultCanyon_Text_NyaPostBattle::
-	.string "NYA: I think I'm going to need\n"
-	.string "much more seasoning and tutoring\l"
-	.string "under LEX…\p"
-	.string "…So, LEX, please, may I stay with\n"
-	.string "you like this?$"
+	.string "NYA: Credo di aver bisogno\n"
+	.string "di molta più esperienza\l"
+	.string "sotto LEX…\p"
+	.string "…Quindi, LEX, posso restare\n"
+	.string "con te, così?$"
 
 SevenIsland_SevaultCanyon_Text_NyaNotEnoughMons::
-	.string "NYA: I'm sorry, but may we battle\n"
-	.string "in two-on-two style?$"
+	.string "NYA: Scusa, possiamo lottare\n"
+	.string "in stile due contro due?$"
 
 SevenIsland_SevaultCanyon_Text_RouteSign::
-	.string "SEVAULT CANYON\n"
-	.string "TANOBY RUINS AHEAD$"
+	.string "CANION SEVAULT\n"
+	.string "ROVINE TANOBY PIÙ AVANTI$"
 
 SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawly::
-	.string "Training by oneself is certainly\n"
-	.string "not a bad thing.\p"
-	.string "But it's also not bad to aim for\n"
-	.string "the top with a partner.\p"
-	.string "Even BRUNO…\n"
-	.string "He trained with a fellow by the\l"
-	.string "name of BRAWLY before.$"
+	.string "Allenarsi da soli non è\n"
+	.string "certo una brutta cosa.\p"
+	.string "Ma non è male puntare in alto\n"
+	.string "con un compagno.\p"
+	.string "Persino BRUNO…\n"
+	.string "Si allenò con un certo\l"
+	.string "BRAWLY, tempo fa.$"

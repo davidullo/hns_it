@@ -149,66 +149,66 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
 	.string "STEVEN: {PLAYER}{KUN}…\p"
-	.string "As you can see, there's not much here,\n"
-	.string "but this is my home.\p"
-	.string "Thank you for all that you've done.\p"
-	.string "This is my token of appreciation.\n"
-	.string "It's the HIDDEN MACHINE DIVE.\p"
-	.string "No need to be shy--you've earned\n"
-	.string "this HM.$"
+	.string "Come vedi, non c'è molto qui,\n"
+	.string "ma è casa mia.\p"
+	.string "Grazie per tutto quello che hai fatto.\p"
+	.string "Ecco un segno della mia gratitudine.\n"
+	.string "È la MACCHINA NASCOSTA SUB.\p"
+	.string "Non essere timido, te la sei\n"
+	.string "guadagnata.$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "STEVEN: While you're using SURF, you\n"
-	.string "should notice dark patches of water.\p"
-	.string "Use DIVE if you come to deep water\n"
-	.string "like it. You'll drop to the seafloor.\p"
-	.string "When you want to come back up, use\n"
-	.string "DIVE again.\p"
-	.string "In some places, it won't be possible\n"
-	.string "for you to surface, though.$"
+	.string "STEVEN: Mentre usi SURF, dovresti\n"
+	.string "notare chiazze d'acqua scura.\p"
+	.string "Usa SUB se arrivi in acque profonde\n"
+	.string "come quelle. Scenderai sul fondale.\p"
+	.string "Quando vuoi risalire, usa di nuovo\n"
+	.string "SUB.\p"
+	.string "In alcuni punti, però, non potrai\n"
+	.string "riemergere.$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
-	.string "STEVEN: Apparently, there's an\n"
-	.string "underwater cavern between\l"
-	.string "MOSSDEEP and SOOTOPOLIS.\p"
-	.string "You know, the one that CAPT. STERN\n"
-	.string "found in his submarine.$"
+	.string "STEVEN: Pare che ci sia una\n"
+	.string "caverna subacquea tra\l"
+	.string "MOSSDEEP e SOOTOPOLIS.\p"
+	.string "Quella che il CAPITANO STERN\n"
+	.string "ha trovato col sottomarino.$"
 
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum:
-	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "It contained the POKéMON\n"
+	.string "{PLAYER} controlla la POKé BALL.\p"
+	.string "Conteneva il POKéMON\n"
 	.string "BELDUM.\p"
-	.string "Take the POKé BALL?$"
+	.string "Vuoi prendere la POKé BALL?$"
 
 MossdeepCity_StevensHouse_Text_ObtainedBeldum:
-	.string "{PLAYER} obtained a BELDUM.$"
+	.string "{PLAYER} ottiene un BELDUM.$"
 
 @ Unused
 MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon:
-	.string "There is no space for another POKéMON.$"
+	.string "Non c'è spazio per un altro POKéMON.$"
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas:
-	.string "{PLAYER} left the POKé BALL where\n"
-	.string "it was.$"
+	.string "{PLAYER} lascia la POKé BALL dove\n"
+	.string "si trovava.$"
 
 MossdeepCity_StevensHouse_Text_LetterFromSteven:
-	.string "It's a letter.\p"
+	.string "È una lettera.\p"
 	.string "… … … … … …\p"
-	.string "To {PLAYER}{KUN}…\p"
-	.string "I've decided to do a little soul-\n"
-	.string "searching and train on the road.\p"
-	.string "I don't plan to return home for some\n"
-	.string "time.\p"
-	.string "I have a favor to ask of you.\p"
-	.string "I want you to take the POKé BALL on\n"
-	.string "the desk.\p"
-	.string "Inside it is a BELDUM, my favorite\n"
-	.string "POKéMON.\p"
-	.string "I'm counting on you.\p"
-	.string "May our paths cross someday.\p"
+	.string "A {PLAYER}{KUN}…\p"
+	.string "Ho deciso di riflettere un po' e di\n"
+	.string "allenarmi in viaggio.\p"
+	.string "Non penso che tornerò a casa per un\n"
+	.string "po'.\p"
+	.string "Ho un favore da chiederti.\p"
+	.string "Prendi la POKé BALL che trovi sul\n"
+	.string "tavolo.\p"
+	.string "Dentro c'è BELDUM, il mio POKéMON\n"
+	.string "preferito.\p"
+	.string "Conto su di te.\p"
+	.string "Che le nostre strade si incrocino.\p"
 	.string "STEVEN STONE$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:
-	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by STEVEN.$"
+	.string "È una collezione di rocce e pietre rare\n"
+	.string "messa insieme da STEVEN.$"
 

@@ -104,99 +104,99 @@ SootopolisCity_LotadAndSeedotHouse_EventScript_LotadSizeRecord::
 	end
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot:
-	.string "Do you know the POKéMON SEEDOT?\n"
-	.string "It's hardly ever seen in SOOTOPOLIS.\p"
-	.string "Anyway, I love big SEEDOT.\n"
-	.string "The bigger the better.\p"
-	.string "But my younger brother, he says that\n"
-	.string "LOTAD is bigger.\p"
-	.string "That's silly.\n"
-	.string "SEEDOT has to be bigger than that!\p"
-	.string "Huh? Do you have a SEEDOT with you?\n"
-	.string "P-p-please, show me!$"
+	.string "Conosci il POKéMON SEEDOT?\n"
+	.string "Qui a SOOTOPOLIS se ne vedono rari.\p"
+	.string "Comunque, adoro i SEEDOT grandi.\n"
+	.string "Più grandi sono, meglio è.\p"
+	.string "Ma mio fratello dice che i\n"
+	.string "LOTAD sono più grandi.\p"
+	.string "Che sciocchezza.\n"
+	.string "I SEEDOT devono essere più grandi!\p"
+	.string "Eh? Hai un SEEDOT con te?\n"
+	.string "F-f-fammelo vedere!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad:
 	.string "{STR_VAR_2}!\n"
-	.string "Oh, my gosh, this is a big one!\p"
-	.string "It might even beat the big LOTAD\n"
-	.string "my younger brother saw!\p"
-	.string "Thanks for showing me.\n"
-	.string "This is my thanks!$"
+	.string "Accidenti, questo sì che è grande!\p"
+	.string "Potrebbe battere il LOTAD enorme\n"
+	.string "visto da mio fratello!\p"
+	.string "Grazie per avermelo mostrato.\n"
+	.string "Ecco un regalo per te!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1:
-	.string "{PLAYER} received a POTION.$"
+	.string "{PLAYER} riceve una POZIONE.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1:
-	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "Eh?\n"
+	.string "Il tuo ZAINO è pieno zeppo.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot:
-	.string "{STR_VAR_2}, is it?\p"
-	.string "Hmm… I've seen a bigger SEEDOT\n"
-	.string "than this one.$"
+	.string "{STR_VAR_2}, eh?\p"
+	.string "Mmm… ho visto un SEEDOT più grande\n"
+	.string "di questo.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot:
-	.string "Oh, now this is quite something…\n"
-	.string "But it's not a SEEDOT!$"
+	.string "Oh, niente male davvero…\n"
+	.string "Ma non è un SEEDOT!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot:
-	.string "You don't have a big SEEDOT?\n"
-	.string "That's too bad…\p"
-	.string "If you get a big SEEDOT, please\n"
-	.string "come show me.$"
+	.string "Non hai un SEEDOT grande?\n"
+	.string "Peccato…\p"
+	.string "Se trovi un SEEDOT grande,\n"
+	.string "vieni a mostrarmelo.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory:
-	.string "The biggest SEEDOT in history!\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3} giant!\p"
-	.string "A SEEDOT bigger than a LOTAD\n"
-	.string "always wanted!$"
+	.string "Il SEEDOT più grande della storia!\n"
+	.string "Il gigante di {STR_VAR_3} di {STR_VAR_2}!\p"
+	.string "Un SEEDOT più grande di un LOTAD\n"
+	.string "come si deve!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad:
-	.string "Do you know the POKéMON LOTAD?\n"
-	.string "It's rarely seen in SOOTOPOLIS.\p"
-	.string "I love, I mean love, big LOTAD!\p"
-	.string "My big brother says that SEEDOT is\n"
-	.string "bigger.\p"
-	.string "But that's wrong! Everyone knows that\n"
-	.string "LOTAD is a lot bigger.\p"
-	.string "Hunh? Do you have a LOTAD?\n"
-	.string "P-p-please show me!$"
+	.string "Conosci il POKéMON LOTAD?\n"
+	.string "Qui a SOOTOPOLIS se ne vedono pochi.\p"
+	.string "Adoro, adoro i LOTAD grandi!\p"
+	.string "Mio fratello dice che i SEEDOT sono\n"
+	.string "più grandi.\p"
+	.string "Ma sbaglia! Tutti sanno che i\n"
+	.string "LOTAD sono molto più grandi.\p"
+	.string "Eh? Hai un LOTAD con te?\n"
+	.string "F-f-fammelo vedere!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot:
 	.string "{STR_VAR_2}!\n"
-	.string "Wow, that is big!\p"
-	.string "It might be even bigger than the huge\n"
-	.string "SEEDOT my big brother saw.\p"
-	.string "Thanks for showing me!\n"
-	.string "This is my thanks!$"
+	.string "Wow, che bestione!\p"
+	.string "Potrebbe essere persino più grande\n"
+	.string "del SEEDOT visto da mio fratello.\p"
+	.string "Grazie per avermelo mostrato!\n"
+	.string "Ecco un regalo per te!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2:
-	.string "{PLAYER} received a POTION.$"
+	.string "{PLAYER} riceve una POZIONE.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
-	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "Eh?\n"
+	.string "Il tuo ZAINO è pieno zeppo.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
 	.string "{STR_VAR_2}?\p"
-	.string "Hmm… I've seen a bigger LOTAD\n"
-	.string "than this one here.$"
+	.string "Mmm… ho visto un LOTAD più grande\n"
+	.string "di questo.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad:
-	.string "Well, isn't this something!\n"
-	.string "But it's no LOTAD!$"
+	.string "Bella roba, davvero!\n"
+	.string "Ma non è un LOTAD!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigLotad:
-	.string "Don't you have a big LOTAD?\n"
-	.string "How disappointing…\p"
-	.string "If you get a big LOTAD, please\n"
-	.string "come show me!$"
+	.string "Non hai un LOTAD grande?\n"
+	.string "Che delusione…\p"
+	.string "Se trovi un LOTAD grande,\n"
+	.string "vieni a mostrarmelo!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestLotadInHistory:
-	.string "The biggest LOTAD in history!\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3} colossus!\p"
-	.string "A LOTAD bigger than a SEEDOT\n"
-	.string "always wanted!$"
+	.string "Il LOTAD più grande della storia!\n"
+	.string "Il colosso di {STR_VAR_3} di {STR_VAR_2}!\p"
+	.string "Un LOTAD più grande di un SEEDOT\n"
+	.string "come si deve!$"
 

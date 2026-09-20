@@ -44,27 +44,27 @@ SootopolisCity_PokemonCenter_1F_EventScript_WomanNoLegendaries::
 	end
 
 SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
-	.string "WALLACE is rumored to be the toughest\n"
-	.string "TRAINER in the whole HOENN region.\p"
-	.string "This town's GYM is led by the TRAINER\n"
-	.string "who taught WALLACE.\p"
-	.string "But the ELITE FOUR… They're said to be\n"
-	.string "even stronger than WALLACE's mentor.\p"
-	.string "How strong could they be?$"
+	.string "WALLACE è famoso come l'ALLENATORE\n"
+	.string "più forte di tutta la regione di HOENN.\p"
+	.string "La PALESTRA di questa città è guida\n"
+	.string "da chi ha insegnato a WALLACE.\p"
+	.string "Ma i SUPERQUATTRO… si dice siano\n"
+	.string "persino più forti del suo maestro.\p"
+	.string "Quanto saranno forti?$"
 
 SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
-	.string "Everyone in town has taken refuge\n"
-	.string "and won't come out of their homes.\p"
-	.string "Even I would rather not venture\n"
-	.string "outside.$"
+	.string "Tutti in città si sono rifugiati\n"
+	.string "e non escono di casa.\p"
+	.string "Anch'io preferisco non avventurarmi\n"
+	.string "fuori.$"
 
 SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
-	.string "Whenever, wherever, and whatever\n"
-	.string "happens, I will always be friends with\l"
+	.string "In ogni luogo e in ogni momento,\n"
+	.string "io sarò sempre amico dei\l"
 	.string "POKéMON.\p"
-	.string "Because it's fun to be with POKéMON!$"
+	.string "Perché con i POKéMON è bello!$"
 
 SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:
-	.string "Aren't POKéMON our friends?\p"
-	.string "Why are they going wild this way?$"
+	.string "I POKéMON non sono nostri amici?\p"
+	.string "Perché sono così agitati?$"
 

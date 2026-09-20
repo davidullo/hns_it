@@ -81,124 +81,124 @@ Route43_EventScript_Item_Max_Ether::
 	end
 
 Route43_Text_PokemaniacBenSeen:
-    .string "I love POKéMON!\p"
-    .string "That's why I started--and why I'll\n"
-    .string "keep on collecting POKéMON!$"
+    .string "Adoro i POKéMON!\p"
+    .string "Ecco perché ho iniziato, e continuerò\n"
+    .string "a collezionare POKéMON!$"
 
 Route43_Text_PokemaniacBenBeaten:
-    .string "How could you do this to me?$"
+    .string "Come hai potuto farmi questo?$"
 
 Route43_Text_PokemaniacBenAfter:
-    .string "What else do I like besides\n"
+    .string "Cos'altro mi piace oltre ai\n"
     .string "POKéMON?\p"
-    .string "MARY on the radio. I bet she's\n"
-    .string "cute!$"
+    .string "MARY alla radio. Scommetto che è\n"
+    .string "carina!$"
 
 Route43_Text_PokemaniacBrentSeen:
-    .string "Hey! Do you have any rare\n"
-    .string "POKéMON?$"
+    .string "Ehi! Hai POKéMON\n"
+    .string "rari?$"
 
 Route43_Text_PokemaniacBrentBeaten:
-    .string "Oh, my poor POKéMON! Darlings!$"
+    .string "Oh, i miei poveri POKéMON! Tesori!$"
 
 Route43_Text_PokemaniacBrentAfter:
-    .string "I'd be happy just to own a single\n"
-    .string "rare POKéMON.$"
+    .string "Mi basterebbe avere un solo\n"
+    .string "POKéMON raro.$"
 
 Route43_Text_BrentRegister:
-    .string "I'd be happy just to own a single\n"
-    .string "rare POKéMON.$"
+    .string "Mi basterebbe avere un solo\n"
+    .string "POKéMON raro.$"
 
 Route43_Text_BrentRematchIntro:
-    .string "Hey! Do you have any rare\n"
-    .string "POKéMON?$"
+    .string "Ehi! Hai POKéMON\n"
+    .string "rari?$"
 
 Route43_Text_BrentRematchDefeat:
-    .string "Oh, my poor POKéMON! Darlings!$"
+    .string "Oh, i miei poveri POKéMON! Tesori!$"
 
 Route43_Text_BrentPostRematch:
-    .string "I'd be happy just to own a single\n"
-    .string "rare POKéMON.$"
+    .string "Mi basterebbe avere un solo\n"
+    .string "POKéMON raro.$"
 
 Route43_Text_PokemaniacRonSeen:
-    .string "Would you get this?\p"
-    .string "Some {RIVAL} guy made fun of my\n"
-    .string "POKéMON!\p"
-    .string "Darn it! My POKéMON's great!$"
+    .string "Ci credi?\p"
+    .string "Un tale di nome {RIVAL} ha preso\n"
+    .string "in giro i miei POKéMON!\p"
+    .string "Dannazione! Sono fortissimi!$"
 
 Route43_Text_PokemaniacRonBeaten:
-    .string "My NIDOKING did pretty right on!$"
+    .string "Il mio NIDOKING se l'è cavata bene!$"
 
 Route43_Text_PokemaniacRonAfter:
-    .string "It's okay for people to like\n"
-    .string "different types of POKéMON.\p"
-    .string "POKéMON isn't just about having the\n"
-    .string "most powerful one.$"
+    .string "Va bene che alla gente piacciano\n"
+    .string "tipi diversi di POKéMON.\p"
+    .string "Non conta avere il POKéMON\n"
+    .string "più forte.$"
 
 Route43_Text_FisherMarvinSeen:
-    .string "I'm in a slump.\p"
-    .string "Maybe it's the gear I'm using.\p"
-    .string "Let's battle for a change of pace!$"
+    .string "Sono in crisi.\p"
+    .string "Forse è l'attrezzatura.\p"
+    .string "Lottiamo per cambiare ritmo!$"
 
 Route43_Text_FisherMarvinBeaten:
-    .string "I lost, but I feel better anyway.$"
+    .string "Ho perso, ma sto meglio comunque.$"
 
 Route43_Text_FisherMarvinAfter:
-    .string "KURT's LURE BALL is the best for\n"
-    .string "catching hooked POKéMON.\p"
-    .string "It's much more effective than a\n"
+    .string "La ESCA BALL di KURT è la migliore\n"
+    .string "per prendere i POKéMON abboccati.\p"
+    .string "È molto più efficace di una\n"
     .string "ULTRA BALL.$"
 
 Route43_Text_CamperSpencerSeen:
-    .string "I can do so much with my\n"
-    .string "POKéMON--it's super-fun!$"
+    .string "Con i miei POKéMON posso fare\n"
+    .string "tanto, è divertentissimo!$"
 
 Route43_Text_CamperSpencerBeaten:
-    .string "Losing isn't fun at all…$"
+    .string "Perdere non è divertente…$"
 
 Route43_Text_CamperSpencerAfter:
-    .string "What is going on at LAKE OF RAGE?\p"
-    .string "We were planning to camp there.$"
+    .string "Cosa succede al LAGO D'IRA?\p"
+    .string "Volevamo campeggiare lì.$"
 
 Route43_Text_PicnickerTiffanySeen:
-    .string "Are you going to LAKE OF RAGE too?\p"
-    .string "Let's play for a little while!$"
+    .string "Vai anche tu al LAGO D'IRA?\p"
+    .string "Giochiamo un po'!$"
 
 Route43_Text_PicnickerTiffanyBeaten:
-    .string "I played too much!$"
+    .string "Ho giocato troppo!$"
 
 Route43_Text_PicnickerTiffanyWantsPicnic:
-    .string "I'm having a picnic with POKéMON.\p"
-    .string "Won't you join us?$"
+    .string "Faccio un picnic con i POKéMON.\p"
+    .string "Vuoi unirti a noi?$"
 
 Route43_Text_TiffanyRegister:
-    .string "I'm having a picnic with POKéMON.\p"
-    .string "Won't you join us?$"
+    .string "Faccio un picnic con i POKéMON.\p"
+    .string "Vuoi unirti a noi?$"
 
 Route43_Text_TiffanyRematchIntro:
-    .string "Are you going to LAKE OF RAGE too?\p"
-    .string "Let's play for a little while!$"
+    .string "Vai anche tu al LAGO D'IRA?\p"
+    .string "Giochiamo un po'!$"
 
 Route43_Text_TiffanyRematchDefeat:
-    .string "I played too much!$"
+    .string "Ho giocato troppo!$"
 
 Route43_Text_TiffanyPostRematch:
-    .string "I'm having a picnic with POKéMON.\p"
-    .string "Won't you join us?$"
+    .string "Faccio un picnic con i POKéMON.\p"
+    .string "Vuoi unirti a noi?$"
 
 Route43_Sign1:
-    .string "ROUTE 43\p"
-    .string "LAKE OF RAGE - MAHOGANY TOWN$"
+    .string "PERCORSO 43\p"
+    .string "LAGO D'IRA - POKéMONNETEOPOLI$"
 
 Route43_Sign2:
-    .string "ROUTE 43\p"
-    .string "LAKE OF RAGE - MAHOGANY TOWN$"
+    .string "PERCORSO 43\p"
+    .string "LAGO D'IRA - POKéMONNETEOPOLI$"
 
 Route43_TrainerTips:
-    .string "TRAINER TIPS\p"
-    .string "All POKéMON have pros and cons\n"
-    .string "depending on their types.\p"
-    .string "If their types differ, a higher-\n"
-    .string "level POKéMON may lose in battle.\p"
-    .string "Learn which types are strong and\n"
-    .string "weak against your POKéMON's type.$"
+    .string "CONSIGLI PER ALLENATORI\p"
+    .string "Ogni POKéMON ha pregi e difetti\n"
+    .string "a seconda del suo tipo.\p"
+    .string "Se i tipi sono diversi, un POKéMON\n"
+    .string "di livello più alto può perdere.\p"
+    .string "Impara quali tipi sono forti e\n"
+    .string "deboli contro il tuo POKéMON.$"

@@ -22,21 +22,21 @@ PalletTown_RedsHouse_1F_EventScript_TV::
 	end
 
 RedsHouse_Text_Mom1:
-	.string "Hi!\p"
-	.string "RED's been away for a long time.\p"
-	.string "He hasn't called either, so I have\n"
-	.string "no idea where he is or what he's\l"
-	.string "been doing.\p"
-	.string "They say that no word is proof that\n"
-	.string "he's doing fine, but I do worry\l"
-	.string "about him.$"
+	.string "Ciao!\p"
+	.string "RED se n'è andato da molto tempo.\p"
+	.string "Non ha nemmeno chiamato, quindi non\n"
+	.string "ho idea di dove sia o di cosa\l"
+	.string "abbia fatto.\p"
+	.string "Dicono che il silenzio sia prova che\n"
+	.string "sta bene, ma io mi preoccupo\l"
+	.string "per lui.$"
 
 RedsHouse_Text_Mom2:
-	.string "I worry about RED getting hurt or\n"
-	.string "sick, but he's a boy.\p"
-	.string "I'm proud that he is doing what he\n"
-	.string "wants to do.$"
+	.string "Temo che ROSSO si faccia male o\n"
+	.string "si ammali, ma è un ragazzo.\p"
+	.string "Sono orgogliosa che faccia ciò che\n"
+	.string "vuole.$"
 
 RedsHouse_Text_TV:
-	.string "They have programs that aren't\n"
-	.string "shown in JOHTO…$"
+	.string "Danno programmi che non\n"
+	.string "trasmettono a JOHTO…$"

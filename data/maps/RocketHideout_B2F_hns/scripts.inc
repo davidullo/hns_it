@@ -166,11 +166,11 @@ RocketHideout_B2F_Movement_MurkrowGate2:
 	step_end
 
 RocketHideout_B2F_Text_MurkrowUnlock:
-    .string "MURKROW screamed the password,\n"
-    .string "mimicking the voice of PETREL.\p"
+    .string "MURKROW ha gridato la password,\n"
+    .string "imitando la voce di PETREL.\p"
     .string "..................\n"
-    .string "The voice-recognition system\l"
-    .string "unlocked the door!$"
+    .string "Il sistema di riconoscimento vocale\l"
+    .string "ha aperto la porta!$"
 
 @============================================================================================================================================
 
@@ -248,29 +248,29 @@ RocketHideout_B2F_Movement_Lance:
 	step_end
 
 RocketHideout_B2F_Text_ArianaHoldIt:
-    .string "ARIANA: Hold it right there!$"
+    .string "ARIANA: Fermo lì!$"
 
 RocketHideout_B2F_Text_ArianaChallenge:
-    .string "ARIANA: We can't let a brat like you\n"
-    .string "do as you please forever.\p"
-    .string "It'll hurt Team Rocket's pride over\n"
-    .string "and over again. Making it lessen,\l"
-    .string "you see.\p"
-    .string "...So, it's time to finish you.\n"
-    .string "However strong you may be,\p"
-    .string "if the two of us fight at the same\n"
-    .string "time, you'll have no chance of\l"
-    .string "winning. Don't you agree?\p"
-    .string "Hee hee hee! Sorry, baby.\n"
-    .string "Now, get ready to be thrashed.$"
+    .string "ARIANA: Non possiamo lasciare che una\n"
+    .string "peste come te faccia il comodo suo.\p"
+    .string "Ferirebbe l'orgoglio del Team Rocket\n"
+    .string "ancora e ancora. Facendolo scemare,\l"
+    .string "capisci.\p"
+    .string "...Quindi è ora di farti fuori.\n"
+    .string "Per quanto tu sia forte,\p"
+    .string "se ci battiamo in due\n"
+    .string "contemporaneamente, non avrai\l"
+    .string "speranze. Non credi?\p"
+    .string "Ih ih ih! Mi spiace, tesoro.\n"
+    .string "Ora preparati a prendere il resto.$"
 
 RocketHideout_B2F_Text_LanceInterrupt:
-    .string "LANCE: Hold it!\n"
-    .string "A two-on-one battle?\p"
-    .string "That is so unfair!\n"
-    .string "Typical of Team Rocket to be so\l"
-    .string "sneaky.\p"
-    .string "Allow me to join the battle!$"
+    .string "LANCE: Fermo!\n"
+    .string "Una lotta due contro uno?\p"
+    .string "È troppo sleale!\n"
+    .string "Tipico del Team Rocket essere\l"
+    .string "subdoli.\p"
+    .string "Permettimi di unirmi alla lotta!$"
 
 RocketHideout_B2F_Text_ArianaOutraged:
     .string "ARIANA: What? You had an accomplice?\n"
@@ -280,8 +280,8 @@ RocketHideout_B2F_Text_ArianaOutraged:
     .string "with Team Rocket!$"
 
 RocketHideout_B2F_Text_LanceChooseMons:
-    .string "LANCE: Quickly {PLAYER}, choose\n"
-	.string "your POKéMON!$"
+    .string "LANCE: Presto {PLAYER}, scegli\n"
+	.string "i tuoi POKéMON!$"
 
 RocketHideout_B2F_EventScript_ReadyForBattlePrompt::
 	msgbox RocketHideout_B2F_Text_LanceChooseMons, MSGBOX_DEFAULT
@@ -589,89 +589,89 @@ RocketHideout_B2F_Text_GruntLoss:
     .string "....................$"
 
 RocketHideout_B2F_Text_ArianaLoss:
-    .string "Tch, you really are strong.\n"
-    .string "It's too bad.\p"
-    .string "If you were to join Team Rocket,\n"
-    .string "you could become an Executive.$"
+    .string "Tch, sei davvero forte.\n"
+    .string "Peccato.\p"
+    .string "Se entrassi nel Team Rocket,\n"
+    .string "potresti diventare un Dirigente.$"
 
 RocketHideout_Text_ArianaRetreat:
-    .string "ARIANA: But that's fine.\n"
-    .string "The broadcast experiment was a\l"
-    .string "total success.\p"
-    .string "It doesn't matter what happens to\n"
-    .string "this hideout now.\p"
-    .string "We have much bigger plans.\n"
-    .string "You'll come to appreciate Team\l"
-    .string "Rocket's true power soon enough.\p"
-    .string "Enjoy yourself while you can...\n"
-    .string "Hee hee hee...$"
+    .string "ARIANA: Ma va bene.\n"
+    .string "L'esperimento di trasmissione è stato\l"
+    .string "un successo totale.\p"
+    .string "Non importa cosa succede a\n"
+    .string "questo covo ora.\p"
+    .string "Abbiamo piani molto più grandi.\n"
+    .string "Imparerai presto ad apprezzare il vero\l"
+    .string "potere del Team Rocket.\p"
+    .string "Divertiti finché puoi…\n"
+    .string "Hee hee hee…$"
 
 RocketHideout_Text_LanceStepBack:
-    .string "Sorry, {PLAYER}. I saw how well you\n"
-    .string "were doing, so I just hung back.\p"
-    .string "Now all there is left to do is to turn\n"
-    .string "off that odd radio signal.$"
+    .string "Scusa, {PLAYER}. Vedevo come te la\n"
+    .string "cavavi, così sono rimasto indietro.\p"
+    .string "Ora resta solo da spegnere\n"
+    .string "quel segnale radio strano.$"
 
 
 RocketHideout_B2F_Text_LanceElectrodeFaint:
-    .string "It's this machine that's causing\n"
-    .string "all the problems.\p"
-    .string "I don't see a switch on it…\p"
-    .string "We have no choice. We have to\n"
-    .string "make all the ELECTRODE faint.\p"
-    .string "That should stop this machine\n"
-    .string "from transmitting that strange\l"
-    .string "signal.\p"
-    .string "It's no fault of the POKéMON, so\n"
-    .string "it makes me feel guilty.\p"
-    .string "{PLAYER}, let's split the job.$"
+    .string "È questa macchina che causa\n"
+    .string "tutti i problemi.\p"
+    .string "Non vedo un interruttore…\p"
+    .string "Non abbiamo scelta. Dobbiamo\n"
+    .string "far svenire tutti gli ELECTRODE.\p"
+    .string "Così la macchina smetterà\n"
+    .string "di trasmettere quello strano\l"
+    .string "segnale.\p"
+    .string "Non è colpa dei POKéMON, quindi\n"
+    .string "mi sento in colpa.\p"
+    .string "{PLAYER}, dividiamoci il lavoro.$"
 
 RocketHideout_B2F_Text_LanceSide:
-    .string "LANCE: Leave this side to me.$"
+    .string "LANCE: Lascia questo lato a me.$"
 
 RocketHideout_B2F_Text_LanceElectrodeDone:
-    .string "LANCE: That odd signal has\n"
-    .string "finally stopped.\p"
-    .string "The LAKE should be back to\n"
-    .string "normal.\p"
-    .string "You're the hero! Let me thank\n"
-    .string "you on behalf of all the\l"
+    .string "LANCE: Quello strano segnale\n"
+    .string "si è finalmente fermato.\p"
+    .string "Il LAGO dovrebbe essere tornato\n"
+    .string "alla normalità.\p"
+    .string "Sei un eroe! Lascia che ti ringrazi\n"
+    .string "a nome di tutti i\l"
     .string "POKéMON.\p"
-    .string "Oh, yes. You should take this.\n"
-    .string "I found it here, but I don't\l"
-    .string "have any need for it.$"
+    .string "Oh, già. Dovresti prendere questo.\n"
+    .string "L'ho trovato qui, ma non\l"
+    .string "mi serve.$"
 
 RocketHideout_B2F_Text_LanceWhirlpool:
-    .string "That's WHIRLPOOL. Teach it to a\n"
-    .string "POKéMON to get across wild water.\p"
-    .string "But keep this in mind.\p"
-    .string "You can use that out of battle\n"
-    .string "only with the BADGE from\l"
-    .string "MAHOGANY GYM.$"
+    .string "Quello è MULINELLO. Insegnalo a un\n"
+    .string "POKéMON per attraversare le acque.\p"
+    .string "Ma ricorda una cosa.\p"
+    .string "Puoi usarlo fuori dalla lotta\n"
+    .string "solo con la MEDAGLIA della\l"
+    .string "PALESTRA di MAHOGANY.$"
 
 RocketHideout_B2F_Text_LanceMonMaster:
     .string "{PLAYER}…\p"
-    .string "The journey to becoming the\n"
-    .string "POKéMON MASTER is long and\l"
-    .string "difficult.\p"
-    .string "Knowing that, will you keep\n"
-    .string "going?\p"
+    .string "Il cammino per diventare\n"
+    .string "MAESTRO POKéMON è lungo e\l"
+    .string "difficile.\p"
+    .string "Sapendolo, continuerai\n"
+    .string "ad andare avanti?\p"
     .string "…\p"
-    .string "I see. No, you're right.\p"
-    .string "If you would give up that easily,\n"
-    .string "you would have never chased that\l"
-    .string "dream in the first place.\p"
-    .string "I look forward to seeing you\n"
-    .string "again!$"
+    .string "Capisco. No, hai ragione.\p"
+    .string "Se ti arrendessi così facilmente,\n"
+    .string "non avresti mai inseguito quel\l"
+    .string "sogno fin dall'inizio.\p"
+    .string "Non vedo l'ora di rivederti\n"
+    .string "ancora!$"
 
 RocketHideout_B2F_Text_B2FTransmitter:
-    .string "It's the radio transmitter that's\n"
-    .string "sending the sinister signal.\p"
-    .string "It's working at full capacity.$"
+    .string "È la radio trasmittente che invia\n"
+    .string "il segnale sinistro.\p"
+    .string "Sta funzionando a pieno regime.$"
 
 RocketHideout_B2F_Text_B2FDeactivateTransmitter:
-    .string "The radio transmitter has finally\n"
-    .string "stopped its evil broadcast.$"
+    .string "La radio trasmittente ha finalmente\n"
+    .string "interrotto la sua trasmissione malefica.$"
 
 
 @===========================================================================================================================================
@@ -755,28 +755,28 @@ RocketHideout_B2F_Movement_DragoniteGoDeeper:
 	step_end
 
 RocketHideout_B2F_Text_LanceHeals1:
-    .string "LANCE: Are you all right?\p"
-    .string "Your POKéMON are hurt and tired.\p"
-    .string "Here, give them some of my\n"
-    .string "medicine.$"
+    .string "LANCE: Stai bene?\p"
+    .string "I tuoi POKéMON sono feriti e stanchi.\p"
+    .string "Tieni, dagli un po' della mia\n"
+    .string "medicina.$"
 
 RocketHideout_B2F_Text_LanceHeals2:
-    .string "LANCE: {PLAYER}, let's give it\n"
-    .string "our best for POKéMON.$"
+    .string "LANCE: {PLAYER}, diamo il\n"
+    .string "massimo per i POKéMON.$"
 
 RocketHideout_B2F_Text_GruntM17Seen:
-    .string "The door won't open?\p"
-    .string "Well, duh. It has to have a\n"
-    .string "password that only TEAM ROCKET\l"
-    .string "knows.$"
+    .string "La porta non si apre?\p"
+    .string "Beh, ovvio. Serve una\n"
+    .string "password che conosce solo il\l"
+    .string "TEAM ROCKET.$"
 
 RocketHideout_B2F_Text_GruntM17Beaten:
-    .string "What? I lost?$"
+    .string "Cosa? Ho perso?$"
 
 RocketHideout_B2F_Text_GruntM17After:
-    .string "Heh, I'm just a GRUNT.\p"
-    .string "I don't know the password.\n"
-    .string "Too bad for you.$"
+    .string "Heh, sono solo una RECLUTA.\p"
+    .string "Non conosco la password.\n"
+    .string "Peccato per te.$"
 
 RocketHideout_B2F_EventScript_Grunt14::
 	trainerbattle_single TRAINER_GRUNT_14_HNS, RocketHideout_B2F_Text_GruntM17Seen, RocketHideout_B2F_Text_GruntM17Beaten
@@ -784,19 +784,19 @@ RocketHideout_B2F_EventScript_Grunt14::
 	end
 
 RocketHideout_B2F_Text_GruntM18Seen:
-    .string "Oh, a kid? I don't really like\n"
-    .string "this, but eliminate you I must.$"
+    .string "Oh, un bambino? Non mi piace\n"
+    .string "granché, ma devo eliminarti.$"
 
 RocketHideout_B2F_Text_GruntM18Beaten:
-    .string "I knew I'd lose…$"
+    .string "Sapevo che avrei perso…$"
 
 RocketHideout_B2F_Text_GruntM18After:
-    .string "I got wiped out on the last\n"
-    .string "mission by a kid too.\p"
-    .string "When we were abducting POKéMON,\n"
-    .string "this kid with long red hair and\l"
-    .string "mean-looking eyes just\l"
-    .string "creamed me…$"
+    .string "Anche l'ultima missione\n"
+    .string "mi ha distrutto un bambino.\p"
+    .string "Mentre rapivamo POKéMON,\n"
+    .string "un bimbo con lunghi capelli rossi\l"
+    .string "e occhi cattivi mi ha\l"
+    .string "annientato…$"
 
 RocketHideout_B2F_EventScript_Grunt15::
 	trainerbattle_single TRAINER_GRUNT_15_HNS, RocketHideout_B2F_Text_GruntM18Seen, RocketHideout_B2F_Text_GruntM18Beaten
@@ -804,16 +804,16 @@ RocketHideout_B2F_EventScript_Grunt15::
 	end
 
 RocketHideout_B2F_Text_GruntM19Seen:
-    .string "You rotten little pest!$"
+    .string "Piccolo parassita!$"
 
 RocketHideout_B2F_Text_GruntM19Beaten:
     .string "Grrrr…$"
 
 RocketHideout_B2F_Text_GruntM19After:
-    .string "Heh, only the boss knows the\n"
-    .string "password for that door.\p"
-    .string "Where's the boss? Who knows?\n"
-    .string "Go look for yourself.$"
+    .string "Heh, solo il capo conosce la\n"
+    .string "password di quella porta.\p"
+    .string "Dov'è il capo? Chissà?\n"
+    .string "Vai a cercarlo da solo.$"
 
 RocketHideout_B2F_EventScript_Grunt16::
 	trainerbattle_single TRAINER_GRUNT_16_HNS, RocketHideout_B2F_Text_GruntM19Seen, RocketHideout_B2F_Text_GruntM19Beaten

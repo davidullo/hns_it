@@ -19,19 +19,19 @@ MahoganyTown_PokemonCenter_EventScript_Girl::
 	end
 
 MahoganyTown_PokemonCenter_Text_PokefanM:
-    .string "What's this? TEAM ROCKET has come\n"
-    .string "back?\p"
-    .string "I saw some men in black at LAKE OF\n"
-    .string "RAGE…$"
+    .string "Come? Il TEAM ROCKET è\n"
+    .string "tornato?\p"
+    .string "Ho visto degli uomini in nero al\n"
+    .string "LAGO D'IRA…$"
 
 MahoganyTown_PokemonCenter_Text_Youngster:
-    .string "I stop my POKéMON from evolving too\n"
-    .string "early.\p"
-    .string "I make them learn certain moves\n"
-    .string "before I let them evolve.$"
+    .string "Non lascio evolvere i POKéMON\n"
+    .string "subito.\p"
+    .string "Faccio imparare loro certe mosse\n"
+    .string "prima di farli evolvere.$"
 
 MahoganyTown_PokemonCenter_Text_CooltrainerF:
-    .string "POKéMON do become stronger when they\n"
-    .string "evolve,\p"
-    .string "but they also learn moves more\n"
-    .string "slowly.$"
+    .string "I POKéMON diventano più forti\n"
+    .string "evolvendo,\p"
+    .string "ma imparano le mosse più\n"
+    .string "lentamente.$"

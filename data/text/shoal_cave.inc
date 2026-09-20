@@ -1,53 +1,53 @@
 ShoalCave_LowTideEntranceRoom_Text_AreYouPlanningOnGoingInThere:
-	.string "Are you planning on going deep\n"
-	.string "in there?\p"
-	.string "How about bringing me back some\n"
-	.string "SHOAL SALT and SHOAL SHELLS?\p"
-	.string "I can make you something good if\n"
-	.string "you bring me the ingredients.$"
+	.string "Hai intenzione di andare a fondo\n"
+	.string "là dentro?\p"
+	.string "Che ne dici di portarmi un po' di\n"
+	.string "SALE SHOAL e GUSCI SHOAL?\p"
+	.string "Posso prepararti qualcosa di buono\n"
+	.string "se mi porti gli ingredienti.$"
 
 ShoalCave_LowTideEntranceRoom_Text_BringMe4ShoalSaltAndShells:
-	.string "If you bring me four each of the\n"
-	.string "SHOAL SALT and SHOAL SHELLS,\l"
-	.string "I can make you a SHELL BELL…\p"
-	.string "You can get those ingredients\n"
-	.string "every day.$"
+	.string "Se mi porti quattro SALE SHOAL\n"
+	.string "e quattro GUSCI SHOAL,\l"
+	.string "ti preparo un GUSCIOSONAGLIO…\p"
+	.string "Puoi trovare quegli ingredienti\n"
+	.string "ogni giorno.$"
 
 ShoalCave_LowTideEntranceRoom_Text_WouldYouLikeShellBell:
-	.string "Oh, hey! SHOAL SALT and SHOAL SHELLS!\n"
-	.string "And enough of them, too!\p"
-	.string "Would you like me to make you\n"
-	.string "a SHELL BELL with them?$"
+	.string "Oh, ciao! SALE SHOAL e GUSCI SHOAL!\n"
+	.string "E anche in quantità!\p"
+	.string "Vuoi che ti prepari\n"
+	.string "un GUSCIOSONAGLIO?$"
 
 ShoalCave_LowTideEntranceRoom_Text_MakeShellBellRightAway:
-	.string "All righty, then! I'll make you\n"
-	.string "a SHELL BELL right away.\p"
+	.string "Bene, allora! Ti preparo\n"
+	.string "un GUSCIOSONAGLIO subito.\p"
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
-	.string "There! Done!$"
+	.string "Ecco! Fatto!$"
 
 ShoalCave_LowTideEntranceRoom_Text_ExplainShellBell:
-	.string "Have a POKéMON hold on to that.\n"
-	.string "It'll love it, that's for certain.\p"
-	.string "Why, the SHELL BELL's chime…\n"
-	.string "It's simply sublime!\p"
-	.string "You can get its ingredients every day,\n"
-	.string "so I can make you more.$"
+	.string "Fai tenere questo a un POKéMON.\n"
+	.string "Gli piacerà di sicuro.\p"
+	.string "E poi il suono del GUSCIOCAMPANA…\n"
+	.string "È semplicemente sublime!\p"
+	.string "Puoi trovare gli ingredienti ogni giorno,\n"
+	.string "così posso fartene altri.$"
 
 ShoalCave_LowTideEntranceRoom_Text_WantedToMakeShellBell:
-	.string "Oh… Is that so…\n"
-	.string "I wanted to make a SHELL BELL…$"
+	.string "Oh… Davvero…\n"
+	.string "Volevo preparare un GUSCIOSONAGLIO…$"
 
 ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag:
-	.string "You don't have space in your BAG\n"
-	.string "if I were to make it for you.\p"
-	.string "You should make room and come back\n"
-	.string "for a SHELL BELL.$"
+	.string "Non hai spazio nello ZAINO\n"
+	.string "se te lo preparassi.\p"
+	.string "Fai spazio e torna\n"
+	.string "per un GUSCIOSONAGLIO.$"
 
 ShoalCave_Text_WasShoalSaltNowNothing:
-	.string "There was some SHOAL SALT here.\n"
-	.string "But, there's nothing here now.$"
+	.string "Qui c'era del SALE SHOAL.\n"
+	.string "Ma ora non c'è più nulla.$"
 
 ShoalCave_Text_WasShoallShellNowNothing:
-	.string "There was a SHOAL SHELL here.\n"
-	.string "But, there's nothing here now.$"
+	.string "Qui c'era un GUSCIO SHOAL.\n"
+	.string "Ma ora non c'è più nulla.$"

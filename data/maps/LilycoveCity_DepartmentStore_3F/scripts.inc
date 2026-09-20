@@ -61,10 +61,10 @@ LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon:
 	.string "il CALCIO l'ATT. SPECIALE.$"
 
 LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance:
-	.string "I want my POKéMON to have more\n"
-	.string "endurance.\p"
-	.string "I'm trying to decide whether to raise\n"
-	.string "DEFENSE with IRON, or SP. DEF with ZINC.$"
+	.string "Voglio che i miei POKéMON abbiano più\n"
+	.string "resistenza.\p"
+	.string "Sto decidendo se alzare la\n"
+	.string "DIFESA con FERRO o la DIF. SP. con ZINCO.$"
 
 LilycoveCity_DepartmentStore_3F_Text_GaveCarbosToSpeedUpMon:
 	.string "Ho dato un CARBURANTE al POKéMON,\n"

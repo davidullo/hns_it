@@ -36,76 +36,76 @@ SilphCo_2F_EventScript_Grunt2::
 	end
 
 SilphCo_2F_Text_ConnorIntro::
-	.string "Help!\n"
-	.string "I'm a SILPH employee.$"
+	.string "Aiuto!\n"
+	.string "Sono un impiegato della SILPH.$"
 
 SilphCo_2F_Text_ConnorDefeat::
-	.string "How did you know\n"
-	.string "I was a ROCKET?$"
+	.string "Come sapevi\n"
+	.string "che ero del ROCKET?$"
 
 SilphCo_2F_Text_ConnorPostBattle::
-	.string "I work for both SILPH and TEAM\n"
+	.string "Lavoro sia per la SILPH che per il TEAM\n"
 	.string "ROCKET.$"
 
 SilphCo_2F_Text_JerryIntro::
-	.string "It's off-limits here!\n"
-	.string "Go home!$"
+	.string "Qui è vietato l'accesso!\n"
+	.string "Vattene a casa!$"
 
 SilphCo_2F_Text_JerryDefeat::
-	.string "You're good.$"
+	.string "Sei forte.$"
 
 SilphCo_2F_Text_JerryPostBattle::
-	.string "Can you solve the maze in here?\n"
-	.string "It's not easy, I tell you!$"
+	.string "Sai risolvere il labirinto qui?\n"
+	.string "Non è facile, te lo dico!$"
 
 SilphCo_2F_Text_Grunt1Intro::
-	.string "No kids are allowed in here!$"
+	.string "Qui i bambini non entrano!$"
 
 SilphCo_2F_Text_Grunt1Defeat::
-	.string "Tough!$"
+	.string "Tosto!$"
 
 SilphCo_2F_Text_Grunt1PostBattle::
-	.string "Diamond-shaped tiles are teleport\n"
-	.string "blocks.\p"
-	.string "They're transporters for this\n"
-	.string "high-tech building.$"
+	.string "Le mattonelle a forma di rombo sono\n"
+	.string "teletrasporti.\p"
+	.string "Sono i trasportatori di questo\n"
+	.string "edificio high-tech.$"
 
 SilphCo_2F_Text_Grunt2Intro::
-	.string "Hey, kid!\n"
-	.string "What are you wandering here for?$"
+	.string "Ehi, ragazzino!\n"
+	.string "Cosa ci fai qui in giro?$"
 
 SilphCo_2F_Text_Grunt2Defeat::
-	.string "I goofed!$"
+	.string "Ho toppato!$"
 
 SilphCo_2F_Text_Grunt2PostBattle::
-	.string "SILPH CO. will be associated with\n"
+	.string "La SILPH CO. sarà associata al\n"
 	.string "TEAM ROCKET!$"
 
 Text_ThunderWaveTeach::
-	.string "Eeek!\n"
-	.string "No! Stop! Help!\p"
-	.string "Oh, you're not with TEAM ROCKET.\n"
-	.string "I'm sorry, I thought…\p"
-	.string "Will you forgive me if I teach\n"
-	.string "you the THUNDER WAVE technique?$"
+	.string "Ih!\n"
+	.string "No! Fermo! Aiuto!\p"
+	.string "Oh, non sei del TEAM ROCKET.\n"
+	.string "Scusa, pensavo…\p"
+	.string "Mi perdoni se ti insegno\n"
+	.string "la tecnica TUONO?$"
 
 Text_ThunderWaveDeclined::
 	.string "Oh…\n"
-	.string "But THUNDER WAVE is convenient…$"
+	.string "Ma TUONO è così comoda…$"
 
 Text_ThunderWaveWhichMon::
-	.string "Which POKéMON should I teach\n"
-	.string "THUNDER WAVE?$"
+	.string "A quale POKéMON insegno\n"
+	.string "TUONO?$"
 
 Text_ThunderWaveTaught::
-	.string "THUNDER WAVE causes paralysis in\n"
-	.string "the target POKéMON.\p"
-	.string "A paralyzed POKéMON may be unable\n"
-	.string "to move in battle.\p"
-	.string "It's an ELECTRIC-type move, so it\n"
-	.string "won't work on some POKéMON.$"
+	.string "TUONO paralizza\n"
+	.string "il POKéMON bersaglio.\p"
+	.string "Un POKéMON paralizzato può non\n"
+	.string "muoversi in lotta.\p"
+	.string "È una mossa di tipo ELETTRO, quindi\n"
+	.string "non funziona su alcuni POKéMON.$"
 
 SilphCo_2F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
+	.string "SILPH CO. SEDE CENTRALE\n"
 	.string "2F$"
 

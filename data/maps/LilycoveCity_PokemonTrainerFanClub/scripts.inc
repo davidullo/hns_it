@@ -677,9 +677,9 @@ LilycoveCity_PokemonTrainerFanClub_Text_WeDiscussStrongestTrainers:
 	.string "potremmo diventare tuoi fan!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OhWoweeItsPlayer:
-	.string "Oh, woweee! It's {PLAYER}!\n"
-	.string "For real, too!\p"
-	.string "Please, shake my hand, shake my hand!$"
+	.string "Oh, woweee! Sei {PLAYER}!\n"
+	.string "Dico davvero!\p"
+	.string "Ti prego, stringimi la mano, dai!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_AlwaysCheerForYou:
 	.string "Tiferò sempre per te, {PLAYER}!\n"

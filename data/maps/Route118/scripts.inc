@@ -263,32 +263,32 @@ Route118_Text_StevenQuestions:
 
 Route118_Text_YouAgreeGoodRodIsGood:
 	.string "Hmm!\n"
-	.string "A GOOD ROD is really good!\p"
-	.string "Wouldn't you agree?$"
+	.string "Una GOOD ROD è davvero ottima!\p"
+	.string "Non sei d'accordo?$"
 
 Route118_Text_IdenticalMindsTakeThis:
 	.string "Hmm!\n"
-	.string "We're of identical minds!\p"
+	.string "Siamo sulla stessa lunghezza d'onda!\p"
 	.string "Hmm!\n"
-	.string "Take this GOOD ROD!$"
+	.string "Tieni questa GOOD ROD!$"
 
 Route118_Text_TryYourLuckFishing:
-	.string "Wherever there's water, try your luck\n"
-	.string "at fishing.$"
+	.string "Dove c'è acqua, tenta la fortuna\n"
+	.string "pescando.$"
 
 Route118_Text_DontYouLikeToFish:
-	.string "Don't you like to fish?$"
+	.string "Non ti piace pescare?$"
 
 Route118_Text_TryCatchingMonWithGoodRod:
-	.string "Try catching all sorts of POKéMON\n"
-	.string "with your GOOD ROD.$"
+	.string "Prova a catturare POKéMON di ogni tipo\n"
+	.string "con la tua GOOD ROD.$"
 
 Route118_Text_CanCrossRiversWithSurf:
-	.string "Even if there isn't a boat, you can\n"
-	.string "cross rivers and the sea if you have\l"
-	.string "a POKéMON that knows SURF.\p"
-	.string "POKéMON can be counted on to do so\n"
-	.string "much!$"
+	.string "Anche senza barca, puoi\n"
+	.string "attraversare fiumi e mare se hai\l"
+	.string "un POKéMON che conosce SURF.\p"
+	.string "Sui POKéMON puoi contare per\n"
+	.string "così tanto!$"
 
 Route118_Text_RouteSignMauville:
 	.string "ROUTE 118\n"

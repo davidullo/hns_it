@@ -28,26 +28,26 @@ PacifidlogTown_House4_EventScript_No::
 	end
 
 PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon:
-	.string "People were saying they saw a POKéMON\n"
-	.string "flying high above HOENN.\p"
-	.string "Is it flying around all the time?\n"
-	.string "Doesn't it need to rest somewhere?$"
+	.string "Dicono che hanno visto un POKéMON\n"
+	.string "volare alto sopra HOENN.\p"
+	.string "Volerà in giro tutto il tempo?\n"
+	.string "Non dovrà riposarsi da qualche parte?$"
 
 PacifidlogTown_House4_Text_SkyPokemon:
-	.string "A sky POKéMON!\n"
-	.string "A sky POKéMON!$"
+	.string "Un POKéMON del cielo!\n"
+	.string "Un POKéMON del cielo!$"
 
 PacifidlogTown_House4_Text_WhereDidYouComeFrom:
-	.string "Where did you come from?$"
+	.string "Da dove vieni?$"
 
 PacifidlogTown_House4_Text_YesTown:
-	.string "Yes?\n"
-	.string "YES TOWN?\p"
-	.string "I've never heard of a place like that.$"
+	.string "Sì?\n"
+	.string "SÌ?\p"
+	.string "Non ho mai sentito un posto così.$"
 
 PacifidlogTown_House4_Text_YouHaveToComeFromSomewhere:
-	.string "No? That doesn't make any sense.\n"
-	.string "You have to come from somewhere.\p"
-	.string "Oh! Wait! You're not going to say you\n"
-	.string "were born at the bottom of the sea?$"
+	.string "No? Non ha alcun senso.\n"
+	.string "Devi pur venire da qualche parte.\p"
+	.string "Oh! Aspetta! Non dirmi che sei\n"
+	.string "nato in fondo al mare?$"
 

@@ -36,44 +36,44 @@ Route33_EventScript_Lass::
 	end
 
 Route33_Text_HikerAnthony2Seen:
-	.string "I came through the tunnel,\n"
-	.string "but I still have plenty\l"
-	.string "of energy left.$"
+	.string "Ho attraversato il tunnel,\n"
+	.string "ma ho ancora un sacco\l"
+	.string "di energia.$"
 
 Route33_Text_HikerAnthony2Beaten:
-	.string "Whoa! You've got more zip\n"
-	.string "than me!$"
+	.string "Whoa! Hai più energia\n"
+	.string "di me!$"
 
 Route33_Text_HikerAnthony2After:
-	.string "We HIKERS are at our best\n"
-	.string "in the mountains.$"
+	.string "Noi ALPINISTI diamo il meglio\n"
+	.string "in montagna.$"
 
 Route33_Text_AnthonyRegister:
-	.string "We HIKERS are at our best\n"
-	.string "in the mountains.$"
+	.string "Noi ALPINISTI diamo il meglio\n"
+	.string "in montagna.$"
 
 Route33_Text_AnthonyRematchIntro:
-	.string "I came through the tunnel,\n"
-	.string "but I still have plenty\l"
-	.string "of energy left.$"
+	.string "Ho attraversato il tunnel,\n"
+	.string "ma ho ancora un sacco\l"
+	.string "di energia.$"
 
 Route33_Text_AnthonyRematchDefeat:
-	.string "Whoa! You've got more zip\n"
-	.string "than me!$"
+	.string "Whoa! Hai più energia\n"
+	.string "di me!$"
 
 Route33_Text_AnthonyPostRematch:
-	.string "We HIKERS are at our best\n"
-	.string "in the mountains.$"
+	.string "Noi ALPINISTI diamo il meglio\n"
+	.string "in montagna.$"
 
 Route33_Text_HikerAnthonyDunsparce:
-	.string "Hey, did you get a DUNSPARCE?\p"
-	.string "I caught one too.\p"
-	.string "Take a look at it in the light.\n"
-	.string "It's got a funny face!$"
+	.string "Ehi, hai preso un DUNSPARCE?\p"
+	.string "Ne ho preso uno anch'io.\p"
+	.string "Guardalo contro la luce.\n"
+	.string "Ha una faccia buffa!$"
 
 Route33_Text_Lass:
 	.string "Pant, pant…\p"
-	.string "That cave was bigger than\n"
-	.string "I'd expected.\p"
-	.string "I got too tired exploring\n"
-	.string "for MARILL, so I came outside.$"
+	.string "Quella grotta era più grande\n"
+	.string "del previsto.\p"
+	.string "Mi sono stancata cercando\n"
+	.string "MARILL, così sono uscita.$"

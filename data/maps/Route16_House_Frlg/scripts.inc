@@ -35,22 +35,22 @@ Route16_House_EventScript_Fearow::
 	end
 
 Route16_House_Text_FoundMySecretRetreat::
-	.string "Oh, dear.\n"
-	.string "You've found my secret retreat.\p"
-	.string "Please don't tell anyone I'm here.\n"
-	.string "I'll make it up to you with this!$"
+	.string "Oh, no.\n"
+	.string "Hai trovato il mio rifugio segreto.\p"
+	.string "Non dire a nessuno che sono qui.\n"
+	.string "Ti ricompenserò con questo!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
-	.string "{PLAYER} received HM02\n"
-	.string "from the girl.$"
+	.string "{PLAYER} riceve la MN02\n"
+	.string "dalla ragazza.$"
 
 Route16_House_Text_ExplainHM02::
-	.string "HM02 is FLY.\n"
-	.string "It's a wonderfully convenient move.\p"
-	.string "Please, put it to good use.$"
+	.string "MN02 è VOLO.\n"
+	.string "È una mossa comodissima.\p"
+	.string "Usala bene, mi raccomando.$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::
-	.string "You don't have any room for this.$"
+	.string "Non hai spazio per questo.$"
 
 Route16_House_Text_Fearow::
 	.string "FEAROW: Kyueen!$"

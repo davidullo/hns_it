@@ -169,26 +169,26 @@ SSAnne_2F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
-	.string "This ship, she is a luxury liner for\n"
-	.string "TRAINERS of the world!\p"
-	.string "At every port, we hold parties with\n"
-	.string "invited TRAINERS.$"
+	.string "Questa nave è un transatlantico\n"
+	.string "per gli ALLENATORI del mondo!\p"
+	.string "In ogni porto facciamo feste con\n"
+	.string "gli ALLENATORI invitati.$"
 
 SSAnne_2F_Corridor_Text_RivalIntro::
 	.string "{RIVAL}: Bonjour!\n"
 	.string "{PLAYER}!\p"
-	.string "Imagine seeing you here!\n"
-	.string "{PLAYER}, were you really invited?\p"
-	.string "So how's your POKéDEX coming?\p"
-	.string "I already caught 40 kinds, pal.\n"
-	.string "Different kinds are everywhere.\p"
-	.string "Crawl around in grassy areas, and\n"
-	.string "look hard for them.$"
+	.string "Ma guarda chi si vede!\n"
+	.string "{PLAYER}, eri invitato davvero?\p"
+	.string "Allora, come va il POKéDEX?\p"
+	.string "Io ne ho già presi 40, sai.\n"
+	.string "Di tipi diversi ce n'è ovunque.\p"
+	.string "Striscia nell'erba alta e\n"
+	.string "cercali bene.$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
 	.string "Humph!\p"
-	.string "At least you're raising your\n"
-	.string "POKéMON!$"
+	.string "Almeno i tuoi POKéMON\n"
+	.string "li stai allenando!$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
 	.string "{PLAYER}..！\n"
@@ -197,11 +197,11 @@ SSAnne_2F_Corridor_Text_RivalVictory::
 	.string "きたえた　ほうが　いいぜ！$"
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
-	.string "{RIVAL}: I heard there was a CUT\n"
-	.string "master on board.\p"
-	.string "But he was just a seasick old man!\p"
-	.string "CUT itself is really useful.\n"
-	.string "Yup, it'll be handy.\p"
-	.string "You should go see him, too.\n"
-	.string "Smell ya!$"
+	.string "{RIVAL}: Ho sentito che c'è un\n"
+	.string "maestro di TAGLIO a bordo.\p"
+	.string "Ma era solo un vecchio malato!\p"
+	.string "TAGLIO è davvero utile.\n"
+	.string "Sì, tornerà comodo.\p"
+	.string "Vai a trovarlo anche tu.\n"
+	.string "Ci sentiamo!$"
 

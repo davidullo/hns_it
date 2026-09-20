@@ -1,85 +1,85 @@
 BerryBlender_Text_BlendWithTheBlendMaster:
-	.string "BLEND MASTER: Indeed I am!\n"
-	.string "The BLEND MASTER am I!\p"
-	.string "Blend with me, and you shall witness\n"
-	.string "the mastery I bring to blending!$"
+	.string "MAESTRO MIXER: Proprio così!\n"
+	.string "Il MAESTRO MIXER sono io!\p"
+	.string "Mixa con me e vedrai\n"
+	.string "la maestria che ci metto!$"
 
 BerryBlender_Text_SeeMyMasteryInAction:
-	.string "BLEND MASTER: Hmmm! So, you wish to\n"
-	.string "see my mastery in action?$"
+	.string "MAESTRO MIXER: Mmmh! Quindi vuoi\n"
+	.string "vedere la mia maestria in azione?$"
 
 BerryBlender_Text_TooBusyNowIsee:
-	.string "Hmmm!\p"
-	.string "So, you are too busy now, I see!\p"
-	.string "But fear not!\n"
-	.string "I shall be here all day!\l"
-	.string "Hurry back from your errand!$"
+	.string "Mmmh!\p"
+	.string "Sei troppo occupato adesso, capisco!\p"
+	.string "Ma non temere!\n"
+	.string "Starò qui tutto il giorno!\l"
+	.string "Torna presto dalla tua commissione!$"
 
 BerryBlender_Text_BlendMasterNoBerries:
-	.string "Hmmm!\p"
-	.string "You haven't got a single BERRY!\p"
-	.string "I shall be here all day!\n"
-	.string "Hurry back with some BERRIES!$"
+	.string "Mmmh!\p"
+	.string "Non hai nemmeno una BACCA!\p"
+	.string "Starò qui tutto il giorno!\n"
+	.string "Torna presto con delle BACCHE!$"
 
 BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
-	.string "Of course!\n"
-	.string "Of course!\p"
-	.string "Incidentally…\n"
-	.string "You do know how to blend {POKEBLOCK}S\l"
-	.string "from BERRIES?$"
+	.string "Ma certo!\n"
+	.string "Ma certo!\p"
+	.string "A proposito…\n"
+	.string "Sai come si creano le {POKEBLOCK}\l"
+	.string "dalle BACCHE?$"
 
 BerryBlender_Text_BlendMasterExplainBerryBlending:
-	.string "Hmmm!\p"
-	.string "Ah, but it is a simple process!\p"
-	.string "When the BLENDER's arrow comes to\n"
-	.string "your marker, just press the A Button.\p"
-	.string "That's all you have to do.\p"
-	.string "When you see how precisely I press\n"
-	.string "the A Button, you will understand.$"
+	.string "Mmmh!\p"
+	.string "Ah, ma è una cosa semplice!\p"
+	.string "Quando la freccia del MIXER arriva\n"
+	.string "sul tuo segno, premi il tasto A.\p"
+	.string "Tutto qui.\p"
+	.string "Quando vedrai con quanta precisione\n"
+	.string "premo il tasto A, capirai.$"
 
 BerryBlender_Text_BlendMasterLetsBerryBlender:
-	.string "Fine!\p"
-	.string "Let's get started, then!\p"
-	.string "All together with the BLEND MASTER,\n"
-	.string "let's BERRY BLENDER!$"
+	.string "Bene!\p"
+	.string "Cominciamo, allora!\p"
+	.string "Tutti insieme al MAESTRO DELLA MIXER,\n"
+	.string "facciamo MIXER BACCHE!$"
 
 BerryBlender_Text_BlendMasterNoPokeblockCase:
-	.string "Hmmm!\p"
-	.string "You don't appear to have gotten\n"
-	.string "the {POKEBLOCK} CASE!\p"
-	.string "I shall be here all day!\n"
-	.string "Obtain the {POKEBLOCK} CASE and hurry back!$"
+	.string "Mmmh!\p"
+	.string "Sembra che tu non abbia\n"
+	.string "la {POKEBLOCK} CASE!\p"
+	.string "Starò qui tutto il giorno!\n"
+	.string "Trova la {POKEBLOCK} CASE e torna presto!$"
 
 BerryBlender_Text_BlendMasterPokeblockCaseFull:
-	.string "Hmmm!\p"
-	.string "Your {POKEBLOCK} CASE appears to be full!\p"
-	.string "I shall be here all day!\n"
-	.string "Use some {POKEBLOCK}S and hurry back!$"
+	.string "Mmmh!\p"
+	.string "La tua {POKEBLOCK} CASE è piena!\p"
+	.string "Starò qui tutto il giorno!\n"
+	.string "Usa qualche {POKEBLOCK} e torna presto!$"
 
 BerryBlender_Text_WhoaAwesome:
-	.string "Whoa!\n"
-	.string "Awesome!$"
+	.string "Uau!\n"
+	.string "Fantastico!$"
 
 BerryBlender_Text_WickedlyFast:
-	.string "Wickedly fast!$"
+	.string "Velocissimo!$"
 
 BerryBlender_Text_WhatAnExpert:
-	.string "What an expert!$"
+	.string "Che esperto!$"
 
 BerryBlender_Text_MadeAmazingPokeblocksWithMaster:
-	.string "When I blended with the MASTER,\n"
-	.string "we made amazing {POKEBLOCK}S!$"
+	.string "Quando ho mixato col MAESTRO,\n"
+	.string "abbiamo creato {POKEBLOCK} fantastiche!$"
 
 BerryBlender_Text_QualitiesOfBlendMaster:
-	.string "Eyes that track the arrow with\n"
-	.string "machinelike intensity…\p"
-	.string "A hand that taps the A Button\n"
-	.string "with clockwork-like precision…\p"
-	.string "Possessing these qualities makes\n"
-	.string "the BLEND MASTER truly great.$"
+	.string "Occhi che seguono la freccia con\n"
+	.string "intensità meccanica…\p"
+	.string "Una mano che preme il tasto A\n"
+	.string "con precisione da orologio…\p"
+	.string "Avere queste qualità rende\n"
+	.string "il MAESTRO MIXER davvero grande.$"
 
 BerryBlender_Text_MasterWorksOnSkillsInMountains:
-	.string "The BLEND MASTER's supposed to work\n"
-	.string "on his skills deep in the mountains.\p"
-	.string "Sometimes, he comes to LILYCOVE\n"
-	.string "to blend BERRIES all day long.$"
+	.string "Il MAESTRO MIXER dovrebbe allenarsi\n"
+	.string "in fondo alle montagne.\p"
+	.string "A volte viene a LILYCOVE\n"
+	.string "a mixare BACCHE tutto il giorno.$"

@@ -7,6 +7,6 @@ Debug_FlagsAndVarNotSetBattleConfigMessage::
 	end
 
 Debug_FlagsAndVarNotSetBattleConfigMessage_Text:
-	.string "Feature unavailable! Please define a\n"
-	.string "usable flag and a usable var in:\l"
+	.string "Funzione non disponibile! Definisci un\n"
+	.string "flag e una var validi in:\l"
 	.string "'include/config/battle.h'!$"

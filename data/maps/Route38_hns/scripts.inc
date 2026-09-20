@@ -99,157 +99,157 @@ Route38_EventScript_Item_LaxIncense::
 	end
 
 Route38_Text_BirdKeeperTobySeen:
-	.string "Fly high into the sky,\n"
-	.string "my beloved bird POKéMON!$"
+	.string "Volate in alto nel cielo,\n"
+	.string "miei amati POKéMON uccello!$"
 
 Route38_Text_BirdKeeperTobyBeaten:
-	.string "I feel like just flying\n"
-	.string "away now.$"
+	.string "Mi sento come se volassi\n"
+	.string "via.$"
 
 Route38_Text_BirdKeeperTobyAfter:
-	.string "I plan to train in CIANWOOD CITY\n"
-	.string "to teach my POKéMON how to FLY.$"
+	.string "Voglio allenarmi a CIANWOOD CITY\n"
+	.string "per insegnare VOLO ai miei POKéMON.$"
 
 Route38_Text_SchoolboyChad1Seen:
-	.string "Let me try something\n"
-	.string "I learned today.$"
+	.string "Lascia che provi una cosa\n"
+	.string "imparata oggi.$"
 
 Route38_Text_SchoolboyChad1Beaten:
-	.string "I didn't study enough,\n"
-	.string "I guess.$"
+	.string "Non ho studiato abbastanza,\n"
+	.string "direi.$"
 
 Route38_Text_SchoolboyChadAfter:
-	.string "I have to take so many\n"
-	.string "tests, I don't have much\l"
-	.string "time for POKéMON.\p"
-	.string "So when I do get to play,\n"
-	.string "I really concentrate.$"
+	.string "Ho così tanti compiti\n"
+	.string "che non ho molto\l"
+	.string "tempo per i POKéMON.\p"
+	.string "Perciò quando gioco,\n"
+	.string "mi concentro davvero.$"
 
 Route38_Text_ChadRegister:
-	.string "I have to take so many\n"
-	.string "tests, I don't have much\l"
-	.string "time for POKéMON.\p"
-	.string "So when I do get to play,\n"
-	.string "I really concentrate.$"
+	.string "Ho così tanti compiti\n"
+	.string "che non ho molto\l"
+	.string "tempo per i POKéMON.\p"
+	.string "Perciò quando gioco,\n"
+	.string "mi concentro davvero.$"
 
 Route38_Text_ChadRematchIntro:
-	.string "Let me try something\n"
-	.string "I learned today.$"
+	.string "Lascia che provi una cosa\n"
+	.string "imparata oggi.$"
 
 Route38_Text_ChadRematchDefeat:
-	.string "I didn't study enough,\n"
-	.string "I guess.$"
+	.string "Non ho studiato abbastanza,\n"
+	.string "direi.$"
 
 Route38_Text_ChadPostRematch:
-	.string "I have to take so many\n"
-	.string "tests, I don't have much\l"
-	.string "time for POKéMON.\p"
-	.string "So when I do get to play,\n"
-	.string "I really concentrate.$"
+	.string "Ho così tanti compiti\n"
+	.string "che non ho molto\l"
+	.string "tempo per i POKéMON.\p"
+	.string "Perciò quando gioco,\n"
+	.string "mi concentro davvero.$"
 
 Route38_Text_LassDana1Seen:
-	.string "You seem to be good at\n"
+	.string "Sembri bravo con i\n"
 	.string "POKéMON.\p"
-	.string "If you are, how about\n"
-	.string "giving me some advice?$"
+	.string "Se è così, mi dai\n"
+	.string "qualche consiglio?$"
 
 Route38_Text_LassDana1Beaten:
-	.string "I see. So you can battle\n"
-	.string "that way.$"
+	.string "Capisco. Lotti proprio\n"
+	.string "così.$"
 
 Route38_Text_LassDanaAfter:
-	.string "I know something good!\p"
-	.string "MOOMOO FARM's milk is\n"
-	.string "famous for its flavor.$"
+	.string "So una cosa buona!\p"
+	.string "Il latte della FATTORIA MUUMUU è\n"
+	.string "famosa per il suo sapore.$"
 
 Route38_Text_BeautyValerieSeen:
-	.string "Hi! Aren't you a cute\n"
-	.string "trainer!\p"
-	.string "May I see your POKéMON?$"
+	.string "Ciao! Non sei un allenatore\n"
+	.string "carino!\p"
+	.string "Posso vedere i tuoi POKéMON?$"
 
 Route38_Text_BeautyValerieBeaten:
-	.string "I'm glad I got to see\n"
-	.string "your POKéMON!$"
+	.string "Sono felice di aver visto\n"
+	.string "i tuoi POKéMON!$"
 
 Route38_Text_BeautyValerieAfter:
-	.string "When I see POKéMON, it\n"
-	.string "seems to soothe my nerves.$"
+	.string "Vedere i POKéMON\n"
+	.string "mi calma i nervi.$"
 
 Route38_Text_SailorHarrySeen:
-	.string "I've been overseas, so I\n"
-	.string "know about all sorts of\l"
-	.string "POKéMON!$"
+	.string "Ho girato il mondo,\n"
+	.string "quindi conosco ogni\l"
+	.string "tipo di POKéMON!$"
 
 Route38_Text_SailorHarryBeaten:
-	.string "Your skill is world class!$"
+	.string "La tua bravura è mondiale!$"
 
 Route38_Text_SailorHarryAfter:
-	.string "All kinds of people around\n"
-	.string "the world live happily with\l"
-	.string "POKéMON.$"
+	.string "Gente di ogni parte\n"
+	.string "del mondo vive felice con\l"
+	.string "i POKéMON.$"
 
 Route38_Text_BeautyOliviaSeen:
-	.string "Don't you think my POKéMON\n"
-	.string "and I are beautiful?$"
+	.string "Non trovi che io e i miei POKéMON\n"
+	.string "siamo bellissimi?$"
 
 Route38_Text_BeautyOliviaBeaten:
-	.string "We drink MOOMOO MILK every\n"
-	.string "day.$"
+	.string "Beviamo LATTE MUUMUU ogni\n"
+	.string "giorno.$"
 
 Route38_Text_BeautyOliviaAfter:
-	.string "MOOMOO MILK is good for\n"
-	.string "beauty and health,\p"
-	.string "but inconveniently, they\n"
-	.string "only sell one bottle at a time.$"
+	.string "Il LATTE MUUMUU fa bene\n"
+	.string "alla bellezza e alla salute,\p"
+	.string "ma purtroppo ne vendono\n"
+	.string "solo una bottiglia alla volta.$"
 
 Route38_Text_Sign:
-	.string "ROUTE 38\p"
-	.string "OLIVINE CITY - ECRUTEAK CITY$"
+	.string "PERCORSO 38\p"
+	.string "OLIVINE - AMANZIA$"
 
 Route38_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "If a POKéMON is trying to\n"
-	.string "evolve, you can stop it.\p"
-	.string "Press the B Button during\n"
-	.string "evolution to cancel it.\p"
-	.string "That startles the POKéMON\n"
-	.string "and stops its evolution.$"
+	.string "CONSIGLI PER ALLENATORI\p"
+	.string "Se un POKéMON sta per\n"
+	.string "evolversi, puoi fermarlo.\p"
+	.string "Premi il tasto B durante\n"
+	.string "l'evoluzione per annullarla.\p"
+	.string "Ciò spaventa il POKéMON\n"
+	.string "e ne blocca l'evoluzione.$"
 
 
 Route38_Text_WaterSign:
-	.string "NO SWIMMING OR FISHING.\n"
-	.string "WATER FOR FARMING ONLY.\p"
-	.string "-ECRUTEAK COUNCIL$"
+	.string "VIETATO NUOTARE E PESCare.\n"
+	.string "ACQUA SOLO PER L'AGRICOLTURA.\p"
+	.string "-CONSIGLIO DI AMANZIA$"
 
 Route38_Text_DanaRegister:
-	.string "I know something good!\p"
-	.string "MOOMOO FARM's milk is\n"
-	.string "famous for its flavor.$"
+	.string "So una cosa buona!\p"
+	.string "Il latte della FATTORIA MUUMUU è\n"
+	.string "famosa per il suo sapore.$"
 
 Route38_Text_DanaRematchIntro:
-	.string "You seem to be good at\n"
+	.string "Sembri bravo con i\n"
 	.string "POKéMON.\p"
-	.string "If you are, how about\n"
-	.string "giving me some advice?$"
+	.string "Se è così, mi dai\n"
+	.string "qualche consiglio?$"
 
 Route38_Text_DanaRematchDefeat:
-	.string "I see. So you can battle\n"
-	.string "that way.$"
+	.string "Capisco. Lotti proprio\n"
+	.string "così.$"
 
 Route38_Text_DanaPostRematch:
-	.string "I know something good!\p"
-	.string "MOOMOO FARM's milk is\n"
-	.string "famous for its flavor.$"
+	.string "So una cosa buona!\p"
+	.string "Il latte della FATTORIA MUUMUU è\n"
+	.string "famosa per il suo sapore.$"
 
 Route38_Text_DanaHasItem:
-	.string "Hey! I found something\n"
-	.string "interesting!\p"
-	.string "Here, you can have it!$"
+	.string "Ehi! Ho trovato una cosa\n"
+	.string "interessante!\p"
+	.string "Tieni, è per te!$"
 
 Route38_Text_DanaGaveItem:
-	.string "I'll let you know if I find\n"
-	.string "anything else!$"
+	.string "Ti farò sapere se trovo\n"
+	.string "altro!$"
 
 Route38_Text_DanaNoRoom:
-	.string "Hmm, your BAG is full.\p"
-	.string "Come back when you have room.$"
+	.string "Hmm, la tua BORSA è piena.\p"
+	.string "Torna quando avrai spazio.$"

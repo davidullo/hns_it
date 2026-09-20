@@ -234,27 +234,27 @@ Route22_EventScript_LeagueGateSign::
 	end
 
 Route22_Text_EarlyRivalIntro::
-	.string "{RIVAL}: Hey! {PLAYER}!\p"
-	.string "You're off to the POKéMON LEAGUE?\n"
-	.string "Forget about it!\p"
-	.string "You probably don't have any\n"
-	.string "BADGES, do you?\p"
-	.string "The guard won't let you through\n"
-	.string "without them.\p"
-	.string "By the way, did your POKéMON get\n"
-	.string "any stronger?$"
+	.string "{RIVAL}: Ehi! {PLAYER}!\p"
+	.string "Vai alla LEGA POKéMON?\n"
+	.string "Dimenticalo!\p"
+	.string "Non avrai mica delle\n"
+	.string "MEDAGLIE, vero?\p"
+	.string "La guardia non ti lascia passare\n"
+	.string "senza.\p"
+	.string "A proposito, i tuoi POKéMON sono\n"
+	.string "diventati più forti?$"
 
 Route22_Text_EarlyRivalDefeat::
-	.string "Awww!\n"
-	.string "You just lucked out!$"
+	.string "Argh!\n"
+	.string "È stata solo fortuna!$"
 
 Route22_Text_EarlyRivalPostBattle::
-	.string "I heard the POKéMON LEAGUE is\n"
-	.string "crawling with tough TRAINERS.\p"
-	.string "I have to figure out how to get\n"
-	.string "past them.\p"
-	.string "You should quit dawdling and get a\n"
-	.string "move on!$"
+	.string "Ho sentito che alla LEGA POKéMON\n"
+	.string "pullulano di ALLENATORI forti.\p"
+	.string "Devo capire come\n"
+	.string "superarli.\p"
+	.string "Smettila di perdere tempo e\n"
+	.string "muoviti!$"
 
 @ Translated in RB as "{RIVAL}: What? Why do I have 2 POKéMON? You should catch some more too!"
 Route22_Text_RivalShouldCatchSomeMons::
@@ -265,26 +265,26 @@ Route22_Text_RivalShouldCatchSomeMons::
 	.string "つかまえれば　いい　じゃん！$"
 
 Route22_Text_LateRivalIntro::
-	.string "{RIVAL}: What? {PLAYER}!\n"
-	.string "What a surprise to see you here!\p"
-	.string "So you're going to the POKéMON\n"
-	.string "LEAGUE?\p"
-	.string "You collected all the BADGES, too?\n"
-	.string "That's cool!\p"
-	.string "Then I'll whip you, {PLAYER}, as a\n"
-	.string "warm-up for the POKéMON LEAGUE!\p"
-	.string "Come on!$"
+	.string "{RIVAL}: Come? {PLAYER}!\n"
+	.string "Che sorpresa vederti qui!\p"
+	.string "Allora vai alla LEGA\n"
+	.string "POKéMON?\p"
+	.string "Hai preso tutte le MEDAGLIE?\n"
+	.string "Grande!\p"
+	.string "Allora ti batto, {PLAYER}, come\n"
+	.string "riscaldamento per la LEGA POKéMON!\p"
+	.string "Forza!$"
 
 Route22_Text_LateRivalDefeat::
-	.string "What!?\p"
-	.string "I was just careless, you!$"
+	.string "Cosa!?\p"
+	.string "Sono stato solo distratto!$"
 
 Route22_Text_LateRivalPostBattle::
-	.string "That loosened me up.\n"
-	.string "I'm ready for the POKéMON LEAGUE!\p"
-	.string "{PLAYER}, you need more practice.\p"
-	.string "But hey, you know that!\n"
-	.string "I'm out of here. Smell ya!$"
+	.string "Mi sono scaldato.\n"
+	.string "Sono pronto per la LEGA POKéMON!\p"
+	.string "{PLAYER}, ti serve più allenamento.\p"
+	.string "Ma dai, lo sai già!\n"
+	.string "Me ne vado. Ci sentiamo!$"
 
 @ Translated in RB as "{RIVAL}: Hahaha! {PLAYER}! That's your best? You're nowhere near as good as me, pal! Go train some more! You loser!"
 Route22_Text_LateRivalVictory::
@@ -296,6 +296,6 @@ Route22_Text_LateRivalVictory::
 	.string "あははーッ！$"
 
 Route22_Text_LeagueGateSign::
-	.string "POKéMON LEAGUE\n"
-	.string "Front Gate$"
+	.string "LEGA POKéMON\n"
+	.string "Ingresso principale$"
 

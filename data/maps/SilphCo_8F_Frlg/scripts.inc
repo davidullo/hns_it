@@ -39,51 +39,51 @@ SilphCo_8F_EventScript_Grunt2::
 	end
 
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-	.string "I wonder if SILPH is finished…$"
+	.string "Chissà se la SILPH è finita…$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
-	.string "Thanks for saving us!$"
+	.string "Grazie per averci salvati!$"
 
 SilphCo_8F_Text_Grunt1Intro::
-	.string "That's as far as you'll go!$"
+	.string "Fin qui puoi arrivare!$"
 
 SilphCo_8F_Text_Grunt1Defeat::
-	.string "Not enough grit!$"
+	.string "Non ne hai la stoffa!$"
 
 SilphCo_8F_Text_Grunt1PostBattle::
-	.string "If you don't turn back…\n"
-	.string "I'll call for backup!$"
+	.string "Se non torni indietro…\n"
+	.string "chiamerò i rinforzi!$"
 
 SilphCo_8F_Text_ParkerIntro::
-	.string "You're causing us problems!$"
+	.string "Ci stai creando problemi!$"
 
 SilphCo_8F_Text_ParkerDefeat::
-	.string "Huh?\n"
-	.string "I lost?$"
+	.string "Eh?\n"
+	.string "Ho perso?$"
 
 SilphCo_8F_Text_ParkerPostBattle::
-	.string "So, what do you think of SILPH\n"
-	.string "BUILDING's maze?$"
+	.string "Allora? Che ne pensi del\n"
+	.string "labirinto della SILPH?$"
 
 SilphCo_8F_Text_Grunt2Intro::
-	.string "I am one of the four ROCKET\n"
-	.string "BROTHERS!$"
+	.string "Sono uno dei quattro FRATELLI\n"
+	.string "ROCKET!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
 	.string "Whoo!\n"
-	.string "Oh, Brothers!$"
+	.string "Oh, fratelli!$"
 
 SilphCo_8F_Text_Grunt2PostBattle::
-	.string "I'll leave you up to my brothers.$"
+	.string "Ci penseranno i miei fratelli.$"
 
 SilphCo_8F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "8F$"
+	.string "SILPH SPA. SEDE CENTRALE\n"
+	.string "8P$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-	.string "TEAM ROCKET's BOSS is terribly\n"
-	.string "cruel!\p"
-	.string "To him, POKéMON are just tools to\n"
-	.string "be used.\p"
-	.string "What will happen if that tyrant\n"
-	.string "takes over our company…$"
+	.string "Il CAPO del TEAM ROCKET è\n"
+	.string "sanguinario!\p"
+	.string "Per lui i POKéMON sono solo\n"
+	.string "strumenti.\p"
+	.string "Cosa succederà se quel tiranno\n"
+	.string "si prende la nostra azienda…$"

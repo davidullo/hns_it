@@ -46,10 +46,10 @@ BlackthornCity_Text_BaobaCall:
 	.string "Vieni a visitarla!$"
 
 BlackthornCity_Text_ElmCall:
-	.string "PROF.ELM: Hello, {PLAYER}?\p"
-	.string "I have something here for you.\n"
-	.string "Could you swing by my LAB?\p"
-	.string "See you later!$"
+	.string "PROF.ELM: Pronto, {PLAYER}?\p"
+	.string "Ho una cosa per te.\n"
+	.string "Puoi passare dal mio LAB?\p"
+	.string "A dopo!$"
 
 BlackThornCity_EventScript_Sage::
 	lock

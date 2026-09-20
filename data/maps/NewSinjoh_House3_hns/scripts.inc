@@ -34,8 +34,8 @@ NewSinjoh_HauntedHouse_EventScript_TooEarly::
     end
 
 NewSinjoh_HauntedHouse_Text_TooEarlyNoReaction:
-    .string "You sense an odd presence...\p"
-    .string "But there is no reaction.$"
+    .string "Senti una presenza strana...\p"
+    .string "Ma non c'è alcuna reazione.$"
 
 NewSinjoh_HauntedHouse_EventScript_StartScary::
     msgbox NewSinjoh_HauntedHouse_Text_StartScary, MSGBOX_AUTOCLOSE
@@ -134,8 +134,8 @@ NewSinjoh_House3_Movement_CameraPanRight:
     step_end
 
 NewSinjoh_HauntedHouse_Text_StartScary:
-    .string "You sense an odd presence...\p"
-    .string "Are you being watched?$"
+    .string "Senti una presenza strana...\p"
+    .string "Qualcuno ti osserva?$"
 
 NewSinjoh_HauntedHouse_EventScript_Log1::
     msgbox NewSinjoh_HauntedHouse_Text_Log1, MSGBOX_SIGN
@@ -150,51 +150,51 @@ NewSinjoh_HauntedHouse_EventScript_Log3::
     end
 
 NewSinjoh_HauntedHouse_Text_Log1:
-  	.string "Research Log 9:  September 20, 1975\p"
-	.string "The days are getting shorter now\n"
-	.string "and the wind is becoming harsh.\p"
-    .string "The villagers were quite welcoming.\p"
-    .string "They are allowing me to stay here\n"
-    .string "in this cabin for the winter.\p"
-	.string "It seems a family used to live here.\n"
-	.string "I often think about my family.\p"
-	.string "Maybe I will have the courage to\n"
-    .string "return to them in the spring.$"
+  	.string "Diario 9: 20 settembre 1975\p"
+	.string "Le giornate si accorciano\n"
+	.string "e il vento si fa pungente.\p"
+    .string "Gli abitanti sono stati accoglienti.\p"
+    .string "Mi lasciano restare qui\n"
+    .string "in questa baita per l'inverno.\p"
+	.string "Sembra ci vivesse una famiglia.\n"
+	.string "Penso spesso alla mia famiglia.\p"
+	.string "Forse in primavera avrò il coraggio\n"
+    .string "di tornare da loro.$"
 
 NewSinjoh_HauntedHouse_Text_Log2:
-    .string "Research Log 10: October 20, 1975\p"
-    .string "My thoughts have turned dark.\p"
-    .string "Perhaps it is the changing of the\n"
-    .string "seasons.\p"
-    .string "The villagers continue to treat me\n"
-    .string "as one of their own.\p"
-    .string "But the guilt I carry prevents me from\n"
-    .string "returning the sentiment.\p"
-    .string "I rarely leave the cabin now.\p"
-    .string "And when I think of my family...\n"
-    .string "Their faces have changed...\l"
-    .string "I only see the faces of the POKéMON\l"
-    .string "that were lost at the ruins...\p"
-    .string "Sometimes I think the POKéMON are\n"
-    .string "here with me. I see them in\l"
-    .string "reflections, I feel their gaze.\p"
-    .string "Things will be better in the spring.$"
+    .string "Diario 10: 20 ottobre 1975\p"
+    .string "I miei pensieri si sono fatti cupi.\p"
+    .string "Forse è il cambio di\n"
+    .string "stagione.\p"
+    .string "Gli abitanti continuano a trattarmi\n"
+    .string "come uno di loro.\p"
+    .string "Ma il senso di colpa mi impedisce di\n"
+    .string "ricambiare l'affetto.\p"
+    .string "Ora esco di rado dalla baita.\p"
+    .string "E quando penso alla mia famiglia...\n"
+    .string "I loro volti sono cambiati...\l"
+    .string "Vedo solo i volti dei POKéMON\l"
+    .string "persi fra le rovine...\p"
+    .string "A volte credo che i POKéMON siano\n"
+    .string "qui con me. Li vedo nei\l"
+    .string "riflessi, sento il loro sguardo.\p"
+    .string "In primavera andrà meglio.$"
 
 NewSinjoh_HauntedHouse_Text_Log3:
-    .string "Research Log 10: November 1, 1975\p"
-    .string "I am not alone here.\n"
-    .string "Maybe I never was.\p"
-    .string "The POKéMON are with me...\p"
-    .string "They are angry with me, I think.\p"
-    .string "Objects are thrown, doors slam.\p"
-    .string "Heavy boxes block the front door.\p"
-    .string "But truthfully, I could leave\n"
-    .string "if I wanted to.\p"
-    .string "There is nothing else for me now.\p"
-    .string "I've written of a family before,\n"
-    .string "but the POKéMON are the only family\l"
-    .string "I can remember...\p"
-    .string "I am running out of food, but my\n"
-    .string "guilt outpaces my hunger.\p"
-    .string "I think I will stay here a while...$"
+    .string "Diario 10: 1 novembre 1975\p"
+    .string "Non sono solo qui.\n"
+    .string "Forse non lo sono mai stato.\p"
+    .string "I POKéMON sono con me...\p"
+    .string "Sono arrabbiati con me, credo.\p"
+    .string "Oggetti volano, porte sbattono.\p"
+    .string "Casse pesanti bloccano la porta.\p"
+    .string "Ma in verità potrei andarmene\n"
+    .string "se volessi.\p"
+    .string "Ormai non c'è altro per me.\p"
+    .string "Ho scritto di una famiglia, prima,\n"
+    .string "ma i POKéMON sono l'unica famiglia\l"
+    .string "che riesco a ricordare...\p"
+    .string "Il cibo sta finendo, ma il mio\n"
+    .string "senso di colpa supera la fame.\p"
+    .string "Credo che resterò qui ancora un po'...$"
   

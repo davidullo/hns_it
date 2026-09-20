@@ -52,10 +52,10 @@ VioletCity_House1_Text_YouWontTradeMe:
 	.string "Non vuoi scambiare? Oh…$"
 
 VioletCity_House1_Text_After:
-	.string "Hi, how's my old ONIX doing?$"
+	.string "Ciao, come sta il mio vecchio ONIX?$"
 
 VioletCity_House1_Text_PokefanM:
-	.string "A POKéMON you get in a trade\n"
-	.string "grows quickly.\p"
-	.string "But if you don't have the right\n"
-	.string "GYM BADGE, they may disobey you.$"
+	.string "Un POKéMON ottenuto in uno scambio\n"
+	.string "cresce in fretta.\p"
+	.string "Ma senza la MEDAGLIA giusta\n"
+	.string "potrebbe non ubbidirti.$"

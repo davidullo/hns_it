@@ -124,117 +124,117 @@ SaffronCity_EventScript_TrainerFanClubSign::
 	end
 
 SaffronCity_Text_WhatDoYouWantGetLost::
-	.string "What do you want?\n"
-	.string "Get lost!$"
+	.string "Che vuoi?\n"
+	.string "Vattene!$"
 
 SaffronCity_Text_BossTakeTownForTeamRocket::
-	.string "BOSS said he'll take this town\n"
-	.string "in the name of TEAM ROCKET!$"
+	.string "Il BOSS dice che prenderà la città\n"
+	.string "in nome del TEAM ROCKET!$"
 
 SaffronCity_Text_DontGetDefiantOrIllHurtYou::
-	.string "Don't get defiant!\n"
-	.string "Or I'll have to hurt you!$"
+	.string "Non fare l'agonista!\n"
+	.string "O dovrò farti male!$"
 
 SaffronCity_Text_SaffronBelongsToTeamRocket::
-	.string "SAFFRON belongs to TEAM ROCKET!$"
+	.string "ZAFFERANOPOLI è del TEAM ROCKET!$"
 
 SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
-	.string "My life as a criminal makes me feel\n"
-	.string "so alive!$"
+	.string "La vita da criminale mi fa sentire\n"
+	.string "così vivo!$"
 
 SaffronCity_Text_WatchWhereYoureWalking::
-	.string "Ow!\n"
-	.string "Watch where you're walking!$"
+	.string "Ahia!\n"
+	.string "Guarda dove cammini!$"
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
-	.string "With SILPH under control, we can\n"
-	.string "exploit POKéMON around the world!\p"
-	.string "We'll get stinking rich, yeahah!$"
+	.string "Con la SILPH sotto controllo, possiamo\n"
+	.string "sfruttare i POKéMON di tutto il mondo!\p"
+	.string "Diventeremo ricchi sfondati, yeahah!$"
 
 SaffronCity_Text_YouBeatTeamRocket::
-	.string "You beat TEAM ROCKET all alone?\n"
-	.string "That's amazing!$"
+	.string "Hai battuto il TEAM ROCKET da solo?\n"
+	.string "Incredibile!$"
 
 SaffronCity_Text_SafeToGoOutAgain::
-	.string "Yeah! TEAM ROCKET is gone!\n"
-	.string "It's safe to go out again!$"
+	.string "Sì! Il TEAM ROCKET se n'è andato!\n"
+	.string "Ora si può uscire di nuovo!$"
 
 SaffronCity_Text_PeopleComingBackToSaffron::
-	.string "People fled from here in droves\n"
-	.string "when those ROCKETS came.\p"
-	.string "They should be flocking back to\n"
-	.string "SAFFRON now.$"
+	.string "La gente fuggì via in massa\n"
+	.string "quando arrivarono quei ROCKET.\p"
+	.string "Ora dovrebbero tornare in massa\n"
+	.string "a ZAFFERANOPOLI.$"
 
 SaffronCity_Text_FlewHereOnPidgeot::
-	.string "I flew here on my PIDGEOT when\n"
-	.string "I read about SILPH.\p"
-	.string "It's already over?\n"
-	.string "I missed the media action…$"
+	.string "Ho volato qui sul mio PIDGEOT\n"
+	.string "quando ho letto della SILPH.\p"
+	.string "È già finita?\n"
+	.string "Mi sono perso i media…$"
 
 SaffronCity_Text_Pidgeot::
-	.string "PIDGEOT: Bi bibii!$"
+	.string "PIDGEOT: Bii bibii!$"
 
 SaffronCity_Text_SawRocketBossEscaping::
-	.string "I saw the ROCKET BOSS escaping\n"
-	.string "SILPH's building.$"
+	.string "Ho visto il CAPO ROCKET fuggire\n"
+	.string "dal palazzo della SILPH.$"
 
 SaffronCity_Text_ImASecurityGuard::
-	.string "I'm a security guard.\p"
-	.string "Suspicious kids I don't allow in!$"
+	.string "Sono una guardia giurata.\p"
+	.string "Non faccio entrare i ragazzini sospetti!$"
 
 SaffronCity_Text_HesTakingASnooze::
 	.string "…\n"
-	.string "Snore…\p"
-	.string "Hah! He's taking a snooze!$"
+	.string "Zzz…\p"
+	.string "Ah! Si sta facendo un pisolino!$"
 
 SaffronCity_Text_CitySign::
-	.string "SAFFRON CITY\n"
-	.string "Shining, Golden Land of Commerce$"
+	.string "AURORA CITY\n"
+	.string "Splendida terra d'oro e commercio$"
 
 SaffronCity_Text_FightingDojo::
-	.string "FIGHTING DOJO$"
+	.string "DOJO LOTTA$"
 
 SaffronCity_Text_GymSign::
-	.string "SAFFRON CITY POKéMON GYM\n"
-	.string "LEADER: SABRINA\l"
-	.string "The Master of PSYCHIC POKéMON!$"
+	.string "PALESTRA POKéMON DI ZAFFERANOPOLI\n"
+	.string "CAPO: SABRINA\l"
+	.string "La maestra dei POKéMON PSICHICI!$"
 
 SaffronCity_Text_FullHealCuresStatus::
-	.string "TRAINER TIPS\p"
-	.string "FULL HEAL cures all ailments like\n"
-	.string "burns, paralysis, poisoning,\l"
-	.string "freezing, and sleep.\p"
-	.string "It costs a bit more, but it's more\n"
-	.string "convenient than buying other items.$"
+	.string "CONSIGLI PER ALLENATORI\p"
+	.string "IL CURA TUTTO cura tutti i problemi\n"
+	.string "come scottature, paralisi,\l"
+	.string "avvelenamento, glaciale e sonno.\p"
+	.string "Costa un po' di più, ma è più\n"
+	.string "comodo di altri oggetti.$"
 
 SaffronCity_Text_GreatBallImprovedCatchRate::
-	.string "TRAINER TIPS\p"
-	.string "The new GREAT BALL offers improved\n"
-	.string "catching rates.\p"
-	.string "Try it on those hard-to-catch\n"
-	.string "POKéMON.$"
+	.string "CONSIGLI PER ALLENATORI\p"
+	.string "La nuova MEGA BALL cattura\n"
+	.string "i POKéMON più facilmente.\p"
+	.string "Provala su quelli difficili\n"
+	.string "da prendere.$"
 
 SaffronCity_Text_SilphCoSign::
-	.string "SILPH CO. OFFICE BUILDING$"
+	.string "SEDE DELLA SILPH SPA$"
 
 SaffronCity_Text_MrPsychicsHouse::
-	.string "MR. PSYCHIC'S HOUSE$"
+	.string "CASA DEL SIGNOR PSYCHIC$"
 
 SaffronCity_Text_SilphsLatestProduct::
-	.string "SILPH's latest product!\n"
-	.string "Release to be determined…$"
+	.string "L'ultimo prodotto della SILPH!\n"
+	.string "Uscita da definire…$"
 
 SaffronCity_Text_TrainerFanClubSign::
-	.string "POKéMON TRAINER FAN CLUB\p"
-	.string "Many TRAINERS have scribbled their\n"
-	.string "names on this sign.$"
+	.string "FAN CLUB POKéMON\p"
+	.string "Molti ALLENATORI hanno scarabocchiato\n"
+	.string "il loro nome qui.$"
 
 SaffronCity_Text_HowCanClubNotRecognizeLance::
-	.string "This FAN CLUB…\n"
-	.string "No one here has a clue!\p"
-	.string "How could they not recognize\n"
-	.string "the brilliance that is LANCE?\p"
-	.string "He stands for justice!\n"
-	.string "He's cool, and yet passionate!\l"
-	.string "He's the greatest, LANCE!$"
+	.string "Questo FAN CLUB…\n"
+	.string "Nessuno qui ha idea di niente!\p"
+	.string "Come fanno a non riconoscere\n"
+	.string "il genio che è LANCE?\p"
+	.string "È il simbolo della giustizia!\n"
+	.string "È forte e appassionato!\l"
+	.string "È il più grande, LANCE!$"
 

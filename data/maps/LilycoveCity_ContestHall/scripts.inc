@@ -508,6 +508,6 @@ LilycoveCity_ContestHall_Text_CuteContestStage:
 	.string "FATTI INCANTARE DAI POKéMON!$"
 
 LilycoveCity_ContestHall_Text_SmartContestStage:
-	.string "SMARTNESS CONTEST STAGE\n"
-	.string "BE IMPRESSED BY SMART POKéMON!$"
+	.string "PALCO GARA BELLEZZA\n"
+	.string "FATTI STUPIRE DAI POKéMON BELLI!$"
 

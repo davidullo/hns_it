@@ -37,33 +37,33 @@ NewSinjoh_HotSprings_EventScript_MualaniAfter::
 	end
 
 NewSinjoh_HotSprings_Text_MualaniBefore:
-	.string "Am I a local or a visitor?\n"
-    .string "What a rude question!\p"
-    .string "If you must know, I'm a local.\p"
-    .string "My family was among the first to\n"
-    .string "enjoy these springs.\p"
-    .string "See, I even have this SPLASH PLATE\n"
-    .string "to prove it.$"
+	.string "Sono del posto o una visitatrice?\n"
+    .string "Che domanda scortese!\p"
+    .string "Se proprio devi saperlo, sono del posto.\p"
+    .string "La mia famiglia è stata tra i primi a\n"
+    .string "godersi queste terme.\p"
+    .string "Guarda, ho persino questa IDROPIastra\n"
+    .string "a provarlo.$"
 
 NewSinjoh_HotSprings_Text_MualaniBeforeBattle:
-	.string "Wait...\p"
-	.string "You need the SPLASH PLATE\n"
-	.string "to tame the legendary POKéMON?\p"
-	.string "If the KIMONO GIRLS think you\n"
-	.string "are worthy, then so do I.\p"
-	.string "But you'll still need to earn\n"
-	.string "it.$"
+	.string "Aspetta…\p"
+	.string "Ti serve la PIASTRA SPLASH\n"
+	.string "per domare il POKéMON leggendario?\p"
+	.string "Se le RAGAZZE KIMONO ti ritengono\n"
+	.string "degno, allora lo penso anch'io.\p"
+	.string "Ma dovrai comunque guadagnarlo,\n"
+	.string "prima.$"
 
 NewSinjoh_HotSprings_Text_MualaniDefeat:
-	.string "Well earned.$"
+	.string "Te la sei meritata.$"
 
 NewSinjoh_HotSprings_Text_MualaniAfter:
-	.string "It is hard for me to let that\n"
-	.string "plate go.\p"
-	.string "But when the situation changes,\n"
-	.string "it is important for us to change\l"
-	.string "too.\p"
-	.string "The plate is yours.$"
+	.string "Mi è difficile lasciar andare\n"
+	.string "questa piastra.\p"
+	.string "Ma quando la situazione cambia,\n"
+	.string "è importante cambiare\l"
+	.string "anche noi.\p"
+	.string "La piastra è tua.$"
 
 
 NewSinjoh_HotSprings_EventScript_Sign1::
@@ -71,33 +71,33 @@ NewSinjoh_HotSprings_EventScript_Sign1::
     end
 
 NewSinjoh_HotSprings_Text_Sign1:
-    .string "NEW SINJOH\n"
-    .string "HOT SPRINGS$"
+    .string "NUOVA SINJOH\n"
+    .string "TERME$"
 
 NewSinjoh_HotSprings_EventScript_Sign2::
     msgbox NewSinjoh_HotSprings_Text_Sign2, MSGBOX_SIGN
     end
 
 NewSinjoh_HotSprings_Text_Sign2:
-    .string "DANGER\n"
-    .string "WILD HIBERNATION DEN$"
+    .string "PERICOLO\n"
+    .string "TANA DEL LETARGO SELVAGGIO$"
 
 NewSinjoh_HotSprings_EventScript_SkierF::
     msgbox NewSinjoh_HotSprings_Text_SkierF, MSGBOX_NPC
     end
 
 NewSinjoh_HotSprings_Text_SkierF:
-	.string "I hate the cold!\p"
-    .string "I'm just here for the hot springs!$"
+	.string "Odio il freddo!\p"
+    .string "Sono qui solo per le terme!$"
 
 NewSinjoh_HotSprings_EventScript_SkierM::
     msgbox NewSinjoh_HotSprings_Text_SkierM, MSGBOX_NPC
     end
 
 NewSinjoh_HotSprings_Text_SkierM:
-	.string "I came here to snowboard\n"
-    .string "but all my girlfriend wants to do\l"
-    .string "is sit in the springs all day!$"
+	.string "Sono venuto per lo snowboard\n"
+    .string "ma la mia ragazza vuole solo\l"
+    .string "stare in acqua tutto il giorno!$"
 
 
 NewSinjoh_HotSprings_EventScript_OldLady::
@@ -105,8 +105,8 @@ NewSinjoh_HotSprings_EventScript_OldLady::
     end
 
 NewSinjoh_HotSprings_Text_OldLady:
-	.string "Ignore my husband.\p"
-    .string "Let your worries melt away.$"
+	.string "Ignora mio marito.\p"
+    .string "Lascia che le preoccupazioni svaniscano.$"
 
 NewSinjoh_HotSprings_EventScript_CreepyMan::
 	msgbox NewSinjoh_HotSprings_Text_CreepyMan, MSGBOX_NPC
@@ -114,9 +114,9 @@ NewSinjoh_HotSprings_EventScript_CreepyMan::
 
 NewSinjoh_HotSprings_Text_CreepyMan:
 	.string "Ouughh...\p"
-	.string "This water feels magical on my back.\p"
-	.string "If you have back pain too,\n"
-	.string "you should stay here with me...$"
+	.string "Quest'acqua è magica sulla mia schiena.\p"
+	.string "Se hai anche tu mal di schiena,\n"
+	.string "dovresti restare qui con me...$"
 
 NewSinjoh_HotSprings_EventScript_PLATutor::
 	lock
@@ -239,27 +239,27 @@ NewSinjoh_HotSprings_EventScript_PLATutorDecline::
 	end
 
 NewSinjoh_HotSprings_Text_PLATutorIntro:
-	.string "The ancient power flows\n"
-	.string "through these springs.\p"
-	.string "I can teach your POKeMON moves\n"
-	.string "from a forgotten age.\p"
-	.string "Interested?$"
+	.string "L'antico potere scorre\n"
+	.string "in queste sorgenti.\p"
+	.string "Posso insegnare al tuo POKéMON\n"
+	.string "mossi di un'era dimenticata.\p"
+	.string "Ti interessa?$"
 
 NewSinjoh_HotSprings_Text_PLATutorChoose:
-	.string "Which move would you like?$"
+	.string "Quale mossa vuoi?$"
 
 NewSinjoh_HotSprings_Text_PLATutorConfirm:
-	.string "You'd like to learn {STR_VAR_1}?$"
+	.string "Vuoi imparare {STR_VAR_1}?$"
 
 NewSinjoh_HotSprings_Text_PLATutorWhichMon:
-	.string "Which POKeMON should learn it?$"
+	.string "Quale POKéMON deve impararla?$"
 
 NewSinjoh_HotSprings_Text_PLATutorDone:
-	.string "Done! Your POKeMON has mastered\n"
-	.string "the ancient technique.$"
+	.string "Fatto! Il tuo POKéMON ha appreso\n"
+	.string "l'antica tecnica.$"
 
 NewSinjoh_HotSprings_Text_PLATutorComeBack:
-	.string "Come back anytime.$"
+	.string "Torna quando vuoi.$"
 
 NewSinjoh_HotSprings_Text_PLAMove_VictoryDance:
 	.string "DANZAVITTORIA$"

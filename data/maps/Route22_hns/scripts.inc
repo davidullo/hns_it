@@ -12,8 +12,8 @@ Route22_EventScript_Sign::
 	end
 
 Route22_Text_VictoryRoadEntranceSign:
-	.string "POKéMON LEAGUE\p"
-	.string "VICTORY ROAD ENTRANCE$"
+	.string "LEGA POKéMON\p"
+	.string "INGRESSO VIA VITTORIA$"
 
 Route22_EventScript_ResetActivation::
 	setvar VAR_TEMP_0, 0
@@ -284,61 +284,61 @@ Route22_Movement_CelebiPush:
 
 
 Route22_Text_Silver1:
-	.string "{RIVAL}: You told me...\n"
-	.string "you were the number one in the whole\l"
-	.string "world!\p"
-	.string "Are you gonna quit?\p"
-	.string "What are you going to do now?$"
+	.string "{RIVAL}: Mi avevi detto...\n"
+	.string "di essere il numero uno al\l"
+	.string "mondo!\p"
+	.string "Vuoi arrenderti?\p"
+	.string "E adesso cosa farai?$"
 
 Route22_Text_Giovanni1:
 	.string "....................\p"
-	.string "GIOVANNI: One must acknowledge one's\n"
-	.string "defeat before he can move on...\p"
-	.string "I will go solo... for now...\p"
-	.string "So that one day I will form a\n"
-	.string "stronger organization!$"
+	.string "GIOVANNI: Bisogna ammettere la\n"
+	.string "sconfitta per andare avanti...\p"
+	.string "Per ora agirò da solo...\p"
+	.string "Un giorno formerò\n"
+	.string "un'organizzazione più forte!$"
 
 Route22_Text_Silver2:
-	.string "{RIVAL}: What aspect of you was\n"
-	.string "number one?\p"
-	.string "Gathering so many only to be\n"
-	.string "defeated by a mere child!$"
+	.string "{RIVAL}: In cosa eri\n"
+	.string "il numero uno?\p"
+	.string "Radunare tanti solo per essere\n"
+	.string "battuto da un bambino!$"
 
 Route22_Text_Giovanni2:
-	.string "GIOVANNI: Putting together the\n"
-	.string "potential of many is how you\l"
-	.string "produce a huge power...\l"
-	.string "That's what an organization is...\l"
-	.string "That's the strength of organization\p"
-	.string "I failed... to make the best use of\n"
-	.string "my subordinates' potential...!\p"
-	.string "But you shall witness one day the\n"
-	.string "revival of me and my TEAM ROCKET!$"
+	.string "GIOVANNI: Unire il\n"
+	.string "potenziale di molti è come\l"
+	.string "nasce un potere immenso...\l"
+	.string "Ecco cos'è un'organizzazione...\l"
+	.string "È la forza dell'organizzazione.\p"
+	.string "Ho fallito... non ho saputo usare\n"
+	.string "il potenziale dei miei uomini...!\p"
+	.string "Ma un giorno assisterai alla\n"
+	.string "rinascita mia e del TEAM ROCKET!$"
 
 Route22_Text_Silver3:
-	.string "{RIVAL}: I don't understand you!\p"
-	.string "You don't make any sense!$"
+	.string "{RIVAL}: Non ti capisco!\p"
+	.string "Non hai alcun senso!$"
 
 Route22_Text_Giovanni3:
 	.string ".......................\p"
-	.string "GIOVANNI: One day you will\n"
-	.string "understand.$"
+	.string "GIOVANNI: Un giorno\n"
+	.string "capirai.$"
 
 Route22_Text_Silver4:
-	.string "{RIVAL}: I don't want to\n"
-	.string "understand you!\p"
-	.string "I will never become someone like\n"
-	.string "you.\p"
-	.string "A coward when you're alone and\n"
-	.string "acting like a tyrant when you're\l"
-	.string "in front of other cowards!\p"
-	.string "I will become strong!\p"
-	.string "I will become a stronger man all\n"
-	.string "by myself!$"
+	.string "{RIVAL}: Non voglio\n"
+	.string "capirti!\p"
+	.string "Non sarò mai uno come\n"
+	.string "te.\p"
+	.string "Codardo quando sei solo e\n"
+	.string "tiranno davanti agli altri\l"
+	.string "codardi!\p"
+	.string "Diventerò forte!\p"
+	.string "Diventerò un uomo più forte\n"
+	.string "tutto da solo!$"
 
 Route22_Text_Silver5:
-	.string "ALL BY MYSELF!$"
+	.string "TUTTO DA SOLO!$"
 
 Route22_Text_Silver6:
-	.string "{RIVAL}: ... What are you staring at?$"
+	.string "{RIVAL}: ... Cosa fissi?$"
 

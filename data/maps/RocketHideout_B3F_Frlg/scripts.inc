@@ -12,28 +12,28 @@ RocketHideout_B3F_EventScript_Grunt2::
 	end
 
 RocketHideout_B3F_Text_Grunt1Intro::
-	.string "Stop meddling in TEAM ROCKET's\n"
-	.string "affairs or else!$"
+	.string "Smettila di immischiarti negli\n"
+	.string "affari del TEAM ROCKET, o guai a te!$"
 
 RocketHideout_B3F_Text_Grunt1Defeat::
-	.string "Oof!\n"
-	.string "Taken down!$"
+	.string "Uff!\n"
+	.string "Battuto!$"
 
 RocketHideout_B3F_Text_Grunt1PostBattle::
 	.string "SILPH SCOPE?\n"
-	.string "Oh, that machine the BOSS stole.\p"
-	.string "It's here somewhere.$"
+	.string "Ah, la macchina che ha rubato il CAPO.\p"
+	.string "È qui da qualche parte.$"
 
 RocketHideout_B3F_Text_Grunt2Intro::
-	.string "We got word from upstairs that you\n"
-	.string "were coming!$"
+	.string "Ci hanno avvisato da sopra che\n"
+	.string "stavi arrivando!$"
 
 RocketHideout_B3F_Text_Grunt2Defeat::
-	.string "What?\n"
-	.string "I lost? No!$"
+	.string "Come?\n"
+	.string "Ho perso? No!$"
 
 RocketHideout_B3F_Text_Grunt2PostBattle::
-	.string "Go ahead and go!\p"
-	.string "But you can't run the elevator\n"
-	.string "without the LIFT KEY.$"
+	.string "Vai pure avanti!\p"
+	.string "Ma non puoi usare l'ascensore\n"
+	.string "senza la CHIAVE ASCENSORE.$"
 

@@ -15,34 +15,34 @@ SevenIsland_TrainerTower_EventScript_TrainerTowerAheadSign::
 	end
 
 SevenIsland_TrainerTower_Text_DarioIntro::
-	.string "I sensed your approach.$"
+	.string "Ho percepito il tuo arrivo.$"
 
 SevenIsland_TrainerTower_Text_DarioDefeat::
-	.string "Give up…$"
+	.string "Mi arrendo…$"
 
 SevenIsland_TrainerTower_Text_DarioPostBattle::
-	.string "In your future, I sense that you\n"
-	.string "will meet many others.\p"
-	.string "I think you will be linked to each\n"
-	.string "other by a strange power.$"
+	.string "Nel tuo futuro vedo che\n"
+	.string "incontrerai molti altri.\p"
+	.string "Credo che sarete legati l'uno\n"
+	.string "all'altro da uno strano potere.$"
 
 SevenIsland_TrainerTower_Text_RodetteIntro::
-	.string "Somewhere on this island, peculiar\n"
-	.string "POKéMON are sleeping.$"
+	.string "Da qualche parte su quest'isola\n"
+	.string "dormono POKéMON singolari.$"
 
 SevenIsland_TrainerTower_Text_RodetteDefeat::
-	.string "What an amazing TRAINER!$"
+	.string "Che ALLENATORE fantastico!$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
-	.string "Somewhere on this island, peculiar\n"
-	.string "POKéMON are sleeping.\p"
-	.string "Could it be that they're waiting\n"
-	.string "for you?$"
+	.string "Da qualche parte su quest'isola\n"
+	.string "dormono POKéMON singolari.\p"
+	.string "Che stiano aspettando\n"
+	.string "proprio te?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
-	.string "TRAINER TOWER ENTRANCE\n"
-	.string "Rise to the Challenge, TRAINERS!$"
+	.string "INGRESSO TORRE ALLENATORI\n"
+	.string "Raccogli la sfida, ALLENATORI!$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::
-	.string "TRAINER TOWER AHEAD$"
+	.string "TORRE ALLENATORI PIÙ AVANTI$"
 

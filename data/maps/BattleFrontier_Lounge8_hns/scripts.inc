@@ -28,11 +28,11 @@ BattleFrontier_Lounge8_Text_WhatATrainerNeeds_hns:
 	.string "Cosa sarebbero?$"
 
 BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains_hns:
-	.string "Do you know about the FRONTIER\n"
-	.string "BRAINS?\p"
-	.string "That's what SCOTT calls the seven\n"
-	.string "special TRAINERS that run the seven\l"
-	.string "facilities in the BATTLE FRONTIER.$"
+	.string "Conosci gli ASSI del\n"
+	.string "CONFINI?\p"
+	.string "Sono i sette ALLENATORI speciali\n"
+	.string "che SCOTT chiama così e che\l"
+	.string "gestiscono le sette strutture.$"
 
 BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling_hns:
 	.string "Alla TORRE LOTTA una ragazza più\n"

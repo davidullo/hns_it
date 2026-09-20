@@ -110,69 +110,69 @@ VioletCity_PokemonCenter_Text_BookshelfWoman::
 
 
 VioletCity_PokeCenter_Text_ElmsAideFavor:
-	.string "{PLAYER}, long time, no see.\p"
-	.string "PROF.ELM asked me to find you.\p"
-	.string "He has another favor to ask.\p"
-	.string "Would you take the POKéMON EGG?$"
+	.string "{PLAYER}, è da tanto!\p"
+	.string "Il PROF.ELM mi ha chiesto di trovarti.\p"
+	.string "Ha un altro favore da chiederti.\p"
+	.string "Vuoi prendere l'UOVO POKéMON?$"
 
 VioletCity_PokeCenter_Text_ElmsAideNoRoom:
-	.string "{PLAYER}, long time, no see.\p"
-	.string "PROF.ELM asked me to find you.\p"
-	.string "He has another favor to ask.\p"
-	.string "Would you take the POKéMON EGG?\p"
-	.string "Oh, wait... You need to make room\n"
-	.string "in your party first.$"
+	.string "{PLAYER}, è da tanto!\p"
+	.string "Il PROF.ELM mi ha chiesto di trovarti.\p"
+	.string "Ha un altro favore da chiederti.\p"
+	.string "Vuoi prendere l'UOVO POKéMON?\p"
+	.string "Oh, aspetta… Prima devi fare spazio\n"
+	.string "nel tuo team.$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveEgg:
-	.string "We discovered that a POKéMON won't\n"
-	.string "hatch until it grows in the EGG.\p"
-	.string "It also has to be with other\n"
-	.string "active POKéMON to hatch.\p"
-	.string "{PLAYER}, you're the only person\n"
-	.string "we can rely on.$"
+	.string "Abbiamo scoperto che un POKéMON non\n"
+	.string "nasce finché non cresce nell'UOVO.\p"
+	.string "Deve anche stare con altri\n"
+	.string "POKéMON attivi per schiudersi.\p"
+	.string "{PLAYER}, sei l'unico di cui\n"
+	.string "possiamo fidarci.$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveItem:
 	.string "Oh, and this might help when it hatches.$"
 
 VioletCity_PokeCenter_Text_ElmsAideFullParty:
-	.string "Oh, no. You can't carry any more\n"
-	.string "POKéMON with you.\p"
-	.string "I'll wait here while you make\n"
-	.string "room for the EGG.$"
+	.string "Oh, no. Non puoi portare altri\n"
+	.string "POKéMON con te.\p"
+	.string "Aspetto qui mentre fai\n"
+	.string "spazio per l'UOVO.$"
 
 VioletCity_PokeCenter_Text_ElmsAideEggToPC:
-	.string "Oh, but you can't carry any more\n"
-	.string "POKéMON with you.\p"
-	.string "Don't worry--I sent the EGG to\n"
-	.string "BILL'S PC for you.$"
+	.string "Oh, ma non puoi portare altri\n"
+	.string "POKéMON con te.\p"
+	.string "Non temere, ho mandato l'UOVO al\n"
+	.string "PC DI BILL per te.$"
 
 VioletCity_PokeCenter_Text_ElmsAideRefuse:
-	.string "B-but… PROF.ELM asked for you…$"
+	.string "M-ma… Il PROF.ELM ti ha chiesto…$"
 
 VioletCity_PokeCenter_Text_BooksAreGreat:
-	.string "While my POKéMON are recovering\n"
-	.string "I love to read a good book.$"
+	.string "Mentre i miei POKéMON si riprendono\n"
+	.string "adoro leggere un buon libro.$"
 
 VioletCity_PokeCenter_Text_MobileAdapter:
-	.string "I just battled a friend in\n"
-	.string "CIANWOOD over a link.\p"
-	.string "If you connect a MOBILE ADAPTER,\n"
-	.string "you can link with a friend far\l"
-	.string "away.$"
+	.string "Ho appena lottato con un amico a\n"
+	.string "CIANWOOD via link.\p"
+	.string "Se colleghi un MOBILE ADAPTER,\n"
+	.string "puoi collegarti con un amico\l"
+	.string "lontano.$"
 
 VioletCity_PokeCenter_Text_GameboyKid:
-	.string "A guy named BILL made the\n"
-	.string "POKéMON PC storage system.$"
+	.string "Un tizio di nome BILL ha creato il\n"
+	.string "sistema di deposito POKéMON del PC.$"
 
 VioletCity_PokeCenter_Text_Gentleman:
-	.string "It was around three years ago.\p"
-	.string "TEAM ROCKET was up to no good\n"
-	.string "with POKéMON.\p"
-	.string "But justice prevailed--a young\n"
-	.string "kid broke 'em up.$"
+	.string "Era circa tre anni fa.\p"
+	.string "Il TEAM ROCKET combinava guai\n"
+	.string "con i POKéMON.\p"
+	.string "Ma la giustizia ha vinto: un giovane\n"
+	.string "ragazzo li ha fermati.$"
 
 VioletCity_PokeCenter_Text_Youngster:
-	.string "POKéMON are smart. They won't\n"
-	.string "obey a trainer they don't respect.\p"
-	.string "Without the right GYM BADGES,\n"
-	.string "they will just do as they please.$"
+	.string "I POKéMON sono intelligenti. Non\n"
+	.string "obbediscono a chi non rispettano.\p"
+	.string "Senza le MEDAGLIE giuste,\n"
+	.string "fanno solo ciò che vogliono.$"

@@ -336,18 +336,18 @@ Alola_Ulaula_TotemBattle_Trigger_Movement_0:
 	step_end
 
 Alola_Ulaula_TotemBattle_Text_0:
-	.string "Graah!$"
+	.string "Grah!$"
 
 Alola_Ulaula_TotemBattle_Text_1:
-	.string "Totem TANGROWTH was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "Il TANGROWTH totem è stato sconfitto!\n"
+	.string "È scappato via da qualche parte…$"
 
 Alola_Ulaula_TotemBattle_Text_2:
-	.string "Graah!$"
+	.string "Grah!$"
 
 Alola_Ulaula_TotemBattle_Text_3:
-	.string "Totem PRIMEAPE was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "Il PRIMEAPE totem è stato sconfitto!\n"
+	.string "È scappato via da qualche parte…$"
 
 UlaUla_Forest_hns_Movement_FacePlayerUpAfterTotemWarp:
 	face_up

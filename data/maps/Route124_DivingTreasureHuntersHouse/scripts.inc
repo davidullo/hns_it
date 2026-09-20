@@ -284,55 +284,55 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 	end
 
 Route124_DivingTreasureHuntersHouse_Text_Greeting:
-	.string "I'm the DIVING TREASURE HUNTER!\p"
-	.string "I'm the awesome dude who makes\n"
-	.string "deep-sea dives to gather treasures\l"
-	.string "resting at the bottom.$"
+	.string "Sono il CACCIATORE DI TESORI!\p"
+	.string "Sono quel tipo fantastico che\n"
+	.string "si immerge negli abissi a cercare\l"
+	.string "tesori sul fondo.$"
 
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
-	.string "Tell me, have you seen any SHARDS of\n"
-	.string "tools made in ancient times?$"
+	.string "Dimmi, hai visto dei COCCI di\n"
+	.string "attrezzi di tempi antichi?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
-	.string "You haven't got any treasures\n"
-	.string "for me…\p"
-	.string "If you see any SHARDS, like the RED\n"
-	.string "SHARD, you've got to trade it with me!$"
+	.string "Non hai nessun tesoro\n"
+	.string "da darmi…\p"
+	.string "Se trovi dei COCCI, come il COCCIO\n"
+	.string "ROSSO, devi scambiarli con me!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ThatsAShardIllTradeYou:
-	.string "Oh, hey! That…\n"
-	.string "That's a SHARD! I'm looking for those!\p"
-	.string "Oh, man, you've got to trade that\n"
-	.string "with me! I'll give you something good!$"
+	.string "Oh, ehi! Quello…\n"
+	.string "È un FRAMMENTO! Li sto cercando!\p"
+	.string "Oh, dai, devi scambiarlo\n"
+	.string "con me! Ti darò qualcosa di buono!$"
 
 Route124_DivingTreasureHuntersHouse_Text_WhatDoYouWantToTrade:
-	.string "What do you want to trade?$"
+	.string "Cosa vuoi scambiare?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YoullTradeShardForStone:
-	.string "You'll trade your {STR_VAR_1} for\n"
-	.string "my {STR_VAR_2}, then?$"
+	.string "Scambi il tuo {STR_VAR_1} con\n"
+	.string "la mia {STR_VAR_2}, allora?$"
 
 Route124_DivingTreasureHuntersHouse_Text_ItsADeal:
-	.string "It's a done deal!\n"
-	.string "Use that wisely!$"
+	.string "Affare fatto!\n"
+	.string "Usalo bene!$"
 
 Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
-	.string "Do you want to trade something else?$"
+	.string "Vuoi scambiare qualcos'altro?$"
 
 Route124_DivingTreasureHuntersHouse_Text_BagFull:
-	.string "Whoops, your BAG's full.\n"
-	.string "Get rid of some items, friend!$"
+	.string "Ops, hai lo ZAINO pieno.\n"
+	.string "Liberati di qualche oggetto, amico!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:
-	.string "No? That's a downer.\n"
-	.string "Well, if you change your mind, come back.$"
+	.string "No? Che peccato.\n"
+	.string "Beh, se cambi idea, torna qui.$"
 
 Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard:
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
-	.string "{CLEAR_TO 0x0f}RED SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}FIRE STONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
-	.string "{CLEAR_TO 0x06}YELLOW SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x73}THUNDERSTONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
-	.string "{CLEAR_TO 0x0c}BLUE SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x79}WATER STONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
-	.string "{CLEAR_TO 0x08}GREEN SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}LEAF STONE$"
+	.string "{CLEAR_TO 0x0a}Oggetto cercato{CLEAR_TO 0x7c}Oggetto offerto\n"
+	.string "{CLEAR_TO 0x0f}COCCIO ROSSO{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}PIETRAFUOCO{CLEAR_TO 0xc8}\p"
+	.string "{CLEAR_TO 0x0a}Oggetto cercato{CLEAR_TO 0x7c}Oggetto offerto\n"
+	.string "{CLEAR_TO 0x06}COCCIO GIALLO{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x73}PIETRATUONO{CLEAR_TO 0xc8}\p"
+	.string "{CLEAR_TO 0x0a}Oggetto cercato{CLEAR_TO 0x7c}Oggetto offerto\n"
+	.string "{CLEAR_TO 0x0c}COCCIO BLU{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x79}PIETRAIDRICA{CLEAR_TO 0xc8}\p"
+	.string "{CLEAR_TO 0x0a}Oggetto cercato{CLEAR_TO 0x7c}Oggetto offerto\n"
+	.string "{CLEAR_TO 0x08}COCCIO VERDE{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}PIETRAFOGLIA$"

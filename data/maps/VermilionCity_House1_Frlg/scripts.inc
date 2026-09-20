@@ -33,10 +33,10 @@ VermilionCity_House1_EventScript_NoRoomForOldRod::
 	end
 
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-	.string "I'm the FISHING GURU!\p"
-	.string "I simply looove fishing!\n"
-	.string "I can't bear to go without.\p"
-	.string "Tell me, do you like to fish?$"
+	.string "Sono il GURU DELLA PESCA!\p"
+	.string "Adoro adoro pescare!\n"
+	.string "Non posso farne a meno.\p"
+	.string "Dimmi, ti piace pescare?$"
 
 VermilionCity_House1_Text_TakeThisAndFish::
 	.string "Grande! Mi piaci.\n"
@@ -44,14 +44,14 @@ VermilionCity_House1_Text_TakeThisAndFish::
 	.string "Prendi e pesca, amico mio!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-	.string "{PLAYER} received an OLD ROD from\n"
-	.string "the FISHING GURU.$"
+	.string "{PLAYER} riceve una VECCHIA CANNA\n"
+	.string "dal GURU DELLA PESCA.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
-	.string "Fishing is a way of life!\n"
-	.string "It is like the finest poetry.\p"
-	.string "From the seas to rivers, go out\n"
-	.string "and land the big one, my friend.$"
+	.string "Pescare è uno stile di vita!\n"
+	.string "È come la poesia più bella.\p"
+	.string "Dai mari ai fiumi, esci\n"
+	.string "e prendi il pesce grosso, amico.$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
 	.string "Oh…\n"
@@ -63,6 +63,6 @@ VermilionCity_House1_Text_HowAreTheFishBiting::
 
 VermilionCity_House1_Text_NoRoomForNiceGift::
 	.string "Oh, no!\p"
-	.string "I had a nice gift for you, but you\n"
-	.string "have no room for it!$"
+	.string "Avevo un bel regalo per te, ma non\n"
+	.string "hai spazio!$"
 

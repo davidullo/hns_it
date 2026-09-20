@@ -43,37 +43,37 @@ SproutTower_1F_EventScript_ItemParalyzeHeal::
 	end
 
 SproutTower_Text_SageChow_Seen:
-	.string "We stand guard in this tower.\p"
-	.string "Here, we express our gratitude\n"
-	.string "to honor all POKéMON.$"
+	.string "Facciamo la guardia in questa torre.\p"
+	.string "Qui esprimiamo la nostra gratitudine\n"
+	.string "in onore di tutti i POKéMON.$"
 
 SproutTower_Text_SageChow_Beaten:
-	.string "Th-Thank you!$"
+	.string "Gr-Grazie!$"
 
 SproutTower_Text_SageChow_AfterBattle:
-	.string "All living beings coexist\n"
-	.string "through cooperation.\p"
-	.string "We must always be thankful\n"
-	.string "for this.$"
+	.string "Tutti gli esseri viventi convivono\n"
+	.string "grazie alla collaborazione.\p"
+	.string "Dobbiamo esserne sempre\n"
+	.string "grati.$"
 
 SproutTower_Text_1F_Sage1:
-	.string "Only if you reach the top will\n"
-	.string "you obtain an HM.$"
+	.string "Solo raggiungendo la cima\n"
+	.string "otterrai una MN.$"
 
 SproutTower_Text_1F_Sage2:
-	.string "SPROUT TOWER was built long ago\n"
-	.string "as a place for POKéMON training.$"
+	.string "La TORRE SPROUT fu costruita molto\n"
+	.string "tempo fa per allenare i POKéMON.$"
 
 SproutTower_Text_1F_Granny:
-	.string "A BELLSPROUT over 100 feet\n"
-	.string "tall…\p"
-	.string "People say that it became the\n"
-	.string "center pillar here.$"
+	.string "Un BELLSPROUT alto più di 30 m…\n"
+	.string "Dicono\p"
+	.string "che sia diventato la colonna\n"
+	.string "centrale di questo posto.$"
 
 SproutTower_Text_1F_Teacher:
-	.string "See the pillar shaking?\p"
-	.string "People are training upstairs.$"
+	.string "Vedi il pilastro che trema?\p"
+	.string "Sopra si stanno allenando.$"
 
 SproutTower_Text_1F_Statue:
-	.string "A POKéMON statue…\p"
-	.string "It looks very distinguished.$"
+	.string "Una statua di POKéMON…\p"
+	.string "Sembra molto distinta.$"

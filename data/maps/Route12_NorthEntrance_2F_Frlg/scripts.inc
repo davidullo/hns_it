@@ -44,37 +44,37 @@ Route12_NorthEntrance_2F_EventScript_ExplainTM27::
 
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-	.string "My POKéMON's ashes are stored in\n"
-	.string "POKéMON TOWER.\p"
-	.string "You can have this TM.\n"
-	.string "I don't need it anymore…$"
+	.string "Le ceneri dei miei POKéMON sono\n"
+	.string "nella TORRE POKéMON.\p"
+	.string "Puoi prendere questa MT.\n"
+	.string "Non mi serve più…$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-	.string "My POKéMON's ashes are stored in\n"
-	.string "POKéMON TOWER.\p"
-	.string "You can have this TM.\n"
-	.string "I don't need it anymore…$"
+	.string "Le ceneri dei miei POKéMON sono\n"
+	.string "nella TORRE POKéMON.\p"
+	.string "Puoi prendere questa MT.\n"
+	.string "Non mi serve più…$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
-	.string "{PLAYER} received TM27\n"
-	.string "from the little girl.$"
+	.string "{PLAYER} ha ricevuto la MT27\n"
+	.string "dalla bambina.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-	.string "TM27 is a move called RETURN…\p"
-	.string "If you treat your POKéMON good,\n"
-	.string "it will return your love by working\l"
-	.string "its hardest in battle.$"
+	.string "La MT27 è la mossa RITORNO…\p"
+	.string "Se tratti bene i POKéMON,\n"
+	.string "ti ricambieranno l'affetto dando\l"
+	.string "il massimo in lotta.$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
-	.string "You don't have room for this.$"
+	.string "Non hai spazio per questo.$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "There's a man fishing!$"
+	.string "Vediamo cosa mostrano\n"
+	.string "i binocoli…\p"
+	.string "C'è un uomo che pesca!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "It's POKéMON TOWER!$"
+	.string "Vediamo cosa mostrano\n"
+	.string "i binocoli…\p"
+	.string "È la TORRE POKéMON!$"
 

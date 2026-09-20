@@ -30,37 +30,37 @@ Route6_EventScript_Item_Silver_Wind::
     end
 
 Route6_Text_PokefanM:
-	.string "The road is closed until the\n"
-	.string "problem at the POWER PLANT is\l"
-	.string "solved.$"
+	.string "La strada è chiusa finché non\n"
+	.string "si risolve il problema alla\l"
+	.string "CENTRALE ELETTRICA.$"
 
 Route6_Text_UndergroundPathSign:
-	.string "UNDERGROUND PATH\p"
+	.string "VIA SOTTERRANEA\p"
 	.string "CERULEAN CITY - VERMILION CITY$"
 
 PokefanM_Text_RexSeen:
-	.string "My STANTLER is the cutest in the\n"
-	.string "world.$"
+	.string "Il mio STANTLER è il più tenero del\n"
+	.string "mondo.$"
 
 PokefanM_Text_RexBeaten:
-	.string "My STANTLER!$"
+	.string "Il mio STANTLER!$"
 
 PokefanM_Text_RexAfter:
-	.string "Look how adorable my STANTLER\n"
-	.string "acts!\p"
-	.string "Isn't it cute enough to make\n"
-	.string "your heart melt?$"
+	.string "Guarda che tenero che fa il mio\n"
+	.string "STANTLER!\p"
+	.string "Non è così dolce da\n"
+	.string "scioglierti il cuore?$"
 
 PokefanM_Text_AllanSeen:
-	.string "My GRANBULL is the cutest in the\n"
-	.string "world.$"
+	.string "Il mio GRANBULL è il più tenero del\n"
+	.string "mondo.$"
 
 PokefanM_Text_AllanBeaten:
-	.string "My GRANBULL!$"
+	.string "Il mio GRANBULL!$"
 
 PokefanM_Text_AllanAfter:
-	.string "Look how adorable my GRANBULL\n"
-	.string "acts!\p"
-	.string "Isn't it cute enough to make\n"
-	.string "your heart melt?$"
+	.string "Guarda che tenero che fa il mio\n"
+	.string "GRANBULL!\p"
+	.string "Non è così dolce da\n"
+	.string "scioglierti il cuore?$"
 

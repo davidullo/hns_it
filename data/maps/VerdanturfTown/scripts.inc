@@ -62,64 +62,64 @@ VerdanturfTown_EventScript_RusturfTunnelSign::
 	end
 
 VerdanturfTown_Text_ManTryingToDigTunnel:
-	.string "My papa told me.\p"
-	.string "He says this tunnel is full of\n"
-	.string "timid POKéMON.\p"
-	.string "They get all scared of loud noise and\n"
-	.string "make a big uproar.\p"
-	.string "So they had to stop the big tunnel\n"
-	.string "project.\p"
-	.string "But there's one man. He's trying to dig\n"
-	.string "the tunnel by himself!$"
+	.string "Me l'ha detto il mio papà.\p"
+	.string "Dice che questo tunnel è pieno di\n"
+	.string "POKéMON timidi.\p"
+	.string "Si spaventano per i rumori forti e\n"
+	.string "fanno una gran baraonda.\p"
+	.string "Così hanno dovuto fermare il grande\n"
+	.string "progetto del tunnel.\p"
+	.string "Ma c'è un uomo. Prova a scavare\n"
+	.string "il tunnel tutto da solo!$"
 
 VerdanturfTown_Text_ManDugTunnelForLove:
-	.string "There was a man who dug a tunnel for\n"
-	.string "a lady he loved.\p"
-	.string "I don't really get it, but hey!$"
+	.string "C'era un uomo che scavò un tunnel per\n"
+	.string "la donna che amava.\p"
+	.string "Io non lo capisco, ma vabbè!$"
 
 VerdanturfTown_Text_AirCleanHere:
-	.string "The way the winds blow, volcanic ash\n"
-	.string "is never blown in this direction.\p"
-	.string "The air is clean and delicious here.\n"
-	.string "Living here should do wonders for even\l"
-	.string "frail and sickly people.$"
+	.string "Per come soffiano i venti, la cenere\n"
+	.string "vulcanica non arriva mai da questa parte.\p"
+	.string "L'aria qui è pulita e deliziosa.\n"
+	.string "Vivere qui fa bene persino alle persone\l"
+	.string "deboli e malaticce.$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
-	.string "My POKéMON and I, we've been riding\n"
-	.string "a hot winning streak.\p"
-	.string "So I decided to make my BATTLE TENT\n"
-	.string "debut in this town.$"
+	.string "Io e i miei POKéMON stiamo\n"
+	.string "vincendo alla grande.\p"
+	.string "Così ho deciso di esordire nella\n"
+	.string "TENDA LOTTA di questa città.$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
-	.string "Did you see the cave next to the\n"
-	.string "POKéMON MART?\p"
-	.string "There's a guy in there who's trying to\n"
-	.string "bust up boulders so he can bust out\l"
-	.string "through to the other side.\p"
-	.string "It'd be great if we could go through…\n"
-	.string "It'll make it easy to visit RUSTBORO.$"
+	.string "Hai visto la grotta accanto al\n"
+	.string "MART POKéMON?\p"
+	.string "C'è un tipo là dentro che prova a\n"
+	.string "spaccare i massi per aprirsi un varco\l"
+	.string "fino all'altro lato.\p"
+	.string "Sarebbe bello poter passare…\n"
+	.string "Renderebbe facile andare a RUSTBORO.$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "That cave next to the POKéMON MART\n"
-	.string "is now a tunnel to the other side.\p"
-	.string "It's great--it's easy to go shop for\n"
-	.string "new DEVON products in RUSTBORO now.$"
+	.string "Quella grotta vicino al MART POKéMON\n"
+	.string "ora è un tunnel per l'altro lato.\p"
+	.string "Che bello, ora è facile andare a comprare\n"
+	.string "i nuovi prodotti DEVON a FERRUGIPPA.$"
 
 VerdanturfTown_Text_TownSign:
-	.string "VERDANTURF TOWN\p"
-	.string "“The windswept highlands with the\n"
-	.string "sweet fragrance of grass.”$"
+	.string "VERDANTURF\p"
+	.string "“Gli altopiani ventosi con la dolce\n"
+	.string "fragranza dell'erba.”$"
 
 VerdanturfTown_Text_WandasHouse:
-	.string "WANDA'S HOUSE$"
+	.string "CASA DI WANDA$"
 
 VerdanturfTown_Text_BattleTentSign:
-	.string "BATTLE TENT VERDANTURF SITE\n"
-	.string "“Feast Your Eyes on Battles!”$"
+	.string "TENDA LOTTA SEDE DI VERDANTURF\n"
+	.string "“Uno spettacolo di lotte!”$"
 
 VerdanturfTown_Text_RusturfTunnelSign:
 	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
-	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
+	.string "“Collega RUSTBORO e VERDANTURF\p"
+	.string "“Il progetto della galleria è stato\n"
+	.string "annullato.””$"
 

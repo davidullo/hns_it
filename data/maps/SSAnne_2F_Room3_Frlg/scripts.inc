@@ -10,14 +10,14 @@ SSAnne_2F_Room3_EventScript_OldMan::
 	end
 
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
-	.string "Ah, yes, I have seen some POKéMON\n"
-	.string "ferry people across the water!$"
+	.string "Ah, sì, ho visto dei POKéMON\n"
+	.string "traghettare gente sull'acqua!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
-	.string "Small trees can be chopped down\n"
-	.string "using the move CUT.\p"
-	.string "But remember this!\n"
-	.string "CUT is an HM technique.\p"
-	.string "Once learned, it is not so easily\n"
-	.string "discarded.$"
+	.string "I piccoli alberi si abbattono\n"
+	.string "con la mossa TAGLIO.\p"
+	.string "Ma ricorda bene!\n"
+	.string "TAGLIO è una mossa MN.\p"
+	.string "Una volta imparata, non si\n"
+	.string "dimentica facilmente.$"
 

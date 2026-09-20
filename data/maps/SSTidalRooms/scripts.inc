@@ -63,113 +63,113 @@ SSTidalRooms_EventScript_Naomi::
 	end
 
 SSTidalRooms_Text_TakeRestOnBed:
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.string "C'è un letto…\n"
+	.string "Riposiamoci un po'.$"
 
 SSTidalRooms_Text_ColtonIntro:
-	.string "I often sail to LILYCOVE CITY.\p"
-	.string "I enjoy attending CONTESTS,\n"
-	.string "you see.$"
+	.string "Vado spesso a LILYCOVE.\p"
+	.string "Mi piace partecipare alle GARE,\n"
+	.string "sai.$"
 
 SSTidalRooms_Text_ColtonDefeat:
-	.string "That was an enjoyable match!$"
+	.string "Che bella lotta!$"
 
 SSTidalRooms_Text_ColtonPostBattle:
-	.string "I get so excited imagining what kinds\n"
-	.string "of POKéMON I'll get to see in the next\l"
-	.string "CONTEST. The anticipation of it thrills!$"
+	.string "Mi emoziono immaginando che tipi\n"
+	.string "di POKéMON vedrò alla prossima\l"
+	.string "GARA. Il Presagio mi entusiasma!$"
 
 SSTidalRooms_Text_MicahIntro:
-	.string "Are your friends strong?$"
+	.string "I tuoi amici sono forti?$"
 
 SSTidalRooms_Text_MicahDefeat:
-	.string "Your friends are, indeed, strong.$"
+	.string "I tuoi amici sono davvero forti.$"
 
 SSTidalRooms_Text_MicahPostBattle:
-	.string "Friends need not be human.\n"
-	.string "For me, POKéMON are treasured friends!$"
+	.string "Gli amici non devono essere umani.\n"
+	.string "Per me i POKéMON sono amici preziosi!$"
 
 SSTidalRooms_Text_ThomasIntro:
-	.string "Child…\n"
-	.string "Did you knock on the door?$"
+	.string "Ragazzo…\n"
+	.string "Hai bussato alla porta?$"
 
 SSTidalRooms_Text_ThomasDefeat:
-	.string "A loss is to be accepted without haste\n"
-	.string "or panic.$"
+	.string "Una sconfitta va accettata senza fretta\n"
+	.string "né panico.$"
 
 SSTidalRooms_Text_ThomasPostBattle:
-	.string "To be never ruffled in any situation is\n"
-	.string "the GENTLEMAN's code of conduct.$"
+	.string "Mai perdere la calma in ogni situazione:\n"
+	.string "è il codice del GENTLEMAN.$"
 
 SSTidalRooms_Text_JedIntro:
-	.string "JED: I feel a little shy about this, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
+	.string "JED: Mi imbarazza un po', ma…\n"
+	.string "Ti mostreremo la nostra forza amorosa!$"
 
 SSTidalRooms_Text_JedDefeat:
-	.string "JED: Sigh…$"
+	.string "JED: Uff…$"
 
 SSTidalRooms_Text_JedPostBattle:
-	.string "JED: It's the first time that our lovey-\n"
-	.string "dovey power couldn't prevail!\l"
-	.string "You must be an awesome TRAINER!$"
+	.string "JED: È la prima volta che la nostra\n"
+	.string "forza amorosa non prevale!\l"
+	.string "Devi essere un allenatore forte!$"
 
 SSTidalRooms_Text_JedNotEnoughMons:
-	.string "JED: You only have one POKéMON?\n"
-	.string "Isn't that just too lonesome?$"
+	.string "JED: Hai un solo POKéMON?\n"
+	.string "Non ti senti troppo solo?$"
 
 SSTidalRooms_Text_LeaIntro:
-	.string "LEA: I feel a little silly, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
+	.string "LEA: Mi sento un po' sciocca, ma…\n"
+	.string "Ti mostreremo la nostra forza amorosa!$"
 
 SSTidalRooms_Text_LeaDefeat:
-	.string "LEA: Oh, boo!$"
+	.string "LEA: Oh, che noia!$"
 
 SSTidalRooms_Text_LeaPostBattle:
-	.string "LEA: I can't believe it!\n"
-	.string "Our lovey-dovey power failed…\l"
-	.string "You must be an awesome TRAINER!$"
+	.string "LEA: Non ci credo!\n"
+	.string "La nostra forza amorosa ha fallito…\l"
+	.string "Devi essere un allenatore forte!$"
 
 SSTidalRooms_Text_LeaNotEnoughMons:
-	.string "LEA: I wanted to battle…\n"
-	.string "But you don't even have two POKéMON…$"
+	.string "LEA: Volevo lottare…\n"
+	.string "Ma non hai nemmeno due POKéMON…$"
 
 SSTidalRooms_Text_GarretIntro:
-	.string "Ah, you've come just in time.\p"
-	.string "I'm bored, you see.\n"
-	.string "You may entertain me.$"
+	.string "Ah, sei arrivato giusto in tempo.\p"
+	.string "Sai, mi annoio.\n"
+	.string "Puoi divertirmi un po'.$"
 
 SSTidalRooms_Text_GarretDefeat:
-	.string "…That will do.$"
+	.string "…Può bastare.$"
 
 SSTidalRooms_Text_GarretPostBattle:
-	.string "Perhaps I shall get Father to acquire\n"
-	.string "a yacht for me.\l"
-	.string "A yacht for me and POKéMON!$"
+	.string "Forse chiederò a papà di comprarmi\n"
+	.string "uno yacht.\l"
+	.string "Uno yacht per me e i POKéMON!$"
 
 SSTidalRooms_Text_NaomiIntro:
-	.string "Oh, you're such an adorable TRAINER.\n"
-	.string "Would you like to have tea?\l"
-	.string "Or would you rather battle?$"
+	.string "Oh, sei un allenatore adorabile.\n"
+	.string "Ti va di bere un tè?\l"
+	.string "O preferisci lottare?$"
 
 SSTidalRooms_Text_NaomiDefeat:
-	.string "I see.\n"
-	.string "You're the active sort.$"
+	.string "Capisco.\n"
+	.string "Sei il tipo attivo.$"
 
 SSTidalRooms_Text_NaomiPostBattle:
-	.string "A world cruise on a luxury liner has its\n"
-	.string "charms, I must say…\p"
-	.string "But, I will admit there is an appealing\n"
-	.string "side to touring HOENN by ferry.$"
+	.string "Una crociera su un transatlantico ha il\n"
+	.string "suo fascino, devo dire…\p"
+	.string "Ma ammetto che c'è un lato allettante\n"
+	.string "nel girare HOENN in traghetto.$"
 
 SSTidalRooms_Text_NotSuspiciousTakeThis:
-	.string "Uh… Hi! I… I'm not acting suspicious!\n"
-	.string "Uh… You can have this! For free!\p"
-	.string "It… Honestly, I didn't SNATCH it from\n"
-	.string "someone! I'd never do such a thing!\l"
-	.string "It's clean! You can use it!$"
+	.string "Uh… Ciao! Io… non sono sospetto!\n"
+	.string "Uh… Puoi prenderlo! Gratis!\p"
+	.string "Io… Davvero, non l'ho rubato a\n"
+	.string "nessuno! Non farei mai una cosa così!\l"
+	.string "È pulito! Puoi usarlo!$"
 
 SSTidalRooms_Text_ExplainSnatch:
-	.string "SNATCH steals the beneficial effects\n"
-	.string "of certain moves before they can be\l"
-	.string "used by a foe or ally.$"
+	.string "Scippo ruba gli effetti positivi\n"
+	.string "di certe mosse prima che le usi\l"
+	.string "un nemico o un alleato.$"
 

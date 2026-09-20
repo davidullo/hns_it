@@ -209,8 +209,8 @@ LilycoveCity_DepartmentStoreRooftop_Text_CanOfDrinkDroppedDown:
 
 LilycoveCity_DepartmentStoreRooftop_Text_ExtraCanOfDrinkDroppedDown:
 	.string "Clang!\p"
-	.string "Score! An extra can of {STR_VAR_1}\n"
-	.string "dropped down!$"
+	.string "Evviva! Una lattina extra di {STR_VAR_1}\n"
+	.string "è caduta!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_NotEnoughMoney:
 	.string "Soldi insufficienti…$"

@@ -59,7 +59,7 @@ LavaridgeTown_HerbShop_Text_ExplainCharcoal:
 	.string "di tipo FUOCO.$"
 
 LavaridgeTown_HerbShop_Text_HerbalMedicineWorksButMonWillDislike:
-	.string "Herbal medicine works impressively well.\n"
-	.string "But your POKéMON will dislike you for it.\l"
-	.string "It must be horribly bitter!$"
+	.string "Le erbe medicinali funzionano benissimo.\n"
+	.string "Ma i tuoi POKéMON ti detesteranno.\l"
+	.string "Devono essere amare all'inverosimile!$"
 

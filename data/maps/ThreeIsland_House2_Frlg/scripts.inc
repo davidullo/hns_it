@@ -16,17 +16,17 @@ ThreeIsland_House2_EventScript_Rocker::
 ThreeIsland_House2_Text_CantMakeThisSpoonBend::
 	.string "Urrrrrrrrgggghhhh…\n"
 	.string "Kwaaaaah!\p"
-	.string "…It's useless! I can't make this\n"
-	.string "spoon bend with my mind.\p"
-	.string "Maybe I really don't have any\n"
-	.string "psychic powers.$"
+	.string "…Non serve a niente! Non riesco\n"
+	.string "a piegare il cucchiaio col\p"
+	.string "pensiero. Forse non ho proprio\n"
+	.string "poteri psichici.$"
 
 ThreeIsland_House2_Text_IAdmireSabrina::
-	.string "You know about a girl GYM LEADER\n"
-	.string "in SAFFRON CITY?\p"
-	.string "She uses PSYCHIC-type POKéMON,\n"
-	.string "right?\p"
-	.string "I admire her, I really do.\p"
-	.string "I've heard that she's one cool\n"
-	.string "customer and beautiful, too.$"
+	.string "Conosci una ragazza CAPOPALESTRA\n"
+	.string "di ZAFFERANOPOLI?\p"
+	.string "Usa POKéMON di tipo PSICO,\n"
+	.string "vero?\p"
+	.string "La ammiro, davvero.\p"
+	.string "Ho sentito che è una tipa\n"
+	.string "tosta e anche bella.$"
 

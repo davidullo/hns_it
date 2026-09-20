@@ -23,25 +23,25 @@ PewterCity_Museum_2F_EventScript_Meteor::
 	end
 
 PewterCity_Museum_2F_Text_Nerd:
-	.string "They say that meteorites struck\n"
+	.string "Dicono che dei meteoriti colpirono\n"
 	.string "BIRTH ISLAND.\p"
-	.string "We would love to display them here\n"
-	.string "in our museum, but...\p"
-	.string "These meteorites are said to emit\n"
-	.string "strange energy and cannot be\l"
-	.string "carried away...$"
+	.string "Ci piacerebbe esporli qui\n"
+	.string "nel nostro museo, ma…\p"
+	.string "Si dice che questi meteoriti\n"
+	.string "emettano energia strana e non\l"
+	.string "si possano portare via…$"
 
 PewterCity_Museum_2F_Text_AskedDaddyToCatchPikachu::
-    .string "I want a PIKACHU!\n"
-    .string "It's so cute!\p"
-    .string "I asked my daddy to catch me one!$"
+    .string "Voglio un PIKACHU!\n"
+    .string "È così carino!\p"
+    .string "Ho chiesto al mio papà di prenderlo!$"
 
 PewterCity_Museum_2F_Text_PikachuSoonIPromise::
-    .string "Yeah, a PIKACHU soon, I promise!$"
+    .string "Sì, un PIKACHU presto, te lo prometto!$"
 
 PewterCity_Museum_2F_Text_SpaceShuttle::
-    .string "Space Shuttle$"
+    .string "Navetta spaziale$"
 
 PewterCity_Museum_2F_Text_MeteoriteThatFellOnMtMoon::
-    .string "A meteorite that fell on MT. MOON.\n"
-    .string "It is thought to be a MOON STONE.$"
+    .string "Un meteorite caduto sul MT. MOON.\n"
+    .string "Si pensa sia una PIETRA LUNARE.$"

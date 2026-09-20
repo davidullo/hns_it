@@ -12,25 +12,25 @@ SSAnne_2F_Room2_EventScript_Brooks::
 	end
 
 SSAnne_2F_Room2_Text_BrooksIntro::
-	.string "Competing against the young keeps\n"
-	.string "me youthful.$"
+	.string "Sfidare i giovani mi\n"
+	.string "mantiene giovane.$"
 
 SSAnne_2F_Room2_Text_BrooksDefeat::
-	.string "Good match!\n"
-	.string "Ah, I feel young again!$"
+	.string "Bella sfida!\n"
+	.string "Ah, mi sento di nuovo giovane!$"
 
 SSAnne_2F_Room2_Text_BrooksPostBattle::
-	.string "Fifteen years ago, I would\n"
-	.string "have won!$"
+	.string "Quindici anni fa\n"
+	.string "avrei vinto io!$"
 
 SSAnne_2F_Room2_Text_DaleIntro::
-	.string "Check out what I fished up!$"
+	.string "Guarda cosa ho pescato!$"
 
 SSAnne_2F_Room2_Text_DaleDefeat::
-	.string "I'm all out!$"
+	.string "Sono a secco!$"
 
 SSAnne_2F_Room2_Text_DalePostBattle::
-	.string "Party?\p"
-	.string "The cruise ship's party should be\n"
-	.string "over by now.$"
+	.string "Festa?\p"
+	.string "La festa della nave ormai\n"
+	.string "sarà finita.$"
 

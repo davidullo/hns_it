@@ -36,19 +36,19 @@ ThreeIsland_Mart_EventScript_Youngster::
 	end
 
 ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger::
-	.string "Is it true?\p"
-	.string "CELADON DEPT. STORE is several\n"
-	.string "times bigger than this shop?$"
+	.string "È vero?\p"
+	.string "Il CENTRO COMMERCIALE di AZZURROPOLI\n"
+	.string "è molto più grande di questo negozio?$"
 
 ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest::
-	.string "I sometimes buy medicine here.\p"
-	.string "But a lot of people heal POKéMON\n"
-	.string "with BERRIES from BERRY FOREST.\p"
-	.string "After all, BERRIES are free and\n"
-	.string "they never run out.$"
+	.string "A volte compro medicine qui.\p"
+	.string "Ma molti curano i POKéMON\n"
+	.string "con le BACCE della FORESTA BACCA.\p"
+	.string "Dopotutto, le BACCE sono gratis\n"
+	.string "e non finiscono mai.$"
 
 ThreeIsland_Mart_Text_BikersWereAboutToTrashMart::
-	.string "Those BIKERS were about to trash\n"
-	.string "this POKéMON MART.\p"
-	.string "Am I glad they decided to leave!$"
+	.string "Quei BIKER stavano per distruggere\n"
+	.string "questo MART POKéMON.\p"
+	.string "Che sollievo che se ne siano andati!$"
 

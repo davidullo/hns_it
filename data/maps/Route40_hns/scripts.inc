@@ -17,16 +17,16 @@ Route40_EventScript_Simon::
 	end
 
 Route40_Text_SwimmermSimonSeen:
-	.string "You have to warm up before\n"
-	.string "going into the water.\p"
-	.string "That's basic.$"
+	.string "Bisogna riscaldarsi prima\n"
+	.string "di entrare in acqua.\p"
+	.string "È la base.$"
 
 Route40_Text_SwimmermSimonBeaten:
-	.string "OK! Uncle! I give!$"
+	.string "OK! Mi arrendo!$"
 
 Route40_Text_SwimmermSimonAfter:
-	.string "CIANWOOD CITY is a good\n"
-	.string "distance away from here.$"
+	.string "FIORLISOPRA è ancora\n"
+	.string "abbastanza lontana da qui.$"
 
 Route40_EventScript_Randall::
 	trainerbattle_single TRAINER_RANDALL_HNS, Route40_Text_SwimmermRandallSeen, Route40_Text_SwimmermRandallBeaten
@@ -34,16 +34,16 @@ Route40_EventScript_Randall::
 	end
 
 Route40_Text_SwimmermRandallSeen:
-	.string "Hey, you're young and fit!\p"
-	.string "Don't ride your POKéMON!\n"
-	.string "Swim!$"
+	.string "Ehi, sei giovane e in forma!\p"
+	.string "Non cavalcare i POKéMON!\n"
+	.string "Nuota!$"
 
 Route40_Text_SwimmermRandallBeaten:
-	.string "Uh-oh. I lost…$"
+	.string "Uh-oh. Ho perso…$"
 
 Route40_Text_SwimmermRandallAfter:
-	.string "Swimming exercises your\n"
-	.string "entire body. It's healthy.$"
+	.string "Nuotare allena tutto\n"
+	.string "il corpo. Fa bene.$"
 
 Route40_EventScript_Elaine::
 	trainerbattle_single TRAINER_ELAINE_HNS, Route40_Text_SwimmerfElaineSeen, Route40_Text_SwimmerfElaineBeaten
@@ -51,16 +51,16 @@ Route40_EventScript_Elaine::
 	end
 
 Route40_Text_SwimmerfElaineSeen:
-	.string "Are you going to CIANWOOD?\p"
-	.string "How about a quick battle\n"
-	.string "first?$"
+	.string "Vai a FIORLISOPRA?\p"
+	.string "Facciamo prima\n"
+	.string "una lotta veloce?$"
 
 Route40_Text_SwimmerfElaineBeaten:
-	.string "I lost that one!$"
+	.string "Ho perso!$"
 
 Route40_Text_SwimmerfElaineAfter:
-	.string "I'd say I'm a better swimmer\n"
-	.string "than you. Yeah!$"
+	.string "Io nuoto meglio\n"
+	.string "di te. Già!$"
 
 Route40_EventScript_Paula::
 	trainerbattle_single TRAINER_PAULA_HNS, Route40_Text_SwimmerfPaulaSeen, Route40_Text_SwimmerfPaulaBeaten
@@ -68,16 +68,16 @@ Route40_EventScript_Paula::
 	end
 
 Route40_Text_SwimmerfPaulaSeen:
-	.string "No inner tube for me.\p"
-	.string "I'm hanging on to a sea\n"
+	.string "Niente ciambella per me.\p"
+	.string "Sto aggrappata a un\n"
 	.string "POKéMON!$"
 
 Route40_Text_SwimmerfPaulaBeaten:
-	.string "Ooh, I'm feeling dizzy!$"
+	.string "Ooh, mi gira la testa!$"
 
 Route40_Text_SwimmerfPaulaAfter:
-	.string "While I float like this,\n"
-	.string "the waves carry me along.$"
+	.string "Mentre galleggio così,\n"
+	.string "le onde mi portano via.$"
 
 Route40_EventScript_Woman1::
 	lock
@@ -88,8 +88,8 @@ Route40_EventScript_Woman1::
 	end
 
 Route40_Text_Lass1:
-	.string "Although you can't see it from here,\n"
-	.string "CIANWOOD is across the sea.$"
+	.string "Anche se da qui non si vede,\n"
+	.string "CIANWOOD è oltre il mare.$"
 
 Route40_EventScript_Woman2::
 	lock
@@ -100,11 +100,11 @@ Route40_EventScript_Woman2::
 	end
 
 Route40_Text_Lass2:
-	.string "I came to OLIVINE by ship to see\n"
-	.string "the sights and soak up the\l"
-	.string "atmosphere.\p"
-	.string "Being a port, it feels so\n"
-	.string "different from a big city.$"
+	.string "Sono arrivata a OLIVINE in nave per\n"
+	.string "vedere i posti e respirare\l"
+	.string "l'atmosfera.\p"
+	.string "Essendo un porto, è molto\n"
+	.string "diverso da una grande città.$"
 
 Route40_EventScript_Youngster::
 	lock
@@ -115,42 +115,42 @@ Route40_EventScript_Youngster::
 	end
 
 Route40_Text_StandingYoungster:
-	.string "Have you gone to the TRAINER\n"
-	.string "HILL?\p"
-	.string "I think a lot of tough trainers\n"
-	.string "have gathered there already.\p"
-	.string "But since you have so many BADGES\n"
-	.string "you shouldn't do badly at all.$"
+	.string "Sei andato alla COLLINA\n"
+	.string "ALLENATORI?\p"
+	.string "Credo che tanti allenatori\n"
+	.string "forti si siano già radunati lì.\p"
+	.string "Ma con tutte le MEDAGLIE che hai\n"
+	.string "non dovresti avere problemi.$"
 
 Route40_Text_Monica:
-	.string "MONICA: Glad to meet you.\n"
-	.string "I'm MONICA of the WEEKDAY FAMILY.\p"
-	.string "I bet you can't guess my favorite\n"
-	.string "day of the week!$"
+	.string "MONICA: Piacere di conoscerti.\n"
+	.string "Sono MONICA della FAMIGLIA DEI GIORNI.\p"
+	.string "Scommetto che non indovini il mio\n"
+	.string "giorno preferito!$"
 
 Route40_Text_MonicaGivesGift:
-	.string "That's right!\p"
-	.string "As a token of our friendship,\n"
-	.string "I have a gift for you!$"
+	.string "Esatto!\p"
+	.string "In segno della nostra amicizia,\n"
+	.string "ho un regalo per te!$"
 
 Route40_Text_MonicaGaveGift:
-	.string "MONICA: It's an item that raises\n"
-	.string "the power of FLYING-type moves.\p"
-	.string "You should equip a bird\n"
-	.string "POKéMON with that item.$"
+	.string "MONICA: È un oggetto che aumenta\n"
+	.string "la potenza delle mosse VOLANTE.\p"
+	.string "Dovresti darlo a un POKéMON\n"
+	.string "uccello.$"
 
 Route40_Text_MonicaMonday:
-	.string "MONICA: My brothers and\n"
-	.string "sisters are all over the place.\p"
-	.string "See if you could find\n"
-	.string "them all!$"
+	.string "MONICA: I miei fratelli e\n"
+	.string "sorelle sono in giro.\p"
+	.string "Vedi se riesci a\n"
+	.string "trovarli tutti!$"
 
 Route40_Text_MonicaNotMonday:
-	.string "MONICA: I don't think today\n"
-	.string "is Monday. How sad…$"
+	.string "MONICA: Oggi non mi pare\n"
+	.string "lunedì. Che tristezza…$"
 
 Route40_Text_MonicaNope:
-	.string "Not that one.$"
+	.string "Non è quello giusto.$"
 
 Rotue40_EventScript_Monica::
 	lock

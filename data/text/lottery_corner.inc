@@ -1,12 +1,12 @@
 LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
-	.string "This is the POKéMON LOTTERY CORNER.\p"
-	.string "All shoppers at our DEPARTMENT STORE\n"
-	.string "get to draw a POKéMON LOTO TICKET.\p"
-	.string "If the LOTO TICKET's number matches\n"
-	.string "the ID number of any of your POKéMON,\l"
-	.string "you will receive a fabulous gift.\p"
-	.string "Would you like to draw a POKéMON\n"
-	.string "LOTO TICKET?$"
+	.string "Questo è l'ANGOLO LOTTERIA POKéMON.\p"
+	.string "Tutti i clienti del nostro GRANDE\n"
+	.string "MAGAZZINO ricevono un BIGLIETTO LOTO.\p"
+	.string "Se il numero del BIGLIETTO LOTO coincide\n"
+	.string "con l'ID di uno dei tuoi POKéMON,\l"
+	.string "riceverai un regalo favoloso.\p"
+	.string "Vuoi estrarre un BIGLIETTO\n"
+	.string "LOTO POKéMON?$"
 
 LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow:
 	.string "Torna domani.$"
@@ -25,16 +25,16 @@ LilycoveCity_DepartmentStore_1F_Text_TicketNumberIsXPleaseWait:
 	.string "ID dei tuoi POKéMON. Attendi.$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPartyMon:
-	.string "Congratulations!\p"
-	.string "The ID number of your team's\n"
-	.string "{STR_VAR_1} matches your\l"
-	.string "LOTO TICKET's number!$"
+	.string "Congratulazioni!\p"
+	.string "Il numero ID del tuo\n"
+	.string "{STR_VAR_1} in squadra corrisponde\l"
+	.string "al numero del BIGLIETTO LOTTO!$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPCMon:
-	.string "Congratulations!\p"
-	.string "The ID number of your PC-boxed\n"
-	.string "{STR_VAR_1} matches your\l"
-	.string "LOTO TICKET's number!$"
+	.string "Congratulazioni!\p"
+	.string "Il numero ID del tuo\n"
+	.string "{STR_VAR_1} nel PC corrisponde\l"
+	.string "al numero del tuo BIGLIETTO LOTTO!$"
 
 LilycoveCity_DepartmentStore_1F_Text_NoNumbersMatched:
 	.string "Mi dispiace.\n"
