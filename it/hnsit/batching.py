@@ -193,6 +193,31 @@ def write_batch(kind: str, name: str, chunk: list, metrics, terms, limits=None) 
     return out
 
 
+def _accorcia_a_byte(it_lines, limit: int, metrics):
+    """Prova a far entrare la traduzione nel tetto di byte tagliando parole.
+
+    Un campo da 8 byte non diventa piu' largo perche' l'italiano e' piu' lungo
+    dell'inglese: se "PANCETTA ROSOLATA" non entra, "PANCETTA" si'. Meglio una
+    parola vera che l'inglese.
+    """
+    if metrics.encoded_len("".join(it_lines)) <= limit:
+        return it_lines
+    if len(it_lines) == 1:
+        words = it_lines[0].split()
+        for n in range(len(words) - 1, 0, -1):
+            cand = [" ".join(words[:n])]
+            if metrics.encoded_len(cand[0]) <= limit:
+                return cand
+        for w in sorted(words, key=len):
+            if metrics.encoded_len(w) <= limit:
+                return [w]
+        return None
+    for keep in range(len(it_lines) - 1, 0, -1):
+        if metrics.encoded_len("".join(it_lines[:keep])) <= limit:
+            return list(it_lines[:keep])
+    return None
+
+
 def apply_rows(units: dict, rows: list[dict], mark: str = "translated") -> tuple[int, list[str]]:
     applied = 0
     failed: list[str] = []
@@ -226,6 +251,19 @@ def apply_rows(units: dict, rows: list[dict], mark: str = "translated") -> tuple
         # di riga entro il limite del gioco. Se non passano, non entrano.
         problems = verifymod.check_unit(unit, metrics, limits)
         hard = [p for p in problems if not p.startswith("W:")]
+        # se l'unico problema e' che la traduzione non entra nel campo, si prova
+        # a farla entrare tagliando parole: e' meglio di lasciare l'inglese
+        if hard and all(p.startswith("limite:") for p in hard):
+            lim = limits.limit(unit.file, unit.label)
+            if lim is not None:
+                accorciata = _accorcia_a_byte(it_lines, lim, metrics)
+                if accorciata is not None:
+                    unit.it = accorciata
+                    unit.status = mark
+                    unit.note = "accorciata per il campo"
+                    unit.attempts = 0
+                    applied += 1
+                    continue
         if hard:
             unit.it = None
             unit.status = "pending"

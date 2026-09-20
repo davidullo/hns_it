@@ -41,5 +41,8 @@
  },
  "src/data/types_info.h": {
   "generic": 10
+ },
+ "src/scrcmd.c": {
+  "#15": 5
  }
 }

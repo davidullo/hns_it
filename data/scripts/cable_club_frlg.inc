@@ -1362,8 +1362,8 @@ Text_TrainerTooBusyToNotice_Frlg::
 	.string "occupato…$"
 
 Text_LookedAtPlayersTrainerCard_Frlg::
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!$"
+	.string "Evvai! Ho visto la {STR_VAR_1}\n"
+	.string "SCHEDA ALLENATORE!$"
 
 Text_LookedAtPlayersTrainerCardColored_Frlg::
 	.string "Score! Got to look at {STR_VAR_1}'s\n"

@@ -25,6 +25,7 @@ from pathlib import Path
 
 
 from . import batching as batchmod
+from . import buffers
 from . import store
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -206,7 +207,14 @@ def main() -> int:
                 if not chunk:
                     break
                 name = f"{args.kind}-r{round_no:03d}-b{idx:02d}"
-                bpath = batchmod.write_batch(args.kind, name, chunk, metrics, terms)
+                bpath = batchmod.write_batch(
+                    args.kind,
+                    name,
+                    chunk,
+                    metrics,
+                    terms,
+                    buffers.all_limits(store.repo_root()),
+                )
                 jobs.append((bpath, RESULT_DIR / f"{name}.jsonl", LOG_DIR / f"{name}.log", name))
             if not jobs:
                 break
