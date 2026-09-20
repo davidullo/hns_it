@@ -4,7 +4,7 @@
 
 <!-- If you want to re-record or change these gifs, here are some notes that I used: https://files.catbox.moe/05001g.md -->
 <!-- TODO: Actually change these gifs, and generally update contents to convey HnS-specific information -->
-![HnS Collage](HnS_Collage_YourAdventure.png)
+![HnS Collage](HnS_Collage_YourAdventure_IT.png)
 
 **`pokemonHnS-expansion`**, aka Pokémon Heart and Soul 2.0, is a GBA ROM hack that is both a remake of GSC and demake of HGSS, with added quality-of-life, customization, and more.  
 Originally built on top of [resetes12's **`Modern Emerald`**](https://github.com/resetes12/pokeemerald).  
