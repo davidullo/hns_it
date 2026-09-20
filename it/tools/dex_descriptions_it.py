@@ -564,15 +564,17 @@ class Esito:
     note: str = ""
     righe: list[str] = field(default_factory=list)
     blk: "Block | None" = None
+    prima: str = ""  # it / en / ? : com'era il testo prima della sostituzione
 
 
-def process(blocks: list[Block], index: dict[int, str], dex_map: dict[str, int],
-            metrics, only: str | None = None) -> list[Esito]:
-    esiti: list[Esito] = []
+def resolve_dexes(blocks: list[Block]) -> None:
+    """Riempie `.natDexNum` mancanti (macro di famiglia, poi specie base).
+
+    Alcune forme (Vivillon, Flabe'be', Florges, Unown...) non scrivono
+    `.natDexNum` nel blocco: sta dentro la macro di famiglia. Se nemmeno quella
+    c'e', il numero si eredita dalla specie base con lo stesso prefisso di nome.
+    """
     misc = load_misc_macros()
-    # Alcune forme (Vivillon, Flabe'be', Florges...) non hanno `.natDexNum` nel
-    # blocco: sta dentro la macro di famiglia. Se nemmeno quella c'e', si eredita
-    # il numero dalla specie base con lo stesso prefisso di nome.
     noto: dict[str, str] = {}
     for blk in blocks:
         if blk.dex:
@@ -589,6 +591,12 @@ def process(blocks: list[Block], index: dict[int, str], dex_map: dict[str, int],
                 if blk.species.startswith(base + "_"):
                     blk.dex = noto[base]
                     break
+
+
+def process(blocks: list[Block], index: dict[int, str], dex_map: dict[str, int],
+            metrics, only: str | None = None) -> list[Esito]:
+    esiti: list[Esito] = []
+    resolve_dexes(blocks)
     for blk in blocks:
         if only and blk.species != only:
             continue
@@ -646,6 +654,7 @@ def process(blocks: list[Block], index: dict[int, str], dex_map: dict[str, int],
                                versione, blk=blk))
             continue
         esiti.append(Esito(blk.species, blk.dex, "sostituito", "", versione, nota, righe, blk))
+        esiti[-1].prima = stato
     return esiti
 
 
@@ -700,12 +709,19 @@ def main() -> int:
              and any(m > LIMIT_PX for m in [metrics.line_width(r)[0] for r in e.righe])]
     troppe = [e for e in esiti if e.stato in ("sostituito", "gia_it") and len(e.righe) > MAX_LINES]
     acc = [e for e in esiti if e.note.startswith("accorciata")]
+    da_it = [e for e in esiti if e.stato == "sostituito" and e.prima != "en"]
 
-    print(f"\n  sostituiti : {conta.get('sostituito', 0)}")
+    print(f"\n  sostituiti : {conta.get('sostituito', 0)}"
+          f"  (di cui {len(da_it)} non erano riconoscibili come inglesi)")
     print(f"  gia' IT    : {conta.get('gia_it', 0)}")
     print(f"  in inglese : {conta.get('inglese', 0)}")
     print(f"  righe oltre {LIMIT_PX}px: {len(fuori)}   blocchi con piu' di {MAX_LINES} righe: {len(troppe)}")
     print(f"  accorciate : {len(acc)}")
+    rimasti = [e for e in esiti if e.stato == "inglese"]
+    if rimasti:
+        print("\nancora in inglese:")
+        for e in rimasti:
+            print(f"    {e.species:<32} {e.dex or '-':<34} {e.motivo}")
     motivi: dict[str, int] = {}
     for e in esiti:
         if e.stato == "inglese":
@@ -721,7 +737,15 @@ def main() -> int:
 
     if args.apply:
         n = applica(esiti)
-        print(f"\nblocchi riscritti: {n}")
+        report = CACHE_DIR / "dex_descriptions_report.json"
+        report.write_text(json.dumps({
+            "sostituiti": [{"specie": e.species, "dex": e.dex, "versione": e.versione,
+                            "nota": e.note, "righe": e.righe} for e in esiti
+                           if e.stato == "sostituito"],
+            "lasciati": [{"specie": e.species, "dex": e.dex, "motivo": e.motivo}
+                         for e in esiti if e.stato != "sostituito"],
+        }, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"\nblocchi riscritti: {n}   report: {report}")
     else:
         print("\nanteprima (nessuna scrittura): usa --apply per scrivere")
     return 0
