@@ -238,8 +238,13 @@ def apply_rows(units: dict, rows: list[dict], mark: str = "translated") -> tuple
             if lim is not None:
                 size = metrics.encoded_len("".join(it_lines))
                 if size > lim:
-                    failed.append(f"{key}: {size}>{lim} byte, troppo lungo per {unit.label}")
-                    continue
+                    # prima di buttarla si prova a farla entrare tagliando
+                    # parole: meglio "PELUCHE" che lasciare l'inglese
+                    accorciata = _accorcia_a_byte(it_lines, lim, metrics)
+                    if accorciata is None:
+                        failed.append(f"{key}: {size}>{lim} byte, troppo lungo per {unit.label}")
+                        continue
+                    it_lines = accorciata
         try:
             unit.rebuild(it_lines)
         except ValueError as exc:

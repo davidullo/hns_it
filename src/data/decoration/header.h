@@ -27,7 +27,7 @@ const struct Decoration gDecorations[] =
     [DECOR_POKEMON_DESK] =
     {
         .id = DECOR_POKEMON_DESK,
-        .name = _("POKéMON DESK"),
+        .name = _("TAVOLO"),
         .permission = DECORPERM_SOLID_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_DESK,
@@ -39,7 +39,7 @@ const struct Decoration gDecorations[] =
     [DECOR_HEAVY_DESK] =
     {
         .id = DECOR_HEAVY_DESK,
-        .name = _("HEAVY DESK"),
+        .name = _("TAVOLO"),
         .permission = DECORPERM_SOLID_FLOOR,
         .shape = DECORSHAPE_3x2,
         .category = DECORCAT_DESK,
@@ -51,7 +51,7 @@ const struct Decoration gDecorations[] =
     [DECOR_RAGGED_DESK] =
     {
         .id = DECOR_RAGGED_DESK,
-        .name = _("RAGGED DESK"),
+        .name = _("TAVOLO"),
         .permission = DECORPERM_SOLID_FLOOR,
         .shape = DECORSHAPE_3x2,
         .category = DECORCAT_DESK,
@@ -135,7 +135,7 @@ const struct Decoration gDecorations[] =
     [DECOR_POKEMON_CHAIR] =
     {
         .id = DECOR_POKEMON_CHAIR,
-        .name = _("POKéMON CHAIR"),
+        .name = _("SEDIA"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CHAIR,
@@ -147,7 +147,7 @@ const struct Decoration gDecorations[] =
     [DECOR_HEAVY_CHAIR] =
     {
         .id = DECOR_HEAVY_CHAIR,
-        .name = _("HEAVY CHAIR"),
+        .name = _("SEDIA"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CHAIR,
@@ -183,7 +183,7 @@ const struct Decoration gDecorations[] =
     [DECOR_RAGGED_CHAIR] =
     {
         .id = DECOR_RAGGED_CHAIR,
-        .name = _("RAGGED CHAIR"),
+        .name = _("SEDIA"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CHAIR,
@@ -195,7 +195,7 @@ const struct Decoration gDecorations[] =
     [DECOR_BRICK_CHAIR] =
     {
         .id = DECOR_BRICK_CHAIR,
-        .name = _("BRICK CHAIR"),
+        .name = _("SEDIA"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CHAIR,
@@ -207,7 +207,7 @@ const struct Decoration gDecorations[] =
     [DECOR_CAMP_CHAIR] =
     {
         .id = DECOR_CAMP_CHAIR,
-        .name = _("CAMP CHAIR"),
+        .name = _("SEDIA"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CHAIR,
@@ -219,7 +219,7 @@ const struct Decoration gDecorations[] =
     [DECOR_HARD_CHAIR] =
     {
         .id = DECOR_HARD_CHAIR,
-        .name = _("HARD CHAIR"),
+        .name = _("SEDIA"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CHAIR,
@@ -231,7 +231,7 @@ const struct Decoration gDecorations[] =
     [DECOR_RED_PLANT] =
     {
         .id = DECOR_RED_PLANT,
-        .name = _("RED PLANT"),
+        .name = _("PIANTA"),
         .permission = DECORPERM_BEHIND_FLOOR,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_PLANT,
@@ -243,7 +243,7 @@ const struct Decoration gDecorations[] =
     [DECOR_TROPICAL_PLANT] =
     {
         .id = DECOR_TROPICAL_PLANT,
-        .name = _("TROPICAL PLANT"),
+        .name = _("PIANTA"),
         .permission = DECORPERM_BEHIND_FLOOR,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_PLANT,
@@ -255,7 +255,7 @@ const struct Decoration gDecorations[] =
     [DECOR_PRETTY_FLOWERS] =
     {
         .id = DECOR_PRETTY_FLOWERS,
-        .name = _("PRETTY FLOWERS"),
+        .name = _("FIORI"),
         .permission = DECORPERM_BEHIND_FLOOR,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_PLANT,
@@ -267,7 +267,7 @@ const struct Decoration gDecorations[] =
     [DECOR_COLORFUL_PLANT] =
     {
         .id = DECOR_COLORFUL_PLANT,
-        .name = _("COLORFUL PLANT"),
+        .name = _("PIANTA"),
         .permission = DECORPERM_BEHIND_FLOOR,
         .shape = DECORSHAPE_2x2,
         .category = DECORCAT_PLANT,
@@ -279,7 +279,7 @@ const struct Decoration gDecorations[] =
     [DECOR_BIG_PLANT] =
     {
         .id = DECOR_BIG_PLANT,
-        .name = _("BIG PLANT"),
+        .name = _("PIANTA"),
         .permission = DECORPERM_BEHIND_FLOOR,
         .shape = DECORSHAPE_2x2,
         .category = DECORCAT_PLANT,
@@ -291,7 +291,7 @@ const struct Decoration gDecorations[] =
     [DECOR_GORGEOUS_PLANT] =
     {
         .id = DECOR_GORGEOUS_PLANT,
-        .name = _("GORGEOUS PLANT"),
+        .name = _("PIANTA"),
         .permission = DECORPERM_BEHIND_FLOOR,
         .shape = DECORSHAPE_2x2,
         .category = DECORCAT_PLANT,
@@ -303,7 +303,7 @@ const struct Decoration gDecorations[] =
     [DECOR_RED_BRICK] =
     {
         .id = DECOR_RED_BRICK,
-        .name = _("RED BRICK"),
+        .name = _("MATTONE"),
         .permission = DECORPERM_SOLID_FLOOR,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_ORNAMENT,
@@ -315,7 +315,7 @@ const struct Decoration gDecorations[] =
     [DECOR_YELLOW_BRICK] =
     {
         .id = DECOR_YELLOW_BRICK,
-        .name = _("YELLOW BRICK"),
+        .name = _("MATTONE"),
         .permission = DECORPERM_SOLID_FLOOR,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_ORNAMENT,
@@ -327,7 +327,7 @@ const struct Decoration gDecorations[] =
     [DECOR_BLUE_BRICK] =
     {
         .id = DECOR_BLUE_BRICK,
-        .name = _("BLUE BRICK"),
+        .name = _("MATTONE"),
         .permission = DECORPERM_SOLID_FLOOR,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_ORNAMENT,
@@ -339,7 +339,7 @@ const struct Decoration gDecorations[] =
     [DECOR_RED_BALLOON] =
     {
         .id = DECOR_RED_BALLOON,
-        .name = _("RED BALLOON"),
+        .name = _("PALLONE"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_ORNAMENT,
@@ -351,7 +351,7 @@ const struct Decoration gDecorations[] =
     [DECOR_BLUE_BALLOON] =
     {
         .id = DECOR_BLUE_BALLOON,
-        .name = _("BLUE BALLOON"),
+        .name = _("PALLONE"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_ORNAMENT,
@@ -363,7 +363,7 @@ const struct Decoration gDecorations[] =
     [DECOR_YELLOW_BALLOON] =
     {
         .id = DECOR_YELLOW_BALLOON,
-        .name = _("YELLOW BALLOON"),
+        .name = _("PALLONE"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_ORNAMENT,
@@ -399,7 +399,7 @@ const struct Decoration gDecorations[] =
     [DECOR_SOLID_BOARD] =
     {
         .id = DECOR_SOLID_BOARD,
-        .name = _("SOLID BOARD"),
+        .name = _("TAVOLA"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_ORNAMENT,
@@ -483,7 +483,7 @@ const struct Decoration gDecorations[] =
     [DECOR_BREAKABLE_DOOR] =
     {
         .id = DECOR_BREAKABLE_DOOR,
-        .name = _("BREAKABLE DOOR"),
+        .name = _("PORTA"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_ORNAMENT,
@@ -507,7 +507,7 @@ const struct Decoration gDecorations[] =
     [DECOR_SILVER_SHIELD] =
     {
         .id = DECOR_SILVER_SHIELD,
-        .name = _("SILVER SHIELD"),
+        .name = _("SCUDO"),
         .permission = DECORPERM_BEHIND_FLOOR,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_ORNAMENT,
@@ -519,7 +519,7 @@ const struct Decoration gDecorations[] =
     [DECOR_GOLD_SHIELD] =
     {
         .id = DECOR_GOLD_SHIELD,
-        .name = _("GOLD SHIELD"),
+        .name = _("SCUDO"),
         .permission = DECORPERM_BEHIND_FLOOR,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_ORNAMENT,
@@ -579,7 +579,7 @@ const struct Decoration gDecorations[] =
     [DECOR_GLITTER_MAT] =
     {
         .id = DECOR_GLITTER_MAT,
-        .name = _("GLITTER MAT"),
+        .name = _("TAPPETO"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_MAT,
@@ -735,7 +735,7 @@ const struct Decoration gDecorations[] =
     [DECOR_FIRE_BLAST_MAT] =
     {
         .id = DECOR_FIRE_BLAST_MAT,
-        .name = _("FIRE BLAST MAT"),
+        .name = _("TAPPETO"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_3x3,
         .category = DECORCAT_MAT,
@@ -747,7 +747,7 @@ const struct Decoration gDecorations[] =
     [DECOR_POWDER_SNOW_MAT] =
     {
         .id = DECOR_POWDER_SNOW_MAT,
-        .name = _("POWDER SNOW MAT"),
+        .name = _("TAPPETO"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_3x3,
         .category = DECORCAT_MAT,
@@ -759,7 +759,7 @@ const struct Decoration gDecorations[] =
     [DECOR_ATTRACT_MAT] =
     {
         .id = DECOR_ATTRACT_MAT,
-        .name = _("ATTRACT MAT"),
+        .name = _("TAPPETO"),
         .permission = DECORPERM_PASS_FLOOR,
         .shape = DECORSHAPE_3x3,
         .category = DECORCAT_MAT,
@@ -963,7 +963,7 @@ const struct Decoration gDecorations[] =
     [DECOR_CYNDAQUIL_DOLL] =
     {
         .id = DECOR_CYNDAQUIL_DOLL,
-        .name = _("CYNDAQUIL DOLL"),
+        .name = _("PELUCHE"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_DOLL,
@@ -975,7 +975,7 @@ const struct Decoration gDecorations[] =
     [DECOR_CHIKORITA_DOLL] =
     {
         .id = DECOR_CHIKORITA_DOLL,
-        .name = _("CHIKORITA DOLL"),
+        .name = _("PELUCHE"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_DOLL,
@@ -999,7 +999,7 @@ const struct Decoration gDecorations[] =
     [DECOR_JIGGLYPUFF_DOLL] =
     {
         .id = DECOR_JIGGLYPUFF_DOLL,
-        .name = _("JIGGLYPUFF DOLL"),
+        .name = _("PELUCHE"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_DOLL,
@@ -1215,7 +1215,7 @@ const struct Decoration gDecorations[] =
     [DECOR_PIKA_CUSHION] =
     {
         .id = DECOR_PIKA_CUSHION,
-        .name = _("PIKA CUSHION"),
+        .name = _("CUSCINO"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CUSHION,
@@ -1227,7 +1227,7 @@ const struct Decoration gDecorations[] =
     [DECOR_ROUND_CUSHION] =
     {
         .id = DECOR_ROUND_CUSHION,
-        .name = _("ROUND CUSHION"),
+        .name = _("CUSCINO"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CUSHION,
@@ -1239,7 +1239,7 @@ const struct Decoration gDecorations[] =
     [DECOR_KISS_CUSHION] =
     {
         .id = DECOR_KISS_CUSHION,
-        .name = _("KISS CUSHION"),
+        .name = _("CUSCINO"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CUSHION,
@@ -1251,7 +1251,7 @@ const struct Decoration gDecorations[] =
     [DECOR_ZIGZAG_CUSHION] =
     {
         .id = DECOR_ZIGZAG_CUSHION,
-        .name = _("ZIGZAG CUSHION"),
+        .name = _("CUSCINO"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CUSHION,
@@ -1263,7 +1263,7 @@ const struct Decoration gDecorations[] =
     [DECOR_SPIN_CUSHION] =
     {
         .id = DECOR_SPIN_CUSHION,
-        .name = _("SPIN CUSHION"),
+        .name = _("CUSCINO"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CUSHION,
@@ -1287,7 +1287,7 @@ const struct Decoration gDecorations[] =
     [DECOR_BALL_CUSHION] =
     {
         .id = DECOR_BALL_CUSHION,
-        .name = _("BALL CUSHION"),
+        .name = _("CUSCINO"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CUSHION,
@@ -1299,7 +1299,7 @@ const struct Decoration gDecorations[] =
     [DECOR_GRASS_CUSHION] =
     {
         .id = DECOR_GRASS_CUSHION,
-        .name = _("GRASS CUSHION"),
+        .name = _("CUSCINO"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CUSHION,
@@ -1311,7 +1311,7 @@ const struct Decoration gDecorations[] =
     [DECOR_FIRE_CUSHION] =
     {
         .id = DECOR_FIRE_CUSHION,
-        .name = _("FIRE CUSHION"),
+        .name = _("CUSCINO"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CUSHION,
@@ -1323,7 +1323,7 @@ const struct Decoration gDecorations[] =
     [DECOR_WATER_CUSHION] =
     {
         .id = DECOR_WATER_CUSHION,
-        .name = _("WATER CUSHION"),
+        .name = _("CUSCINO"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x1,
         .category = DECORCAT_CUSHION,
@@ -1383,7 +1383,7 @@ const struct Decoration gDecorations[] =
     [DECOR_CHARIZARD_DOLL] =
     {
         .id = DECOR_CHARIZARD_DOLL,
-        .name = _("CHARIZARD DOLL"),
+        .name = _("PELUCHE"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_DOLL,
@@ -1395,7 +1395,7 @@ const struct Decoration gDecorations[] =
     [DECOR_BLASTOISE_DOLL] =
     {
         .id = DECOR_BLASTOISE_DOLL,
-        .name = _("BLASTOISE DOLL"),
+        .name = _("PELUCHE"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_DOLL,
@@ -1443,7 +1443,7 @@ const struct Decoration gDecorations[] =
     [DECOR_REGISTEEL_DOLL] =
     {
         .id = DECOR_REGISTEEL_DOLL,
-        .name = _("REGISTEEL DOLL"),
+        .name = _("PELUCHE"),
         .permission = DECORPERM_SPRITE,
         .shape = DECORSHAPE_1x2,
         .category = DECORCAT_DOLL,

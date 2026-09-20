@@ -63,7 +63,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_NORMAL] =
     {
         .name = _("NORMALE"),
-        .generic = _("a NORMAL move"),
+        .generic = _("mossa"),
         .palette = 13,
         .zMove = MOVE_BREAKNECK_BLITZ,
         .maxMove = MOVE_MAX_STRIKE,
@@ -83,7 +83,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_FIGHTING] =
     {
         .name = _("LOTTA"),
-        .generic = _("a FIGHTING move"),
+        .generic = _("mossa"),
         .palette = 13,
         .zMove = MOVE_ALL_OUT_PUMMELING,
         .maxMove = MOVE_MAX_KNUCKLE,
@@ -105,7 +105,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_FLYING] =
     {
         .name = _("VOLANTE"),
-        .generic = _("a FLYING move"),
+        .generic = _("mossa"),
         .palette = 14,
         .zMove = MOVE_SUPERSONIC_SKYSTRIKE,
         .maxMove = MOVE_MAX_AIRSTREAM,
@@ -127,7 +127,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_POISON] =
     {
         .name = _("VELENO"),
-        .generic = _("a POISON move"),
+        .generic = _("mossa"),
         .palette = 14,
         .zMove = MOVE_ACID_DOWNPOUR,
         .maxMove = MOVE_MAX_OOZE,
@@ -149,7 +149,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_GROUND] =
     {
         .name = _("TERRA"),
-        .generic = _("a GROUND move"),
+        .generic = _("mossa"),
         .palette = 13,
         .zMove = MOVE_TECTONIC_RAGE,
         .maxMove = MOVE_MAX_QUAKE,
@@ -171,7 +171,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_ROCK] =
     {
         .name = _("ROCCIA"),
-        .generic = _("a ROCK move"),
+        .generic = _("mossa"),
         .palette = 13,
         .zMove = MOVE_CONTINENTAL_CRUSH,
         .maxMove = MOVE_MAX_ROCKFALL,
@@ -215,7 +215,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_GHOST] =
     {
         .name = _("SPETTRO"),
-        .generic = _("a GHOST move"),
+        .generic = _("mossa"),
         .palette = 14,
         .zMove = MOVE_NEVER_ENDING_NIGHTMARE,
         .maxMove = MOVE_MAX_PHANTASM,
@@ -237,7 +237,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_STEEL] =
     {
         .name = _("ACCIAIO"),
-        .generic = _("a STEEL move"),
+        .generic = _("mossa"),
         .palette = 13,
         .zMove = MOVE_CORKSCREW_CRASH,
         .maxMove = MOVE_MAX_STEELSPIKE,
@@ -270,7 +270,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_FIRE] =
     {
         .name = _("FUOCO"),
-        .generic = _("a FIRE move"),
+        .generic = _("mossa"),
         .palette = 13,
         .zMove = MOVE_INFERNO_OVERDRIVE,
         .maxMove = MOVE_MAX_FLARE,
@@ -292,7 +292,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_WATER] =
     {
         .name = _("ACQUA"),
-        .generic = _("a WATER move"),
+        .generic = _("mossa"),
         .palette = 14,
         .zMove = MOVE_HYDRO_VORTEX,
         .maxMove = MOVE_MAX_GEYSER,
@@ -336,7 +336,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_ELECTRIC] =
     {
         .name = _("ELETTRO"),
-        .generic = _("an ELECTRIC move"),
+        .generic = _("mossa"),
         .palette = 13,
         .zMove = MOVE_GIGAVOLT_HAVOC,
         .maxMove = MOVE_MAX_LIGHTNING,
@@ -358,7 +358,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_PSYCHIC] =
     {
         .name = _("PSICO"),
-        .generic = _("a PSYCHIC move"),
+        .generic = _("mossa"),
         .palette = 14,
         .zMove = MOVE_SHATTERED_PSYCHE,
         .maxMove = MOVE_MAX_MINDSTORM,
@@ -380,7 +380,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_ICE] =
     {
         .name = _("GHIACCIO"),
-        .generic = _("an ICE move"),
+        .generic = _("mossa"),
         .palette = 14,
         .zMove = MOVE_SUBZERO_SLAMMER,
         .maxMove = MOVE_MAX_HAILSTORM,
@@ -402,7 +402,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_DRAGON] =
     {
         .name = _("DRAGO"),
-        .generic = _("a DRAGON move"),
+        .generic = _("mossa"),
         .palette = 15,
         .zMove = MOVE_DEVASTATING_DRAKE,
         .maxMove = MOVE_MAX_WYRMWIND,
@@ -446,7 +446,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_FAIRY] =
     {
         .name = _("FOLLETTO"),
-        .generic = _("a FAIRY move"),
+        .generic = _("mossa"),
         .palette = 14,
         .zMove = MOVE_TWINKLE_TACKLE,
         .maxMove = MOVE_MAX_STARFALL,
@@ -468,7 +468,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
     [TYPE_STELLAR] =
     {
         .name = _("ASTRALE"),
-        .generic = _("a STELLAR move"),
+        .generic = _("mossa"),
         .palette = 15,
         .zMove = MOVE_BREAKNECK_BLITZ,
         .maxMove = MOVE_MAX_STRIKE,

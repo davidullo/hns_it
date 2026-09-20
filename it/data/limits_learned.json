@@ -42,6 +42,10 @@
  "src/data/types_info.h": {
   "generic": 10
  },
+ "src/pokemon_sprite_visualizer.c": {
+  "ANIM_BOUNCE_ROTATE_TO_SIDES_SMALL_SLOW": 33,
+  "BACK_ANIM_SHRINK_GROW_VIBRATE": 19
+ },
  "src/scrcmd.c": {
   "#15": 5
  }
