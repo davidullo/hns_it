@@ -91,7 +91,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Battle[] = {
     },
     [EC_INDEX(EC_WORD_TRUMP_CARD)] =
     {
-        .text = COMPOUND_STRING("TRUMP CARD"),
+        .text = COMPOUND_STRING("ASSO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GENIUS),
         .enabled = TRUE,
     },

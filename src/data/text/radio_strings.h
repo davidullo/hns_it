@@ -138,7 +138,7 @@ static const u8 sRadioText_FernIntro2[] = _("Con DJ FERN!");
 static const u8 sRadioText_BenFern_TodayIs[] = _("Oggi è ");
 static const u8 sRadioText_BenFern_JamTo[] = _("quindi suoniamo");
 static const u8 sRadioText_BenFern_ChillTo[] = _("quindi rilassati");
-static const u8 sRadioText_BenFern_March[] = _("POKéMON March!");
+static const u8 sRadioText_BenFern_March[] = _("Marcia POKéMON!");
 static const u8 sRadioText_BenFern_Lullaby[] = _("Ninna nanna!");
 
 // ==========================================================
@@ -239,9 +239,9 @@ static const u8 sRadioText_Buena6[] = _("TORRE RADIO di GOLDENROD!");
 static const u8 sRadioBuenaPassword_NewBarkTown[]     = _("FIORNETO");
 static const u8 sRadioBuenaPassword_CherrygroveCity[]  = _("CILIANWOOD");
 static const u8 sRadioBuenaPassword_AzaleaTown[]      = _("AZALEA");
-static const u8 sRadioBuenaPassword_Flying[]          = _("FLYING");
-static const u8 sRadioBuenaPassword_Bug[]             = _("BUG");
-static const u8 sRadioBuenaPassword_Grass[]           = _("GRASS");
+static const u8 sRadioBuenaPassword_Flying[]          = _("VOLANTE");
+static const u8 sRadioBuenaPassword_Bug[]             = _("COLEOTTERO");
+static const u8 sRadioBuenaPassword_Grass[]           = _("ERBA");
 static const u8 sRadioBuenaPassword_PkmnTalk[]        = _("POKéMON Talk");
 static const u8 sRadioBuenaPassword_PkmnMusic[]       = _("Musica POKéMON");
 static const u8 sRadioBuenaPassword_LuckyChannel[]    = _("Canale Fortuna");

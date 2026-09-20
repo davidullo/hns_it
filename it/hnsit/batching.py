@@ -170,9 +170,14 @@ def pending_groups(units) -> list[list]:
         grouped[unit.sha1].append(unit)
     todo = []
     for sha, members in grouped.items():
-        if any(m.it and m.status != "skipped" for m in members):
+        # un gruppo si salta solo se non c'e' piu' niente da fare: se un
+        # "gemello" e' gia' tradotto ma la copia non si puo' propagare (limite
+        # piu' stretto, contesto diverso), questa unita' resta in coda per
+        # sempre, ed era il motivo dei giri a vuoto sulla coda
+        da_fare = [m for m in members if m.status == "pending"]
+        if not da_fare:
             continue
-        head = sorted(members, key=lambda u: u.key)[0]
+        head = sorted(da_fare, key=lambda u: u.key)[0]
         todo.append([head, members])
     todo.sort(key=lambda t: t[0].key)
     return todo

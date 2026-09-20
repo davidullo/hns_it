@@ -169,8 +169,8 @@ const struct FrontierBrain gFrontierBrainInfo[NUM_FRONTIER_FACILITIES] =
                 "Ah…\n"
                 "Questo è tutta un'altra cosa…"), //Silver
             COMPOUND_STRING(
-                "Gwah!\n"
-                "Hahahaha!")                    //Gold
+                "Guah!\n"
+                "Ahahahah!")                    //Gold
         },
         .wonTexts = {
             COMPOUND_STRING(
