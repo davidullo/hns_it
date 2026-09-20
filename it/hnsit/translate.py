@@ -143,6 +143,11 @@ def main() -> int:
     ap.add_argument("--model-label", default="")
     args = ap.parse_args()
 
+    # vincolo di Davide: mai glm-5.3-flash / zai per questo lavoro
+    if "glm" in args.model.lower() or args.provider == "zai":
+        print(json.dumps({"status": "MODELLO_VIETATO", "provider": args.provider, "model": args.model}))
+        return 2
+
     if not acquire_lock(args.kind):
         print(json.dumps({"status": "SKIPPED_LOCKED"}))
         return 0
