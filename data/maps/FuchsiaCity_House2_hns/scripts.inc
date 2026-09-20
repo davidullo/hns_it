@@ -17,16 +17,16 @@ FuchsiaCity_House2_EventScript_Photo::
 
 FuchsiaCity_House2_Text_WardensGranddaughter1:
 	.string "Mio nonno è il GUARDIANO del\n"
-	.string "SAFARI ZONE.\p"
+	.string "ZONE SAFARI.\p"
 	.string "Almeno lo era…\p"
 	.string "Ha deciso di andare in vacanza e\n"
 	.string "partire da solo oltreoceano.\p"
-	.string "Ha mollato il SAFARI ZONE così,\n"
+	.string "Ha mollato il ZONE SAFARI così,\n"
 	.string "e basta.$"
 
 FuchsiaCity_House2_Text_WardensGranddaughter2:
 	.string "Molti erano delusi dalla chiusura\n"
-	.string "del SAFARI ZONE, ma il nonno\l"
+	.string "del ZONE SAFARI, ma il nonno\l"
 	.string "è testardo…$"
 
 FuchsiaCity_House2_Text_WardenPhoto:

@@ -131,8 +131,8 @@ SSAqua_B1F_Text_SailorGarrettBeaten:
 
 SSAqua_B1F_Text_SailorGarrettAfter:
 	.string "Portiamo passeggeri diversi\n"
-	.string "da VERMILION CITY a\p"
-	.string "OLIVINE CITY.$"
+	.string "da ARANCIOPOLI a\p"
+	.string "OLIVINOPOLI.$"
 
 SSAqua_B1F_EventScript_Jonah::
 	trainerbattle_single TRAINER_JONAH_HNS, SSAqua_B1F_Text_FisherJonahSeen, SSAqua_B1F_Text_FisherJonahBeaten

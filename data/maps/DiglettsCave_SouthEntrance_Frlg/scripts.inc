@@ -9,5 +9,5 @@ DiglettsCave_SouthEntrance_Text_DiglettDugThisTunnel::
 	.string "Beh, che sorpresa!\n"
 	.string "DIGLETT ha scavato questo\p"
 	.string "lungo tunnel! Dicono che vada\n"
-	.string "a VIRIDIAN CITY.$"
+	.string "a SMERALDOPOLI.$"
 

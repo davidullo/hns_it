@@ -726,7 +726,7 @@ MatchCall_PersonalizedText9::
 	.string "Proprio ora, dietro di te…\l"
 	.string "Non c'era qualcosa…?\p"
 	.string "Il potere dei POKéMON che\n"
-	.string "dormono qui al MT. PYRE…\p"
+	.string "dormono qui al MONTE PIRA…\p"
 	.string "Mi sta parlando di te…\p"
 	.string "Dovresti allontanarti in fretta e\n"
 	.string "non voltarti mai…\p"
@@ -2040,13 +2040,13 @@ MatchCall_Text_Mom3::
 
 MatchCall_Text_Baoba1::
 	.string "BAOBA: {PLAYER}!\n"
-	.string "La SAFARI ZONE è quasi pronta!\p"
+	.string "La ZONE SAFARI è quasi pronta!\p"
 	.string "Ti chiamo appena\n"
 	.string "è finita!$"
 
 MatchCall_Text_Baoba2::
 	.string "BAOBA: {PLAYER}!\n"
-	.string "La SAFARI ZONE è aperta! Vieni\p"
+	.string "La ZONE SAFARI è aperta! Vieni\p"
 	.string "quando vuoi!$"
 
 MatchCall_Text_Roxanne1::
@@ -2405,7 +2405,7 @@ MatchCall_Text_May7::
 
 MatchCall_Text_May8::
 	.string "MAY: {PLAYER}{KUN}, ciao.\p"
-	.string "MT. PYRE è un memoriale per i POKéMON\n"
+	.string "MONTE PIRA è un memoriale per i POKéMON\n"
 	.string "che hanno perso la vita.\p"
 	.string "Forse per questo è infestato\n"
 	.string "da molti POKéMON di tipo SPETTRO!$"
@@ -2415,7 +2415,7 @@ MatchCall_Text_May9::
 	.string "Pensavo di andare alle terme\n"
 	.string "di LAVARIDGE.\p"
 	.string "Ma lungo la strada, vicino al\n"
-	.string "JAGGED PASS, ho incontrato dei\l"
+	.string "PASSO SELVAGGIO, ho incontrato dei\l"
 	.string "loschi figuri. Che brutta aria!$"
 
 MatchCall_Text_May10::
@@ -2532,7 +2532,7 @@ MatchCall_Text_Brendan7::
 
 MatchCall_Text_Brendan8::
 	.string "BRENDAN: {PLAYER}!\p"
-	.string "MT. PYRE è un memoriale per i POKéMON\n"
+	.string "MONTE PIRA è un memoriale per i POKéMON\n"
 	.string "che hanno perso la vita.\p"
 	.string "Forse per questo è infestato\n"
 	.string "da molti POKéMON di tipo SPETTRO!$"
@@ -2673,7 +2673,7 @@ MatchCall_Text_Scott2::
 MatchCall_Text_Scott3::
 	.string "SCOTT: Ciao ciao, {PLAYER}{KUN}!\p"
 	.string "Hai avuto modo di salire sul\n"
-	.string "MT. PYRE?\p"
+	.string "MONTE PIRA?\p"
 	.string "È un memoriale per i POKéMON\n"
 	.string "che sono passati a miglior vita.\p"
 	.string "Ogni ALLENATORE dovrebbe salirci\n"

@@ -1057,11 +1057,11 @@ Route104_Text_MrBrineysCottage:
 
 Route104_Text_RouteSignPetalburg:
 	.string "PERCORSO 1O4\n"
-	.string "{RIGHT_ARROW} PETALBURG CITY$"
+	.string "{RIGHT_ARROW} PETALIPOLI$"
 
 Route104_Text_RouteSignRustboro:
 	.string "PERCORSO 1O4\n"
-	.string "{UP_ARROW} RUSTBORO CITY$"
+	.string "{UP_ARROW} FERRUGIPOLI$"
 
 Route104_Text_PrettyPetalFlowShop:
 	.string "FIORAIO FIORELLINO$"

@@ -31,7 +31,7 @@ EverGrandeCity_Text_EnteringPokemonLeague:
 	.string "PORTALE CENTRALE$"
 
 EverGrandeCity_Text_CitySign:
-	.string "EVER GRANDE CITY\p"
+	.string "IRIDOPOLI\p"
 	.string "“Il paradiso di fiori, mare\n"
 	.string "e POKéMON.”$"
 

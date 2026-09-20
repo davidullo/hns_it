@@ -182,7 +182,7 @@ Route13_Text_BirdKeeperBretAfterBattle:
 	.string "felici.$"
 
 Route13_Text_HikerKennySeen:
-	.string "Dovrei andare al ROCK TUNNEL a\n"
+	.string "Dovrei andare al TUNNEL ROCCIOSO a\n"
 	.string "prendermi un ONIX.$"
 
 Route13_Text_HikerKennyBeaten:
@@ -215,12 +215,12 @@ Route13_Text_TrainerTips:
 	.string "del palo.$"
 
 Route13_Text_Sign:
-	.string "ROUTE 13\p"
+	.string "PERCORSO 13\p"
 	.string "A NORD VERSO SILENCE BRIDGE$"
 
 Route13_Text_DirectionsSign:
-	.string "A NORD VERSO LAVENDER TOWN\p"
-	.string "A OVEST VERSO FUCHSIA CITY$"
+	.string "A NORD VERSO LAVANDONIA\p"
+	.string "A OVEST VERSO FUCSIAPOLI$"
 
 Route13_GetOffBoat::
 	lock

@@ -375,8 +375,8 @@ Route25_SeaCottage_Text_YouveGotTooMuchStuff::
 	.string "Hai troppa roba!$"
 
 Route25_SeaCottage_Text_SSAnnePartyYouGoInstead::
-	.string "La nave da crociera S.S. ANNE è a\n"
-	.string "VERMILION CITY.\p"
+	.string "La nave da crociera MOTONAVE ANNA è a\n"
+	.string "ARANCIOPOLI.\p"
 	.string "Dicono che ci siano molti\n"
 	.string "ALLENATORI a bordo.\p"
 	.string "Mi hanno invitato alla festa, ma\n"

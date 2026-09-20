@@ -11,7 +11,7 @@ SSAnne_2F_Room5_EventScript_LittleBoy::
 
 SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
 	.string "Sei stato alla ZONA SAFARI\n"
-	.string "di FUCHSIA CITY?\p"
+	.string "di FUCSIAPOLI?\p"
 	.string "Ci sono molti POKéMON\n"
 	.string "rari.$"
 

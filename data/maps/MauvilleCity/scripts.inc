@@ -591,8 +591,8 @@ MauvilleCity_Text_WattsonNeedFavorTakeKey:
 MauvilleCity_Text_WattsonWontBeChallenge:
 	.string "WATTSON: Non preoccuparti.\n"
 	.string "Per te non sarà una sfida.\p"
-	.string "L'ingresso a NEW MAUVILLE è a\n"
-	.string "un breve SURF dalla ROUTE 110.\p"
+	.string "L'ingresso a CICLANOVA è a\n"
+	.string "un breve SURF dalla PERCORSO 110.\p"
 	.string "Ecco, hai la mia fiducia!\n"
 	.string "Wahahahaha!$"
 
@@ -631,7 +631,7 @@ MauvilleCity_Text_PokemonCanJumpYouOnBike:
 	.string "i POKéMON selvatici ti assalgono.$"
 
 MauvilleCity_Text_CitySign:
-	.string "MAUVILLE CITY\n"
+	.string "CICLAMIPOLI\n"
 	.string "“La brillante città del divertimento!”$"
 
 MauvilleCity_Text_GymSign:

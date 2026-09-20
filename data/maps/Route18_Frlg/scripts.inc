@@ -61,7 +61,7 @@ Route18_Text_JacobPostBattle::
 
 Route18_Text_RouteSign::
 	.string "PERCORSO 18\n"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "AZZURROPOLI - FUCSIAPOLI$"
 
 Route18_Text_CyclingRoadSign::
 	.string "PISTA CICLABILE\n"

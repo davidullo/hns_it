@@ -350,7 +350,7 @@ TrainerHill_Entrance_Text_ThankYouForPlaying:
 	.string "Grazie per aver giocato!$"
 
 TrainerHill_Entrance_Text_ExplainTrainerHill:
-	.string "Qui al TRAINER HILL organizziamo\n"
+	.string "Qui al MONTE ALLENATORI organizziamo\n"
 	.string "un evento chiamato Time Attack.\p"
 	.string "È una corsa che misura quanto tempo\n"
 	.string "impieghi per raggiungere il nostro\l"
@@ -377,7 +377,7 @@ TrainerHill_Roof_Text_YouFinallyCameBravo:
 	.string "So perché sei venuto fin qui\l"
 	.string "da solo!\p"
 	.string "Volevi vedere me, il titolare\n"
-	.string "del TRAINER HILL, perché…\p"
+	.string "del MONTE ALLENATORI, perché…\p"
 	.string "Vuoi formare una coppia con me!\n"
 	.string "Wa-hoo!\p"
 	.string "…Eh?\n"
@@ -414,7 +414,7 @@ TrainerHill_Roof_Text_ArriveZippierNextTime:
 
 @ Unused
 TrainerHill_Roof_Text_BuiltTrainerHillToFindPartner:
-	.string "Ho fatto costruire il TRAINER HILL per\n"
+	.string "Ho fatto costruire il MONTE ALLENATORI per\n"
 	.string "una sola, unica ragione!\p"
 	.string "Trovare il partner più adatto\n"
 	.string "con cui formare una coppia!$"
@@ -430,7 +430,7 @@ TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead:
 
 TrainerHill_Entrance_Text_CantWaitToTestTheWaters:
 	.string "Ho sentito che ALLENATORI forti arrivano\n"
-	.string "qui al TRAINER HILL da ogni dove.\p"
+	.string "qui al MONTE ALLENATORI da ogni dove.\p"
 	.string "Non vedo l'ora di misurarmi!\p"
 	.string "Spazzerò via chiunque mi stia\n"
 	.string "sulla strada!$"

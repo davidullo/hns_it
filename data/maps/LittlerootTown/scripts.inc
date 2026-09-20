@@ -908,7 +908,7 @@ LittlerootTown_Text_OurNewHomeLetsGoInside:
 	.string "MAMMA: {PLAYER}, siamo arrivati, tesoro!\p"
 	.string "Dev'essere stancante viaggiare con le\n"
 	.string "nostre cose nel camion.\p"
-	.string "Ecco, questa è LITTLEROOT TOWN.\p"
+	.string "Ecco, questa è ALBANOVA.\p"
 	.string "Ti piace?\n"
 	.string "Questa è la nostra nuova casa!\p"
 	.string "Ha un'aria graziosa, ma sembra un posto\n"

@@ -401,7 +401,7 @@ SlateportCity_OceanicMuseum_2F_Text_HoennModel:
 	.string "“MODELLO DELLA REGIONE DI HOENN”\p"
 	.string "È un diorama in miniatura della\n"
 	.string "regione di HOENN.\p"
-	.string "Dov'è LITTLEROOT TOWN qui?$"
+	.string "Dov'è ALBANOVA qui?$"
 
 SlateportCity_OceanicMuseum_2F_Text_DeepSeawaterDisplay:
 	.string "È un pannello sul flusso dell'acqua.\p"
@@ -430,6 +430,6 @@ SlateportCity_OceanicMuseum_2F_Text_SumbersibleReplica:
 	.string "compatta per i fondali.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSAnneReplica:
-	.string "“S.S. ANNE\p"
+	.string "“MOTONAVE ANNA\p"
 	.string "“Una replica del transatlantico che\n"
 	.string "fa il giro del mondo.”$"

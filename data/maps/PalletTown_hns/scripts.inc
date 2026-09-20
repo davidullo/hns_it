@@ -36,7 +36,7 @@ PalletTown_Text_Fisher:
 	.string "nel tempo come e-mail.$"
 
 PalletTown_Text_Sign:
-	.string "PALLET TOWN\p"
+	.string "BIANCAVILLA\p"
 	.string "Un tranquillo angolo di pace\n"
 	.string "e purezza$"
 

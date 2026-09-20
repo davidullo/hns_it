@@ -484,7 +484,7 @@ MtPyre_Summit_Text_Grunt4PostBattle:
 MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
 	.string "ARCHIE: MAXIE del TEAM MAGMA ci ha\n"
 	.string "preceduti, ma abbiamo ciò che volevamo.\p"
-	.string "La SFERA ROSSA custodita sul MT. PYRE…\n"
+	.string "La SFERA ROSSA custodita sul MONTE PIRA…\n"
 	.string "Io, ARCHIE, ora la possiedo!\p"
 	.string "Fufufu… Ora possiamo realizzare il\n"
 	.string "nostro obiettivo finale!\p"

@@ -80,7 +80,7 @@ Route35GoldenrodGate_Text_RandyAskFavor:
 	.string "favore?\p"
 	.string "Puoi portare questo POKéMON\n"
 	.string "a un amico?\p"
-	.string "È su ROUTE 31.$"
+	.string "È su PERCORSO 31.$"
 
 Route35GoldenrodGate_Text_RandyThanks:
 	.string "Davvero? Perfetto! Grazie!\p"
@@ -94,7 +94,7 @@ Route35GoldenrodGate_Text_ReceivedMonWithMail:
 Route35GoldenrodGate_Text_RandyWeirdTree:
 	.string "Mettilo in testa alla squadra\n"
 	.string "quando trovi il mio amico!\p"
-	.string "ROUTE 31!\p"
+	.string "PERCORSO 31!\p"
 	.string "Ah, già. C'era un albero strano\n"
 	.string "sulla strada.\p"
 	.string "Chissà se l'hanno tolto?$"

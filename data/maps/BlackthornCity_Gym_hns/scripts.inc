@@ -279,7 +279,7 @@ BlackthornGym_Text_ClairText_League:
     .string "Non vai alla LEGA\n"
     .string "POKéMON?\p"
     .string "Non sai dove sia?\p"
-    .string "Da qui vai a NEW BARK TOWN.\p"
+    .string "Da qui vai a BORGO FOGLIANOVA.\p"
     .string "Poi SURF a est. La strada è\n"
     .string "durissima.\p"
     .string "Non osare perdere alla LEGA\n"

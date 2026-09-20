@@ -472,7 +472,7 @@ LilycoveCity_Text_MayYouGoingToPokemonLeague:
 LilycoveCity_Text_MayYouGoingToBattleFrontier:
 	.string "{PLAYER}{KUN}, cosa farai?\p"
 	.string "Affronterai la sfida del\n"
-	.string "BATTLE FRONTIER?\p"
+	.string "PARCO LOTTA?\p"
 	.string "O completerai il tuo\n"
 	.string "POKéDEX?\p"
 	.string "Forse ho perso in lotta,\n"
@@ -535,7 +535,7 @@ LilycoveCity_Text_BrendanYouGoingToBattleFrontier:
 	.string "O completerai il tuo\n"
 	.string "POKéDEX?\p"
 	.string "Dato che sei forte, dovresti\n"
-	.string "provare il BATTLE FRONTIER.\p"
+	.string "provare il PARCO LOTTA.\p"
 	.string "Eh, se alleno un po' i POKéMON,\n"
 	.string "diventerò più forte di te, {PLAYER}.\p"
 	.string "Forse dovrei andare al BATTLE\n"
@@ -734,7 +734,7 @@ LilycoveCity_Text_ExplainBerryBlender:
 LilycoveCity_Text_HeardTowerCalledSkyPillar:
 	.string "Ho sentito che c'è una torre\n"
 	.string "sulle rotte marine.\p"
-	.string "Si chiama SKY PILLAR, dicono.$"
+	.string "Si chiama TORRE DEI CIELI, dicono.$"
 
 LilycoveCity_Text_SawTallTowerOnRoute131:
 	.string "Ho visto una torre alta\n"

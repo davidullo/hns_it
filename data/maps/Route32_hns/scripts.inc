@@ -577,7 +577,7 @@ Route32_Text_FriedaNope:
 
 Route32_Text_Sign1:
 	.string "PERCORSO 32\p"
-	.string "VIOLET CITY - AZALEA TOWN$"
+	.string "VIOLAPOLI - AZALINA$"
 
 Route32_Text_Sign2:
 	.string "ROVINE DI ALPH\n"

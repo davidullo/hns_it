@@ -129,7 +129,7 @@ Route14_Text_MalikPostBattle::
 
 Route14_Text_RouteSign::
 	.string "PERCORSO 14\n"
-	.string "Ovest verso FUCHSIA CITY$"
+	.string "Ovest verso FUCSIAPOLI$"
 
 Route14_Text_KiriIntro::
 	.string "KIRI: JAN, diamo il massimo,\n"

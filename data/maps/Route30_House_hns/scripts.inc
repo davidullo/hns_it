@@ -26,7 +26,7 @@ Route30_BerryHouse_Text_MonEatBerries:
 	.string "Possono mangiarle anche\n"
 	.string "se le tengono in lotta.\p"
 	.string "Le BACCHE diventano\n"
-	.string "BALL con KURT ad AZALEA TOWN.\p"
+	.string "BALL con KURT ad AZALINA.\p"
 	.string "Tieni. Te ne do una!$"
 
 Route30_BerryHouse_Text_CheckTrees:

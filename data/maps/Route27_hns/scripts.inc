@@ -288,7 +288,7 @@ Route27_Text_JoseHasItem:
 
 Route27_Text_JoseGaveItem:
     .string "Trovo di tutto\n"
-    .string "qui sulla ROUTE 27.\p"
+    .string "qui sulla PERCORSO 27.\p"
     .string "Ti faccio sapere se trovo\n"
     .string "altro!$"
 

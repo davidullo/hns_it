@@ -57,7 +57,7 @@ PalletTown_House2_EventScript_DaisyGrooming::
 
 PalletTown_House2_Text_Hello:
 	.string "DAISY: Ciao! Mio fratello minore è il\n"
-	.string "CAPOPALESTRA di VIRIDIAN CITY.\p"
+	.string "CAPOPALESTRA di SMERALDOPOLI.\p"
 	.string "Ma va fuori città così\n"
 	.string "spesso che crea problemi\l"
 	.string "agli allenatori.$"

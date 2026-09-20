@@ -11,7 +11,7 @@ SootopolisCity_House5_EventScript_Girl::
 
 SootopolisCity_House5_Text_SootopolisMtPyreConnection:
 	.string "Sembra esserci un legame\n"
-	.string "tra SOOTOPOLIS e MT. PYRE.\p"
+	.string "tra SOOTOPOLIS e MONTE PIRA.\p"
 	.string "Io e i miei amici ci abbiamo fatto\n"
 	.string "ricerca, nel laboratorio dove lavoravo.$"
 

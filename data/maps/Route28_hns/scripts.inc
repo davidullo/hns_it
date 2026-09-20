@@ -16,7 +16,7 @@ Route28_EventScript_Item_Flamethrower::
     end
 
 Route28_Text_Sign:
-	.string "ROUTE 28$"
+	.string "PERCORSO 28$"
 
 Route28_EventScript_Trigger_Scientist::
 	lock
@@ -86,5 +86,5 @@ Route28_Text_Scientist:
 
 Route28_Text_Scientist2:
 	.string ".......CLICK\p"
-	.string "Il segnale a SINJOH fa schifo...$"
+	.string "Il segnale a ROVINE SINJOH fa schifo...$"
 

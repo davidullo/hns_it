@@ -33,7 +33,7 @@ Route3_Text_RobinRematchIntro::
 
 Route4_Text_CrissyRematchIntro::
 	.string "Catturo sempre POKéMON fungo\n"
-	.string "sul MT. MOON.$"
+	.string "sul MONTE LUNA.$"
 
 Route6_Text_RickyRematchIntro::
 	.string "Oh! Sei quel bambino impiccione\n"
@@ -654,7 +654,7 @@ Route25_Text_HaleyRematchIntro::
 	.string "Che invidia!$"
 
 Route25_Text_FranklinRematchIntro::
-	.string "Mi sono appena allenato sul MT. MOON,\n"
+	.string "Mi sono appena allenato sul MONTE LUNA,\n"
 	.string "ma ho ancora benzina in serbatoio!$"
 
 Route25_Text_NobRematchIntro::
@@ -836,7 +836,7 @@ SixIsland_OutcastIsland_Text_TylorRematchIntro::
 
 SixIsland_OutcastIsland_Text_MymoRematchIntro::
 	.string "Ansimo… Ansimo…\p"
-	.string "Ho nuotato dal porto di SIX ISLAND\n"
+	.string "Ho nuotato dal porto di SESTISOLA\n"
 	.string "tutto d'un fiato, di nuovo.$"
 
 SixIsland_OutcastIsland_Text_NicoleRematchIntro::

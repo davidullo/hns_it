@@ -1585,7 +1585,7 @@ Route112_Text_CarolPostBattle:
 	.string "Se ti diverti di più, hai vinto!$"
 
 Route112_Text_BryantIntro:
-	.string "Ho preso POKéMON focosi nel FIERY PATH!\n"
+	.string "Ho preso POKéMON focosi nel CAMMINO ARDENTE!\n"
 	.string "Dai un'occhiata!$"
 
 Route112_Text_BryantDefeat:
@@ -2454,7 +2454,7 @@ Route117_Text_MariaPostRematch:
 	.string "Lottiamo di nuovo qualche volta!$"
 
 Route117_Text_DerekIntro:
-	.string "Prima PIGLIABUG!\n"
+	.string "Prima PIGLIAMOSCHE!\n"
 	.string "Ora MANIACO DEL COLEOTTERO!\p"
 	.string "Ma il mio amore per i POKéMON\n"
 	.string "resta immutato!$"
@@ -3189,7 +3189,7 @@ Route121_Text_TammyDefeat:
 	.string "Ho perso…$"
 
 Route121_Text_TammyPostBattle:
-	.string "MT. PYRE…\n"
+	.string "MONTE PIRA…\n"
 	.string "Là agisce un potere\l"
 	.string "misterioso…$"
 
@@ -3399,7 +3399,7 @@ Route123_Text_CameronRematchDefeat:
 	.string "Mi sento triste…$"
 
 Route123_Text_CameronPostRematch:
-	.string "Dovrei allenarmi al MT. PYRE…\n"
+	.string "Dovrei allenarmi al MONTE PIRA…\n"
 	.string "Così non ti batterò mai…$"
 
 Route123_Text_JackiIntro:
@@ -3461,7 +3461,7 @@ Route123_Text_YukiNotEnoughMons:
 	.string "non hai due POKéMON.$"
 
 Route123_Text_KindraIntro:
-	.string "MT. PYRE…\n"
+	.string "MONTE PIRA…\n"
 	.string "Dove dormono gli spiriti dei POKéMON…\l"
 	.string "I tuoi POKéMON dormiranno?$"
 
@@ -3469,7 +3469,7 @@ Route123_Text_KindraDefeat:
 	.string "Traboccante di vitalità…$"
 
 Route123_Text_KindraPostBattle:
-	.string "MT. PYRE…\n"
+	.string "MONTE PIRA…\n"
 	.string "Dove dormono gli spiriti dei POKéMON…\p"
 	.string "Deve traboccare di un potere\n"
 	.string "che calma gli spiriti…$"

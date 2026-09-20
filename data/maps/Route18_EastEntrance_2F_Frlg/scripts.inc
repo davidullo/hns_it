@@ -46,7 +46,7 @@ Route18_EastEntrance_2F_EventScript_AlreadyTraded::
 Route18_EastEntrance_2F_Text_PalletTownInWest::
 	.string "Vediamo cosa mostrano\n"
 	.string "i binocoli…\p"
-	.string "PALLET TOWN è a ovest.$"
+	.string "BIANCAVILLA è a ovest.$"
 
 Route18_EastEntrance_2F_Text_PeopleSwimming::
 	.string "Vediamo cosa mostrano\n"

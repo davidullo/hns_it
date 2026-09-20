@@ -153,4 +153,4 @@ PalletTown_Lab_Text_OaksLabPC:
 	.string "Ho sentito voci che {PLAYER}\n"
 	.string "si sta facendo una bella reputazione.\p"
 	.string "Ne sono felice.\p"
-	.string "ELM di NEW BARK TOWN 8-)$"
+	.string "ELM di BORGO FOGLIANOVA 8-)$"

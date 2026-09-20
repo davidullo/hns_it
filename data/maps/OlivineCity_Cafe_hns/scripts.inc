@@ -23,7 +23,7 @@ OlivineCity_Cafe_Text_Jasmine:
 	.string "prima ha mangiato molto...\p"
 	.string "Se vuoi lottare ancora,\n"
 	.string "vieni al DOJO FIGHTING di\l"
-	.string "SAFFRON CITY.$"
+	.string "ZAFFERANOPOLI.$"
 
 OlivineCity_EventScript_SailorA::
 	lock

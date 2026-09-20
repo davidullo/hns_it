@@ -440,11 +440,11 @@ Route116_Text_NotWhatImLookingFor:
 	.string "Non sono quelli che cerco…$"
 
 Route116_Text_RouteSignRustboro:
-	.string "ROUTE 116\n"
-	.string "{LEFT_ARROW} RUSTBORO CITY$"
+	.string "PERCORSO 116\n"
+	.string "{LEFT_ARROW} FERRUGIPOLI$"
 
 Route116_Text_RusturfTunnelSign:
-	.string "RUSTURF TUNNEL\n"
+	.string "TUNNEL MENFERRO\n"
 	.string "“Collega RUSTBORO e VERDANTURF\p"
 	.string "“Il progetto della galleria è stato\n"
 	.string "annullato.””$"

@@ -27,7 +27,7 @@ ViridianCity_Text_OakName:
 ViridianCity_Text_OakCall:
 	.string "OAK: Ah, {PLAYER}!\p"
 	.string "Vieni a trovarmi al\n"
-	.string "LAB a PALLET TOWN\l"
+	.string "LAB a BIANCAVILLA\l"
 	.string "quando puoi.$"
 
 ViridianCity_EventScript_Gramps::
@@ -142,16 +142,16 @@ ViridianCity_Text_Youngster:
 	.string "strumenti a terra nella FORESTA.$"
 
 ViridianCity_Text_Sign:
-	.string "VIRIDIAN CITY\p"
+	.string "SMERALDOPOLI\p"
 	.string "Il paradiso sempre verde$"
 
 ViridianCity_Text_GymSign:
-	.string "PALESTRA POKéMON di VIRIDIAN CITY\n"
+	.string "PALESTRA POKéMON di SMERALDOPOLI\n"
 	.string "CAPO: …\p"
 	.string "Il resto del testo è illeggibile…$"
 
 ViridianCity_Text_WelcomeSign:
-	.string "BENVENUTI A VIRIDIAN CITY,\p"
+	.string "BENVENUTI A SMERALDOPOLI,\p"
 	.string "LA PORTA DELL'ALTIPIANO INDIGO$"
 
 ViridianCity_Text_TrainerHouseSign:

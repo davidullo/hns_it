@@ -39,7 +39,7 @@ Celadon_Text_EusineLeaves:
 	.string "{PLAYER}, hai saputo?\p"
 	.string "Ci sono nuove voci su un\n"
 	.string "POKéMON arcobaleno che\n"
-	.string "appare alla TIN TOWER.\p"
+	.string "appare alla TORRE CAMPANA.\p"
 	.string "Ho appena curato la squadra,\n"
 	.string "quindi ora vado a ECRUTEAK.\p"
 	.string "Ci vediamo, {PLAYER}!$"

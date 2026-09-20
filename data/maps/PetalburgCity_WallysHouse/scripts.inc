@@ -111,7 +111,7 @@ PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon:
 
 PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity:
 	.string "Oh? Hai visto WALLY a\n"
-	.string "EVER GRANDE CITY?\p"
+	.string "IRIDOPOLI?\p"
 	.string "Oh, {PLAYER}{KUN}, non dire sciocchezze.\p"
 	.string "Sarà anche guarito, ma non può\n"
 	.string "andare da solo in un posto\l"

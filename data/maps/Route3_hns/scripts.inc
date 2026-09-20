@@ -73,6 +73,6 @@ Route3_Text_FirebreatherBurt_AfterBattle:
 	.string "Ma non il miglior allenatore…$"
 
 Route3_Text_MtMoonSquareSign:
-	.string "PIAZZA MT. MOON\p"
+	.string "PIAZZA MONTE LUNA\p"
 	.string "Sali le scale.$"
 

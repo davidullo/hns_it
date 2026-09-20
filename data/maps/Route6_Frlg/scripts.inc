@@ -76,5 +76,5 @@ Route6_Text_ElijahPostBattle::
 
 Route6_Text_UndergroundPathSign::
 	.string "VIA SOTTERRANEA\n"
-	.string "CERULEAN CITY - VERMILION CITY$"
+	.string "CELESTOPOLI - ARANCIOPOLI$"
 

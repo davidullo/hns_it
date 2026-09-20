@@ -392,6 +392,6 @@ OldaleTown_Text_BrendanLetsGoBack:
 	.string "{PLAYER}, sbrigati anche tu.$"
 
 OldaleTown_Text_TownSign:
-	.string "OLDALE TOWN\n"
+	.string "SOLAROSA\n"
 	.string "“Dove tutto inizia con poco.”$"
 

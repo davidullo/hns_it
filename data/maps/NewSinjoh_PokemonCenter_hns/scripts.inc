@@ -82,11 +82,11 @@ NewSinjoh_EventScript_FemAce::
 
 NewSinjoh_Text_FemAce:
 	.string "Non abbiamo molte comodità\n"
-	.string "moderne a NUOVA SINJOH.\p"
+	.string "moderne a NUOVA ROVINE SINJOH.\p"
 	.string "Ma almeno abbiamo questo\n"
 	.string "CENTRO POKéMON.$"
 
 
 NewSinjoh_PokemonCenter_hns_Text_0:
 	.string "{PLAYER} ha osservato più da vicino\n"
-	.string "la mappa di SINJOH.$"
+	.string "la mappa di ROVINE SINJOH.$"

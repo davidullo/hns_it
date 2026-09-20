@@ -242,5 +242,5 @@ Route29_Text_TuscanyTuesday:
 
 Route29_Text_Sign1:
 	.string "PERCORSO 29\p"
-	.string "CHERRYGROVE CITY - NEW BARK TOWN$"
+	.string "FIORPESCOPOLI - BORGO FOGLIANOVA$"
 

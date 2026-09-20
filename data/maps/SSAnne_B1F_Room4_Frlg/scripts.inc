@@ -32,5 +32,5 @@ SSAnne_B1F_Room4_Text_DuncanDefeat::
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
 	.string "Hai visto il GURU DELLA PESCA a\n"
-	.string "VERMILION CITY?$"
+	.string "ARANCIOPOLI?$"
 

@@ -24,7 +24,7 @@ PewterCity_Museum_2F_EventScript_Meteor::
 
 PewterCity_Museum_2F_Text_Nerd:
 	.string "Dicono che dei meteoriti colpirono\n"
-	.string "BIRTH ISLAND.\p"
+	.string "ISOLA MATERNA.\p"
 	.string "Ci piacerebbe esporli qui\n"
 	.string "nel nostro museo, ma…\p"
 	.string "Si dice che questi meteoriti\n"
@@ -43,5 +43,5 @@ PewterCity_Museum_2F_Text_SpaceShuttle::
     .string "Navetta spaziale$"
 
 PewterCity_Museum_2F_Text_MeteoriteThatFellOnMtMoon::
-    .string "Un meteorite caduto sul MT. MOON.\n"
+    .string "Un meteorite caduto sul MONTE LUNA.\n"
     .string "Si pensa sia una PIETRA LUNARE.$"

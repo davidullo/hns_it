@@ -228,7 +228,7 @@ SixIsland_PatternBush_Text_LaytonDefeat::
 	.string "sotto i piedi?$"
 
 SixIsland_PatternBush_Text_LaytonPostBattle::
-	.string "Qui a PATTERN BUSH ci sono punti\n"
+	.string "Qui a BOSCO DISEGNATO ci sono punti\n"
 	.string "dove l'erba non cresce.\p"
 	.string "Cosa può causare un simile\n"
 	.string "fenomeno?$"

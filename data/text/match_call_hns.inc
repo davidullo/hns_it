@@ -353,7 +353,7 @@ MatchCall_HNS_Alan_FoundItem::
 	.string "una bella cosa!\p"
 	.string "Te la regalo!\p"
 	.string "Perché non vieni al\n"
-	.string "ROUTE 36 a prenderla?$"
+	.string "PERCORSO 36 a prenderla?$"
 
 MatchCall_HNS_Alan_Battle::
 	.string "Ciao, {PLAYER}!\n"
@@ -991,7 +991,7 @@ MatchCall_HNS_Jose_FoundItem::
 	.string "Come promesso, puoi\n"
 	.string "averlo.\p"
 	.string "Raggiungimi sulla\n"
-	.string "ROUTE 27 e te lo\l"
+	.string "PERCORSO 27 e te lo\l"
 	.string "darò.$"
 
 MatchCall_HNS_Jose_Battle::
@@ -1057,7 +1057,7 @@ MatchCall_HNS_Alex_Battle::
 	.string "Ehi, {PLAYER}!\n"
 	.string "Sono ALEX!\p"
 	.string "I miei regal POKéMON sono pronti\n"
-	.string "per una rivincita! Vieni al ROUTE 13!$"
+	.string "per una rivincita! Vieni al PERCORSO 13!$"
 
 @ Riley - Biker, Route 17
 MatchCall_HNS_Riley_General1::
@@ -1121,7 +1121,7 @@ MatchCall_HNS_Kyle_Battle::
 	.string "Sono KYLE.\p"
 	.string "Ho pescato dei POKéMON\n"
 	.string "tosti!\p"
-	.string "Vieni sulla ROUTE 12 per\n"
+	.string "Vieni sulla PERCORSO 12 per\n"
 	.string "una lotta!$"
 
 @ Carter - Pokefan, Route 14
@@ -1183,7 +1183,7 @@ MatchCall_HNS_Rob_Battle::
 	.string "Sono ROB!\p"
 	.string "La mia squadra di Coleotteri è più\n"
 	.string "forte che mai!\p"
-	.string "Vieni sulla ROUTE 2 per una\n"
+	.string "Vieni sulla PERCORSO 2 per una\n"
 	.string "rivincita!$"
 
 @ Nicole - Swimmer, Route 20
@@ -1206,7 +1206,7 @@ MatchCall_HNS_Nicole_Battle::
 	.string "Sono NICOLE!\p"
 	.string "I miei POKéMON d'acqua\n"
 	.string "muoiono dalla voglia!\p"
-	.string "Vieni sulla ROUTE 20!$"
+	.string "Vieni sulla PERCORSO 20!$"
 
 @ Billy - School Kid, Route 15
 MatchCall_HNS_Billy_General1::
@@ -1249,7 +1249,7 @@ MatchCall_HNS_Kenny_Battle::
 	.string "Sono KENNY.\p"
 	.string "Mi sono allenato duro in\n"
 	.string "montagna!\p"
-	.string "Vieni sulla ROUTE 13 per\n"
+	.string "Vieni sulla PERCORSO 13 per\n"
 	.string "una lotta!$"
 
 @ Joel - Biker, Route 17

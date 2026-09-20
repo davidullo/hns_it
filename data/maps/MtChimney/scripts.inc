@@ -596,7 +596,7 @@ MtChimney_Text_TabithaIntro:
 	.string "Quindi sei arrivato fin qui!\p"
 	.string "Ma sei troppo tardi!\n"
 	.string "Ho già consegnato il METEORITE\l"
-	.string "dalle METEOR FALLS al CAPO!$"
+	.string "dalle CASCATE METEORA al CAPO!$"
 
 MtChimney_Text_TabithaDefeat:
 	.string "Eh eh eh…\p"

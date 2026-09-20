@@ -58,9 +58,9 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_SINJOH_WINDOW] =
     {
-        .header = COMPOUND_STRING("CONTENUTI BONUS OPZIONALI: SINJOH"),
+        .header = COMPOUND_STRING("CONTENUTI BONUS OPZIONALI: ROVINE SINJOH"),
         .desc = COMPOUND_STRING("Questo PNG dà accesso a contenuti\n"
-                                "bonus opzionali: SINJOH.\n"
+                                "bonus opzionali: ROVINE SINJOH.\n"
                                 "NON serve per la storia\n"
                                 "né per il POKéDEX NAZIONALE.\n"
                                 "\n"

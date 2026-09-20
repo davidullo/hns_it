@@ -1394,7 +1394,7 @@ SootopolisCity_Text_GymSign:
 	.string "dell'acqua pura!”$"
 
 SootopolisCity_Text_CitySign:
-	.string "SOOTOPOLIS CITY\p"
+	.string "CENERIDE\p"
 	.string "“La città mistica dove la storia\n"
 	.string "sonnecchia.”$"
 
@@ -1513,7 +1513,7 @@ SootopolisCity_Text_CaveOfOriginPleaseLeave:
 	.string "Chi sei tu?\p"
 	.string "Questa è la GROTTA ORIGINE.\p"
 	.string "Gli spiriti dei POKéMON, placati al\n"
-	.string "MT. PYRE, si dice rinascano qui.\p"
+	.string "MONTE PIRA, si dice rinascano qui.\p"
 	.string "Ti prego, va' via.$"
 
 SootopolisCity_Text_LeadSuperiorTrainerToCave:
@@ -1663,7 +1663,7 @@ SootopolisCity_Text_SoThatsRayquaza:
 SootopolisCity_Text_MaxieArchieLeft:
 	.string "STEVEN: Sembra che sia MAXIE che\n"
 	.string "ARCHIE siano andati via da qualche parte.\p"
-	.string "Forse sono andati al MT. PYRE per\n"
+	.string "Forse sono andati al MONTE PIRA per\n"
 	.string "restituire quelle SFERE…$"
 
 SootopolisCity_Text_HaventYouScaledSkyPillar:

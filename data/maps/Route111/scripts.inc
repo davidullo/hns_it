@@ -631,7 +631,7 @@ Route111_Text_ToughToKeepWinningUpTheRanks:
 	.string "POKéMON, sarà dura continuare a\l"
 	.string "vincere e salire di grado.\p"
 	.string "Ho sentito che i SUPERQUATTRO\n"
-	.string "della POKéMON LEAGUE sono molto\l"
+	.string "della LEGA POKÉMON sono molto\l"
 	.string "più forti di qualsiasi CAPOPALESTRA.$"
 
 Route111_Text_WinstrateFamilyDestroyedMe:
@@ -640,20 +640,20 @@ Route111_Text_WinstrateFamilyDestroyedMe:
 	.string "Mi hanno distrutto.$"
 
 Route111_Text_RouteSignMauville:
-	.string "ROUTE 111\n"
-	.string "{DOWN_ARROW} MAUVILLE CITY$"
+	.string "PERCORSO 111\n"
+	.string "{DOWN_ARROW} CICLAMIPOLI$"
 
 Route111_Text_WinstrateHouseSign:
 	.string "“I cuori di famiglia battono all'unisono!”\n"
 	.string "CASA DEGLI WINSTRATE$"
 
 Route111_Text_RouteSign112:
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 112$"
+	.string "PERCORSO 111\n"
+	.string "{LEFT_ARROW} PERCORSO 112$"
 
 Route111_Text_RouteSign113:
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 113$"
+	.string "PERCORSO 111\n"
+	.string "{LEFT_ARROW} PERCORSO 113$"
 
 Route111_Text_OldLadysRestStopSign:
 	.string "AREA DI SOSTA DELL'ANZIANA\n"
@@ -672,7 +672,7 @@ Route111_Text_ShouldBeMirageTowerAroundHere:
 	.string "una torre fatta di sabbia.\p"
 	.string "Ma per qualche motivo si vede\n"
 	.string "a volte sì e a volte no.\p"
-	.string "Perciò la chiamo MIRAGE TOWER.$"
+	.string "Perciò la chiamo TORRE MIRAGGIO.$"
 
 Route111_Text_MirageTowerClearlyVisible:
 	.string "La vedo!\n"
@@ -696,7 +696,7 @@ Route111_Text_MirageTowerHasntBeenSeenSince:
 	.string "Da quando ti ho parlato, la torre\n"
 	.string "non si è più vista.\p"
 	.string "Forse era davvero\n"
-	.string "la MIRAGE TOWER…$"
+	.string "la TORRE MIRAGGIO…$"
 
 Route111_Text_ClawFossilDisappeared:
 	.string "Il FOSSILE ARTIGLIO è sparito\n"
@@ -710,7 +710,7 @@ Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
 	.string "Oh, no!\p"
 	.string "Mio zio a MAUVILLE mi ha detto di\n"
 	.string "portare ROCK SMASH se andavo\l"
-	.string "sulla ROUTE 111!\p"
+	.string "sulla PERCORSO 111!\p"
 	.string "Mio zio? Abita di fronte\n"
 	.string "al negozio di bici a MAUVILLE.$"
 

@@ -80,7 +80,7 @@ Route19_Text_AnyaDefeat::
 	.string "Oh! Ho perso!$"
 
 Route19_Text_AnyaPostBattle::
-	.string "Per SEAFOAM ISLANDS\n"
+	.string "Per ISOLE SPUMARINE\n"
 	.string "c'è ancora molta strada…\p"
 	.string "Voglio tornare a FUCHSIA…$"
 
@@ -93,7 +93,7 @@ Route19_Text_AliceDefeat::
 
 Route19_Text_AlicePostBattle::
 	.string "Il mio ragazzo voleva nuotare fino a\n"
-	.string "SEAFOAM ISLANDS.$"
+	.string "ISOLE SPUMARINE.$"
 
 Route19_Text_AxleIntro::
 	.string "Ehi, ciao!\n"
@@ -122,7 +122,7 @@ Route19_Text_ConniePostBattle::
 
 Route19_Text_RouteSign::
 	.string "ROTTA 19\n"
-	.string "FUCHSIA CITY - ISOLE SPUMA$"
+	.string "FUCSIAPOLI - ISOLE SPUMA$"
 
 Route19_Text_LiaIntro::
 	.string "LIA: Badò a mio fratello.\n"

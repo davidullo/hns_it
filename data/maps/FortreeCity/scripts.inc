@@ -91,7 +91,7 @@ FortreeCity_Text_SawGiganticPokemonInSky:
 	.string "Nessuno mi crede, ma ho visto\n"
 	.string "un POKéMON gigante lassù.\p"
 	.string "Si dimenava mentre volava verso la\n"
-	.string "ROUTE 131.\p"
+	.string "PERCORSO 131.\p"
 	.string "Comunque… Sniff…\n"
 	.string "Ehm… Tu…senti bruciato.\p"
 	.string "Eri su un vulcano o roba simile?$"
@@ -100,7 +100,7 @@ FortreeCity_Text_SomethingBlockingGym:
 	.string "Voglio andare alla PALESTRA,\n"
 	.string "ma qualcosa ostruisce la via.\p"
 	.string "Dopo tutti i guai che ho passato\n"
-	.string "sulla ROUTE 120…$"
+	.string "sulla PERCORSO 120…$"
 
 FortreeCity_Text_ThisTimeIllBeatWinona:
 	.string "Ho con me i POKéMON più cari\n"
@@ -109,7 +109,7 @@ FortreeCity_Text_ThisTimeIllBeatWinona:
 FortreeCity_Text_TreesGrowByDrinkingRainwater:
 	.string "Il terreno assorbe la pioggia e\n"
 	.string "gli alberi crescono bevendola…\p"
-	.string "La nostra FORTREE CITY esiste\n"
+	.string "La nostra FORESTOPOLI esiste\n"
 	.string "perché c'è acqua e terra.$"
 
 FortreeCity_Text_EveryoneHealthyAndLively:
@@ -144,7 +144,7 @@ FortreeCity_Text_UsedDevonScopePokemonFled:
 	.string "POKéMON spaventato fugge!$"
 
 FortreeCity_Text_CitySign:
-	.string "FORTREE CITY\n"
+	.string "FORESTOPOLI\n"
 	.string "“La città fra gli alberi e la\l"
 	.string "natura.”$"
 

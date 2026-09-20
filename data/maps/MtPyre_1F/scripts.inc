@@ -27,7 +27,7 @@ MtPyre_1F_EventScript_Man::
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
 	.string "Ogni sorta di esseri vaga sui pendii\n"
-	.string "del MT. PYRE…\p"
+	.string "del MONTE PIRA…\p"
 	.string "Non si sa mai cosa può succedere.\n"
 	.string "Prendi questo. È per il tuo bene.$"
 

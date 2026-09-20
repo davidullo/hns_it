@@ -9,4 +9,4 @@ Route16FuchsiaSpeechHouse_Text_SuperNerd:
 	.string "Qui viveva una celebrità.$"
 Route16FuchsiaSpeechHouse_Text_SuperNerdOld:
 	.string "Se scendi lungo la PISTA CICLABILE,\n"
-	.string "arrivi a FUCHSIA CITY.$"
+	.string "arrivi a FUCSIAPOLI.$"

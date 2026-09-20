@@ -397,11 +397,11 @@ VermilionCity_EventScript_DiglettsCaveSign::
 	end
 
 VermilionCity_Text_Sign:
-	.string "VERMILION CITY\p"
+	.string "ARANCIOPOLI\p"
 	.string "Il porto dai tramonti splendidi$"
 
 VermilionCity_Text_GymSign:
-	.string "VERMILION CITY\n"
+	.string "ARANCIOPOLI\n"
 	.string "PALESTRA POKéMON\p"
 	.string "CAPOPALESTRA: LT. SURGE\p"
 	.string "L'americano fulmineo$"
@@ -579,12 +579,12 @@ VermilionCity_Movement_SamsonLeave:
 VermilionCity_Text_Samson:
 	.string "Uau!\p"
 	.string "Scusa piccolo, ho fretta!\p"
-	.string "Il traghetto sulla ROUTE 13\n"
+	.string "Il traghetto sulla PERCORSO 13\n"
 	.string "partirà presto per le ISOLE,\l"
 	.string "e devo esserci anche io!\p"
 	.string "Fiuh... Fiuh...\p"
 	.string "Ho corso fin qui da\n"
-	.string "MT. MOON.\p"
+	.string "MONTE LUNA.\p"
 	.string "Vedi questo gingillo?\p"
 	.string "Ho preso questo SOUVENIR STRANO\n"
 	.string "al NEGOZIO DI SOUVENIR.\p"

@@ -106,10 +106,10 @@ Route3_Text_RobinDefeat::
 	.string "Tutto qui?$"
 
 Route3_Text_RobinPostBattle::
-	.string "La ROUTE 4 è ai piedi del\n"
-	.string "MT. MOON.$"
+	.string "La PERCORSO 4 è ai piedi del\n"
+	.string "MONTE LUNA.$"
 
 Route3_Text_RouteSign::
-	.string "ROUTE 3\n"
-	.string "MT. MOON AVANTI$"
+	.string "PERCORSO 3\n"
+	.string "MONTE LUNA AVANTI$"
 

@@ -165,7 +165,7 @@ OlivineCity_Gym_Text_Lass2:
 	.string "Sei fantastico...\n"
 	.string "Dovresti puntare più in alto, hai\l"
 	.string "un gran potenziale.\p"
-	.string "Sei stato a MAHOGANY TOWN?$"
+	.string "Sei stato a MOGANIA?$"
 
 OlivineCity_Gym_EventScript_GymGuide::
 	lock

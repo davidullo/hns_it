@@ -73,7 +73,7 @@ TrainerHill_Roof_hns_Text_YouFinallyCameBravo:
 	.string "So perché sei venuto fin qui\l"
 	.string "da solo!\p"
 	.string "Volevi vedere me, il titolare\n"
-	.string "del TRAINER HILL, perché…\p"
+	.string "del MONTE ALLENATORI, perché…\p"
 	.string "Vuoi formare una coppia con me!\n"
 	.string "Wa-hoo!\p"
 	.string "…Eh?\n"

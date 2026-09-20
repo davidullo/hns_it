@@ -153,7 +153,7 @@ VictoryRoad_1F_Text_WallyPostBattle:
 	.string "WALLY: Stavolta non ti ho battuto,\n"
 	.string "no… Ma un giorno, {PLAYER},\l"
 	.string "ti raggiungerò…\p"
-	.string "E sfiderò la POKéMON LEAGUE!$"
+	.string "E sfiderò la LEGA POKÉMON!$"
 
 VictoryRoad_1F_Text_EdgarIntro:
 	.string "Sono arrivato fin qui un paio di volte,\n"
@@ -192,7 +192,7 @@ VictoryRoad_1F_Text_HopePostBattle:
 	.string "diventare il CAMPIONE.$"
 
 VictoryRoad_1F_Text_QuincyIntro:
-	.string "Cos'è la VICTORY ROAD?\n"
+	.string "Cos'è la VIA VITTORIA?\n"
 	.string "Te lo dico se vinci!$"
 
 VictoryRoad_1F_Text_QuincyDefeat:
@@ -204,7 +204,7 @@ VictoryRoad_1F_Text_QuincyPostBattle:
 	.string "è la prova finale per ogni ALLENATORE\l"
 	.string "che vuole diventare CAMPIONE\p"
 	.string "POKéMON. Per questo si chiama\n"
-	.string "VICTORY ROAD.$"
+	.string "VIA VITTORIA.$"
 
 VictoryRoad_1F_Text_KatelynnIntro:
 	.string "Non ho nulla da dire a chi\n"

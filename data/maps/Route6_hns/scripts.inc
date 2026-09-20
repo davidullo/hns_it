@@ -36,7 +36,7 @@ Route6_Text_PokefanM:
 
 Route6_Text_UndergroundPathSign:
 	.string "VIA SOTTERRANEA\p"
-	.string "CERULEAN CITY - VERMILION CITY$"
+	.string "CELESTOPOLI - ARANCIOPOLI$"
 
 PokefanM_Text_RexSeen:
 	.string "Il mio STANTLER è il più tenero del\n"

@@ -111,7 +111,7 @@ FuchsiaCity_Text_Teacher:
 	.string "E ha tanti POKéMON nuovi!$"
 
 FuchsiaCity_Text_Sign:
-	.string "FUCHSIA CITY\p"
+	.string "FUCSIAPOLI\p"
 	.string "Ammira! Il Rosa Passione!$"
 
 FuchsiaCity_Text_GymSign:

@@ -94,7 +94,7 @@ NewSinjoh_KimonoHideout_Text_PlayerMeetsKimonos:
 	.string "Avvicinati, prego.$"
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsMiharu:
-    .string "MIHARU: Benvenuto a NEW SINJOH, \n"
+    .string "MIHARU: Benvenuto a NEW ROVINE SINJOH, \n"
 	.string "{PLAYER}.\p"
 	.string "Da generazioni, questo villaggio\n"
 	.string "convive in pace con POKéMON\l"
@@ -116,7 +116,7 @@ NewSinjoh_KimonoHideout_Text_PlayerMeetsShizuko:
 	.string "tempi difficili.$"
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsYouko:
-	.string "YOUKO: Vai alle ROVINE DI SINJOH,\n"
+	.string "YOUKO: Vai alle ROVINE DI ROVINE SINJOH,\n"
 	.string "a nord del PERCORSO 50.\p"
 	.string "Incontra gli scienziati laggiù e\n"
 	.string "indaga sugli eventi che hanno\l"
@@ -290,7 +290,7 @@ NewSinjoh_KimonoHideout_EventScript_ShizukoFinal::
 
 NewSinjoh_KimonoHideout_Text_ShizukoFinal:
 	.string "SHIZUKO: Pochi allenatori nella\n"
-	.string "storia di SINJOH hanno\l"
+	.string "storia di ROVINE SINJOH hanno\l"
 	.string "fatto ciò che hai appena fatto.\p"
 	.string "Davvero notevole, {PLAYER}.$"
 

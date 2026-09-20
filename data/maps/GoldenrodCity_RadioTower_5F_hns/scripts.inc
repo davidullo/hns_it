@@ -372,7 +372,7 @@ GoldenrodCity_RadioTower_5F_Text_DirectorThanks:
 
 GoldenrodCity_RadioTower_5F_Text_DirectorClearWingExplanation:
 	.string "Qui c'era una torre,\n"
-	.string "a GOLDENROD CITY.\p"
+	.string "a FIORDOROPOLI.\p"
 	.string "Ma era vecchia e scricchiolava.\p"
 	.string "Così l'abbiamo sostituita con la\n"
 	.string "TORRE RADIO.\p"
@@ -387,7 +387,7 @@ GoldenrodCity_RadioTower_5F_Text_DirectorClearWingExplanation:
 
 GoldenrodCity_RadioTower_5F_Text_DirectorTidalWingExplanation:
 	.string "Qui c'era una torre,\n"
-	.string "a GOLDENROD CITY.\p"
+	.string "a FIORDOROPOLI.\p"
 	.string "Ma era vecchia e scricchiolava.\p"
 	.string "Così l'abbiamo sostituita con la\n"
 	.string "TORRE RADIO.\p"

@@ -62,7 +62,7 @@ VictoryRoad_3F_EventScript_Tyra::
 Text_DoubleEdgeTeach::
 	.string "Devi essere orgoglioso di te,\n"
 	.string "hai attraversato\l"
-	.string "la VICTORY ROAD con coraggio.\p"
+	.string "la VIA VITTORIA con coraggio.\p"
 	.string "In premio per la tua impresa,\n"
 	.string "t'insegnerò DOUBLE-EDGE.\p"
 	.string "Vuoi che t'insegni quella\n"
@@ -78,7 +78,7 @@ Text_DoubleEdgeWhichMon::
 
 Text_DoubleEdgeTaught::
 	.string "Mantieni questa carica per la\n"
-	.string "POKéMON LEAGUE!\p"
+	.string "LEGA POKÉMON!\p"
 	.string "Scagliati contro di loro e\n"
 	.string "buttali giù!$"
 
@@ -123,7 +123,7 @@ VictoryRoad_3F_Text_ColbyDefeat::
 
 VictoryRoad_3F_Text_ColbyPostBattle::
 	.string "Tutti gli ALLENATORI qui vanno\n"
-	.string "alla POKéMON LEAGUE.\p"
+	.string "alla LEGA POKÉMON.\p"
 	.string "Non abbassare la guardia.$"
 
 VictoryRoad_3F_Text_RayIntro::

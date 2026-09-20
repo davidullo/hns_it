@@ -23,10 +23,10 @@ SixIsland_GreenPath_Text_JaclynPostBattle::
 	.string "bene fino a casa mia!$"
 
 SixIsland_GreenPath_Text_LeftRouteSign::
-	.string "GREEN PATH\n"
+	.string "VIA VERDE\n"
 	.string "CESPI A DISEGNO PIÙ AVANTI$"
 
 SixIsland_GreenPath_Text_RightRouteSign::
-	.string "GREEN PATH\n"
+	.string "VIA VERDE\n"
 	.string "Verde è bello, tieni pulito il mondo!$"
 

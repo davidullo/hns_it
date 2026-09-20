@@ -113,7 +113,7 @@ Route8_Text_JuliaPostBattle::
 
 Route8_Text_UndergroundPathSign::
 	.string "VIA SOTTERRANEA\n"
-	.string "CELADON CITY - LAVENDER TOWN$"
+	.string "AZZURROPOLI - LAVANDONIA$"
 
 Route8_Text_EliIntro::
 	.string "ELI: Il potere gemello è fantastico.\n"

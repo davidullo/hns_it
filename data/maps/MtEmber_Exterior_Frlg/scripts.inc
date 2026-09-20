@@ -162,7 +162,7 @@ MtEmber_Exterior_Text_WhatsPasswordAgain::
 	.string "Ogni tesoro trovato lo portiamo\n"
 	.string "al WAREHOUSE, chiaro?\p"
 	.string "…Oh, e quali sono le password?\n"
-	.string "Al ROCKET WAREHOUSE, intendo.$"
+	.string "Al MAGAZZINO ROCKET, intendo.$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
 	.string "Come, hai dimenticato la password?\n"

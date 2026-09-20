@@ -359,7 +359,7 @@ Alola_Ulaula_TrainerBattleHiker_Text_1:
 	.string "Uff,\ndovevo allenarmi di più…$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_2:
-	.string "ULA'ULA ISLE ha le escursioni migliori!\p"
+	.string "TORKOAL ha le escursioni migliori!\p"
 	.string "Gli abitanti chiamano questa montagna\n"
 	.string "MT. LANIKALA, perché è la più alta\l"
 	.string "delle ISOLE ALOLA!$"

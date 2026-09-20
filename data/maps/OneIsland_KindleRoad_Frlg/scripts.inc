@@ -31,7 +31,7 @@ OneIsland_KindleRoad_Text_AbigailPostBattle::
 	.string "Forse dovrei metterlo anch'io…$"
 
 OneIsland_KindleRoad_Text_FinnIntro::
-	.string "Da qui, il MT. EMBER si erge\n"
+	.string "Da qui, il MONTE BRACE si erge\n"
 	.string "fino al cielo.$"
 
 OneIsland_KindleRoad_Text_FinnDefeat::
@@ -166,10 +166,10 @@ OneIsland_KindleRoad_Text_MikNotEnoughMons::
 	.string "POKéMON con te.$"
 
 OneIsland_KindleRoad_Text_RouteSign::
-	.string "Questa è la KINDLE ROAD.\p"
-	.string "Prosegui dritto per il MT. EMBER.$"
+	.string "Questa è la VIA VULCANICA.\p"
+	.string "Prosegui dritto per il MONTE BRACE.$"
 
 OneIsland_KindleRoad_Text_EmberSpaSign::
 	.string "Accendi il Fuoco nel Cuore!\n"
-	.string "EMBER SPA$"
+	.string "VIA VULCANICA$"
 

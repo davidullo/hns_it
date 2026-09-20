@@ -1,13 +1,18 @@
 #!/usr/bin/env python3
 """UPS: crea e applica patch nel formato usato dalle romhack (UPS1).
 
-Il formato e' quello di byuu: magic "UPS1", dimensione del file sorgente e del
-file finale (interi a lunghezza variabile), poi una serie di blocchi
-[salta N byte] [scrivi M byte XOR] e in fondo due CRC32 (sorgente e risultato).
+Formato verificato sul codice di flips (libups.cpp), non a memoria:
+
+    "UPS1"
+    <dimensione sorgente> <dimensione risultato>   (interi a lunghezza variabile)
+    ripetuto:
+        <byte da lasciare come sono>               (varint)
+        <byte XOR, fino a un byte 0 che chiude il blocco>
+    <CRC32 sorgente> <CRC32 risultato> <CRC32 della patch>
 
 Uso:
-    python3 it/tools/ups.py --create originale.gba modificata.gba patch.ups
-    python3 it/tools/ups.py --apply originale.gba patch.ups uscita.gba
+    python3 it/tools/ups_it.py --create originale.gba modificata.gba patch.ups
+    python3 it/tools/ups_it.py --apply originale.gba patch.ups uscita.gba
 """
 
 from __future__ import annotations
@@ -53,7 +58,6 @@ def crea(sorgente: bytes, modificata: bytes) -> bytes:
     tgt = modificata.ljust(size, b"\x00")
     pos = 0
     while pos < size:
-        # quanti byte uguali si possono saltare
         salta = 0
         while pos < size and src[pos] == tgt[pos]:
             pos += 1
@@ -61,18 +65,12 @@ def crea(sorgente: bytes, modificata: bytes) -> bytes:
         if pos >= size:
             break
         out += scrivi_varint(salta)
-        # blocco di byte diversi, si chiude su una fila di 4 o piu' uguali
-        blocco = bytearray()
-        while pos < size:
-            blocco.append(src[pos] ^ tgt[pos])
+        while pos < size and src[pos] != tgt[pos]:
+            out.append(src[pos] ^ tgt[pos])
             pos += 1
-            fila = 0
-            while pos + fila < size and src[pos + fila] == tgt[pos + fila]:
-                fila += 1
-            if fila >= 4:
-                break
-        out += scrivi_varint(len(blocco))
-        out += blocco
+        out.append(0)  # chiude il blocco: il decodificatore si ferma qui
+        if pos < size:
+            pos += 1  # anche il byte di chiusura scrive una posizione (out ^ 0)
     out += struct.pack("<I", zlib.crc32(sorgente) & 0xFFFFFFFF)
     out += struct.pack("<I", zlib.crc32(modificata) & 0xFFFFFFFF)
     out += struct.pack("<I", zlib.crc32(bytes(out)) & 0xFFFFFFFF)
@@ -90,21 +88,31 @@ def applica(sorgente: bytes, patch: bytes) -> bytes:
     fine = len(patch) - 12
     crc_src, crc_tgt, crc_patch = struct.unpack("<III", patch[fine : fine + 12])
     if zlib.crc32(patch[:-4]) & 0xFFFFFFFF != crc_patch:
-        raise ValueError("la patch e' danneggiata (CRC32 interno diverso)")
+        raise ValueError("patch danneggiata (CRC32 interno diverso)")
     if zlib.crc32(sorgente) & 0xFFFFFFFF != crc_src:
         raise ValueError("CRC32 della ROM diverso da quello della patch")
+
     src = sorgente.ljust(tgt_size, b"\x00")
-    out = bytearray(src)
+    out = bytearray(tgt_size)
     off = 0
     while pos < fine:
         salta, pos = leggi_varint(patch, pos)
-        off += salta
-        n, pos = leggi_varint(patch, pos)
-        for i in range(n):
-            out[off + i] = src[off + i] ^ patch[pos + i]
-        pos += n
-        off += n
-    out = bytes(out[:tgt_size])
+        for _ in range(salta):
+            if off < tgt_size:
+                out[off] = src[off]
+            off += 1
+        while True:
+            tmp = patch[pos]
+            pos += 1
+            if off < tgt_size:
+                out[off] = src[off] ^ tmp
+            off += 1
+            if tmp == 0:
+                break
+    while off < tgt_size:
+        out[off] = src[off]
+        off += 1
+    out = bytes(out)
     if zlib.crc32(out) & 0xFFFFFFFF != crc_tgt:
         raise ValueError("CRC32 del risultato diverso da quello della patch")
     return out

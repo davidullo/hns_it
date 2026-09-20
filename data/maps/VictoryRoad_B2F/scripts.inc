@@ -64,7 +64,7 @@ VictoryRoad_B2F_Text_CarolineDefeat:
 	.string "Nessun segno di stanchezza!$"
 
 VictoryRoad_B2F_Text_CarolinePostBattle:
-	.string "VICTORY ROAD e POKéMON LEAGUE\n"
+	.string "VIA VITTORIA e LEGA POKÉMON\n"
 	.string "sono sfide lunghe e dure.\l"
 	.string "Attento alla stanchezza!$"
 
@@ -91,7 +91,7 @@ VictoryRoad_B2F_Text_FelixDefeat:
 
 VictoryRoad_B2F_Text_FelixPostBattle:
 	.string "Mi irrigidisco sapendo\n"
-	.string "che sono vicino alla POKéMON LEAGUE.\p"
+	.string "che sono vicino alla LEGA POKÉMON.\p"
 	.string "Fingo calma, ma è dura.$"
 
 VictoryRoad_B2F_Text_DianneIntro:

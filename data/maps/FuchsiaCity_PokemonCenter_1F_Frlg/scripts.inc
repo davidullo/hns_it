@@ -34,13 +34,13 @@ FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMon::
 
 FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridian::
 	.string "A ovest c'è un sentiero stretto\n"
-	.string "di VIRIDIAN CITY.\p"
+	.string "di SMERALDOPOLI.\p"
 	.string "Porta alla sede della LEGA POKéMON.\n"
 	.string "La sede guida gli ALLENATORI.$"
 
 FuchsiaCity_PokemonCenter_1F_Text_VisitSafariZoneForPokedex::
 	.string "Se stai facendo un POKéDEX,\n"
-	.string "visita il SAFARI ZONE.\p"
+	.string "visita il ZONE SAFARI.\p"
 	.string "Si riproducono i rari POKéMON\n"
 	.string "qui.$"
 

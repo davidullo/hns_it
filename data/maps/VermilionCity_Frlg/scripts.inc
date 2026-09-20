@@ -269,11 +269,11 @@ VermilionCity_Text_GrimerMultipliesInSludge::
 	.string "nella melma tossica.$"
 
 VermilionCity_Text_DidYouSeeSSAnneInHarbor::
-	.string "Hai visto la S.S. ANNE ormeggiata\n"
+	.string "Hai visto la MOTONAVE ANNA ormeggiata\n"
 	.string "nel porto?$"
 
 VermilionCity_Text_SSAnneHasDepartedForYear::
-	.string "Quindi la S.S. ANNE è partita?\p"
+	.string "Quindi la MOTONAVE ANNA è partita?\p"
 	.string "Tornerà a VERMILION più o meno\n"
 	.string "a quest'ora l'anno prossimo.$"
 
@@ -290,20 +290,20 @@ VermilionCity_Text_MachopStompingLandFlat::
 	.string "Un MACHOP sta spianando il terreno.$"
 
 VermilionCity_Text_SSAnneVisitsOnceAYear::
-	.string "La S.S. ANNE è una famosa nave\n"
+	.string "La MOTONAVE ANNA è una famosa nave\n"
 	.string "da crociera di lusso.\p"
 	.string "Visita VERMILION una volta l'anno.$"
 
 VermilionCity_Text_CitySign::
-	.string "VERMILION CITY\n"
+	.string "ARANCIOPOLI\n"
 	.string "Il porto dei tramonti incantevoli$"
 
 VermilionCity_Text_SnorlaxBlockingRoute12::
 	.string "AVVISO!\p"
-	.string "La ROUTE 12 può essere bloccata da un\n"
+	.string "La PERCORSO 12 può essere bloccata da un\n"
 	.string "POKéMON che dorme.\p"
-	.string "Passate dal ROCK TUNNEL verso\n"
-	.string "LAVENDER TOWN.\p"
+	.string "Passate dal TUNNEL ROCCIOSO verso\n"
+	.string "LAVANDONIA.\p"
 	.string "POLIZIA DI VERMILION$"
 
 VermilionCity_Text_PokemonFanClubSign::
@@ -311,7 +311,7 @@ VermilionCity_Text_PokemonFanClubSign::
 	.string "Tutti i fan dei POKéMON sono benvenuti!$"
 
 VermilionCity_Text_GymSign::
-	.string "PALESTRA POKéMON DI VERMILION CITY\n"
+	.string "PALESTRA POKéMON DI ARANCIOPOLI\n"
 	.string "CAPO: LT. SURGE\l"
 	.string "Lo statunitense dei fulmini!$"
 
@@ -319,20 +319,20 @@ VermilionCity_Text_VermilionHarbor::
 	.string "PORTO DI VERMILION$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
-	.string "Benvenuto sulla S.S. ANNE!$"
+	.string "Benvenuto sulla MOTONAVE ANNA!$"
 
 VermilionCity_Text_DoYouHaveATicket::
-	.string "Benvenuto sulla S.S. ANNE!\p"
+	.string "Benvenuto sulla MOTONAVE ANNA!\p"
 	.string "Scusa, hai un biglietto?$"
 
 VermilionCity_Text_FlashedSSTicket::
-	.string "{FONT_NORMAL}{PLAYER} mostra il BIGLIETTO S.S. ANNE!\p"
+	.string "{FONT_NORMAL}{PLAYER} mostra il BIGLIETTO MOTONAVE ANNA!\p"
 	.string "{FONT_MALE}Perfetto!\n"
-	.string "Benvenuto sulla S.S. ANNE!$"
+	.string "Benvenuto sulla MOTONAVE ANNA!$"
 
 VermilionCity_Text_DontHaveNeededSSTicket::
 	.string "{FONT_NORMAL}{PLAYER} non ha il\n"
-	.string "BIGLIETTO S.S. ANNE.\p"
+	.string "BIGLIETTO MOTONAVE ANNA.\p"
 	.string "{FONT_MALE}Mi dispiace!\p"
 	.string "Serve un biglietto per salire.$"
 
@@ -358,13 +358,13 @@ VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
 	.string "Oh! Un BIGLIETTO MISTICO!\n"
 	.string "È davvero raro.\p"
 	.string "Ti porteremo volentieri a\n"
-	.string "NAVEL ROCK quando vuoi.$"
+	.string "MONTE CORDONE quando vuoi.$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
 	.string "Oh! Un BIGLIETTO AURORA!\n"
 	.string "È davvero raro.\p"
 	.string "Ti porteremo volentieri a\n"
-	.string "BIRTH ISLAND quando vuoi.$"
+	.string "ISOLA MATERNA quando vuoi.$"
 
 VermilionCity_Text_BoardSeagallopFerry::
 	.string "Vuoi salire\n"

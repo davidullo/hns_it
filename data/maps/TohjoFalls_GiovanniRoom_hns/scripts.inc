@@ -210,7 +210,7 @@ TohjoFalls_GiovanniRoom_Text_GiovanniIntro:
 	.string "davanti tre anni fa...\p"
 	.string "Hai gli stessi occhi...\p"
 	.string "...\p"
-	.string "Vado a GOLDENROD CITY\n"
+	.string "Vado a FIORDOROPOLI\n"
 	.string "per rispondere alla chiamata.\l"
 	.string "Vuoi intralciarmi?$"
 

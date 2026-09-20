@@ -165,7 +165,7 @@ Route12_EventScript_FishingSign::
 
 Route12_Text_Sign:
 	.string "PERCORSO 12\p"
-	.string "A NORD VERSO LAVENDER TOWN$"
+	.string "A NORD VERSO LAVANDONIA$"
 
 Route12_Text_FishingSpotSign:
 	.string "ZONA DI PESCA$"

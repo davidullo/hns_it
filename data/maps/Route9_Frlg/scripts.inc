@@ -109,5 +109,5 @@ Route9_Text_ConnerPostBattle::
 
 Route9_Text_RouteSign::
 	.string "PERCORSO 9\n"
-	.string "CERULEAN CITY - TUNNEL ROCCIOSO$"
+	.string "CELESTOPOLI - TUNNEL ROCCIOSO$"
 

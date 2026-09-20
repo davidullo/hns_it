@@ -343,7 +343,7 @@ GoldenrodCity_Text_CooltrainerF1_Cleared:
 	.string "del TEAM ROCKET? Non ci credo!$"
 
 GoldenrodCity_Text_CooltrainerF2:
-	.string "La TORRE RADIO di GOLDENROD CITY\n"
+	.string "La TORRE RADIO di FIORDOROPOLI\n"
 	.string "è un vero simbolo.\p"
 	.string "Ora fanno una promozione.\p"
 	.string "Ti daranno una RADIO nuova\n"
@@ -414,7 +414,7 @@ GoldenrodCity_Text_GymSign:
 	.string "La ragazza bellissima!$"
 
 GoldenrodCity_Text_CitySign:
-	.string "GOLDENROD CITY\p"
+	.string "FIORDOROPOLI\p"
 	.string "La città festosa dal fascino ricco$"
 
 GoldenrodCity_Text_BikeShopSign:
@@ -423,7 +423,7 @@ GoldenrodCity_Text_BikeShopSign:
 
 GoldenrodCity_Text_GameCornerSign:
 	.string "Il tuo parco giochi!\p"
-	.string "SALA GIOCHI di GOLDENROD CITY$"
+	.string "SALA GIOCHI di FIORDOROPOLI$"
 
 GoldenrodCity_Text_NameRaterSign:
 	.string "VALUTATORE DI NOMI\p"

@@ -77,15 +77,15 @@ SSAnne_CaptainsOffice_Text_ExplainCut::
 	.string "Con TAGLIO puoi abbattere\n"
 	.string "i piccoli alberi.\p"
 	.string "Perché non provi sugli alberi\n"
-	.string "di VERMILION CITY?$"
+	.string "di ARANCIOPOLI?$"
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
 	.string "CAPITANO: …Fiuu!\p"
 	.string "Ora che sto meglio,\n"
 	.string "credo sia ora.\p"
-	.string "La S.S. ANNE salperà presto!\p"
+	.string "La MOTONAVE ANNA salperà presto!\p"
 	.string "Addio, al nostro ritorno a\n"
-	.string "VERMILION CITY!$"
+	.string "ARANCIOPOLI!$"
 
 SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
 	.string "Oh, no!\n"

@@ -368,8 +368,8 @@ Route39_EventScript_Sign1::
 	end
 
 Route39_Text_Sign:
-	.string "ROUTE 39\p"
-	.string "OLIVINE CITY - ECRUTEAK CITY$"
+	.string "PERCORSO 39\p"
+	.string "OLIVINOPOLI - AMARANTOPOLI$"
 
 Route39_EventScript_Sign2::
 	lock

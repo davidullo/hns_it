@@ -89,7 +89,7 @@ VictoryRoad_2F_Text_DawsonPostBattle::
 	.string "quanto a Sapienza!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
-	.string "Questa è la VICTORY ROAD.\n"
+	.string "Questa è la VIA VITTORIA.\n"
 	.string "È la prova finale per gli ALLENATORI!$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
@@ -118,10 +118,10 @@ VictoryRoad_2F_Text_VincentDefeat::
 
 VictoryRoad_2F_Text_VincentPostBattle::
 	.string "Ti sei guadagnato il diritto\n"
-	.string "di stare sulla VICTORY ROAD…$"
+	.string "di stare sulla VIA VITTORIA…$"
 
 VictoryRoad_2F_Text_GregoryIntro::
-	.string "La VICTORY ROAD è troppo dura?$"
+	.string "La VIA VITTORIA è troppo dura?$"
 
 VictoryRoad_2F_Text_GregoryDefeat::
 	.string "Ben fatto!$"

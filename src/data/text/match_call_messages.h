@@ -93,7 +93,7 @@ const u8 gText_MatchCallBeauty_Thalia_Intro2[] = _("il mondo su un transatlantic
 
 const u8 gText_MatchCallBeauty_Jessica_Strategy[] = _("Ti porterò fuori strada.");
 const u8 gText_MatchCallBeauty_Jessica_Pokemon[] = _("Carini, ovviamente.");
-const u8 gText_MatchCallBeauty_Jessica_Intro1[] = _("Adoro la SAFARI ZONE.");
+const u8 gText_MatchCallBeauty_Jessica_Intro1[] = _("Adoro la ZONE SAFARI.");
 const u8 gText_MatchCallBeauty_Jessica_Intro2[] = _("Finisco sempre lì.");
 
 const u8 gText_MatchCallRichBoy_Winston_Strategy[] = _("Strategia? Chi la vuole?");

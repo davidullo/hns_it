@@ -80,6 +80,6 @@ PewterCity_Museum_1F_Text_SpaceShuttle::
 	.string "Navetta spaziale$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
-	.string "Un meteorite caduto sul MT. MOON.\n"
+	.string "Un meteorite caduto sul MONTE LUNA.\n"
 	.string "Si pensa sia una PIETRA LUNARE.$"
 

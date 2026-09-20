@@ -72,7 +72,7 @@ Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000::
 
 Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender::
 	.string "Ho sentito che i fantasmi\n"
-	.string "infestano LAVENDER TOWN.$"
+	.string "infestano LAVANDONIA.$"
 
 Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
 	.string "Oh… {PLAYER}!\n"

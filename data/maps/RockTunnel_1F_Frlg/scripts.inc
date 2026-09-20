@@ -68,7 +68,7 @@ RockTunnel_1F_Text_OliverDefeat::
 	.string "Da che parte si esce?$"
 
 RockTunnel_1F_Text_OliverPostBattle::
-	.string "Quel POKéMON che dorme sulla ROUTE 12\n"
+	.string "Quel POKéMON che dorme sulla PERCORSO 12\n"
 	.string "mi ha costretto a questa deviazione.$"
 
 RockTunnel_1F_Text_LucasIntro::
@@ -126,5 +126,5 @@ RockTunnel_1F_Text_ArianaPostBattle::
 
 RockTunnel_1F_Text_RouteSign::
 	.string "GROTTA ROCCIA\n"
-	.string "CERULEAN CITY - LAVENDER TOWN$"
+	.string "CELESTOPOLI - LAVANDONIA$"
 

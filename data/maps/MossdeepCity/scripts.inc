@@ -391,12 +391,12 @@ MossdeepCity_Text_ItsAWhiteRock:
 	.string "È una roccia bianca.$"
 
 MossdeepCity_Text_GymSign:
-	.string "PALESTRA POKéMON DI MOSSDEEP CITY\n"
+	.string "PALESTRA POKéMON DI VERDEAZZUPOLI\n"
 	.string "CAPIPALESTRA: LIZA & TATE\p"
 	.string "“La combinazione magica!”$"
 
 MossdeepCity_Text_CitySign:
-	.string "MOSSDEEP CITY\n"
+	.string "VERDEAZZUPOLI\n"
 	.string "“Il nostro motto: Ama i POKéMON!”$"
 
 MossdeepCity_Text_SpaceCenterSign:

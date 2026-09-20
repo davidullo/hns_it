@@ -44,5 +44,5 @@ Route1_Text_CooltrainerFQuinn_AfterBattle:
 	.string "sodo.$"
 
 Route1_Text_Sign:
-	.string "ROUTE 1\p"
-	.string "PALLET TOWN - VIRIDIAN CITY$"
+	.string "PERCORSO 1\p"
+	.string "BIANCAVILLA - SMERALDOPOLI$"

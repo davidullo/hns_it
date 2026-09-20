@@ -11,7 +11,7 @@ Route38_EventScript_Officer::
 
 Route38_Text_EcruteakGateOfficer:
 	.string "Da dove hai detto che vieni?\p"
-	.string "NEW BARK TOWN?\p"
+	.string "BORGO FOGLIANOVA?\p"
 	.string "PROF. ELM abita laggiù,\n"
 	.string "vero?\p"
 	.string "Hai fatto molta strada fin\n"

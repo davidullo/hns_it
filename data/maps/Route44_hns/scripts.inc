@@ -256,5 +256,5 @@ Route44_Text_Sign1:
 
 Route44_Text_Sign2:
     .string "PERCORSO 44\p"
-    .string "MAHOGANY TOWN - BLACKTHORN CITY$"
+    .string "MOGANIA - EBANOPOLI$"
 

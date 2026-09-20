@@ -98,5 +98,5 @@ Route10_Text_PowerPlant:
 	.string "CENTRALE ELETTRICA$"
 
 Route10_Text_Sign:
-	.string "ROUTE 10\p"
-	.string "CERULEAN CITY - LAVENDER TOWN$"
+	.string "PERCORSO 10\p"
+	.string "CELESTOPOLI - LAVANDONIA$"

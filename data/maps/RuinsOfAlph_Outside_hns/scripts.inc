@@ -129,7 +129,7 @@ RuinsOfAlph_Outside_Text_MysteryChamberSign:
 	.string "SALA DELLA PIETRA MISTERIOSA$"
 
 RuinsOfAlph_Outside_Text_MainSign:
-	.string "RUINS OF ALPH\n"
+	.string "ROVINE D'ALFA\n"
 	.string "VISITATORI BENVENUTI$"
 
 RuinsOfAlph_Outside_Text_ResearchSign:

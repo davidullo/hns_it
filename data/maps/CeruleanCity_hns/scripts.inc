@@ -142,11 +142,11 @@ CeruleanCity_EventScript_CapeSign::
 	end
 
 CeruleanCity_Text_Sign:
-	.string "CERULEAN CITY\p"
+	.string "CELESTOPOLI\p"
 	.string "Un'aura blu misteriosa la avvolge$"
 
 CeruleanCity_Text_GymSign:
-	.string "CERULEAN CITY\n"
+	.string "CELESTOPOLI\n"
 	.string "PALESTRA\n"
 	.string "CAPO: MISTY\p"
 	.string "Sirena Maschiaccio$"
@@ -154,7 +154,7 @@ CeruleanCity_Text_GymSign:
 CeruleanCity_Text_BikeShopSign:
 	.string "C'è un avviso qui…\p"
 	.string "Il negozio di BICICLETTE\n"
-	.string "è a GOLDENROD CITY…$"
+	.string "è a FIORDOROPOLI…$"
 
 CeruleanCity_Text_PoliceSign:
 	.string "C'è un avviso qui…\p"

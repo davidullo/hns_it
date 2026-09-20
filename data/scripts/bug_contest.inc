@@ -157,7 +157,7 @@ BugContest_Text_First1:
 	.string "BELINDA, che ha preso un\l"
 	.string "BUTTERFREE guizzante!$"
 BugContest_Text_First2:
-	.string "Al secondo posto c'è il PIGLIABUG\n"
+	.string "Al secondo posto c'è il PIGLIAMOSCHE\n"
 	.string "SHAUN, che ha preso un\l"
 	.string "PINSIR contorcente!$"
 BugContest_Text_First3:
@@ -176,7 +176,7 @@ BugContest_Text_Second2:
 BugContest_Text_Second3:
 	.string "Il vincitore della Gara Cattura Insetti\n"
 	.string "è…\p"
-	.string "PIGLIABUG SHAUN, che ha preso un\n"
+	.string "PIGLIAMOSCHE SHAUN, che ha preso un\n"
 	.string "PINSIR enorme!$"
 
 BugContest_Text_Third1:
@@ -189,7 +189,7 @@ BugContest_Text_Third2:
 BugContest_Text_Third3:
 	.string "Il vincitore della Gara Cattura Insetti\n"
 	.string "è…\p"
-	.string "PIGLIABUG SHAUN, che ha preso un\n"
+	.string "PIGLIAMOSCHE SHAUN, che ha preso un\n"
 	.string "PINSIR enorme!$"
 
 BugContest_Text_TakePartInFuture:

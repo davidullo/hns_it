@@ -266,7 +266,7 @@ ViridianCity_Text_GrandpaHasntHadCoffeeYet::
 
 ViridianCity_Text_GoShoppingInPewterOccasionally::
 	.string "A volte vado a fare shopping a\n"
-	.string "PEWTER CITY.\p"
+	.string "PLUMBEOPOLI.\p"
 	.string "Per andarci devo prendere il\n"
 	.string "sentiero tortuoso della FORESTA.$"
 
@@ -334,7 +334,7 @@ ViridianCity_Text_TooBusyForTeachyTV::
 	.string "va sprecato…$"
 
 ViridianCity_Text_CitySign::
-	.string "VIRIDIAN CITY \n"
+	.string "SMERALDOPOLI \n"
 	.string "Il Paradiso Eternamente Verde$"
 
 ViridianCity_Text_CatchMonsForEasierBattles::
@@ -352,7 +352,7 @@ ViridianCity_Text_MovesLimitedByPP::
 	.string "POKéMON stanchi in un CENTRO POKéMON.$"
 
 ViridianCity_Text_GymSign::
-	.string "PALESTRA POKéMON DI VIRIDIAN CITY$"
+	.string "PALESTRA POKéMON DI SMERALDOPOLI$"
 
 ViridianCity_Text_GymDoorsAreLocked::
 	.string "Le porte della VIRIDIAN GYM sono chiuse…$"

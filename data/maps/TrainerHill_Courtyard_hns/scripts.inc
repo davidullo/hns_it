@@ -67,7 +67,7 @@ TrainerHill_Courtyard_EventScript_Sailor::
 	end
 
 BattleTowerOutsideYoungsterText:
-	.string "Wow, il TRAINER HILL è enorme!\p"
+	.string "Wow, il MONTE ALLENATORI è enorme!\p"
 	.string "Devono esserci tanti tipi di\n"
 	.string "POKéMON là dentro!$"
 
@@ -83,7 +83,7 @@ BattleTowerOutsideSailorText:
 	.string "Devo vincere tutto. Assolutamente!$"
 
 BattleTowerOutsideSignText:
-	.string "{UP_ARROW} INGRESSO TRAINER HILL\p"
+	.string "{UP_ARROW} INGRESSO MONTE ALLENATORI\p"
 	.string "“Scalate le vette, ALLENATORI\n"
 	.string "dal sangue caldo!”\p"
 	.string "{RIGHT_ARROW} BATTLE TENT.$"
@@ -101,7 +101,7 @@ BattleTower_Battle_Tent_Text_Arena:
 	.string "“Che i team più forti si radunino!”$"
 
 BattleTowerOutsideText_Closed:
-	.string "Il TRAINER HILL è attualmente\n"
+	.string "Il MONTE ALLENATORI è attualmente\n"
 	.string "chiuso per riparazioni.$"
 
 

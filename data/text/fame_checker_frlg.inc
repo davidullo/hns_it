@@ -92,7 +92,7 @@ gFameCheckerFlavorText_Brock2:: @ 0x81AD840
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Che tipo è?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Qui non ci sono molti allenatori\n"
 	.string "POKéMON seri.\p"
-	.string "Sono tutti PIGLIABUG,\n"
+	.string "Sono tutti PIGLIAMOSCHE,\n"
 	.string "sai, semplici hobbisti.\p"
 	.string "Ma BROCK della palestra di\n"
 	.string "PLUMBEOPOLI non è così.$"
@@ -107,7 +107,7 @@ gFameCheckerFlavorText_Brock3:: @ 0x81AD908
 gFameCheckerFlavorText_Brock4:: @ 0x81AD99A
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Che lavoro fa?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ciao, scavo fossili qui sotto\n"
-	.string "il MT. MOON.\p"
+	.string "il MONTE LUNA.\p"
 	.string "A volte BROCK della palestra di\n"
 	.string "PLUMBEOPOLI mi dà una mano.$"
 
@@ -846,7 +846,7 @@ gFameCheckerFlavorTextOriginLocation_Brock3::
 	.string "PERCORSO 4$"
 
 gFameCheckerFlavorTextOriginLocation_Brock4::
-	.string "MT. MOON$"
+	.string "MONTE LUNA$"
 
 gFameCheckerFlavorTextOriginLocation_Brock5::
 	.string "MUSEO PLUMBEO$"
@@ -1475,7 +1475,7 @@ PokemonJournal_Text_SpecialFeatureDaisyOak::
 	.string "Speciale GARA!\p"
 	.string "La Gran Campionessa della GARA\n"
 	.string "POKéMON di primavera è DAISY OAK\l"
-	.string "di PALLET TOWN!$"
+	.string "di BIANCAVILLA!$"
 
 PokemonJournal_Text_SpecialFeatureMrFuji::
 	.string "AGENDA POKéMON\p"

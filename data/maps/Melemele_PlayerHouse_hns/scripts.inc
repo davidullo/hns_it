@@ -771,11 +771,11 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_30:
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_31:
 	.string "Hai trovato tutte le varianti di Alola che\n"
-	.string "vivono su PONI ISLE!$"
+	.string "vivono su ELENCO DI ZONE PER!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_32:
 	.string "Sembra che tu abbia già trovato tutte le\n"
-	.string "varianti di Alola su PONI ISLE!\p"
+	.string "varianti di Alola su ELENCO DI ZONE PER!\p"
 	.string "Ottimo lavoro!\p"
 	.string "Continua a esplorare le altre ISOLE e\n"
 	.string "aggiornami sui tuoi progressi!$"

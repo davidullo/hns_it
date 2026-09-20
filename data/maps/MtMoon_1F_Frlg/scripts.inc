@@ -118,7 +118,7 @@ MtMoon_1F_Text_KentPostBattle::
 
 MtMoon_1F_Text_RobbyIntro::
 	.string "Devi attraversare questa Grotta\n"
-	.string "per arrivare a CERULEAN CITY.$"
+	.string "per arrivare a CELESTOPOLI.$"
 
 MtMoon_1F_Text_RobbyDefeat::
 	.string "Ho perso.$"
@@ -134,6 +134,6 @@ MtMoon_1F_Text_ZubatIsABloodsucker::
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
 	.string "Ciao, sto scavando fossili qui\n"
-	.string "sotto il MT. MOON.\p"
+	.string "sotto il MONTE LUNA.\p"
 	.string "A volte BROCK della PEWTER GYM\n"
 	.string "mi dà una mano.$"

@@ -72,7 +72,7 @@ Route2_Text_BugCatcherDoug_AfterBattle:
 
 Route2_Text_Sign:
 	.string "PERCORSO 2\p"
-	.string "VIRIDIAN CITY - PEWTER CITY$"
+	.string "SMERALDOPOLI - PLUMBEOPOLI$"
 
 Route2_Text_DiglettsCaveSign:
 	.string "GROTTA DIGLETT$"

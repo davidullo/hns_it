@@ -732,12 +732,12 @@ PetalburgCity_Text_FullPartyExplanation:
 	.string "BOX via connessione PC.$"
 
 PetalburgCity_Text_GymSign:
-	.string "PALESTRA POKéMON DI PETALBURG CITY\n"
+	.string "PALESTRA POKéMON DI PETALIPOLI\n"
 	.string "CAPO: NORMAN\l"
 	.string "“Un uomo in cerca di potere!””$"
 
 PetalburgCity_Text_CitySign:
-	.string "PETALBURG CITY\n"
+	.string "PETALIPOLI\n"
 	.string "“Dove la gente si mescola alla natura.””$"
 
 PetalburgCity_Text_WallyHouseSign:

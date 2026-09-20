@@ -97,7 +97,7 @@ NewBarkTown_Lab_Text_ElmAideIsWaiting:
 	.string "{PLAYER}!\p"
 	.string "Che ci fai qui?\p"
 	.string "Il mio assistente ti aspetta ancora\n"
-	.string "a VIOLET CITY!$"
+	.string "a VIOLAPOLI!$"
 
 NewBarkTown_Lab_EventScript_ElmIntro::
 	msgbox NewBarkTown_Lab_Text_ElmIntro, MSGBOX_YESNO
@@ -829,7 +829,7 @@ NewBarkTown_Lab_Text_ElmAfterTheft4:
 	.string "Dovresti affrontare la sfida\n"
 	.string "delle PALESTRE.\p"
 	.string "La PALESTRA più vicina è quella\n"
-	.string "di VIOLET CITY.\p"
+	.string "di VIOLAPOLI.\p"
 	.string "…{PLAYER}. La strada verso il\n"
 	.string "titolo sarà lunga.\p"
 	.string "Prima di partire, vai a\n"
@@ -845,7 +845,7 @@ NewBarkTown_Lab_Text_ElmAideHasEgg:
 	.string "il mio assistente?\p"
 	.string "Doveva darti l'UOVO al\n"
 	.string "CENTRO POKéMON di\p"
-	.string "VIOLET CITY.\p"
+	.string "VIOLAPOLI.\p"
 	.string "Devi averlo mancato di poco.\n"
 	.string "Prova a raggiungerlo lì.$"
 

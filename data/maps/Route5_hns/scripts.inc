@@ -13,5 +13,5 @@ Route5_EventScript_UndergroundPathSign::
 
 Route5_Text_UndergroundPathSign:
 	.string "VIA SOTTERRANEA\p"
-	.string "CERULEAN CITY - VERMILION CITY$"
+	.string "CELESTOPOLI - ARANCIOPOLI$"
 

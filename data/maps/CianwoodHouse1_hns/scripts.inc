@@ -47,7 +47,7 @@ CianwoodCity_Text_OldManIntro:
 	.string "sulla riva.$"
 
 CianwoodCity_Text_BellTowerStory:
-	.string "Hai sentito della TIN TOWER\n"
+	.string "Hai sentito della TORRE CAMPANA\n"
 	.string "di ECRUTEAK?\p"
 	.string "In cima alla torre ci sono le\n"
 	.string "CAMPANE CHIARE.\p"
@@ -62,7 +62,7 @@ CianwoodCity_Text_BellTowerStory:
 	.string "Ma non l'ho mai avuta…$"
 
 CianwoodCity_Text_WhirlIslandsStory:
-	.string "Hai sentito delle WHIRL ISLANDS?\p"
+	.string "Hai sentito delle ISOLE VORTICOSE?\p"
 	.string "Ci sono le cosiddette CAMPANE\n"
 	.string "ONDA, alla cascata.\p"
 	.string "Non fanno alcun rumore\n"
@@ -85,7 +85,7 @@ CianwoodCity_Text_ClearBellReaction:
 	.string "…Le sento!\p"
 	.string "Il suono delle campane nel vento\n"
 	.string "arriva dalla direzione della\l"
-	.string "TIN TOWER…$"
+	.string "TORRE CAMPANA…$"
 
 CianwoodCity_Text_TidalBellReaction:
 	.string "Oh! Hai ottenuto la CAMPANA\n"
@@ -97,4 +97,4 @@ CianwoodCity_Text_TidalBellReaction:
 	.string "…Le sento!\p"
 	.string "Il suono delle campane sulla\n"
 	.string "brezza che arriva dalle\l"
-	.string "WHIRL ISLANDS…$"
+	.string "ISOLE VORTICOSE…$"

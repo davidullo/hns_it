@@ -46,7 +46,7 @@ Route9_EventScript_Item_Flash_Cannon::
     end
 
 Route9_Text_CamperDeanSeen:
-	.string "Sono venuto a esplorare la ROCK TUNNEL.$"
+	.string "Sono venuto a esplorare la TUNNEL ROCCIOSO.$"
 
 Route9_Text_CamperDeanBeaten:
 	.string "Whoa! Pericolo, amico.$"
@@ -114,5 +114,5 @@ Route9_Text_HikerSidneyAfter:
 	.string "fiume.$"
 
 Route9_Text_Sign:
-	.string "ROUTE 9\p"
-	.string "CERULEAN CITY - ROCK TUNNEL$"
+	.string "PERCORSO 9\p"
+	.string "CELESTOPOLI - TUNNEL ROCCIOSO$"

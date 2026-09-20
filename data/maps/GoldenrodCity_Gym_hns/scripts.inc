@@ -238,7 +238,7 @@ GoldenrodCity_Gym_Text_GymGuide:
     .string "Alcuni POKéMON qui\n"
     .string "hanno anche il nuovo tipo\l"
     .string "MAGICO.\p"
-    .string "Vai sulla ROUTE 34 se vuoi\n"
+    .string "Vai sulla PERCORSO 34 se vuoi\n"
     .string "tipi LOTTA o VELENO.$"
 
 GoldenrodCity_Gym_Text_GymGuideWin:

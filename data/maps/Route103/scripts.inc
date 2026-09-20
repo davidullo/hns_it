@@ -344,10 +344,10 @@ Route103_Text_ShouldHaveBroughtPotion:
 
 Route103_Text_ShortcutToOldale:
 	.string "Se attraversi il mare da qui,\n"
-	.string "arrivi a OLDALE TOWN in un baleno.\p"
+	.string "arrivi a SOLAROSA in un baleno.\p"
 	.string "Fufufu, è utile, no?$"
 
 Route103_Text_RouteSign:
 	.string "PERCORSO 103\n"
-	.string "{DOWN_ARROW} OLDALE TOWN$"
+	.string "{DOWN_ARROW} SOLAROSA$"
 

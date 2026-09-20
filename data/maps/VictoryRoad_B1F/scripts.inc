@@ -28,14 +28,14 @@ VictoryRoad_B1F_EventScript_Halle::
 
 VictoryRoad_B1F_Text_SamuelIntro:
 	.string "Al pensiero di avvicinarmi alla\n"
-	.string "POKéMON LEAGUE…\p"
+	.string "LEGA POKÉMON…\p"
 	.string "mi viene l'ansia…$"
 
 VictoryRoad_B1F_Text_SamuelDefeat:
 	.string "Non ho potuto fare nulla…$"
 
 VictoryRoad_B1F_Text_SamuelPostBattle:
-	.string "La POKéMON LEAGUE si è allontanata\n"
+	.string "La LEGA POKÉMON si è allontanata\n"
 	.string "di nuovo… Che delusione…$"
 
 VictoryRoad_B1F_Text_ShannonIntro:
@@ -53,7 +53,7 @@ VictoryRoad_B1F_Text_ShannonPostBattle:
 
 VictoryRoad_B1F_Text_MichelleIntro:
 	.string "Non è il traguardo, solo un luogo\n"
-	.string "sulla via per la POKéMON LEAGUE.$"
+	.string "sulla via per la LEGA POKÉMON.$"
 
 VictoryRoad_B1F_Text_MichelleDefeat:
 	.string "Così si fa!$"
@@ -83,7 +83,7 @@ VictoryRoad_B1F_Text_HalleDefeat:
 	.string "Fantastico!$"
 
 VictoryRoad_B1F_Text_HallePostBattle:
-	.string "Certo, questa è la VICTORY ROAD.\p"
+	.string "Certo, questa è la VIA VITTORIA.\p"
 	.string "Ma non è poi così diversa\n"
 	.string "dal cammino che hai fatto.\p"
 	.string "Goditi il resto\n"

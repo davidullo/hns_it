@@ -71,7 +71,7 @@ NewSinjoh_HotSprings_EventScript_Sign1::
     end
 
 NewSinjoh_HotSprings_Text_Sign1:
-    .string "NUOVA SINJOH\n"
+    .string "NUOVA ROVINE SINJOH\n"
     .string "TERME$"
 
 NewSinjoh_HotSprings_EventScript_Sign2::

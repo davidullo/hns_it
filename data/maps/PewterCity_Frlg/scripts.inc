@@ -868,12 +868,12 @@ PewterCity_Text_ClefairyCameFromMoon::
 	.string "CLEFAIRY è arrivato dalla luna.\n"
 	.string "Questo è ciò che si dice.\p"
 	.string "Sono apparsi dopo che le PIETRE LUNARI\n"
-	.string "caddero sul MT. MOON.$"
+	.string "caddero sul MONTE LUNA.$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
 	.string "Qui non ci sono molti ALLENATORI\n"
 	.string "seri.\p"
-	.string "Sono tutti come PIGLIABUG,\n"
+	.string "Sono tutti come PIGLIAMOSCHE,\n"
 	.string "sai, semplici dilettanti.\p"
 	.string "Ma BROCK della PALESTRA di PLUMBEOPOLI\n"
 	.string "non è così, neanche un po'.$"
@@ -883,7 +883,7 @@ PewterCity_Text_DidYouCheckOutMuseum::
 
 PewterCity_Text_WerentThoseFossilsAmazing::
 	.string "Non erano fantastici quei fossili\n"
-	.string "del MT. MOON?$"
+	.string "del MONTE LUNA?$"
 
 PewterCity_Text_ReallyYouHaveToGo::
 	.string "Davvero?\n"
@@ -923,7 +923,7 @@ PewterCity_Text_TrainerTipsEarningEXP::
 PewterCity_Text_CallPoliceIfInfoOnThieves::
 	.string "AVVISO!\p"
 	.string "Dei ladri rubano POKéMON\n"
-	.string "fossili dal MT. MOON.\p"
+	.string "fossili dal MONTE LUNA.\p"
 	.string "Chiamate la POLIZIA di PLUMBEOPOLI se\n"
 	.string "avete informazioni.$"
 

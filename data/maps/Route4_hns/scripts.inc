@@ -56,7 +56,7 @@ Route4_Text_PicnickerHope_Beaten:
 
 Route4_Text_PicnickerHope_AfterBattle:
 	.string "Ho sentito che i CLEFAIRY appaiono\p"
-	.string "al MT. MOON. Ma dove saranno?$"
+	.string "al MONTE LUNA. Ma dove saranno?$"
 
 Route4_Text_PicnickerSharon_Seen:
 	.string "Ehm…\n"
@@ -69,7 +69,7 @@ Route4_Text_PicnickerSharon_AfterBattle:
 	.string "……Vado ad allenarmi ancora…$"
 
 Route4_Text_MtMoonSquareSign:
-	.string "NUOVO INGRESSO MT. MOON\n"
+	.string "NUOVO INGRESSO MONTE LUNA\n"
 	.string "PER FRANA\p"
 	.string "ATTENZIONE AI PASSI$"
 

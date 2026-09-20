@@ -76,7 +76,7 @@ SafariZone_Text_Kangaskhan:
 	.string "KANGASKHAN: ..................$"
 
 SafariZone_Text_JigglypuffTrainer:
-	.string "Questa SAFARI ZONE è fantastica!\n"
+	.string "Questa ZONE SAFARI è fantastica!\n"
 	.string "Ho continuato a inseguire i POKéMON!\p"
 	.string "Ma il mio JIGGLYPUFF si è arrabbiato.$"
 

@@ -197,7 +197,7 @@ Route25_Text_Eusine1:
 	.string "..........................\l"
 	.string "... Vai pure.\p"
 	.string "Da quando ti ho incontrato alla TORRE\n"
-	.string "BRUCIATA di ECRUTEAK CITY, sapevo\l"
+	.string "BRUCIATA di AMARANTOPOLI, sapevo\l"
 	.string "che SUICUNE avrebbe scelto\l"
 	.string "te.$"
 

@@ -1215,7 +1215,7 @@ PetalburgCity_Gym_Text_DadGoCollectBadges:
 	.string "PAPÀ: Dunque…\p"
 	.string "{PLAYER}, se vuoi diventare un\n"
 	.string "forte ALLENATORE, ecco un consiglio.\p"
-	.string "Vai a RUSTBORO CITY, oltre questa\n"
+	.string "Vai a FERRUGIPOLI, oltre questa\n"
 	.string "città.\p"
 	.string "Là dovresti sfidare\n"
 	.string "il CAPO PALESTRA, ROXANNE.\p"

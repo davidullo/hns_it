@@ -33,7 +33,7 @@ FuchsiaCity_Mart_Items::
 
 FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
 	.string "Non hanno dei gagliardetti\n"
-	.string "per il SAFARI ZONE?\p"
+	.string "per il ZONE SAFARI?\p"
 	.string "E delle lanterne di carta?\n"
 	.string "Nemmeno dei calendari?$"
 

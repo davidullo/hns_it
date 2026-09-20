@@ -85,7 +85,7 @@ CinnabarIsland_PokemonLab_Lounge_EventScript_NormaAlreadyTraded::
 
 CinnabarIsland_PokemonLab_Lounge_Text_FoundFossilInMtMoon::
 	.string "Ho trovato un fossile eccezionale\n"
-	.string "dentro MT. MOON.\p"
+	.string "dentro MONTE LUNA.\p"
 	.string "Credo sia di un raro, preistorico\n"
 	.string "POKéMON.$"
 

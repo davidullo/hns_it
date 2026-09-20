@@ -141,7 +141,7 @@ CeladonCity_EventScript_TrainerTips::
 	end
 
 CeladonCity_Text_Sign:
-	.string "CELADON CITY\p"
+	.string "AZZURROPOLI\p"
 	.string "Città dei sogni arcobaleno$"
 
 CeladonGym_Text_Sign:

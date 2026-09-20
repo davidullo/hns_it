@@ -19,7 +19,7 @@ SixIsland_EventScript_IslandSign::
 	end
 
 SixIsland_Text_IslandSign::
-	.string "SIX ISLAND\n"
+	.string "SESTISOLA\n"
 	.string "Isola della Fortuna e della Saggezza$"
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::

@@ -215,5 +215,5 @@ NationalParkBugContest_Text_Sign_BattleNotice:
 NationalParkBugContest_Text_TrainerTips:
 	.string "Il PARCO NAZIONALE ha POKéMON\n"
 	.string "diversi durante la GARA\l"
-	.string "PIGLIABUG.$"
+	.string "PIGLIAMOSCHE.$"
 

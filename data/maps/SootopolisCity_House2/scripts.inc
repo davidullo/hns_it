@@ -19,7 +19,7 @@ SootopolisCity_House2_EventScript_DontKnowAboutOrbs::
 	return
 
 SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
-	.string "MT. PYRE…\p"
+	.string "MONTE PIRA…\p"
 	.string "Sulla sua cima ci sono due sfere\n"
 	.string "una accanto all'altra. Lo sapevi?$"
 

@@ -21,7 +21,7 @@ Route4_Text_TrippedOverGeodude::
 	.string "POKéMON roccioso, GEODUDE!$"
 
 Route4_Text_CrissyIntro::
-	.string "Sono venuta al MT. MOON in cerca\n"
+	.string "Sono venuta al MONTE LUNA in cerca\n"
 	.string "di POKéMON fungo.$"
 
 Route4_Text_CrissyDefeat::
@@ -33,12 +33,12 @@ Route4_Text_CrissyPostBattle::
 	.string "Credo di averli presi tutti.$"
 
 Route4_Text_MtMoonEntrance::
-	.string "MT. MOON\n"
+	.string "MONTE LUNA\n"
 	.string "Ingresso tunnel$"
 
 Route4_Text_RouteSign::
 	.string "PERCORSO 4\n"
-	.string "MT. MOON - CERULEAN CITY$"
+	.string "MONTE LUNA - CELESTOPOLI$"
 
 Text_MegaPunchTeach::
 	.string "Un pugno di ruggente ferocia!\p"

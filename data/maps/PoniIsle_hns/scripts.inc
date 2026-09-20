@@ -448,7 +448,7 @@ Alola_Poni_TrainerBattleSwimmer2_Text_2:
 	.string "Non le farò più altrove!$"
 
 Alola_Poni_NPC_girl_Text_0:
-	.string "PONI ISLE è la mia preferita.\n"
+	.string "ELENCO DI ZONE PER è la mia preferita.\n"
 	.string "La natura parla da sé!$"
 
 Alola_Poni_Bench_Heal_Text_0:

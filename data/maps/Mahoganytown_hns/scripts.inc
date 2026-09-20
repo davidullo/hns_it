@@ -290,7 +290,7 @@ MahoganyTown_Text_Lass:
     .string "cose introvabili.$"
 
 MahoganyTown_Text_Sign:
-    .string "MAHOGANY TOWN\p"
+    .string "MOGANIA\p"
     .string "Benvenuti nella patria dei Ninja$"
 
 MahoganyTown_Text_RagecandybarSign:

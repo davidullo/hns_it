@@ -107,7 +107,7 @@ Route38_Text_BirdKeeperTobyBeaten:
 	.string "via.$"
 
 Route38_Text_BirdKeeperTobyAfter:
-	.string "Voglio allenarmi a CIANWOOD CITY\n"
+	.string "Voglio allenarmi a FIORLISOPOLI\n"
 	.string "per insegnare VOLO ai miei POKéMON.$"
 
 Route38_Text_SchoolboyChad1Seen:

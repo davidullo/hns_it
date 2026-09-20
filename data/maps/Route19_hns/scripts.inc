@@ -140,7 +140,7 @@ Route19_Text_Fisher2_RocksCleared:
 
 Route19_Text_Sign:
 	.string "ROTTA 19\p"
-	.string "FUCHSIA CITY - ISOLE SPUMA$"
+	.string "FUCSIAPOLI - ISOLE SPUMA$"
 
 Route19_Text_CarefulSwimmingSign:
 	.string "Fate attenzione se nuotate\n"

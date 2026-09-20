@@ -46,7 +46,7 @@ PewterCity_PokemonCenter_1F_EventScript_GBAKid2::
 
 PewterCity_PokemonCenter_1F_Text_TeamRocketMtMoonImOnPhone::
 	.string "Cosa!?\p"
-	.string "Il TEAM ROCKET è al MT. MOON?\n"
+	.string "Il TEAM ROCKET è al MONTE LUNA?\n"
 	.string "Eh?\p"
 	.string "Sono al telefono!\n"
 	.string "Via!$"

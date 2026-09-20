@@ -10,7 +10,7 @@ VerdanturfTown_House_EventScript_Woman2::
 	end
 
 VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague:
-	.string "Lontano, nel cuore di EVER GRANDE CITY,\n"
+	.string "Lontano, nel cuore di IRIDOPOLI,\n"
 	.string "c'è la LEGA POKéMON.\p"
 	.string "Gli ALLENATORI che si radunano lì\n"
 	.string "sono tutti spaventosamente abili.$"

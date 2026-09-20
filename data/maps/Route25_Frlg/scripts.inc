@@ -75,11 +75,11 @@ Route25_Text_HaleyDefeat::
 	.string "Non sono poi così gelosa!$"
 
 Route25_Text_HaleyPostBattle::
-	.string "Vieni dal MT. MOON?\n"
+	.string "Vieni dal MONTE LUNA?\n"
 	.string "Posso avere un CLEFAIRY?$"
 
 Route25_Text_FranklinIntro::
-	.string "Sono appena sceso dal MT. MOON,\n"
+	.string "Sono appena sceso dal MONTE LUNA,\n"
 	.string "ma ho ancora benzina nel serbatoio!$"
 
 Route25_Text_FranklinDefeat::
@@ -112,7 +112,7 @@ Route25_Text_WayneDefeat::
 
 Route25_Text_WaynePostBattle::
 	.string "Il sentiero qui sotto è una scorciatoia\n"
-	.string "per CERULEAN CITY.$"
+	.string "per CELESTOPOLI.$"
 
 Route25_Text_SeaCottageSign::
 	.string "CASA DEL MARE\n"

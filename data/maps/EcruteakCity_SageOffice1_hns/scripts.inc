@@ -94,7 +94,7 @@ EcruteakTinTowerEntrance_Text_SageNoBadge:
 	.string "andartene.$"
 
 EcruteakTinTowerEntrance_Text_SageWithBadge:
-	.string "La TIN TOWER è vietata a chi\n"
+	.string "La TORRE CAMPANA è vietata a chi\n"
 	.string "non ha la MEDAGLIA ECRUTEAK.\p"
 	.string "Ah!\p"
 	.string "La MEDAGLIA di ECRUTEAK! Prego,\n"
@@ -136,13 +136,13 @@ EcruteakTinTowerEntrance_Text_SageDone:
 	.string "Lo meriti davvero.$"
 
 EcruteakTinTowerEntrance_Text_WanderingSage:
-	.string "La TIN TOWER davanti è una\n"
+	.string "La TORRE CAMPANA davanti è una\n"
 	.string "torre divina a nove piani.\p"
 	.string "Placa l'anima di chiunque la\n"
 	.string "veda.$"
 
 EcruteakTinTowerEntrance_Text_WanderingSageClearBell:
-	.string "La TIN TOWER ha tremato!\n"
+	.string "La TORRE CAMPANA ha tremato!\n"
 	.string "Un POKéMON è tornato su!$"
 
 EcruteakTinTowerEntrance_Text_Gramps:

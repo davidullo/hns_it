@@ -162,7 +162,7 @@ DragonsDen_Cavern_Text_ClairWhatsTheMatter:
     .string "che vuoi.\p"
     .string "Vai alla LEGA POKéMON.\p"
     .string "Sai come arrivarci?\p"
-    .string "Da qui vai a NEW BARK TOWN.\p"
+    .string "Da qui vai a BORGO FOGLIANOVA.\p"
     .string "Poi SURF a est fino alla LEGA\p"
     .string "POKéMON. La strada è dura.\p"
     .string "Non osare perdere alla LEGA\n"

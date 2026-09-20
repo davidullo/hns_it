@@ -267,7 +267,7 @@ NewSinjoh_Text_SpringsSage:
 NewSinjoh_Text_SpringsSageAfter:
 	.string "Le cose vanno meglio da quando\n"
 	.string "i POKéMON leggendari sono stati placati.\p"
-	.string "L'equilibrio è tornato a SINJOH.$"
+	.string "L'equilibrio è tornato a ROVINE SINJOH.$"
 
 NewSinjoh_EventScript_Sage2::
 	msgbox NewSinjoh_Text_Sage2, MSGBOX_NPC
@@ -309,7 +309,7 @@ NewSinjoh_EventScript_Welcome_Sign::
 	end
 
 NewSinjoh_Text_Welcome_Sign:
-	.string "NUOVA SINJOH$"
+	.string "NUOVA ROVINE SINJOH$"
 
 NewSinjoh_EventScript_Resturant_Sign::
 	msgbox NewSinjoh_Text_Resturant_Sign, MSGBOX_SIGN

@@ -39,7 +39,7 @@ Route1_Text_WorkAtPokeMartTakeSample::
 	.string "Lavoro in un MART POKéMON.\p"
 	.string "Fa parte di una catena\n"
 	.string "che vende di tutto.\p"
-	.string "Passa a trovarci a VIRIDIAN CITY.\p"
+	.string "Passa a trovarci a SMERALDOPOLI.\p"
 	.string "Sai che c'è? Ti do un campione.\n"
 	.string "Ecco qua!$"
 
@@ -55,10 +55,10 @@ Route1_Text_CanJumpFromLedges::
 	.string "Vedi quei dirupi lungo la strada?\p"
 	.string "Fa un po' paura, ma puoi\n"
 	.string "saltarci giù.\p"
-	.string "Così torni a PALLET TOWN\n"
+	.string "Così torni a BIANCAVILLA\n"
 	.string "più in fretta.$"
 
 Route1_Text_RouteSign::
-	.string "ROUTE 1\n"
-	.string "PALLET TOWN - VIRIDIAN CITY$"
+	.string "PERCORSO 1\n"
+	.string "BIANCAVILLA - SMERALDOPOLI$"
 

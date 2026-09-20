@@ -108,7 +108,7 @@ FuchsiaCity_WardensHouse_Text_ExplainStrength::
 	.string "Permette ai POKéMON di spostare\n"
 	.string "i massi fuori dalla lotta.\p"
 	.string "Ah, hai trovato la CASA\n"
-	.string "SEGRETA nel SAFARI ZONE?$"
+	.string "SEGRETA nel ZONE SAFARI?$"
 
 @ Unused
 FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::

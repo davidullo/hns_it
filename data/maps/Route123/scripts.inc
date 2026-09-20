@@ -190,7 +190,7 @@ Route123_Text_RouteSign:
 	.string "{LEFT_ARROW} PERCORSO 118$"
 
 Route123_Text_RouteSignMtPyre:
-	.string "{UP_ARROW} MT. PYRE\n"
+	.string "{UP_ARROW} MONTE PIRA\n"
 	.string "“Vietato ai deboli di cuore.”$"
 
 Route123_Text_BerryMastersHouse:

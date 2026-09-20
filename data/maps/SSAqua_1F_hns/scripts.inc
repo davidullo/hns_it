@@ -251,13 +251,13 @@ SSAqua_1F_Movement_GrandpaLeave:
 
 SSAqua_1F_Text_Sailor1_ToVermilion:
     .string "LA NAVE VELOCE S.S.AQUA è diretta a\n"
-    .string "VERMILION CITY.\p"
+    .string "ARANCIOPOLI.\p"
     .string "Vi avviseremo appena\n"
     .string "arriviamo.$"
 
 SSAqua_1F_Text_Sailor1_ToOlivine:
     .string "LA NAVE VELOCE S.S.AQUA è diretta a\n"
-    .string "OLIVINE CITY.\p"
+    .string "OLIVINOPOLI.\p"
     .string "Vi avviseremo appena\n"
     .string "arriviamo.$"
 
@@ -280,13 +280,13 @@ SSAqua_1F_Text_Grandpa:
 
 SSAqua_1F_Text_Sailor1_InOlivine:
     .string "LA NAVE VELOCE S.S.AQUA è arrivata a\n"
-    .string "OLIVINE CITY.$"
+    .string "OLIVINOPOLI.$"
 
 SSAqua_1F_Text_Sailor1_InVermilion:
     .string "LA NAVE VELOCE S.S.AQUA è arrivata a\n"
-    .string "VERMILION CITY.$"
+    .string "ARANCIOPOLI.$"
 
 
 SSAqua_1F_Text_SailorDoorArrived:
-    .string "Siamo arrivati a VERMILION CITY.\n"
+    .string "Siamo arrivati a ARANCIOPOLI.\n"
     .string "Vuoi sbarcare?$"

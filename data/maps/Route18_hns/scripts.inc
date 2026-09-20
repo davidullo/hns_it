@@ -58,4 +58,4 @@ Route18_Text_BirdKeeperBobAfterBattle:
 
 Route18_Text_Sign:
 	.string "PERCORSO 18\p"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "AZZURROPOLI - FUCSIAPOLI$"

@@ -82,7 +82,7 @@ AquaHideout_1F_Text_BossIsOnRoute122:
 	.string "Cosa? Cosa? Cosa vuoi dal\n"
 	.string "TEAM ACQUA?\p"
 	.string "Il nostro CAPO non c'è! È in viaggio\n"
-	.string "verso MT. PYRE sul PERCORSO 122!\p"
+	.string "verso MONTE PIRA sul PERCORSO 122!\p"
 	.string "… …\n"
 	.string "Perché è andato?\p"
 	.string "Wahaha! Pensi davvero che ti dica\n"

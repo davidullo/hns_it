@@ -360,5 +360,5 @@ SinjohRuins_EventScript_Sign::
     end
 
 SinjohRuins_Text_Sign:
-    .string "ROVINE SINJOH$"
+    .string "ROVINE ROVINE SINJOH$"
 

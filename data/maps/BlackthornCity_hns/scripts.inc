@@ -245,7 +245,7 @@ BlackthornCooltrainerF2Text:
 	.string "Devi essere un allenatore tosto!$"
 
 BlackthornCitySignText:
-	.string "BLACKTHORN CITY\p"
+	.string "EBANOPOLI\p"
 	.string "Oasi quieta di montagna$"
 
 BlackthornGymSignText:

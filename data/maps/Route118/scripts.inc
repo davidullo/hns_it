@@ -291,10 +291,10 @@ Route118_Text_CanCrossRiversWithSurf:
 	.string "così tanto!$"
 
 Route118_Text_RouteSignMauville:
-	.string "ROUTE 118\n"
-	.string "{LEFT_ARROW} MAUVILLE CITY$"
+	.string "PERCORSO 118\n"
+	.string "{LEFT_ARROW} CICLAMIPOLI$"
 
 Route118_Text_RouteSign119:
-	.string "ROUTE 118\n"
-	.string "{UP_ARROW} ROUTE 119$"
+	.string "PERCORSO 118\n"
+	.string "{UP_ARROW} PERCORSO 119$"
 

@@ -358,7 +358,7 @@ TrainerHill_Entrance_hns_Text_ThankYouForPlaying:
 	.string "Grazie per aver giocato!$"
 
 TrainerHill_Entrance_hns_Text_ExplainTrainerHill:
-	.string "Qui al TRAINER HILL organizziamo\n"
+	.string "Qui al MONTE ALLENATORI organizziamo\n"
 	.string "un evento chiamato Time Attack.\p"
 	.string "È una corsa che misura quanto tempo\n"
 	.string "impieghi per raggiungere il nostro\l"
@@ -378,7 +378,7 @@ TrainerHill_Entrance_hns_Text_WhatSortOfTrainersAreAhead:
 
 TrainerHill_Entrance_hns_Text_CantWaitToTestTheWaters:
 	.string "Ho sentito che ALLENATORI forti arrivano\n"
-	.string "qui al TRAINER HILL da ogni dove.\p"
+	.string "qui al MONTE ALLENATORI da ogni dove.\p"
 	.string "Non vedo l'ora di misurarmi!\p"
 	.string "Spazzerò via chiunque mi stia\n"
 	.string "sulla strada!$"

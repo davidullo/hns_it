@@ -148,7 +148,7 @@ CeladonCity_Text_ExplainXAccuracyDireHit::
 	.string "COMMERCIALE!$"
 
 CeladonCity_Text_CitySign::
-	.string "CELADON CITY\n"
+	.string "AZZURROPOLI\n"
 	.string "Città dei sogni arcobaleno$"
 
 CeladonCity_Text_GymSign::

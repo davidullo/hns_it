@@ -6,7 +6,7 @@ DiglettsCave_NorthEntrance_EventScript_Hiker::
 	end
 
 DiglettsCave_NorthEntrance_RockTunnelPitchBlack::
-	.string "Sono entrato nel ROCK TUNNEL,\n"
+	.string "Sono entrato nel TUNNEL ROCCIOSO,\n"
 	.string "ma dentro è nero pece e fa\p"
 	.string "paura. Se un POKéMON usasse\n"
 	.string "BALENO per far luce…$"

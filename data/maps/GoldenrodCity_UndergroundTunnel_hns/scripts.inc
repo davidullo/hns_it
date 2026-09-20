@@ -429,7 +429,7 @@ GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:
     .string "Stai facendo il POKéDEX? Ecco un\n"
     .string "consiglio.\p"
-    .string "L'ESCURSIONISTA sulla ROUTE 33,\n"
+    .string "L'ESCURSIONISTA sulla PERCORSO 33,\n"
     .string "ANTHONY, è un bravo tipo.\p"
     .string "Ti chiama se vede dei POKéMON\n"
     .string "rari.$"

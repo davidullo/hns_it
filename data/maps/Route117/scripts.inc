@@ -230,12 +230,12 @@ Route117_Text_AirIsTastyHere:
 	.string "Qui l'aria è deliziosa!$"
 
 Route117_Text_RouteSignVerdanturf:
-	.string "ROUTE 117\n"
-	.string "{LEFT_ARROW} VERDANTURF TOWN$"
+	.string "PERCORSO 117\n"
+	.string "{LEFT_ARROW} MENTANIA$"
 
 Route117_Text_RouteSignMauville:
-	.string "ROUTE 117\n"
-	.string "{RIGHT_ARROW} MAUVILLE CITY$"
+	.string "PERCORSO 117\n"
+	.string "{RIGHT_ARROW} CICLAMIPOLI$"
 
 Route117_Text_DayCareSign:
 	.string "PENSIONE POKéMON\n"

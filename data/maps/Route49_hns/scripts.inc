@@ -118,7 +118,7 @@ Route49_Text_KimonoGirl:
 	.string "Devi essere {PLAYER}, vero?\n"
     .string "Ho sentito parlare di te e\l"
 	.string "delle tue imprese dalle mie cugine\l"
-	.string "di ECRUTEAK CITY.\p"
+	.string "di AMARANTOPOLI.\p"
 	.string "Le mie sorelle vogliono vederti.\l"
 	.string "Se trovi il tempo, cercaci\n"
 	.string "nella città più avanti.$"

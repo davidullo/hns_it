@@ -1046,13 +1046,13 @@ EcruteakCity_Theater_Text_ZukiDone:
 EcruteakCity_Theater_Text_GirlHooh:
 	.string "Sorelle! Ho appena visto\n"
 	.string "l'ombra di un POKéMON sulla\l"
-	.string "TIN TOWER!\p"
+	.string "TORRE CAMPANA!\p"
 	.string "Potrebbe…$"
 
 EcruteakCity_Theater_Text_GirlLugia:
 	.string "Sorelle! Ho appena visto\n"
 	.string "una grande ombra di POKéMON\l"
-	.string "nelle WHIRL ISLANDS!\p"
+	.string "nelle ISOLE VORTICOSE!\p"
 	.string "Potrebbe…$"
 
 EcruteakCity_Theater_Text_ZukiHooh:
