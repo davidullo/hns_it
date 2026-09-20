@@ -296,6 +296,7 @@ class Unit:
     prev_it: list[str] | None = None  # ultima traduzione scartata (per il revert)
     status: str = "pending"  # pending | translated | reviewed | skipped
     note: str = ""
+    attempts: int = 0  # quante volte e' stata provata e scartata
 
     def __post_init__(self):
         if not self.sha1:

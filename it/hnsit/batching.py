@@ -41,6 +41,11 @@ def load_metrics():
     return Metrics(store.repo_root())
 
 
+# dopo tanti tentativi scartati per lo stesso motivo, l'unita' resta in inglese:
+# continuare a riprovare brucia tempo e non produce niente
+MAX_ATTEMPTS = 3
+
+
 def glossary_map() -> dict[str, str]:
     out: dict[str, str] = {}
     path = ROOT / "data" / "glossary.csv"
@@ -106,7 +111,7 @@ def unit_record(unit, metrics, limits=None) -> dict:
         "max_px": max(LIMIT_PX, max(widths) if widths else LIMIT_PX),
         # tetto di caratteri per riga: il modello non sa misurare i pixel ma sa
         # contare, e le righe inglesi ci stanno. E' il vincolo che rispetta.
-        "max_car": [len(t) for t in lines],
+        "max_car": [len(t) + min(12, max(0, (LIMIT_PX - w) // 5)) for t, w in zip(lines, widths)],
     }
     if unit.prev_it:
         # il giro prima ha provato e non e' passata: al modello va detto
@@ -146,6 +151,14 @@ def pending_groups(units) -> list[list]:
     grouped: dict[str, list] = defaultdict(list)
     for unit in units:
         if unit.status == "skipped":
+            continue
+        if unit.attempts >= MAX_ATTEMPTS:
+            # provata e scartata sempre per lo stesso motivo: in italiano non ci
+            # sta (campo troppo stretto, riga gia' al limite). Resta in inglese e
+            # si annota perche', invece di girare a vuoto per ore.
+            unit.status = "skipped"
+            if not unit.note.startswith("arresa"):
+                unit.note = "arresa dopo %d tentativi" % unit.attempts
             continue
         grouped[unit.sha1].append(unit)
     todo = []
@@ -210,6 +223,10 @@ def apply_rows(units: dict, rows: list[dict], mark: str = "translated") -> tuple
             unit.it = None
             unit.status = "pending"
             unit.note = ""
+            # si ricorda cosa e' stato provato e perche' e' stato scartato:
+            # il giro dopo deve saperlo, altrimenti riprova identico
+            unit.prev_it = it_lines
+            unit.attempts += 1
             failed.append(f"{key}: {hard[0]}")
             continue
         # testo identico all'inglese (onomatopea, nome proprio): non e' una

@@ -42,6 +42,7 @@ def load_units(path: Path) -> list[Unit]:
                 prev_it=d.get("prev_it"),
                 status=d.get("status", "pending"),
                 note=d.get("note", ""),
+                attempts=d.get("attempts", 0),
             )
         )
     return units
