@@ -591,8 +591,8 @@ static const u8 *const sChoices_TrainerIVs[] = {
 static const u8 *const sChoices_TrainerEVs[] = {
     COMPOUND_STRING("NO"),
     COMPOUND_STRING("SCALA"),
-    COMPOUND_STRING("DIFFICILE"),
-    COMPOUND_STRING("ESTREMO"),
+    COMPOUND_STRING("DIFF."),
+    COMPOUND_STRING("MAX"),
 };
 
 static const u8 *const sChoices_PlayerIVs[] = {
