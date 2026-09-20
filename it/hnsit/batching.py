@@ -82,7 +82,13 @@ def unit_record(unit, metrics, limits=None) -> dict:
         "lines": lines,
         "width_px": widths,
         "max_px": max(LIMIT_PX, max(widths) if widths else LIMIT_PX),
+        # tetto di caratteri per riga: il modello non sa misurare i pixel ma sa
+        # contare, e le righe inglesi ci stanno. E' il vincolo che rispetta.
+        "max_car": [len(t) for t in lines],
     }
+    if unit.prev_it:
+        rec["prev"] = unit.prev_it
+        rec["prev_nota"] = "rifiutata: una riga sfondava il tetto di caratteri"
     # limite di byte per i campi ad array fisso (`u8 campo[N]`): la build muore
     # se la traduzione non ci sta
     if limits is not None:
@@ -175,12 +181,17 @@ def apply_rows(units: dict, rows: list[dict], mark: str = "translated") -> tuple
         # stesse regole di verify: codici {...} nelle stesse righe, larghezza
         # di riga entro il limite del gioco. Se non passano, non entrano.
         problems = verifymod.check_unit(unit, metrics, limits)
-        if problems:
+        hard = [p for p in problems if not p.startswith("W:")]
+        if hard:
             unit.it = None
             unit.status = "pending"
             unit.note = ""
-            failed.append(f"{key}: {problems[0]}")
+            failed.append(f"{key}: {hard[0]}")
             continue
+        # testo identico all'inglese (onomatopea, nome proprio): non e' una
+        # traduzione, quindi si conta come riempimento, non come tradotta
+        if "".join(it_lines) == "".join(t for t, _ in unit.lines):
+            unit.status = "auto"
         applied += 1
     return applied, failed
 

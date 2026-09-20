@@ -71,6 +71,9 @@ def check_unit(unit, metrics: Metrics, limits=None) -> list[str]:
         return problems
 
     for i, ((en_text, _term), it_text) in enumerate(zip(en_lines, unit.it)):
+        if en_text.strip() and not it_text.strip():
+            problems.append(f"riga {i}: vuota (l'inglese ha testo)")
+            continue
         ph_en, ph_it = placeholders(en_text), placeholders(it_text)
         if ph_en != ph_it:
             problems.append(f"riga {i}: codici {ph_en} -> {ph_it}")
@@ -94,7 +97,12 @@ def check_unit(unit, metrics: Metrics, limits=None) -> list[str]:
     if not any("px oltre" in p or "codici" in p or "charmap" in p for p in problems):
         joined = "".join(unit.it).strip()
         if joined == "".join(t for t, _ in en_lines).strip():
-            if joined not in ALLOW_IDENTICAL and not joined.isupper() and not joined.startswith("?"):
+            if (
+                joined not in ALLOW_IDENTICAL
+                and not joined.isupper()
+                and not joined.startswith("?")
+                and not is_cry(joined)
+            ):
                 problems.append("W:identica all'inglese")
     # struttura: stessi separatori, stesso numero di segmenti
     try:
@@ -103,6 +111,15 @@ def check_unit(unit, metrics: Metrics, limits=None) -> list[str]:
     except Exception:
         pass
     return problems
+
+
+def is_cry(text: str) -> bool:
+    """Onomatopea da verso di Pokemon: `Grrr!`, `Kooo!`, `Mwaaawwwwrrrr`.
+
+    Restano identiche all'inglese anche nel gioco italiano, quindi non sono
+    lavoro mancante.
+    """
+    return bool(re.search(r"(.)\1\1", text.strip()))
 
 
 def cmd_units(limit: int, kind: str | None) -> int:
