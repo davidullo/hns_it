@@ -230,14 +230,15 @@ class Block:
     lines: list[str] = field(default_factory=list)  # righe visibili attuali
 
 
-def load_misc_macros() -> dict[str, tuple[str, str]]:
-    """Macro tipo `VIVILLON_MISC_INFO`: nome -> (natDexNum, speciesName).
+def load_misc_macros() -> dict[str, dict]:
+    """Macro tipo `VIVILLON_MISC_INFO`: nome -> {dex, nome, annidata}.
 
     Alcune voci (Vivillon, Flabe'be', Floette, Florges, Alcremie, Unown...)
     non scrivono `.natDexNum` nel blocco: sta dentro la macro di famiglia.
-    Senza questo passaggio quei blocchi resterebbero senza numero di dex.
+    Certe famiglie hanno due livelli (`FLOETTE_NORMAL_INFO` chiama
+    `FLOETTE_MISC_INFO`), quindi si segue anche la catena.
     """
-    out: dict[str, tuple[str, str]] = {}
+    out: dict[str, dict] = {}
     for path in sorted(SPECIES_DIR.glob("*.h")):
         lines = path.read_text(encoding="utf-8").splitlines()
         i = 0
@@ -254,8 +255,15 @@ def load_misc_macros() -> dict[str, tuple[str, str]]:
             text = "\n".join(body)
             dm = re.search(r"\.natDexNum\s*=\s*(NATIONAL_DEX_[A-Z0-9_]+)", text)
             sn = re.search(r'\.speciesName\s*=\s*_\("([^"]*)"\)', text)
-            if dm:
-                out[m.group(1)] = (dm.group(1), sn.group(1) if sn else "")
+            annidata = None
+            for extra in body[1:]:
+                mm = MACRO_RE.match(extra)
+                if mm:
+                    annidata = mm.group(1)
+                    break
+            out[m.group(1)] = {"dex": dm.group(1) if dm else None,
+                               "nome": sn.group(1) if sn else "",
+                               "annidata": annidata}
             i = j + 1
     return out
 
@@ -575,16 +583,30 @@ def resolve_dexes(blocks: list[Block]) -> None:
     c'e', il numero si eredita dalla specie base con lo stesso prefisso di nome.
     """
     misc = load_misc_macros()
+
+    def da_macro(nome: str | None, salti: int = 5) -> tuple[str, str] | None:
+        """Segue la catena delle macro finche' trova un numero di dex."""
+        while nome and salti > 0:
+            info = misc.get(nome)
+            if not info:
+                return None
+            if info["dex"]:
+                return info["dex"], info["nome"]
+            nome, salti = info["annidata"], salti - 1
+        return None
+
     noto: dict[str, str] = {}
     for blk in blocks:
         if blk.dex:
             noto[blk.species] = blk.dex
     for blk in blocks:
-        if blk.dex is None and blk.macro and blk.macro in misc:
-            blk.dex, sname = misc[blk.macro]
-            if not blk.species_name:
-                blk.species_name = sname
-            noto.setdefault(blk.species, blk.dex)
+        if blk.dex is None:
+            trovato = da_macro(blk.macro)
+            if trovato:
+                blk.dex, sname = trovato
+                if not blk.species_name:
+                    blk.species_name = sname
+                noto.setdefault(blk.species, blk.dex)
     for blk in blocks:
         if blk.dex is None:
             for base in sorted(noto, key=len, reverse=True):
@@ -692,6 +714,10 @@ def main() -> int:
     for path in sorted(SPECIES_DIR.glob("gen_*_families.h")):
         blocks.extend(parse_file(path))
     print(f"blocchi .description = COMPOUND_STRING(...): {len(blocks)}")
+    resolve_dexes(blocks)
+    senza_dex = [b.species for b in blocks if b.dex is None]
+    if senza_dex:
+        print(f"senza numero di dex: {len(senza_dex)} (es. {senza_dex[:3]})")
 
     ids = sorted({dex_map[b.dex] for b in blocks if b.dex in dex_map})
     fetch_species(ids)
