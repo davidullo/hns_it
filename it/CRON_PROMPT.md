@@ -17,7 +17,18 @@ timeout 1500 python3 -m hnsit translate --kind inc --size 40 --workers 16 --roun
 timeout 1500 python3 -m hnsit translate --kind cstr --size 40 --workers 16 --rounds 20
 ```
 
-Se stampa `SKIPPED_LOCKED` va bene (un altro giro è già in corso): passa al 2.
+Se stampa `SKIPPED_LOCKED` un altro giro sta traducendo: **non lanciare
+subito il 2**. `translate`, `autofill` e `repair --apply` riscrivono l'intero
+store (`it/data/units_*.jsonl`) da una fotografia in memoria: due scrittori
+insieme si cancellano il lavoro a vicenda. Aspetta che spariscano i lock
+`it/work/.translate-inc.lock` e `it/work/.translate-cstr.lock` (max ~25
+minuti, controlla ogni 30s), poi fai 2, 3 e 4.
+
+Se allo scadere il lock c'e' ancora: `inject` e i `verify` si possono lanciare
+comunque (leggono soltanto lo store), `autofill`/`repair --apply` no; commit
+solo se i tre verify sono puliti, e nel report scrivi che il giro e' andato
+in parallelo a un'altra traduzione. Non usare `pkill`/`kill` sul processo
+altrui.
 
 ## 2. Consolidamento (sempre, in quest'ordine)
 
