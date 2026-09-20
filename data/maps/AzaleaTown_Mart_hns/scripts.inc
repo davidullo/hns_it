@@ -19,7 +19,7 @@ AzaleaTown_Mart_EventScriptBugCatcher::
 
 AzaleaMart_Text_CooltrainerM:
 	.string "Puoi comprare una GREAT BALL?\n"
-	.string "Io compro solo POKé BALL.\p"
+	.string "Io solo le POKé BALL.\p"
 	.string "Ho sentito che si sbloccano\n"
 	.string "più oggetti quando ottieni\l"
 	.string "MEDAGLIE!\p"
@@ -30,5 +30,4 @@ AzaleaMart_Text_BugCatcher:
 	.string "Una GREAT BALL cattura\n"
 	.string "i POKéMON meglio di una\p"
 	.string "POKé BALL. Ma quelle di\n"
-	.string "KURT a volte vince.$"
-
+	.string "KURT a volte vincono.$"

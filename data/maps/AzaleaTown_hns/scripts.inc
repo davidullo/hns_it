@@ -6,7 +6,7 @@ AzaleaTown_hns_MapScripts::
 AzaleaTown_OnTransition::
 	goto_if_eq VAR_AZALEA_TOWN_STATE, 5, AzaleaTown_MapScript_Hide_Silver
 	end
-	
+
 AzaleaTown_OnFrame::
 	map_script_2 VAR_AZALEA_TOWN_STATE, 8, AzaleaTown_EventScript_GSBall
 	.2byte 0
@@ -33,7 +33,7 @@ AzaleaTown_EventScript_Trigger:: @flagheap
 	setflag FLAG_HIDE_AZALEA_ARIADOS_LEFT
 	setflag FLAG_HIDE_AZALEA_ARIADOS_MID
 	setflag FLAG_HIDE_AZALEA_ARIADOS_RIGHT
-	
+
 
 	clearflag FLAG_HIDE_ILEX_FOREST_KIMONO
 	clearflag FLAG_ITEM_SLOWPOKE_WELL_RAIN_DANCE
@@ -374,7 +374,7 @@ AzaleaTown_Text_RivalLoss:
 AzaleaTown_Text_Rocket1:
 	.string "È pericoloso entrare,\n"
 	.string "quindi sto di guardia.\p"
-	.string "Non sono buono, eh?$"
+	.string "Non sono bravo, eh?$"
 
 AzaleaTown_Text_Rocket2:
 	.string "Conosci la CODA SLOWPOKE?\n"
