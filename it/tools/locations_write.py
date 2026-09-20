@@ -90,18 +90,15 @@ def main() -> int:
 
     # region_map.c: sostituisco solo la stringa dentro COMPOUND_STRING(...)
     t = REGION.read_text(encoding="utf-8")
+    pat = re.compile(
+        r'(\[(MAPSEC_[A-Z0-9_]+)\][^=]*=\s*\{[^}]*?COMPOUND_STRING\(")([^"]*)(")', re.S
+    )
     def sostituisci(m: re.Match) -> str:
-        cost = m.group(1)
-        nuovo = traduzione(chiave(cost), mappa)
+        nuovo = traduzione(chiave(m.group(2)), mappa)
         if not nuovo:
             return m.group(0)
-        return f'{m.group(2)}COMPOUND_STRING("{nuovo}")'
-    t2, n = re.subn(
-        r"\[(MAPSEC_[A-Z0-9_]+)\][^=]*=\s*\{([^}]*?)COMPOUND_STRING\(\"[^\"]*\"\)",
-        sostituisci,
-        t,
-        flags=re.S,
-    )
+        return f"{m.group(1)}{nuovo}{m.group(4)}"
+    t2, n = pat.subn(sostituisci, t)
     REGION.write_text(t2, encoding="utf-8")
     print(f"region_map.c: {n} voci toccate")
 
