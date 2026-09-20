@@ -59,6 +59,22 @@ c) Righe di italiano più lunghe dell'inglese in pixel, nonostante la regola
 d) Il numero di unità fatte dichiarato dal job di traduzione corrisponde al
    `stats` reale? Se no, dillo.
 
+## 3bis. Domande aperte da indagare (se hai tempo in questo giro)
+
+- **Le 108 stringhe con sorgente giapponese** (marcate `skipped`, nota
+  "sorgente giapponese"): sono nel ramo JP del gioco, quindi in teoria non
+  raggiungibili nella build internazionale. Verifica se almeno una è invece
+  raggiungibile (cerca dove viene usato l'array che la contiene, es.
+  `sStatusConditionText` in `src/battle_main.c`, e se il codice che lo legge
+  è attivo per la lingua inglese). Se ne trovi una raggiungibile, è un buco
+  vero: segnalala con file e array.
+- **I test non coprono la compilazione della ROM**: l'unica prova che la
+  traduzione non rompe il gioco è `make hns`. Per questo la build è
+  obbligatoria in questo giro, non opzionale.
+- **Parità con il tedesco**: verifica se `hns_de` ha tradotto anche i testi
+  dentro i `.c` (non solo i `.inc`) e se ha toccato grafici che noi non
+  abbiamo in piano (font `latin_*.png`, title screen, tastiera del nome).
+
 ## 4. Parità con hns_de
 
 Confronta in modo grossolano il lavoro italiano con quello tedesco
