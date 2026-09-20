@@ -43,9 +43,9 @@ gBirchDexRatingText_LessThan70::
 	.string "che ne dici di farli anche evolvere?$"
 
 gBirchDexRatingText_LessThan80::
-	.string "Sarà un POKéDEX fantastico.\n"
-	.string "\l"
-	.string "È la sensazione che ho.$"
+	.string "This is going to be a fantastic\n"
+	.string "POKéDEX.\l"
+	.string "That's the feeling I'm getting.$"
 
 gBirchDexRatingText_LessThan90::
 	.string "Ne hai raccolti così tanti…\n"

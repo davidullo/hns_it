@@ -35,27 +35,27 @@ static int BerryFix_TrySetScene(int);
 static void BerryFix_SetScene(int);
 static void BerryFix_HideScene(void);
 
-static const u8 sText_BerryProgramUpdate[] = _("Berry Program Update");
-static const u8 sText_RubySapphire[] = _("Ruby/Sapphire");
-static const u8 sText_Emerald[] = _("Emerald");
-static const u8 sText_BerryProgramWillBeUpdatedPressA[] = _("The Berry Program on your POKéMON\n"
-                                                            "Ruby/Sapphire Game Pak will be updated.\n"
-                                                            "{COLOR RED}{SHADOW LIGHT_RED}Press the A Button.");
-static const u8 sText_EnsureGBAConnectionMatches[] = _("Please ensure the connection of your\n"
-                                                       "Game Boy Advance system matches this.\n"
-                                                       "{COLOR RED}{SHADOW LIGHT_RED}YES: Press the A Button.\n"
-                                                       "NO: Turn off the power and try again.");
-static const u8 sText_TurnOffPowerHoldingStartSelect[] = _("Please turn on the power of POKéMON\n"
-                                                           "Ruby/Sapphire while holding START and\n"
-                                                           "SELECT simultaneously. Then, ensure\n"
-                                                           "the picture above appears.");
-static const u8 sText_TransmittingPleaseWait[] = _("Transmitting. Please wait.\n"
-                                                   "{COLOR RED}{SHADOW LIGHT_RED}Please do not turn off the power or\n"
-                                                   "unplug the Game Boy Advance Game\nLink Cable.");
-static const u8 sText_PleaseFollowInstructionsOnScreen[] = _("Please follow the instructions on your\n"
-                                                             "POKéMON Ruby/Sapphire screen.");
-static const u8 sText_TransmissionFailureTryAgain[] = _("Transmission failure.\n"
-                                                        "{COLOR RED}{SHADOW LIGHT_RED}Please try again.");
+static const u8 sText_BerryProgramUpdate[] = _("Aggiornamento Programma Bacche");
+static const u8 sText_RubySapphire[] = _("Rubino/Zaffiro");
+static const u8 sText_Emerald[] = _("Smeraldo");
+static const u8 sText_BerryProgramWillBeUpdatedPressA[] = _("Il Programma Bacche del tuo gioco\n"
+                                                            "POKéMON Rubino/Zaffiro sarà aggiornato.\n"
+                                                            "{COLOR RED}{SHADOW LIGHT_RED}Premi il Tasto A.");
+static const u8 sText_EnsureGBAConnectionMatches[] = _("Verifica che il collegamento del tuo\n"
+                                                       "Game Boy Advance corrisponda.\n"
+                                                       "{COLOR RED}{SHADOW LIGHT_RED}SÌ: premi il Tasto A.\n"
+                                                       "NO: spegni e riprova.");
+static const u8 sText_TurnOffPowerHoldingStartSelect[] = _("Accendi il POKéMON\n"
+                                                           "Rubino/Zaffiro tenendo premuti\n"
+                                                           "START e SELECT insieme. Poi\n"
+                                                           "controlla che appaia l'immagine.");
+static const u8 sText_TransmittingPleaseWait[] = _("Trasmissione. Attendere.\n"
+                                                   "{COLOR RED}{SHADOW LIGHT_RED}Non spegnere la console e non\n"
+                                                   "staccare il Cavo Game Link\ndel Game Boy Advance.");
+static const u8 sText_PleaseFollowInstructionsOnScreen[] = _("Segui le istruzioni sullo schermo\n"
+                                                             "del tuo POKéMON Rubino/Zaffiro.");
+static const u8 sText_TransmissionFailureTryAgain[] = _("Trasmissione fallita.\n"
+                                                        "{COLOR RED}{SHADOW LIGHT_RED}Riprova.");
 
 static const struct BgTemplate sBerryFixBgTemplates[] = {
     {

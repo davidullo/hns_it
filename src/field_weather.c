@@ -1195,29 +1195,29 @@ bool32 IsWeatherAlphaBlend(void)
 }
 
 static const u8 sWeatherNames[WEATHER_COUNT][24] = {
-    [WEATHER_NONE]               = _("NONE"),
-    [WEATHER_SUNNY_CLOUDS]       = _("SUNNY CLOUDS"),
-    [WEATHER_SUNNY]              = _("SUNNY"),
-    [WEATHER_RAIN]               = _("RAIN"),
-    [WEATHER_SNOW]               = _("SNOW"),
-    [WEATHER_RAIN_THUNDERSTORM]  = _("RAIN THUNDERSTORM"),
-    [WEATHER_FOG_HORIZONTAL]     = _("FOG HORIZONTAL"),
-    [WEATHER_VOLCANIC_ASH]       = _("VOLCANIC ASH"),
+    [WEATHER_NONE]               = _("NESSUNO"),
+    [WEATHER_SUNNY_CLOUDS]       = _("SOLE E NUVOLE"),
+    [WEATHER_SUNNY]              = _("SOLARE"),
+    [WEATHER_RAIN]               = _("PIOGGIA"),
+    [WEATHER_SNOW]               = _("NEVE"),
+    [WEATHER_RAIN_THUNDERSTORM]  = _("TEMPORALE"),
+    [WEATHER_FOG_HORIZONTAL]     = _("NEBBIA OR."),
+    [WEATHER_VOLCANIC_ASH]       = _("CENERE VULC."),
     [WEATHER_SANDSTORM]          = _("SANDSTORM"),
-    [WEATHER_FOG_DIAGONAL]       = _("FOG DIAGONAL"),
-    [WEATHER_UNDERWATER]         = _("UNDERWATER"),
-    [WEATHER_SHADE]              = _("SHADE"),
+    [WEATHER_FOG_DIAGONAL]       = _("NEBBIA DIAG."),
+    [WEATHER_UNDERWATER]         = _("SOMMERSO"),
+    [WEATHER_SHADE]              = _("OMBRA"),
     [WEATHER_DROUGHT]            = _("DROUGHT"),
-    [WEATHER_DOWNPOUR]           = _("DOWNPOUR"),
-    [WEATHER_UNDERWATER_BUBBLES] = _("UNDERWATER BUBBLES"),
-    [WEATHER_ABNORMAL]           = _("ABNORMAL(NOT WORKING)"),
-    [WEATHER_ROUTE119_CYCLE]     = _("ROUTE119 CYCLE"),
-    [WEATHER_ROUTE123_CYCLE]     = _("ROUTE123 CYCLE"),
-    [WEATHER_FOG]                = _("FOG"),
-    [WEATHER_LEAVES]             = _("LEAVES"),
+    [WEATHER_DOWNPOUR]           = _("ROVESCIO"),
+    [WEATHER_UNDERWATER_BUBBLES] = _("BOLLE SUB"),
+    [WEATHER_ABNORMAL]           = _("ANOMALO(NON FUNZ.)"),
+    [WEATHER_ROUTE119_CYCLE]     = _("CICLO PERC.119"),
+    [WEATHER_ROUTE123_CYCLE]     = _("CICLO PERC.123"),
+    [WEATHER_FOG]                = _("NEBBIA"),
+    [WEATHER_LEAVES]             = _("FOGLIE"),
 };
 
-static const u8 sDebugText_WeatherNotDefined[] = _("NOT DEFINED!!!");
+static const u8 sDebugText_WeatherNotDefined[] = _("NON DEFINITO!!!");
 const u8 *GetWeatherName(u32 weatherId)
 {
     if (sWeatherNames[weatherId][0] != 0)

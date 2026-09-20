@@ -244,10 +244,10 @@ Route14_Text_Eusine:
 	.string "Ti sfido!$"
 
 Route14_Text_PokefanmTrevorSeen:
-	.string "Ciao. Lo sapevi…?\p"
-	.string "I POKéMON diventano più amici se li\n"
-	.string "alleni in un luogo che ricordano.\l"
-	.string "$"
+	.string "Hi. Did you know…?\p"
+	.string "POKéMON get more friendly if you\n"
+	.string "train them in a place that they\l"
+	.string "remember.$"
 
 Route14_Text_PokefanmTrevorBeaten:
 	.string "Dove ho incontrato questo SCIZOR?$"

@@ -49,13 +49,13 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_COLOR)] =
     {
-        .text = COMPOUND_STRING("COLOR"),
+        .text = COMPOUND_STRING("COLORE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CHLOROPHYLL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ALT_COLOR)] =
     {
-        .text = COMPOUND_STRING("ALT. COLOR"),
+        .text = COMPOUND_STRING("COLORE ALT."),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CLEAR_BODY),
         .enabled = TRUE,
     },
@@ -67,7 +67,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_BEAUTIFUL)] =
     {
-        .text = COMPOUND_STRING("BEAUTIFUL"),
+        .text = COMPOUND_STRING("BELLISSIMO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_COLOR),
         .enabled = TRUE,
     },
@@ -109,13 +109,13 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_SMART)] =
     {
-        .text = COMPOUND_STRING("SMART"),
+        .text = COMPOUND_STRING("CLASSE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CUTENESS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SMARTNESS)] =
     {
-        .text = COMPOUND_STRING("SMARTNESS"),
+        .text = COMPOUND_STRING("INTELLIGENZA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DAMP),
         .enabled = TRUE,
     },
@@ -127,13 +127,13 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_COOL)] =
     {
-        .text = COMPOUND_STRING("COOL"),
+        .text = COMPOUND_STRING("CLASSE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DRAGON),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_COOLNESS)] =
     {
-        .text = COMPOUND_STRING("COOLNESS"),
+        .text = COMPOUND_STRING("CLASSE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DRIZZLE),
         .enabled = TRUE,
     },
@@ -145,13 +145,13 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_CUTE)] =
     {
-        .text = COMPOUND_STRING("CUTE"),
+        .text = COMPOUND_STRING("GRAZIA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_EARLY_BIRD),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_CUTENESS)] =
     {
-        .text = COMPOUND_STRING("CUTENESS"),
+        .text = COMPOUND_STRING("GRAZIOSITÀ"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_EFFECT_SPORE),
         .enabled = TRUE,
     },
@@ -301,19 +301,19 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_TYPE)] =
     {
-        .text = COMPOUND_STRING("TYPE"),
+        .text = COMPOUND_STRING("TIPO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LIQUID_OOZE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TOUGH)] =
     {
-        .text = COMPOUND_STRING("TOUGH"),
+        .text = COMPOUND_STRING("FORZA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MAGMA_ARMOR),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TOUGHNESS)] =
     {
-        .text = COMPOUND_STRING("TOUGHNESS"),
+        .text = COMPOUND_STRING("FORZA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MAGNET_PULL),
         .enabled = TRUE,
     },
@@ -445,7 +445,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_SHINE)] =
     {
-        .text = COMPOUND_STRING("SHINE"),
+        .text = COMPOUND_STRING("LUCIDO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SAND_STREAM),
         .enabled = TRUE,
     },
@@ -463,13 +463,13 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_LIGHTNINGROD)] =
     {
-        .text = COMPOUND_STRING("LIGHTNINGROD"),
+        .text = COMPOUND_STRING("PARAFULMINE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHADOW_TAG),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_COMPOUNDEYES)] =
     {
-        .text = COMPOUND_STRING("COMPOUNDEYES"),
+        .text = COMPOUND_STRING("OCCHICOLORO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHED_SKIN),
         .enabled = TRUE,
     },
@@ -619,7 +619,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_PATTERN)] =
     {
-        .text = COMPOUND_STRING("PATTERN"),
+        .text = COMPOUND_STRING("MOTIVO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_VOLT_ABSORB),
         .enabled = TRUE,
     },

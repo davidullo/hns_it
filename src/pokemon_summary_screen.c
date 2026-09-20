@@ -775,11 +775,11 @@ static const TaskFunc sTextPrinterTasks[] =
     [PSS_PAGE_CONTEST_MOVES] = Task_PrintContestMoves
 };
 
-static const u8 sText_Relearn[] = _("{START_BUTTON} RELEARN"); // future note: don't decap this, because it mimics the summary screen BG graphics which will not get decapped
-static const u8 sText_Relearn_LevelUp[] = _("{START_BUTTON} RELEARN LEVEL");
-static const u8 sText_Relearn_Egg[] = _("{START_BUTTON} RELEARN EGG");
-static const u8 sText_Relearn_TM[] = _("{START_BUTTON} RELEARN TM");
-static const u8 sText_Relearn_Tutor[] = _("{START_BUTTON} RELEARN TUTOR");
+static const u8 sText_Relearn[] = _("{START_BUTTON} RIMPARA"); // future note: don't decap this, because it mimics the summary screen BG graphics which will not get decapped
+static const u8 sText_Relearn_LevelUp[] = _("{START_BUTTON} RIMPARA LIVELLO");
+static const u8 sText_Relearn_Egg[] = _("{START_BUTTON} RIMPARA UOVO");
+static const u8 sText_Relearn_TM[] = _("{START_BUTTON} RIMPARA MT");
+static const u8 sText_Relearn_Tutor[] = _("{START_BUTTON} RIMPARA TUTOR");
 
 static const u8 sMemoNatureTextColor[] = _("{COLOR LIGHT_RED}{SHADOW GREEN}");
 static const u8 sMemoHiddenNatureTextColor[] = _(" ({COLOR BLUE}{SHADOW DARK_GRAY}");
@@ -4107,7 +4107,7 @@ static const u8 *GetLetterGrade(u32 stat)
     static const u8 gText_GradeD[] = _("D");
     static const u8 gText_GradeC[] = _("C");
     static const u8 gText_GradeB[] = _("B");
-    static const u8 gText_GradeA[] = _("A");
+    static const u8 gText_GradeA[] = _("UN");
     static const u8 gText_GradeS[] = _("S");
 
     if (stat <= 0)

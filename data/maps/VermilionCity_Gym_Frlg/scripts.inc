@@ -414,8 +414,8 @@ VermilionCity_Gym_Text_SecondLockOpened::
 	.string "La porta motorizzata si apre!$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
-	.string "Nope!\n"
-	.string "There's only trash here.\p"
-	.string "Hey!\n"
-	.string "The electric locks were reset!$"
+	.string "No!\n"
+	.string "Qui c'è solo spazzatura.\p"
+	.string "Ehi!\n"
+	.string "Le serrature si sono riattivate!$"
 

@@ -149,10 +149,10 @@ Route4_PokemonCenter_1F_EventScript_Newspaper::
 	end
 
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-	.string "Ok, sei POKé BALL nella cintura…\n"
-	.string "\p"
-	.string "Sì, così va bene. Al massimo puoi\n"
-	.string "avere sei POKéMON con te.$"
+	.string "Okay, set six POKé BALLS in my\n"
+	.string "belt…\p"
+	.string "Yeah, that'll do it. At most, you\n"
+	.string "can have six POKéMON with you.$"
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
 	.string "Il TEAM ROCKET attacca i cittadini\n"

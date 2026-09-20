@@ -7650,7 +7650,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_7 = {
     .trainers =
     {
         {
-            .name = _("AXE & REN"),
+            .name = _("SCURE&REN"),
             .facilityClass = FACILITY_CLASS_SIS_AND_BRO_FRLG,
             .textColor = 2,
             .speechBefore = {EC_WORD_IT_S, EC_WORD_GOING, EC_WORD_TO, EC_WORD_GET, EC_WORD_AWFULLY, EC_WORD_COLD},
@@ -7794,7 +7794,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_7 = {
             }
         },
         {
-            .name = _("AXE & REN"),
+            .name = _("SCURE&REN"),
             .facilityClass = FACILITY_CLASS_SIS_AND_BRO_FRLG,
             .textColor = 2,
             .speechBefore = {EC_WORD_OUR, EC_WORD_SWIFT_SWIM, EC_WORD_LEFT, EC_WORD_ME, EC_WORD_FEELING, EC_WORD_COLD},

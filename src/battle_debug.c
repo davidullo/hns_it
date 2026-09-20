@@ -425,7 +425,7 @@ static const struct ListMenuItem sAIListItems[] =
     {COMPOUND_STRING("Controlla mosse scarse"),             LIST_AI_CHECK_BAD_MOVE},
     {COMPOUND_STRING("Prova a far svenire"),               LIST_AI_TRY_TO_FAINT},
     {COMPOUND_STRING("Controlla validità"),            LIST_AI_CHECK_VIABILITY},
-    {COMPOUND_STRING("Force Setup First Turn"),     LIST_AI_FORCE_SETUP_FIRST_TURN},
+    {COMPOUND_STRING("Forza setup al primo turno"),     LIST_AI_FORCE_SETUP_FIRST_TURN},
     {COMPOUND_STRING("Rischiosa"),                      LIST_AI_RISKY},
     {COMPOUND_STRING("Prova il 2HKO"),                LIST_AI_TRY_TO_2HKO},
     {COMPOUND_STRING("Preferisci Superpass"),          LIST_AI_PREFER_BATON_PASS},

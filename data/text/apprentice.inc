@@ -865,13 +865,13 @@ gText_ApprenticeItemAlreadyRecommended5::
 	.string "il mio {STR_VAR_2} non serve nulla?$"
 
 gText_ApprenticeWhatHeldItem6::
-	.string "Hiya, {PLAYER}! It's me!\n"
-	.string "I need to tap your mind again today.\l"
-	.string "Please, I need your advice!\p"
-	.string "Drum roll, please!\n"
-	.string "The question I have is…\p"
-	.string "If I want to make my {STR_VAR_1} hold\n"
-	.string "an item, what should it be?$"
+	.string "Ciao, {PLAYER}! Sono io!\n"
+	.string "Oggi ho di nuovo bisogno di te.\l"
+	.string "Ti prego, dammi un consiglio!\p"
+	.string "Rullo di tamburi!\n"
+	.string "La domanda che ho è…\p"
+	.string "Se voglio far tenere a {STR_VAR_1}\n"
+	.string "un oggetto, quale dovrebbe essere?$"
 
 gText_ApprenticeHoldNothing6::
 	.string "Ah, sì? Il mio {STR_VAR_1} non deve\n"

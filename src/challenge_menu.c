@@ -334,77 +334,77 @@ static const u16 sTextPal[] = INCBIN_U16("graphics/interface/option_menu_text_cu
 // =============================================================================
 
 static const u8 *const sChoices_OffOn[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("ON"),
+    COMPOUND_STRING("NO"),
+    COMPOUND_STRING("SÌ"),
 };
 
 static const u8 *const sChoices_OnOff[] = {
-    COMPOUND_STRING("ON"),
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("SÌ"),
+    COMPOUND_STRING("NO"),
 };
 
 static const u8 *const sChoices_Gamemode[] = {
-    COMPOUND_STRING("RECOMMENDED"),
-    COMPOUND_STRING("CUSTOM"),
+    COMPOUND_STRING("CONSIGLIATO"),
+    COMPOUND_STRING("PERSONALIZZA"),
 };
 
 static const u8 *const sChoices_OriginalModern[] = {
-    COMPOUND_STRING("ORIGINAL"),
-    COMPOUND_STRING("MODERN"),
+    COMPOUND_STRING("ORIGINALE"),
+    COMPOUND_STRING("MODERNA"),
 };
 
-static const u8 sText_TopBar_Left[]   = _("{L_BUTTON}PREVIOUS");
-static const u8 sText_TopBar_Right[]  = _("{R_BUTTON}NEXT");
-static const u8 sText_TopBar_Save[]   = _("{R_BUTTON}SAVE");
-static const u8 sText_TopBar_Cancel[] = _("{B_BUTTON}CANCEL");
+static const u8 sText_TopBar_Left[]   = _("{L_BUTTON}PREV");
+static const u8 sText_TopBar_Right[]  = _("{R_BUTTON}AVANTI");
+static const u8 sText_TopBar_Save[]   = _("{R_BUTTON}SALVA");
+static const u8 sText_TopBar_Cancel[] = _("{B_BUTTON}ANNULLA");
 
 // =============================================================================
 // Tab item tables — skeleton placeholders
 // =============================================================================
 
 static const u8 *const sDesc_Gamemode[] = {
-    COMPOUND_STRING("Recommended settings."),
-    COMPOUND_STRING("Choose your own rules."),
+    COMPOUND_STRING("Impostazioni consigliate."),
+    COMPOUND_STRING("Scegli le tue regole."),
 };
 static const u8 *const sDesc_ModernMoves[] = {
-    COMPOUND_STRING("Generation 3 LEARNSETS and EGG\n MOVES with no changes."),
-    COMPOUND_STRING("Generation 7 LEARNSETS and EGG\n MOVES + minor changes."),
+    COMPOUND_STRING("MOSSE e LEARNSET di GEN 3\n senza modifiche."),
+    COMPOUND_STRING("MOSSE e EGGLI di GEN 7 +\n modifiche minori."),
 };
 static const u8 *const sDesc_Synchronize[] = {
-    COMPOUND_STRING("SYNCHRONIZE works as in GEN III.\n50% chance to copy nature."),
-    COMPOUND_STRING("SYNCHRONIZE works as in GEN VIII+.\n100% chance to copy nature."),
+    COMPOUND_STRING("SINCRONISMO come in GEN III.\n50% di copiare la natura."),
+    COMPOUND_STRING("SINCRONISMO come in GEN VIII+.\n100% di copiare la natura."),
 };
 static const u8 *const sDesc_Sturdy[] = {
-    COMPOUND_STRING("STURDY works as in GEN III. Only\nnegates OHKO moves (GUILLOTINE, etc.)"),
-    COMPOUND_STRING("STURDY works as in GEN V+.\n{PKMN} survive lethal hits with 1HP."),
+    COMPOUND_STRING("VIGORE funziona come in GEN III. Solo\nannulla mosse OHKO (GHIGLIOTTINA, ecc.)"),
+    COMPOUND_STRING("VIGORE funziona come da GEN V in poi.\nI {PKMN} sopravvivono a 1PS."),
 };
 static const u8 *const sDesc_NewCitrus[] = {
-    COMPOUND_STRING("SITRUS BERRY restores 30HP.\nSame as GEN III."),
-    COMPOUND_STRING("SITRUS BERRY restores 25% of\ntotal HP. Same as GEN IV and up."),
+    COMPOUND_STRING("La BACCA SITRUS cura 30 PS.\nCome in GEN III."),
+    COMPOUND_STRING("La BACCA SITRUS cura il 25% dei PS\ntotali. Come da GEN IV in poi."),
 };
 static const u8 *const sDesc_FairyTypes[] = {
-    COMPOUND_STRING("FAIRY TYPE isn't added to {PKMN}\nthat got it in GEN VI."),
-    COMPOUND_STRING("FAIRY TYPE is added / changed to\ncertain {PKMN}, as in GEN VI."),
+    COMPOUND_STRING("Il tipo MAGICO non è aggiunto ai {PKMN}\nche l'hanno ottenuto in GEN VI."),
+    COMPOUND_STRING("Il tipo MAGICO è aggiunto / cambiato\nad alcuni {PKMN}, come in GEN VI."),
 };
 static const u8 *const sDesc_LegAbilities[] = {
-    COMPOUND_STRING("PRESSURE stays as the main\nability of some legendaries."),
-    COMPOUND_STRING("Legendaries have PRESSURE changed\nfor a better ability."),
+    COMPOUND_STRING("Pressione resta l'abilità\nprincipale di certi leggendari."),
+    COMPOUND_STRING("I leggendari hanno Pressione\nsostituita da un'abilità migliore."),
 };
 static const u8 *const sDesc_InfiniteTMs[] = {
-    COMPOUND_STRING("TMs are not reusable.\nLike in the original."),
-    COMPOUND_STRING("TMs are reusable."),
+    COMPOUND_STRING("Le MT non sono riutilizzabili.\nCome nell'originale."),
+    COMPOUND_STRING("Le MT sono riutilizzabili."),
 };
 static const u8 *const sDesc_Mints[] = {
-    COMPOUND_STRING("Mints are not available ingame until\nfinishing the game."),
-    COMPOUND_STRING("Mints can be bought at the\nFLOWER SHOP after the 3rd badge."),
+    COMPOUND_STRING("Le MENTE non sono disponibili\nprima di finire il gioco."),
+    COMPOUND_STRING("Le MENTE si comprano al\nFIORISTA dopo la 3ª medaglia."),
 };
 static const u8 *const sDesc_SurvivePoison[] = {
-    COMPOUND_STRING("Your {PKMN} will faint if they are\nPOISONED."),
-    COMPOUND_STRING("Your {PKMN} will survive the POISON\nstatus with 1HP."),
+    COMPOUND_STRING("I tuoi {PKMN} svengono se\nsono AVVELENATI."),
+    COMPOUND_STRING("I tuoi {PKMN} sopravvivono al\nVENELO con 1PS."),
 };
 static const u8 *const sDesc_Split[] = {
-    COMPOUND_STRING("PHYSICAL and SPECIAL MOVES\ndepend on the {PKMN} TYPE."),
-    COMPOUND_STRING("PHYSICAL and SPECIAL MOVES\nare MOVE specific."),
+    COMPOUND_STRING("MOSSE FISICHE e SPECIALI\ndipendono dal TIPO del {PKMN}."),
+    COMPOUND_STRING("MOSSE FISICHE e SPECIALI\ndipendono dalla MOSSA."),
 };
 static const u8 *const sChoices_Gen3Gen7[] = {
     COMPOUND_STRING("GEN 3"),
@@ -415,22 +415,22 @@ static const u8 *const sChoices_Gen3Gen1[] = {
     COMPOUND_STRING("GEN 1"),
 };
 static const u8 *const sDesc_GenOneRecharge[] = {
-    COMPOUND_STRING("RECHARGE MOVES like HYPER BEAM will\nalways need to recharge after use."),
-    COMPOUND_STRING("If a RECHARGE MOVE KO's the opponent,\nno recharge turn is needed."),
+    COMPOUND_STRING("MOSSE di RICARICA come IPER RAGGIO\nrichiedono sempre una ricarica."),
+    COMPOUND_STRING("Se una MOSSA di RICARICA manda KO\nl'avversario, non serve ricaricare."),
 };
 static const u8 *const sDesc_Next[] = {
-    COMPOUND_STRING("Continue to the next page."),
+    COMPOUND_STRING("Vai alla pagina successiva."),
 };
 
 static const struct ChallengeMenuItem sTabItems_Mode[] = {
     [ITEM_MODE_GAMEMODE] = {
-        .name         = COMPOUND_STRING("GAMEMODE"),
+        .name         = COMPOUND_STRING("MODALITÀ"),
         .descriptions = sDesc_Gamemode,
         .numChoices   = 2,
         .choiceNames  = sChoices_Gamemode,
     },
     [ITEM_MODE_MODERN_MOVES] = {
-        .name         = COMPOUND_STRING("{PKMN} MOVEPOOL"),
+        .name         = COMPOUND_STRING("MOSSE {PKMN}"),
         .descriptions = sDesc_ModernMoves,
         .numChoices   = 2,
         .choiceNames  = sChoices_Gen3Gen7,
@@ -448,71 +448,71 @@ static const struct ChallengeMenuItem sTabItems_Mode[] = {
         .choiceNames  = sChoices_OriginalModern,
     },
     [ITEM_MODE_NEW_CITRUS] = {
-        .name         = COMPOUND_STRING("SITRUS BERRY"),
+        .name         = COMPOUND_STRING("BACCA SITRUS"),
         .descriptions = sDesc_NewCitrus,
         .numChoices   = 2,
         .choiceNames  = sChoices_OriginalModern,
     },
     [ITEM_MODE_FAIRY_TYPES] = {
-        .name         = COMPOUND_STRING("ADD FAIRY TYPE"),
+        .name         = COMPOUND_STRING("TIPO MAGICO"),
         .descriptions = sDesc_FairyTypes,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_LEGENDARY_ABILITIES] = {
-        .name         = COMPOUND_STRING("LEGEN. ABILITIES"),
+        .name         = COMPOUND_STRING("ABILITÀ LEGG."),
         .descriptions = sDesc_LegAbilities,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_INFINITE_TMS] = {
-        .name         = COMPOUND_STRING("REUSABLE TMS"),
+        .name         = COMPOUND_STRING("MT RIUTILIZZABILI"),
         .descriptions = sDesc_InfiniteTMs,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_MINTS] = {
-        .name         = COMPOUND_STRING("NATURE MINTS"),
+        .name         = COMPOUND_STRING("MENTE NATURA"),
         .descriptions = sDesc_Mints,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_SURVIVE_POISON] = {
-        .name         = COMPOUND_STRING("SURVIVE POISON"),
+        .name         = COMPOUND_STRING("SOPRAVVIVI VELENO"),
         .descriptions = sDesc_SurvivePoison,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_SPLIT] = {
-        .name         = COMPOUND_STRING("PHYS/SP SPLIT"),
+        .name         = COMPOUND_STRING("DIVISIONE FIS/SPE"),
         .descriptions = sDesc_Split,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_GEN_ONE_RECHARGE] = {
-        .name         = COMPOUND_STRING("RECHARGE MOVES"),
+        .name         = COMPOUND_STRING("MOSSE RICARICA"),
         .descriptions = sDesc_GenOneRecharge,
         .numChoices   = 2,
         .choiceNames  = sChoices_Gen3Gen1,
     },
     [ITEM_MODE_NEXT] = {
-        .name         = COMPOUND_STRING("NEXT"),
+        .name         = COMPOUND_STRING("AVANTI"),
         .descriptions = sDesc_Next,
         .numChoices   = 0,
         .choiceNames  = NULL,
     },
 };
 
-static const u8 *const sDesc_SaveExit[] = { COMPOUND_STRING("Save choices and continue...") };
-static const u8 sText_ConfirmSave[] = COMPOUND_STRING("Confirm your choices?");
+static const u8 *const sDesc_SaveExit[] = { COMPOUND_STRING("Salva le scelte e continua...") };
+static const u8 sText_ConfirmSave[] = COMPOUND_STRING("Confermi le tue scelte?");
 
 // =============================================================================
 // Choice strings — shared across tabs
 // =============================================================================
 
 static const u8 *const sChoices_OffRandom[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("RANDOM"),
+    COMPOUND_STRING("NO"),
+    COMPOUND_STRING("CASUALE"),
 };
 
 static const u8 *const sChoices_GenScope[] = {
@@ -521,23 +521,23 @@ static const u8 *const sChoices_GenScope[] = {
 };
 
 static const u8 *const sChoices_OffChaos[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("CHAOS"),
+    COMPOUND_STRING("NO"),
+    COMPOUND_STRING("CAOS"),
 };
 
 static const u8 *const sChoices_YesNo[] = {
-    COMPOUND_STRING("YES"),
+    COMPOUND_STRING("SÌ"),
     COMPOUND_STRING("NO"),
 };
 
 static const u8 *const sChoices_BanUnban[] = {
     COMPOUND_STRING("BAN"),
-    COMPOUND_STRING("UNBAN"),
+    COMPOUND_STRING("SBLOCCA"),
 };
 
 static const u8 *const sChoices_RtcFake[] = {
     COMPOUND_STRING("RTC"),
-    COMPOUND_STRING("FAKE RTC"),
+    COMPOUND_STRING("RTC FALSO"),
 };
 
 static const u8 *const sChoices_ShinyChance[] = {
@@ -549,19 +549,19 @@ static const u8 *const sChoices_ShinyChance[] = {
 };
 
 static const u8 *const sChoices_Nuzlocke[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("EASY"),
+    COMPOUND_STRING("NO"),
+    COMPOUND_STRING("FACILE"),
     COMPOUND_STRING("NORMAL"),
-    COMPOUND_STRING("HARD"),
+    COMPOUND_STRING("DIFFICILE"),
 };
 
 static const u8 *const sChoices_CemeteryRelease[] = {
-    COMPOUND_STRING("CEMETERY"),
-    COMPOUND_STRING("RELEASE"),
+    COMPOUND_STRING("CIMITERO"),
+    COMPOUND_STRING("LIBERA"),
 };
 
 static const u8 *const sChoices_PartyLimit[] = {
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("NO"),
     COMPOUND_STRING("5"),
     COMPOUND_STRING("4"),
     COMPOUND_STRING("3"),
@@ -570,9 +570,9 @@ static const u8 *const sChoices_PartyLimit[] = {
 };
 
 static const u8 *const sChoices_LevelCap[] = {
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("NO"),
     COMPOUND_STRING("NORMAL"),
-    COMPOUND_STRING("HARD"),
+    COMPOUND_STRING("DIFFICILE"),
 };
 
 static const u8 *const sChoices_ExpMult[] = {
@@ -583,44 +583,44 @@ static const u8 *const sChoices_ExpMult[] = {
 };
 
 static const u8 *const sChoices_TrainerIVs[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("SCALE"),
-    COMPOUND_STRING("HARD"),
+    COMPOUND_STRING("NO"),
+    COMPOUND_STRING("FARFASCAGLIA"),
+    COMPOUND_STRING("DIFFICILE"),
 };
 
 static const u8 *const sChoices_TrainerEVs[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("SCALE"),
-    COMPOUND_STRING("HARD"),
-    COMPOUND_STRING("EXTREM"),
+    COMPOUND_STRING("NO"),
+    COMPOUND_STRING("FARFASCAGLIA"),
+    COMPOUND_STRING("DIFFICILE"),
+    COMPOUND_STRING("ESTREMO"),
 };
 
 static const u8 *const sChoices_PlayerIVs[] = {
-    COMPOUND_STRING("YES"),
+    COMPOUND_STRING("SÌ"),
     COMPOUND_STRING("NO"),
-    COMPOUND_STRING("NO (HP)"),
+    COMPOUND_STRING("NO (PS)"),
 };
 
 static const u8 *const sChoices_PkmnCenter[] = {
-    COMPOUND_STRING("YES"),
+    COMPOUND_STRING("SÌ"),
     COMPOUND_STRING("NO"),
 };
 
 static const u8 *const sChoices_Expensive[] = {
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("NO"),
     COMPOUND_STRING("x5"),
     COMPOUND_STRING("x10"),
     COMPOUND_STRING("x50!"),
 };
 
 static const u8 *const sChoices_EvoLimit[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("FIRST"),
-    COMPOUND_STRING("ALL"),
+    COMPOUND_STRING("NO"),
+    COMPOUND_STRING("PRIMO"),
+    COMPOUND_STRING("TUTTI"),
 };
 
 static const u8 *const sChoices_BstEqual[] = {
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("NO"),
     COMPOUND_STRING("100"),
     COMPOUND_STRING("255"),
     COMPOUND_STRING("500"),
@@ -631,65 +631,65 @@ static const u8 *const sChoices_BstEqual[] = {
 // =============================================================================
 
 static const u8 *const sDesc_RtcType[] = {
-    COMPOUND_STRING("Use vanilla Real Time Clock."),
-    COMPOUND_STRING("Use a fake Real Time Clock.\n1h in real life = 1 day in-game."),
+    COMPOUND_STRING("Usa l'orologio in tempo reale."),
+    COMPOUND_STRING("Usa un orologio finto.\n1 ora reale = 1 giorno in gioco."),
 };
 static const u8 *const sDesc_ShinyChance[] = {
-    COMPOUND_STRING("Very low chance of SHINY encounter.\nDefault chance from Generation III."),
-    COMPOUND_STRING("Low chance of SHINY encounter.\nDefault chance from Generation VI+."),
-    COMPOUND_STRING("Decent chance of SHINY encounter."),
-    COMPOUND_STRING("High chance of SHINY encounter."),
-    COMPOUND_STRING("Very high chance of SHINY encounter."),
+    COMPOUND_STRING("Probabilità di SHINY molto bassa.\nValore predefinito di Gen. III."),
+    COMPOUND_STRING("Probabilità di SHINY bassa.\nValore predefinito da Gen. VI+."),
+    COMPOUND_STRING("Probabilità di SHINY discreta."),
+    COMPOUND_STRING("Probabilità di SHINY alta."),
+    COMPOUND_STRING("Probabilità di SHINY molto alta."),
 };
 static const u8 *const sDesc_ItemDrop[] = {
-    COMPOUND_STRING("Wild {PKMN} items will be only\nobtainable via capture or THIEF."),
-    COMPOUND_STRING("Wild {PKMN} will drop their hold\nitem after defeating them."),
+    COMPOUND_STRING("Gli strumenti dei {PKMN} selvatici si\nottengono solo catturandoli o con FURTO."),
+    COMPOUND_STRING("I {PKMN} selvatici rilasciano lo\nstrumento dopo la sconfitta."),
 };
 static const u8 *const sDesc_FrontierBans[] = {
-    COMPOUND_STRING("Powerful legendary {PKMN} are banned\nin the BATTLE FRONTIER. Default."),
-    COMPOUND_STRING("All legendaries are allowed to\nparticipate in the BATTLE FRONTIER."),
+    COMPOUND_STRING("I {PKMN} leggendari potenti sono vietati\nnel PARCO LOTTA. Predefinito."),
+    COMPOUND_STRING("Tutti i leggendari possono\npartecipare al PARCO LOTTA."),
 };
 static const u8 *const sDesc_ShinyColor[] = {
-    COMPOUND_STRING("Original shiny color palette for\nall {PKMN}. Default."),
-    COMPOUND_STRING("Some shiny {PKMN} have brand new\ncolor palettes."),
+    COMPOUND_STRING("Palette shiny originale per\ntutti i {PKMN}. Predefinito."),
+    COMPOUND_STRING("Alcuni {PKMN} shiny hanno nuove\npalette di colori."),
 };
 static const u8 *const sDesc_FeaturesNext[] = {
-    COMPOUND_STRING("Continue to Randomizer options."),
+    COMPOUND_STRING("Vai alle opzioni Randomizer."),
 };
 
 static const struct ChallengeMenuItem sTabItems_Features[] = {
     [ITEM_FEATURES_RTC_TYPE] = {
-        .name         = COMPOUND_STRING("CLOCK TYPE"),
+        .name         = COMPOUND_STRING("TIPO OROLOGIO"),
         .descriptions = sDesc_RtcType,
         .numChoices   = 2,
         .choiceNames  = sChoices_RtcFake,
     },
     [ITEM_FEATURES_SHINY_CHANCE] = {
-        .name         = COMPOUND_STRING("SHINY CHANCE"),
+        .name         = COMPOUND_STRING("PROB. SHINY"),
         .descriptions = sDesc_ShinyChance,
         .numChoices   = 5,
         .choiceNames  = sChoices_ShinyChance,
     },
     [ITEM_FEATURES_SHINY_COLOR] = {
-        .name         = COMPOUND_STRING("ALT SHINY"),
+        .name         = COMPOUND_STRING("SHINY ALT"),
         .descriptions = sDesc_ShinyColor,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_FEATURES_ITEM_DROP] = {
-        .name         = COMPOUND_STRING("ITEM DROP"),
+        .name         = COMPOUND_STRING("STRUM. DROP"),
         .descriptions = sDesc_ItemDrop,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_FEATURES_FRONTIER_BANS] = {
-        .name         = COMPOUND_STRING("FRONTIER BANS"),
+        .name         = COMPOUND_STRING("DIVIETI PARCO"),
         .descriptions = sDesc_FrontierBans,
         .numChoices   = 2,
         .choiceNames  = sChoices_BanUnban,
     },
     [ITEM_FEATURES_NEXT] = {
-        .name         = COMPOUND_STRING("NEXT"),
+        .name         = COMPOUND_STRING("AVANTI"),
         .descriptions = sDesc_FeaturesNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -701,75 +701,75 @@ static const struct ChallengeMenuItem sTabItems_Features[] = {
 // =============================================================================
 
 static const u8 *const sDesc_RandomOffOn[] = {
-    COMPOUND_STRING("Game will not be randomized."),
-    COMPOUND_STRING("Play the game randomized.\nSettings below!"),
+    COMPOUND_STRING("Il gioco non sarà randomizzato."),
+    COMPOUND_STRING("Gioca con la randomizzazione.\nOpzioni sotto!"),
 };
 static const u8 *const sDesc_RandomStarter[] = {
-    COMPOUND_STRING("Standard starter {PKMN}."),
-    COMPOUND_STRING("Randomize starter {PKMN}."),
+    COMPOUND_STRING("{PKMN} iniziale standard."),
+    COMPOUND_STRING("{PKMN} iniziale casuale."),
 };
 static const u8 *const sDesc_RandomWild[] = {
-    COMPOUND_STRING("Same wild encounter as in the\nbase game."),
-    COMPOUND_STRING("Randomize wild {PKMN}."),
+    COMPOUND_STRING("Incontri selvatici come nel\ngioco base."),
+    COMPOUND_STRING("{PKMN} selvatici casuali."),
 };
 static const u8 *const sDesc_RandomMapBased[] = {
-    COMPOUND_STRING("Wild encounters are fully random\nevery time."),
-    COMPOUND_STRING("Wild encounters are seeded per map.\nSame area always has the same {PKMN}."),
+    COMPOUND_STRING("Incontri selvatici del tutto\ncasuali ogni volta."),
+    COMPOUND_STRING("Incontri selvatici fissati per mappa.\nStessa zona, stessi {PKMN}."),
 };
 static const u8 *const sDesc_RandomTrainer[] = {
-    COMPOUND_STRING("Trainer will have their expected\nparty."),
-    COMPOUND_STRING("Randomize enemy trainer parties."),
+    COMPOUND_STRING("L'Allenatore avrà la sua\nsquadra prevista."),
+    COMPOUND_STRING("Squadre nemiche casuali."),
 };
 static const u8 *const sDesc_RandomStatic[] = {
-    COMPOUND_STRING("Static encounters will be the same\nas in the base game."),
-    COMPOUND_STRING("Named {PKMN}, casino {PKMN}, roamers, and\nsome other special {PKMN} won't change."),
+    COMPOUND_STRING("Gli incontri statici saranno come\nnel gioco base."),
+    COMPOUND_STRING("{PKMN} con nomi, {PKMN} del casinò,\nmigratori e altri {PKMN} speciali no."),
 };
 static const u8 *const sDesc_RandomSimilar[] = {
-    COMPOUND_STRING("{PKMN} replaced with similar tiered\nones. Currently based on evo stages."),
-    COMPOUND_STRING("Distribution of {PKMN} not balanced\naround their strength!"),
+    COMPOUND_STRING("{PKMN} sostituiti con altri di livello\nsimile. Ora in base alla fase evolutiva."),
+    COMPOUND_STRING("{PKMN} distribuiti non in base\nalla loro forza!"),
 };
 static const u8 *const sDesc_RandomLegendaries[] = {
-    COMPOUND_STRING("Legendary {PKMN} will not be\nincluded and randomized."),
-    COMPOUND_STRING("Include legendary {PKMN} in\nrandomization!"),
+    COMPOUND_STRING("I {PKMN} leggendari non saranno\ninclusi nella randomizzazione."),
+    COMPOUND_STRING("Includi i {PKMN} leggendari\nnella randomizzazione!"),
 };
 static const u8 *const sDesc_RandomGenScope[] = {
-    COMPOUND_STRING("Randomize into {PKMN} from every\ngeneration."),
-    COMPOUND_STRING("Only GEN 1-3 {PKMN} and their\ncross-gen evolutions."),
+    COMPOUND_STRING("Randomizza con {PKMN} di ogni\ngenerazione."),
+    COMPOUND_STRING("Solo {PKMN} di GEN 1-3 e loro\nevoluzioni cross-gen."),
 };
 static const u8 *const sDesc_RandomType[] = {
-    COMPOUND_STRING("{PKMN} types stay the same as in\nthe base game."),
-    COMPOUND_STRING("Randomize all {PKMN} types."),
+    COMPOUND_STRING("I tipi dei {PKMN} restano come\nnel gioco base."),
+    COMPOUND_STRING("Tipi dei {PKMN} casuali."),
 };
 static const u8 *const sDesc_RandomMoves[] = {
-    COMPOUND_STRING("{PKMN} moves stay the same as in\nthe base game."),
-    COMPOUND_STRING("Randomize all {PKMN} moves."),
+    COMPOUND_STRING("Le mosse dei {PKMN} restano come\nnel gioco base."),
+    COMPOUND_STRING("Mosse dei {PKMN} casuali."),
 };
 static const u8 *const sDesc_RandomAbilities[] = {
-    COMPOUND_STRING("{PKMN} abilities stay the same as\nin the base game."),
-    COMPOUND_STRING("Randomize all {PKMN} abilities."),
+    COMPOUND_STRING("Le abilità dei {PKMN} restano\ncome nel gioco base."),
+    COMPOUND_STRING("Abilità dei {PKMN} casuali."),
 };
 static const u8 *const sDesc_RandomEvolutions[] = {
-    COMPOUND_STRING("{PKMN} evolutions stay the same as\nin the base game."),
-    COMPOUND_STRING("Randomize all {PKMN} evolutions."),
+    COMPOUND_STRING("Le evoluzioni dei {PKMN} restano\ncome nel gioco base."),
+    COMPOUND_STRING("Evoluzioni dei {PKMN} casuali."),
 };
 static const u8 *const sDesc_RandomEvoMethods[] = {
-    COMPOUND_STRING("The {PKMN} that can potentially\nevolve are unchanged."),
-    COMPOUND_STRING("Randomize evolution lines. Allows\nnew evolution lines to occur!"),
+    COMPOUND_STRING("I {PKMN} che possono\nevolversi non cambiano."),
+    COMPOUND_STRING("Linee evolutive casuali. Possono\nnascere nuove linee evolutive!"),
 };
 static const u8 *const sDesc_RandomTypeEffec[] = {
-    COMPOUND_STRING("Type effectiveness chart will remain\nthe same as in the base game."),
-    COMPOUND_STRING("Randomize type effectiveness.\nWARNING: CAN BE BUGGY!"),
+    COMPOUND_STRING("La tabella di efficacia dei tipi resta\ncome nel gioco base."),
+    COMPOUND_STRING("Efficacia dei tipi casuale.\nATTENZIONE: PUÒ DARE BUG!"),
 };
 static const u8 *const sDesc_RandomItems[] = {
-    COMPOUND_STRING("All found or received items are the\nsame as in the base game."),
-    COMPOUND_STRING("Randomize found, hidden and received\nitems. KEY items are excluded!"),
+    COMPOUND_STRING("Tutti gli oggetti trovati o ricevuti\nsono come nel gioco base."),
+    COMPOUND_STRING("Oggetti trovati, nascosti e ricevuti\ncasuali. Gli STRUMENTI sono esclusi!"),
 };
 static const u8 *const sDesc_RandomChaos[] = {
-    COMPOUND_STRING("Chaos mode disabled."),
-    COMPOUND_STRING("Every above chosen option will be\nvery chaotic. NOT recommended!"),
+    COMPOUND_STRING("Modalità caos disattivata."),
+    COMPOUND_STRING("Ogni opzione scelta sopra sarà\ncaotica. NON consigliato!"),
 };
 static const u8 *const sDesc_RandomNext[] = {
-    COMPOUND_STRING("Continue to Nuzlocke options."),
+    COMPOUND_STRING("Continua alle opzioni Nuzlocke."),
 };
 
 static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
@@ -780,103 +780,103 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_STARTER] = {
-        .name         = COMPOUND_STRING("STARTER {PKMN}"),
+        .name         = COMPOUND_STRING("{PKMN} INIZIALE"),
         .descriptions = sDesc_RandomStarter,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_WILD_PKMN] = {
-        .name         = COMPOUND_STRING("WILD {PKMN}"),
+        .name         = COMPOUND_STRING("{PKMN} SELVATICI"),
         .descriptions = sDesc_RandomWild,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_MAP_BASED] = {
-        .name         = COMPOUND_STRING("MAP SEEDED"),
+        .name         = COMPOUND_STRING("MAPPA CASUALE"),
         .descriptions = sDesc_RandomMapBased,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_RANDOM_TRAINER] = {
-        .name         = COMPOUND_STRING("TRAINER"),
+        .name         = COMPOUND_STRING("ALLENATORE"),
         .descriptions = sDesc_RandomTrainer,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_STATIC] = {
-        .name         = COMPOUND_STRING("STATIC {PKMN}"),
+        .name         = COMPOUND_STRING("{PKMN} STATICI"),
         .descriptions = sDesc_RandomStatic,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_SIMILAR] = {
-        .name         = COMPOUND_STRING("BALANCING"),
+        .name         = COMPOUND_STRING("BILANCIAMENTO"),
         .descriptions = sDesc_RandomSimilar,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_RANDOM_LEGENDARIES] = {
-        .name         = COMPOUND_STRING("LEGENDARIES"),
+        .name         = COMPOUND_STRING("LEGGENDARI"),
         .descriptions = sDesc_RandomLegendaries,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_RANDOM_GEN_SCOPE] = {
-        .name         = COMPOUND_STRING("GEN SCOPE"),
+        .name         = COMPOUND_STRING("GENERAZIONI"),
         .descriptions = sDesc_RandomGenScope,
         .numChoices   = 2,
         .choiceNames  = sChoices_GenScope,
     },
     [ITEM_RANDOM_TYPE] = {
-        .name         = COMPOUND_STRING("TYPE"),
+        .name         = COMPOUND_STRING("TIPO"),
         .descriptions = sDesc_RandomType,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_MOVES] = {
-        .name         = COMPOUND_STRING("MOVES"),
+        .name         = COMPOUND_STRING("MOSSE"),
         .descriptions = sDesc_RandomMoves,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_ABILITIES] = {
-        .name         = COMPOUND_STRING("ABILITIES"),
+        .name         = COMPOUND_STRING("ABILITÀ"),
         .descriptions = sDesc_RandomAbilities,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_EVOLUTIONS] = {
-        .name         = COMPOUND_STRING("EVOLUTIONS"),
+        .name         = COMPOUND_STRING("EVOLUZIONI"),
         .descriptions = sDesc_RandomEvolutions,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_EVO_METHODS] = {
-        .name         = COMPOUND_STRING("EVO LINES"),
+        .name         = COMPOUND_STRING("LINEE EVO"),
         .descriptions = sDesc_RandomEvoMethods,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_TYPE_EFFEC] = {
-        .name         = COMPOUND_STRING("EFFECTIVENESS"),
+        .name         = COMPOUND_STRING("EFFICACIA"),
         .descriptions = sDesc_RandomTypeEffec,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_ITEMS] = {
-        .name         = COMPOUND_STRING("ITEMS"),
+        .name         = COMPOUND_STRING("STRUMENTI"),
         .descriptions = sDesc_RandomItems,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_CHAOS] = {
-        .name         = COMPOUND_STRING("CHAOS MODE"),
+        .name         = COMPOUND_STRING("MODO CAOS"),
         .descriptions = sDesc_RandomChaos,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffChaos,
     },
     [ITEM_RANDOM_NEXT] = {
-        .name         = COMPOUND_STRING("NEXT"),
+        .name         = COMPOUND_STRING("AVANTI"),
         .descriptions = sDesc_RandomNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -888,33 +888,33 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
 // =============================================================================
 
 static const u8 *const sDesc_Nuzlocke[] = {
-    COMPOUND_STRING("Nuzlocke mode is disabled."),
-    COMPOUND_STRING("Fainted {PKMN} can't be used anymore!\nNo more rules are enforced."),
-    COMPOUND_STRING("One catch per route! Fainted {PKMN}\ncan't be used anymore."),
-    COMPOUND_STRING("Same rules as NORMAL but also\ndeletes SAVE on battle loss!"),
+    COMPOUND_STRING("Modalità Nuzlocke disattivata."),
+    COMPOUND_STRING("I {PKMN} esausti non si usano più!\nNessun'altra regola attiva."),
+    COMPOUND_STRING("Una cattura per percorso! I {PKMN}\nesausti non si usano più."),
+    COMPOUND_STRING("Come NORMALE ma in caso di sconfitta\ncancella il SALVATAGGIO!"),
 };
 static const u8 *const sDesc_SpeciesClause[] = {
-    COMPOUND_STRING("Only not prior caught {PKMN} count\nas first encounter. RECOMMENDED!"),
-    COMPOUND_STRING("The player always has to catch the\nfirst {PKMN} per route."),
+    COMPOUND_STRING("Contano solo i {PKMN} mai catturati\ncome primo incontro. CONSIGLIATO!"),
+    COMPOUND_STRING("Devi sempre catturare il primo\n{PKMN} di ogni percorso."),
 };
 static const u8 *const sDesc_ShinyClause[] = {
-    COMPOUND_STRING("The player can always catch shiny\n{PKMN}. RECOMMENDED!"),
-    COMPOUND_STRING("The player can only catch a shiny\n{PKMN} if it's the first encounter."),
+    COMPOUND_STRING("Il giocatore può sempre catturare i\n{PKMN} shiny. CONSIGLIATA!"),
+    COMPOUND_STRING("Il giocatore può catturare uno shiny\n{PKMN} solo al primo incontro."),
 };
 static const u8 *const sDesc_Nicknaming[] = {
-    COMPOUND_STRING("Forces the player to nickname every\n{PKMN}. RECOMMENDED!"),
-    COMPOUND_STRING("Nicknames are optional."),
+    COMPOUND_STRING("Obbliga a soprannominare ogni\n{PKMN}. CONSIGLIATO!"),
+    COMPOUND_STRING("I soprannomi sono opzionali."),
 };
 static const u8 *const sDesc_Deletion[] = {
-    COMPOUND_STRING("Fainted {PKMN} are sent to the PC\nafter battle and can't be retrieved."),
-    COMPOUND_STRING("Fainted {PKMN} are released after\nbattle!"),
+    COMPOUND_STRING("I {PKMN} esausti vanno al PC dopo\nla lotta e non si recuperano."),
+    COMPOUND_STRING("I {PKMN} esausti vengono liberati\ndopo la lotta!"),
 };
 static const u8 *const sDesc_RareCandy[] = {
-    COMPOUND_STRING("Infinite Rare Candy will be in the\nplayer's PC at game start."),
-    COMPOUND_STRING("Player will not have access to\nInfinite Rare Candy."),
+    COMPOUND_STRING("Avrai Caramelle Rara infinite nel PC\nall'inizio del gioco."),
+    COMPOUND_STRING("Non avrai accesso alle Caramelle\nRara infinite."),
 };
 static const u8 *const sDesc_NuzlockeNext[] = {
-    COMPOUND_STRING("Continue to difficulty options."),
+    COMPOUND_STRING("Vai alle opzioni di difficoltà."),
 };
 
 static const struct ChallengeMenuItem sTabItems_Nuzlocke[] = {
@@ -925,37 +925,37 @@ static const struct ChallengeMenuItem sTabItems_Nuzlocke[] = {
         .choiceNames  = sChoices_Nuzlocke,
     },
     [ITEM_NUZLOCKE_SPECIES_CLAUSE] = {
-        .name         = COMPOUND_STRING("DUPES CLAUSE"),
+        .name         = COMPOUND_STRING("NO DOPPIONI"),
         .descriptions = sDesc_SpeciesClause,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_NUZLOCKE_SHINY_CLAUSE] = {
-        .name         = COMPOUND_STRING("SHINY CLAUSE"),
+        .name         = COMPOUND_STRING("NO CROMATICI"),
         .descriptions = sDesc_ShinyClause,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_NUZLOCKE_NICKNAMING] = {
-        .name         = COMPOUND_STRING("NICKNAMES"),
+        .name         = COMPOUND_STRING("SOPRANNOMI"),
         .descriptions = sDesc_Nicknaming,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_NUZLOCKE_DELETION] = {
-        .name         = COMPOUND_STRING("FAINTING"),
+        .name         = COMPOUND_STRING("ESAURIMENTO"),
         .descriptions = sDesc_Deletion,
         .numChoices   = 2,
         .choiceNames  = sChoices_CemeteryRelease,
     },
     [ITEM_NUZLOCKE_RARE_CANDY] = {
-        .name         = COMPOUND_STRING("INF. RARE CANDY"),
+        .name         = COMPOUND_STRING("CAR. RARA INF."),
         .descriptions = sDesc_RareCandy,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_NUZLOCKE_NEXT] = {
-        .name         = COMPOUND_STRING("NEXT"),
+        .name         = COMPOUND_STRING("AVANTI"),
         .descriptions = sDesc_NuzlockeNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -966,131 +966,131 @@ static const struct ChallengeMenuItem sTabItems_Nuzlocke[] = {
 // DIFFICULTY descriptions + table
 // =============================================================================
 
-static const u8 sText_Desc_PartyLimit[] = _("Limits the amount of {PKMN} in the\nparty. 1 has visual bugs in DOUBLES.");
+static const u8 sText_Desc_PartyLimit[] = _("Limita i {PKMN} in squadra.\nCon 1 ci sono bug grafici in DOPPI.");
 static const u8 *const sDesc_PartyLimit[] = {
     sText_Desc_PartyLimit, sText_Desc_PartyLimit, sText_Desc_PartyLimit,
     sText_Desc_PartyLimit, sText_Desc_PartyLimit, sText_Desc_PartyLimit,
 };
 static const u8 *const sDesc_LevelCap[] = {
-    COMPOUND_STRING("No level cap. Overleveling possible."),
-    COMPOUND_STRING("Maximum level is based on the next\ngym's highest {PKMN} level."),
-    COMPOUND_STRING("Maximum level is based on the next\ngym's lowest {PKMN} level."),
+    COMPOUND_STRING("Nessun limite di livello. Si può salire."),
+    COMPOUND_STRING("Il livello massimo dipende dal\n{PKMN} più forte della prossima palestra."),
+    COMPOUND_STRING("Il livello massimo dipende dal\n{PKMN} più debole della prossima palestra."),
 };
 static const u8 *const sDesc_ExpMult[] = {
-    COMPOUND_STRING("{PKMN} gain normal EXP. Points.\nStacks with HARD MODE EXP."),
-    COMPOUND_STRING("{PKMN} gain 50 percent more EXP.\nPoints! Stacks with HARD MODE EXP."),
-    COMPOUND_STRING("{PKMN} gain double EXP. Points!\nStacks with HARD MODE EXP."),
-    COMPOUND_STRING("{PKMN} gain ZERO EXP. Points!!!\nApplies to HARD MODE EXP. as well."),
+    COMPOUND_STRING("I {PKMN} danno EXP. normali.\nSi somma a EXP. MODALITÀ DIFF."),
+    COMPOUND_STRING("I {PKMN} danno il 50% di EXP. in più!\nSi somma a EXP. MODALITÀ DIFF."),
+    COMPOUND_STRING("I {PKMN} danno EXP. doppi!\nSi somma a EXP. MODALITÀ DIFF."),
+    COMPOUND_STRING("I {PKMN} danno ZERO EXP.!!!\nVale anche per EXP. MODALITÀ DIFF."),
 };
 static const u8 *const sDesc_ItemPlayer[] = {
-    COMPOUND_STRING("The player can use battle items."),
-    COMPOUND_STRING("The player can NOT use battle items.\nHold items are allowed!"),
+    COMPOUND_STRING("Il giocatore può usare gli strumenti."),
+    COMPOUND_STRING("Il giocatore NON può usare strumenti.\nGli strumenti tenuti sono permessi!"),
 };
 static const u8 *const sDesc_ItemTrainer[] = {
-    COMPOUND_STRING("Enemy trainers can use battle items."),
-    COMPOUND_STRING("Enemy trainers can NOT use battle\nitems."),
+    COMPOUND_STRING("I nemici possono usare strumenti."),
+    COMPOUND_STRING("Gli allenatori nemici NON possono usare\ngli strumenti."),
 };
 static const u8 *const sDesc_NoEVs[] = {
-    COMPOUND_STRING("The player's {PKMN} gain effort\nvalues as expected."),
-    COMPOUND_STRING("The player's {PKMN} do NOT gain any\neffort values!"),
+    COMPOUND_STRING("I {PKMN} del giocatore guadagnano i punti\nimpegno previsti."),
+    COMPOUND_STRING("I {PKMN} del giocatore NON guadagnano\npunti impegno!"),
 };
 static const u8 *const sDesc_ScalingIVs[] = {
-    COMPOUND_STRING("The {PKMN} of enemy Trainer have\nthe expected IVs."),
-    COMPOUND_STRING("The IVs of Trainer {PKMN} increase\nwith gym badges!"),
-    COMPOUND_STRING("All Trainer {PKMN} have perfect IVs!"),
+    COMPOUND_STRING("I {PKMN} degli allenatori nemici hanno\ngli IV previsti."),
+    COMPOUND_STRING("Gli IV dei {PKMN} allenatori salgono\ncon le medaglie!"),
+    COMPOUND_STRING("Tutti i {PKMN} allenatori hanno IV perfetti!"),
 };
 static const u8 *const sDesc_ScalingEVs[] = {
-    COMPOUND_STRING("The {PKMN} of enemy Trainer have\nno EVs."),
-    COMPOUND_STRING("The EVs of Trainer {PKMN} increase\nwith gym badges!"),
-    COMPOUND_STRING("All Trainer {PKMN} have high EVs!"),
-    COMPOUND_STRING("All Trainer {PKMN} have 252 EVs!\nVery Hard!"),
+    COMPOUND_STRING("I {PKMN} degli allenatori nemici non\nhanno EV."),
+    COMPOUND_STRING("Gli EV dei {PKMN} allenatori salgono\ncon le medaglie!"),
+    COMPOUND_STRING("Tutti i {PKMN} allenatori hanno EV alti!"),
+    COMPOUND_STRING("Tutti i {PKMN} allenatori hanno 252 EV!\nMolto difficile!"),
 };
 static const u8 *const sDesc_MaxPartyIVs[] = {
-    COMPOUND_STRING("Your {PKMN} have the expected IVs\n(between 0 and 31)."),
-    COMPOUND_STRING("The IVs of your {PKMN} are set\nalways to the maximum (31)."),
-    COMPOUND_STRING("IVs are set between 30 and 31 to\nallow different Hidden Powers."),
+    COMPOUND_STRING("I tuoi {PKMN} hanno gli IV previsti\n(tra 0 e 31)."),
+    COMPOUND_STRING("Gli IV dei tuoi {PKMN} sono fissati\nsempre al massimo (31)."),
+    COMPOUND_STRING("Gli IV sono tra 30 e 31 per permettere\nPoteri Nascosti diversi."),
 };
 static const u8 *const sDesc_LessEscapes[] = {
-    COMPOUND_STRING("The player can easily run away from\nbattles, as usual."),
-    COMPOUND_STRING("The player can't easily run away\nfrom battles. Use repels!"),
+    COMPOUND_STRING("Il giocatore può fuggire facilmente dalle\nlotte, come al solito."),
+    COMPOUND_STRING("Il giocatore non può fuggire facilmente\ndalle lotte. Usa i repellenti!"),
 };
 static const u8 *const sDesc_EscapeRopeDig[] = {
-    COMPOUND_STRING("ESCAPE ROPE and DIG can be used to\nexit dungeons."),
-    COMPOUND_STRING("ESCAPE ROPE and DIG can't be used\nto exit dungeons."),
+    COMPOUND_STRING("ESCAPE ROPE e Fossa permettono\ndi uscire dai dungeon."),
+    COMPOUND_STRING("ESCAPE ROPE e Fossa non possono\nfar uscire dai dungeon."),
 };
 static const u8 *const sDesc_DifficultyNext[] = {
-    COMPOUND_STRING("Continue to challenge options."),
+    COMPOUND_STRING("Continua verso le opzioni sfida."),
 };
 
 static const struct ChallengeMenuItem sTabItems_Difficulty[] = {
     [ITEM_DIFFICULTY_PARTY_LIMIT] = {
-        .name         = COMPOUND_STRING("PARTY LIMIT"),
+        .name         = COMPOUND_STRING("LIMITE SQUADRA"),
         .descriptions = sDesc_PartyLimit,
         .numChoices   = 6,
         .choiceNames  = sChoices_PartyLimit,
     },
     [ITEM_DIFFICULTY_LEVEL_CAP] = {
-        .name         = COMPOUND_STRING("LEVEL CAP"),
+        .name         = COMPOUND_STRING("LIMITE LIVELLO"),
         .descriptions = sDesc_LevelCap,
         .numChoices   = 3,
         .choiceNames  = sChoices_LevelCap,
     },
     [ITEM_DIFFICULTY_EXP_MULTIPLIER] = {
-        .name         = COMPOUND_STRING("EXP. MULTIPLIER"),
+        .name         = COMPOUND_STRING("MOLTIPLIC. ESP."),
         .descriptions = sDesc_ExpMult,
         .numChoices   = 4,
         .choiceNames  = sChoices_ExpMult,
     },
     [ITEM_DIFFICULTY_ITEM_PLAYER] = {
-        .name         = COMPOUND_STRING("PLAYER ITEMS"),
+        .name         = COMPOUND_STRING("STRUMENTI GIOCATORE"),
         .descriptions = sDesc_ItemPlayer,
         .numChoices   = 2,
         .choiceNames  = sChoices_YesNo,
     },
     [ITEM_DIFFICULTY_ITEM_TRAINER] = {
-        .name         = COMPOUND_STRING("TRAINER ITEMS"),
+        .name         = COMPOUND_STRING("STRUMENTI ALLENATORE"),
         .descriptions = sDesc_ItemTrainer,
         .numChoices   = 2,
         .choiceNames  = sChoices_YesNo,
     },
     [ITEM_DIFFICULTY_MAX_PARTY_IVS] = {
-        .name         = COMPOUND_STRING("PLAYER IVs"),
+        .name         = COMPOUND_STRING("IV GIOCATORE"),
         .descriptions = sDesc_MaxPartyIVs,
         .numChoices   = 3,
         .choiceNames  = sChoices_PlayerIVs,
     },
     [ITEM_DIFFICULTY_SCALING_IVS] = {
-        .name         = COMPOUND_STRING("TRAINER IVs"),
+        .name         = COMPOUND_STRING("IV ALLENATORE"),
         .descriptions = sDesc_ScalingIVs,
         .numChoices   = 3,
         .choiceNames  = sChoices_TrainerIVs,
     },
     [ITEM_DIFFICULTY_NO_EVS] = {
-        .name         = COMPOUND_STRING("PLAYER EVs"),
+        .name         = COMPOUND_STRING("EV GIOCATORE"),
         .descriptions = sDesc_NoEVs,
         .numChoices   = 2,
         .choiceNames  = sChoices_YesNo,
     },
     [ITEM_DIFFICULTY_SCALING_EVS] = {
-        .name         = COMPOUND_STRING("TRAINER EVs"),
+        .name         = COMPOUND_STRING("EV ALLENATORE"),
         .descriptions = sDesc_ScalingEVs,
         .numChoices   = 4,
         .choiceNames  = sChoices_TrainerEVs,
     },
     [ITEM_DIFFICULTY_LESS_ESCAPES] = {
-        .name         = COMPOUND_STRING("LESS ESCAPES"),
+        .name         = COMPOUND_STRING("MENO FUGA"),
         .descriptions = sDesc_LessEscapes,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_DIFFICULTY_ESCAPE_ROPE_DIG] = {
-        .name         = COMPOUND_STRING("ESC. ROPE / DIG"),
+        .name         = COMPOUND_STRING("CORDA / FOSSA"),
         .descriptions = sDesc_EscapeRopeDig,
         .numChoices   = 2,
         .choiceNames  = sChoices_YesNo,
     },
     [ITEM_DIFFICULTY_NEXT] = {
-        .name         = COMPOUND_STRING("NEXT"),
+        .name         = COMPOUND_STRING("AVANTI"),
         .descriptions = sDesc_DifficultyNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -1102,25 +1102,25 @@ static const struct ChallengeMenuItem sTabItems_Difficulty[] = {
 // =============================================================================
 
 static const u8 *const sDesc_Pokecenter[] = {
-    COMPOUND_STRING("The player can visit {PKMN}centers\nand other locations to heal."),
-    COMPOUND_STRING("The player CAN'T visit {PKMN}centers\nor other locations to heal."),
+    COMPOUND_STRING("Il giocatore può visitare i {PKMN}Centri\ne altri luoghi per curarsi."),
+    COMPOUND_STRING("Il giocatore NON può visitare i {PKMN}Centri\no altri luoghi per curarsi."),
 };
 static const u8 *const sDesc_Expensive[] = {
-    COMPOUND_STRING("Everything has the usual cost."),
-    COMPOUND_STRING("Everything is 5 times more\nexpensive!"),
-    COMPOUND_STRING("Everything is 10 times more\nexpensive! Good ol' capitalism."),
-    COMPOUND_STRING("Everything is 50 times more\nexpensive! Ultra capitalism!"),
+    COMPOUND_STRING("Tutto ha il solito costo."),
+    COMPOUND_STRING("Tutto costa 5 volte\ntanto!"),
+    COMPOUND_STRING("Tutto costa 10 volte\ntanto! Bel capitalismo."),
+    COMPOUND_STRING("Tutto costa 50 volte\ntanto! Ultracapitalismo!"),
 };
 static const u8 *const sDesc_EvoLimit[] = {
-    COMPOUND_STRING("{PKMN} evolve as expected."),
-    COMPOUND_STRING("{PKMN} can only evolve into their\nfirst evolution."),
-    COMPOUND_STRING("{PKMN} can NOT evolve at all!"),
+    COMPOUND_STRING("I {PKMN} si evolvono normalmente."),
+    COMPOUND_STRING("I {PKMN} possono evolversi solo\nnella prima evoluzione."),
+    COMPOUND_STRING("I {PKMN} NON possono evolversi!"),
 };
 #define NUM_ONE_TYPE_CHOICES 20
 #define ONE_TYPE_OFF 31
 #define EVO_LINE_TYPE_SEARCH_DEPTH 4 // deepest evolution chain worth walking
 
-static const u8 sText_Desc_OneType[] = _("Allow only one {PKMN} type the\nplayer can capture and use.");
+static const u8 sText_Desc_OneType[] = _("Consente un solo tipo di {PKMN} da\ncatturare e usare.");
 static const u8 *const sDesc_OneType[] = {
     sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType,
     sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType,
@@ -1129,65 +1129,65 @@ static const u8 *const sDesc_OneType[] = {
     sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType,
 };
 static const u8 *const sDesc_BstEqualizer[] = {
-    COMPOUND_STRING("All {PKMN} have their original\nbase stats."),
-    COMPOUND_STRING("{PKMN} stats are calculated with\n100 of each base stat."),
-    COMPOUND_STRING("{PKMN} stats are calculated with\n255 of each base stat."),
-    COMPOUND_STRING("{PKMN} stats are calculated with\n500 of each base stat."),
+    COMPOUND_STRING("Tutti i {PKMN} hanno le statistiche\nbase originali."),
+    COMPOUND_STRING("Le statistiche dei {PKMN} usano\n100 per ogni statistica base."),
+    COMPOUND_STRING("Le statistiche dei {PKMN} usano\n255 per ogni statistica base."),
+    COMPOUND_STRING("Le statistiche dei {PKMN} usano\n500 per ogni statistica base."),
 };
 static const u8 *const sDesc_Mirror[] = {
-    COMPOUND_STRING("The player uses their own party."),
-    COMPOUND_STRING("In Trainer battles, the player gets\na copy of the enemy's party!"),
+    COMPOUND_STRING("Il giocatore usa la sua squadra."),
+    COMPOUND_STRING("Nelle lotte tra allenatori, il\ngiocatore copia la squadra nemica!"),
 };
 static const u8 *const sDesc_MirrorThief[] = {
-    COMPOUND_STRING("The player gets their own party\nback after battles."),
-    COMPOUND_STRING("The player keeps the enemies party\nafter battle!"),
+    COMPOUND_STRING("Il giocatore riprende la sua\nsquadra dopo le lotte."),
+    COMPOUND_STRING("Il giocatore tiene la squadra\nnemica dopo la lotta!"),
 };
 
 static const struct ChallengeMenuItem sTabItems_Challenges[] = {
     [ITEM_CHALLENGES_POKECENTER] = {
-        .name         = COMPOUND_STRING("{PKMN}CENTER"),
+        .name         = COMPOUND_STRING("CENTRO {PKMN}"),
         .descriptions = sDesc_Pokecenter,
         .numChoices   = 2,
         .choiceNames  = sChoices_PkmnCenter,
     },
     [ITEM_CHALLENGES_EXPENSIVE] = {
-        .name         = COMPOUND_STRING("ULTRA EXPENSIVE!"),
+        .name         = COMPOUND_STRING("COSTI ASSURDI!"),
         .descriptions = sDesc_Expensive,
         .numChoices   = 4,
         .choiceNames  = sChoices_Expensive,
     },
     [ITEM_CHALLENGES_EVO_LIMIT] = {
-        .name         = COMPOUND_STRING("EVO LIMIT"),
+        .name         = COMPOUND_STRING("LIMITE EVO"),
         .descriptions = sDesc_EvoLimit,
         .numChoices   = 3,
         .choiceNames  = sChoices_EvoLimit,
     },
     [ITEM_CHALLENGES_ONE_TYPE] = {
-        .name         = COMPOUND_STRING("ONE TYPE ONLY"),
+        .name         = COMPOUND_STRING("UN SOLO TIPO"),
         .descriptions = sDesc_OneType,
         .numChoices   = NUM_ONE_TYPE_CHOICES,
         .choiceNames  = NULL,
     },
     [ITEM_CHALLENGES_BST_EQUALIZER] = {
-        .name         = COMPOUND_STRING("BST EQUALIZER"),
+        .name         = COMPOUND_STRING("PAREGGIO BST"),
         .descriptions = sDesc_BstEqualizer,
         .numChoices   = 4,
         .choiceNames  = sChoices_BstEqual,
     },
     [ITEM_CHALLENGES_MIRROR] = {
-        .name         = COMPOUND_STRING("MIRROR MODE"),
+        .name         = COMPOUND_STRING("MODO SPECCHIO"),
         .descriptions = sDesc_Mirror,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_CHALLENGES_MIRROR_THIEF] = {
-        .name         = COMPOUND_STRING("MIRROR THIEF"),
+        .name         = COMPOUND_STRING("FURTO SPECCHIO"),
         .descriptions = sDesc_MirrorThief,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_CHALLENGES_SAVE] = {
-        .name         = COMPOUND_STRING("SAVE"),
+        .name         = COMPOUND_STRING("SALVA"),
         .descriptions = sDesc_SaveExit,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -1206,12 +1206,12 @@ struct TabDef
 };
 
 static const struct TabDef sTabs[TAB_COUNT] = {
-    [TAB_MODE]       = { COMPOUND_STRING("MODE"),       sTabItems_Mode,       ITEM_MODE_COUNT },
-    [TAB_FEATURES]   = { COMPOUND_STRING("FEATURES"),   sTabItems_Features,   ITEM_FEATURES_COUNT },
+    [TAB_MODE]       = { COMPOUND_STRING("MODO"),       sTabItems_Mode,       ITEM_MODE_COUNT },
+    [TAB_FEATURES]   = { COMPOUND_STRING("OPZIONI"),   sTabItems_Features,   ITEM_FEATURES_COUNT },
     [TAB_RANDOMIZER] = { COMPOUND_STRING("RANDOMIZER"), sTabItems_Randomizer, ITEM_RANDOM_COUNT },
     [TAB_NUZLOCKE]   = { COMPOUND_STRING("NUZLOCKE"),   sTabItems_Nuzlocke,   ITEM_NUZLOCKE_COUNT },
-    [TAB_DIFFICULTY] = { COMPOUND_STRING("DIFFICULTY"),  sTabItems_Difficulty, ITEM_DIFFICULTY_COUNT },
-    [TAB_CHALLENGES] = { COMPOUND_STRING("CHALLENGES"), sTabItems_Challenges, ITEM_CHALLENGES_COUNT },
+    [TAB_DIFFICULTY] = { COMPOUND_STRING("DIFFICOLTÀ"),  sTabItems_Difficulty, ITEM_DIFFICULTY_COUNT },
+    [TAB_CHALLENGES] = { COMPOUND_STRING("SFIDE"), sTabItems_Challenges, ITEM_CHALLENGES_COUNT },
 };
 
 // =============================================================================
@@ -1508,8 +1508,8 @@ static void ChallengeMenu_ItemPrintFunc(u8 windowId, u32 itemId, u8 y)
     {
         u8 n = sel;
         const u8 *text;
-        static const u8 sText_Random[] = _("RANDOM");
-        static const u8 sText_Off[] = _("OFF");
+        static const u8 sText_Random[] = _("CASUALE");
+        static const u8 sText_Off[] = _("NO");
         if (n > 18)
             text = sText_Off;
         else if (n == 18)

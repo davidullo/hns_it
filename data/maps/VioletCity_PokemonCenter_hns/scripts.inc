@@ -132,7 +132,7 @@ VioletCity_PokeCenter_Text_ElmsAideGiveEgg:
 	.string "possiamo fidarci.$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveItem:
-	.string "Oh, and this might help when it hatches.$"
+	.string "Oh, e questo aiuta quando si schiude.$"
 
 VioletCity_PokeCenter_Text_ElmsAideFullParty:
 	.string "Oh, no. Non puoi portare altri\n"

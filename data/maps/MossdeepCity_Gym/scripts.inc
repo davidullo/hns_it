@@ -507,7 +507,7 @@ MossdeepCity_Gym_Text_KathleenIntro:
 	.string "davvero orribile!$"
 
 MossdeepCity_Gym_Text_KathleenDefeat:
-	.string "N-nooooo!$"
+	.string "N-noooooo!$"
 
 MossdeepCity_Gym_Text_KathleenPostBattle:
 	.string "La tua vitalità è contagiosa!\n"

@@ -175,9 +175,9 @@ BravoTrainerBattleTower_Text_Intro::
 	.string "un {STR_VAR_2} coi fiocchi.$"
 
 BravoTrainerBattleTower_Text_NewRecord::
-	.string "The pair set a new record of {STR_VAR_2} wins\n"
-	.string "in a row in {STR_VAR_1} competition!\l"
-	.string "Bravo, TRAINER!$"
+	.string "La coppia ha stabilito un nuovo record di {STR_VAR_2}\n"
+	.string "vittorie di fila nella gara {STR_VAR_1}!\l"
+	.string "Bravo, ALLENATORE!$"
 
 BravoTrainerBattleTower_Text_Lost::
 	.string "La coppia ha ceduto a\n"
@@ -706,18 +706,18 @@ gTVTrainerFanClubSpecialText05::
 	.string "{STR_VAR_3} {STR_VAR_1}!$"
 
 gTVNameRaterText00::
-	.string "And now, it's time for…\n"
-	.string "THE NAME RATER SHOW.\p"
-	.string "I tell your POKéMON's fortune from\n"
-	.string "the nickname you've bestowed.\p"
-	.string "Advice is what I have to give, and it is\n"
-	.string "helpful advice that I offer.\p"
-	.string "Today, I shall do a reading of\n"
-	.string "the nickname {STR_VAR_3} of {STR_VAR_1}'s\l"
-	.string "POKéMON {STR_VAR_2}.\p"
+	.string "E ora, è il momento di…\n"
+	.string "IL PROGRAMMA DELLO STRUZZANOMI.\p"
+	.string "Leggo il destino dei tuoi POKéMON\n"
+	.string "dal soprannome che hai scelto.\p"
+	.string "Consigli è ciò che do, e sono\n"
+	.string "consigli utili quelli che offro.\p"
+	.string "Oggi leggerò il soprannome\n"
+	.string "{STR_VAR_3} del POKéMON di {STR_VAR_1},\l"
+	.string "{STR_VAR_2}.\p"
 	.string "Hmhm…\p"
 	.string "Hmm…\n"
-	.string "This nickname is…$"
+	.string "Questo soprannome è…$"
 
 gTVNameRaterText01::
 	.string "Un soprannome che suggerisce talento in\n"
@@ -1763,10 +1763,10 @@ TVSpotTheCuties_Text_RibbonsMid::
 	.string "per i POKéMON!$"
 
 TVSpotTheCuties_Text_RibbonsHigh::
-	.string "{STR_VAR_2} wears an incredible\n"
-	.string "{STR_VAR_3} RIBBONS!\p"
-	.string "It shows you {STR_VAR_1}'s total\n"
-	.string "dedication as a collector!$"
+	.string "{STR_VAR_2} indossa degli incredibili\n"
+	.string "nastri: {STR_VAR_3}!\p"
+	.string "Mostra la dedizione di {STR_VAR_1}\n"
+	.string "come collezionista!$"
 
 TVSpotTheCuties_Text_RibbonIntro::
 	.string "Diamo un'occhiata più da vicino ai tanti\n"
@@ -2252,9 +2252,9 @@ TVSecretBaseSecrets_Text_UsedPoster::
 	.string "nel suo sguardo.$"
 
 TVSecretBaseSecrets_Text_UsedNoteMat::
-	.string "The visitor stepped on a NOTE MAT!\p"
-	.string "…Hmm…\n"
-	.string "The visitor composed a funny tune!$"
+	.string "Il visitatore ha pestato un NOTE MAT!\p"
+	.string "…Mmm…\n"
+	.string "Il visitatore ha composto una melodia!$"
 
 TVSecretBaseSecrets_Text_BattledDraw::
 	.string "Il visitatore sta parlando con\n"
@@ -2541,7 +2541,7 @@ ContestLiveUpdates_Text_VeryCute::
 
 ContestLiveUpdates_Text_VerySmart::
 	.string "{STR_VAR_2}!\n"
-	.string "You're the smartest among the smart!$"
+	.string "Sei il più intelligente dei intelligenti!$"
 
 ContestLiveUpdates_Text_VeryTough::
 	.string "{STR_VAR_2}!\n"
@@ -2606,11 +2606,11 @@ ContestLiveUpdates_Text_LostAfterWinningRound1::
 	.string "esibizioni più efficaci ora.$"
 
 ContestLiveUpdates_Text_NeverExciting::
-	.string "The audience never got excited by its\n"
-	.string "appeals during the secondary judging.\p"
-	.string "We hope it will stop worrying about\n"
-	.string "other POKéMON and learn to pitch\l"
-	.string "its appeals to the audience more.$"
+	.string "Il pubblico non si è mai entusiasmato\n"
+	.string "con le sue esibizioni nella seconda fase.\p"
+	.string "Speriamo che smetta di preoccuparsi\n"
+	.string "degli altri POKéMON e impari a rivolgere\l"
+	.string "meglio le esibizioni al pubblico.$"
 
 ContestLiveUpdates_Text_LostBySmallMargin::
 	.string "Ha perso contro il {STR_VAR_2} di {STR_VAR_1}\n"
@@ -2825,8 +2825,8 @@ GabbyAndTy_Text_TyNotEnoughMons:
 	.string "un filmato migliore, ma…$"
 
 GabbyAndTy_Text_TyDefeatFirstTime:
-	.string "TY: Yep, we sure spotted a hot TRAINER.\n"
-	.string "This is a huge scoop for us!$"
+	.string "TY: Sì, abbiamo trovato un vero talento.\n"
+	.string "È un grande scoop per noi!$"
 
 GabbyAndTy_Text_TyDefeat:
 	.string "TY: Già, ho ripreso tutto.\n"
@@ -2865,16 +2865,16 @@ gTVInSearchOfTrainersText02::
 	.string "aver lottato con l'ALLENATORE di oggi.$"
 
 gTVInSearchOfTrainersText03::
-	.string "The combination of {STR_VAR_1} and\n"
-	.string "{STR_VAR_3} was divine!\p"
-	.string "The sight of them--{STR_VAR_1} and\n"
-	.string "{STR_VAR_3}--selflessly supporting\l"
-	.string "each other in the thick of battle…\p"
-	.string "It was a marvelous sight to behold!\p"
-	.string "{STR_VAR_2} was the move the TRAINER\n"
-	.string "used last in our battle.\p"
-	.string "The move {STR_VAR_2} is {STR_VAR_1}\n"
-	.string "and {STR_VAR_3}'s sign of friendship!$"
+	.string "La combinazione di {STR_VAR_1} e\n"
+	.string "{STR_VAR_3} era divina!\p"
+	.string "Vederli, {STR_VAR_1} e\n"
+	.string "{STR_VAR_3}, sostenersi con\l"
+	.string "generosità nel pieno della lotta…\p"
+	.string "Era uno spettacolo meraviglioso!\p"
+	.string "{STR_VAR_2} è la mossa che l'ALLENATORE\n"
+	.string "ha usato per ultima nella lotta.\p"
+	.string "La mossa {STR_VAR_2} è di {STR_VAR_1}\n"
+	.string "e {STR_VAR_3} il segno d'amicizia!$"
 
 gTVInSearchOfTrainersText04::
 	.string "…Ho perso fiducia in me stesso\n"

@@ -1047,7 +1047,7 @@ Route110_Text_BenjaminRematchIntro:
 	.string "Con calma, lottiamo.$"
 
 Route110_Text_BenjaminRematchDefeated:
-	.string "I didn't panic, but I still lost…$"
+	.string "Non mi sono agitato, ma ho perso…$"
 
 Route110_Text_BenjaminRematchPostBattle:
 	.string "Non serve farsi prendere dal panico.\n"
@@ -1125,8 +1125,8 @@ Route110_Text_EdwinDefeated:
 	.string "la mia collezione…$"
 
 Route110_Text_EdwinPostBattle:
-	.string "When I see a POKéMON that I don't know,\n"
-	.string "my passion as a collector is ignited!$"
+	.string "Quando vedo un POKéMON che non conosco,\n"
+	.string "si accende la passione del collezionista!$"
 
 Route110_Text_EdwinRegister:
 	.string "Mi piace collezionare anche\n"
@@ -1565,7 +1565,7 @@ Route112_Text_LarryIntro:
 	.string "Non piango se perdo.$"
 
 Route112_Text_LarryDefeat:
-	.string "Waaaah!$"
+	.string "Waaaaaah!$"
 
 Route112_Text_LarryPostBattle:
 	.string "Non piango perché mi manca la mamma!\n"
@@ -2513,7 +2513,7 @@ Route117_Text_AnnaRematchIntro:
 	.string "davanti alla mia allieva, no?$"
 
 Route117_Text_AnnaRematchDefeat:
-	.string "ANNA: I couldn't get into the groove.$"
+	.string "ANNA: Non ero in vena.$"
 
 Route117_Text_AnnaPostRematch:
 	.string "ANNA: I tuoi POKéMON hanno\n"
@@ -2874,16 +2874,16 @@ Route119_Text_TakashiPostBattle:
 	.string "male…$"
 
 Route119_Text_HideoIntro:
-	.string "To hide a tree, use a forest!$"
+	.string "Per nascondere un albero, una foresta!$"
 
 Route119_Text_HideoDefeat:
 	.string "Mi inchino alla tua superiorità.$"
 
 Route119_Text_HideoPostBattle:
-	.string "To hide a tree, use a forest!\n"
-	.string "To hide a POKéMON, use a POKéMON!\p"
-	.string "There is no deep, hidden meaning\n"
-	.string "to that.$"
+	.string "Per nascondere un albero, una foresta!\n"
+	.string "Per nascondere un POKéMON, un POKéMON!\p"
+	.string "Non c'è alcun significato\n"
+	.string "nascosto.$"
 
 Route119_Text_ChrisIntro:
 	.string "Mi hai parlato…\n"
@@ -3532,8 +3532,8 @@ Route123_Text_FrederickIntro:
 	.string "Hai un po' di tempo?$"
 
 Route123_Text_FrederickDefeat:
-	.string "Ah, a mighty capable child!\n"
-	.string "Let me contribute to your allowance.$"
+	.string "Ah, che bambino capace!\n"
+	.string "Lascia che ti contribuisca la paghetta.$"
 
 Route123_Text_FrederickPostBattle:
 	.string "Contribuire alla tua paghetta?\n"
@@ -4038,7 +4038,7 @@ Route127_Text_CamdenIntro:
 	.string "Vuoi sfidarmi.$"
 
 Route127_Text_CamdenDefeat:
-	.string "Awawawawawa…$"
+	.string "Aaah… aaah… ah…$"
 
 Route127_Text_CamdenPostBattle:
 	.string "Una bella sfida mi lascia\n"
@@ -4094,8 +4094,8 @@ Route127_Text_RogerPostBattle:
 	.string "Il tango dei nodi! Ahahah, che urlo!$"
 
 Route127_Text_AidanIntro:
-	.string "BIRD POKéMON have excellent vision.\n"
-	.string "They spot prey from great heights.$"
+	.string "I POKéMON UCCELLO hanno una vista\n"
+	.string "ottima. Vedono le prede dall'alto.$"
 
 Route127_Text_AidanDefeat:
 	.string "Uff… mi arrendo.$"

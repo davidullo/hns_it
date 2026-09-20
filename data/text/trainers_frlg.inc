@@ -111,7 +111,7 @@ Route8_Text_EliRematchIntro::
 	.string "cresciuto ancora!$"
 
 Route8_Text_AnneRematchIntro::
-	.string "ANNE: Our twin power powered up!$"
+	.string "ANNE: Il nostro gemellaggio è più forte!$"
 
 Route9_Text_AliciaRematchIntro::
 	.string "Lottiamo di nuovo?\n"

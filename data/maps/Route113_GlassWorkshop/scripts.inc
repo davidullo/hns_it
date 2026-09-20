@@ -293,12 +293,12 @@ Route113_GlassWorkshop_EventScript_NinjaBoy::
 	end
 
 Route113_GlassWorkshop_Text_GoCollectAshWithThis:
-	.string "This area is covered in volcanic ash,\n"
-	.string "huff-puff!\p"
-	.string "I'm specially gifted, huff-puff.\p"
-	.string "I make glass out of volcanic ash\n"
-	.string "and make items, huff-puff.\p"
-	.string "Go collect ashes with this, huff-puff.$"
+	.string "Qui è tutto coperto di cenere vulcanica,\n"
+	.string "uff-uff!\p"
+	.string "Ho un dono speciale, uff-uff.\p"
+	.string "Dalla cenere vulcanica creo il vetro\n"
+	.string "e faccio oggetti, uff-uff.\p"
+	.string "Raccogli la cenere con questo, uff-uff.$"
 
 Route113_GlassWorkshop_Text_ExplainSootSack:
 	.string "Prendi quel SACCO CENERE e cammina\n"

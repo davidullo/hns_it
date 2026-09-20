@@ -273,11 +273,11 @@ RocketHideout_B2F_Text_LanceInterrupt:
     .string "Permettimi di unirmi alla lotta!$"
 
 RocketHideout_B2F_Text_ArianaOutraged:
-    .string "ARIANA: What? You had an accomplice?\n"
-    .string "Where is your sense of dignity?\p"
-    .string "As interim boss in place of GIOVANNI,\n"
-    .string "I'll show you how wrong it is to meddle\l"
-    .string "with Team Rocket!$"
+    .string "ARIANA: Come? Hai un complice?\n"
+    .string "Dov'è il tuo senso dell'onore?\p"
+    .string "Da capo ad interim al posto di GIOVANNI,\n"
+    .string "ti mostrerò quanto sia sbagliato\l"
+    .string "impicciarsi del Team Rocket!$"
 
 RocketHideout_B2F_Text_LanceChooseMons:
     .string "LANCE: Presto {PLAYER}, scegli\n"

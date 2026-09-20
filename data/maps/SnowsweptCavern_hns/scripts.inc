@@ -177,7 +177,7 @@ Snowswept_Cavern_Text_DroppedItem:
 
 
 Snowswept_Text_Machamp_Cry:
-    .string "Mahh!!$"
+    .string "Maaah!!$"
 
 Snowswept_Text_Machamp_Plate:
     .string "Il MACHAMP sembra tenere\n"

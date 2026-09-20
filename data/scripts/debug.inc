@@ -806,15 +806,15 @@ Debug_EventScript_FontTest_Text_2::
 
 Debug_EventScript_FontTest_Text_3::
 	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Enact enact eosin for the quench coed\n"
-	.string "of the pique canoe and bleep. Furlong\l"
-	.string "furlong focal for the genuflect\l"
-	.string "profound of the motif aloof and offers.\l"
-	.string "Gnome gnome gondola for the impugn\l"
-	.string "logos of the unplug analog and smuggle.\l"
-	.string "Human human hoist for the buddhist\l"
-	.string "alcohol of the riyadh caliph and\l"
-	.string "bathhouse.$"
+	.string "Il testo di prova serve a mostrare\n"
+	.string "come appaiono le lettere in questo\l"
+	.string "carattere. Ogni riga qui contiene\l"
+	.string "parole scelte a caso, senza senso\l"
+	.string "alcuno, solo per riempire lo spazio\l"
+	.string "disponibile e verificare la resa\l"
+	.string "dei glifi. Prova prova prova con\l"
+	.string "le lettere accentate e i simboli\l"
+	.string "speciali.$"
 
 Debug_EventScript_FontTest_Text_4::
 	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
@@ -874,13 +874,13 @@ Debug_EventScript_FontTest_Text_8::
 Debug_EventScript_FontTest_Text_9::                 @ Special thanks to Nintendo for this nice pangram to test other glyphs
 	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
 	.string "42 × 138 = 5796.\n"
-	.string "Mr Jock, TV quiz PhD: bags 20% fewer\l"
-	.string "lynx at a café; voilà, they're “worth”\l"
-	.string "♂1/♀1 = ¥1. That's 10 + 9 - 8 = 11\l"
-	.string "Nintendo GBA can connect to a Nintendo\l"
-	.string "GameCube console! He claimed-though I don't\l"
-	.string "believe him-to have done so in an eyes-shut\l"
-	.string "state…?$"
+	.string "Prova di testo: 20% in meno di\l"
+	.string "parole strane; ecco qua, tutte “a\l"
+	.string "♂1/♀1 = ¥1. Cioè 10 + 9 - 8 = 11\l"
+	.string "Il Nintendo GBA si collega a una\l"
+	.string "console Nintendo GameCube! Dice di\l"
+	.string "averlo fatto a occhi chiusi, ma non\l"
+	.string "ci credo…$"
 
 Debug_PrintFontTest::
 	msgbox Debug_EventScript_FontTest_Text_1, MSGBOX_DEFAULT

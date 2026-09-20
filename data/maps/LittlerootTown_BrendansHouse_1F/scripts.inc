@@ -311,8 +311,8 @@ PlayersHouse_1F_Text_OhComeQuickly:
 	.string "Presto! Vieni qui, presto!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn:
-	.string "MOM: Look! It's PETALBURG GYM!\n"
-	.string "Maybe DAD will be on!$"
+	.string "MAMMA: Guarda! La PALESTRA di PETALBURG!\n"
+	.string "Magari ci sarà PAPÀ!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
 	.string "MAMMA: Oh… È finito.\p"
@@ -402,9 +402,9 @@ PlayersHouse_1F_Text_PortsInSlateportLilycove:
 	.string "PORTOVECCHIO e PORTO ALTO.$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
-	.string "I'd better get back to PETALBURG GYM.\p"
-	.string "MOM, thanks for looking after the house\n"
-	.string "while I'm away.$"
+	.string "Meglio che torni alla PALESTRA di\p"
+	.string "PETALBURG. MAMMA, grazie di badare\n"
+	.string "alla casa mentre sono via.$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
 	.string "MAMMA: Quel tuo papà…\p"

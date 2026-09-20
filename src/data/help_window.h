@@ -5,10 +5,10 @@ const struct HelpWindow gHelpWindowInfo[] =
 {
     [HELP_DEMO_WINDOW] =
     {
-        .header = COMPOUND_STRING("Information: Help Windows"),
-        .desc = COMPOUND_STRING("This is a help window. You can put\n"
-                                "lots of text on the screen that\n"
-                                "players won't read!\n\nIsn't that great!"
+        .header = COMPOUND_STRING("Informazioni: Finestre Aiuto"),
+        .desc = COMPOUND_STRING("Questa è una finestra di aiuto. Puoi\n"
+                                "mettere un sacco di testo sullo\n"
+                                "schermo che i giocatori non leggeranno!\n\nNon è fantastico!"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -16,13 +16,13 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_GAMESTART_WINDOW] =
     {
-        .header = COMPOUND_STRING("Information: More Options"),
-        .desc = COMPOUND_STRING("The clock can be changed from any\n"
-                                "POKéMON CENTER with no penalty.\n"
-                                "Make sure to check your BAG's KEY ITEMS\n"
-                                "and your OPTIONS MENU for even more\n"
-                                "ways to customize your experience.\n"
-                                "Enjoy!"
+        .header = COMPOUND_STRING("Informazioni: Altre Opzioni"),
+        .desc = COMPOUND_STRING("L'orologio si può cambiare da qualsiasi\n"
+                                "CENTRO POKéMON senza penalità.\n"
+                                "Controlla gli STRUMENTI nella BORSA\n"
+                                "e il MENU OPZIONI per altre\n"
+                                "modi di personalizzare l'esperienza.\n"
+                                "Buon divertimento!"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -30,14 +30,14 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_TRADE_WINDOW] =
     {
-        .header = COMPOUND_STRING("WARNING: COMPATIBILITY"),
-        .desc = COMPOUND_STRING("Attempting to link incorrectly may result\n"
-                                "in permanent damage to your save file.\n"
-                                "Only link with another player if:\n"
-                                "You are both playing Heart & Soul.\n"
-                                "You are both on the same version.\n"
-                                "You both have the same challenge settings.\n"
-                                "You are NOT using any randomizer settings."
+        .header = COMPOUND_STRING("ATTENZIONE: COMPATIBILITÀ"),
+        .desc = COMPOUND_STRING("Un collegamento errato può danneggiare\n"
+                                "permanentemente il file di salvataggio.\n"
+                                "Collega un altro giocatore solo se:\n"
+                                "Entrambi giocate a Heart & Soul.\n"
+                                "Avete la stessa versione.\n"
+                                "Avete le stesse impostazioni di sfida.\n"
+                                "NON usate impostazioni randomizzate."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -45,12 +45,12 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_TELEPORTER_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONAL BONUS CONTENT: TELEPORTER"),
-        .desc = COMPOUND_STRING("The TELEPORTER can PERMANENTLY change\n"
-                                "POKéMON into their GALARIAN forms.\n"
-                                "GALARIAN forms are NOT required\n"
-                                "for story progression or\n"
-                                "NATIONAL POKéDEX completion.\n"
+        .header = COMPOUND_STRING("CONTENUTO EXTRA OPZIONALE: TELEPORTO"),
+        .desc = COMPOUND_STRING("Il TELEPORTO può trasformare PER SEMPRE\n"
+                                "i POKéMON nelle loro forme di GALAR.\n"
+                                "Le forme di GALAR NON servono\n"
+                                "per la storia né per\n"
+                                "completare il POKéDEX NAZIONALE.\n"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -58,13 +58,13 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_SINJOH_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONAL BONUS CONTENT: SINJOH"),
-        .desc = COMPOUND_STRING("This NPC grants access to optional\n"
-                                "bonus content: SINJOH.\n"
-                                "It is NOT required for story\n"
-                                "or NATIONAL POKéDEX completion.\n"
+        .header = COMPOUND_STRING("CONTENUTI BONUS OPZIONALI: SINJOH"),
+        .desc = COMPOUND_STRING("Questo PNG dà accesso a contenuti\n"
+                                "bonus opzionali: SINJOH.\n"
+                                "NON serve per la storia\n"
+                                "né per il POKéDEX NAZIONALE.\n"
                                 "\n"
-                                "It's just a bonus. If you want it."
+                                "È solo un bonus. Se lo vuoi."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -72,13 +72,13 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_ALOLA_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONAL BONUS CONTENT: ISLES"),
-        .desc = COMPOUND_STRING("This NPC grants access to optional\n"
-                                "bonus content: ISLES.\n"
-                                "It is NOT required for story\n"
-                                "or NATIONAL POKéDEX completion.\n"
+        .header = COMPOUND_STRING("CONTENUTI EXTRA OPZIONALI: ISOLE"),
+        .desc = COMPOUND_STRING("Questo NPC dà accesso a contenuti\n"
+                                "extra opzionali: le ISOLE.\n"
+                                "NON serve per la storia\n"
+                                "né per completare il POKéDEX NAZIONALE.\n"
                                 "\n"
-                                "It's just a bonus. If you want it."
+                                "È solo un extra. Se lo vuoi."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -86,14 +86,14 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE1_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON ABILITIES"),
-        .desc = COMPOUND_STRING("PICHU's ability is STATIC.\n"
-                                "CLEFFA's ability is CUTE CHARM.\n"
-                                "IGGLYBUFF's ability is CUTE CHARM.\n"
-                                "TYROGUE's ability is GUTS.\n"
-                                "SMOOCHUM's ability is OBLIVIOUS.\n"
-                                "ELEKID's ability is STATIC.\n"
-                                "MAGBY's ability is FLAME BODY."
+        .header = COMPOUND_STRING("ABILITÀ DEI POKéMON BEBÈ"),
+        .desc = COMPOUND_STRING("L'abilità di PICHU è STATICO.\n"
+                                "L'abilità di CLEFFA è GRAZIOSO.\n"
+                                "L'abilità di IGGLYBUFF è GRAZIOSO.\n"
+                                "L'abilità di TYROGUE è DENTISTRETTI.\n"
+                                "L'abilità di SMOOCHUM è INDifferenza.\n"
+                                "L'abilità di ELEKID è STATICO.\n"
+                                "L'abilità di MAGBY è CORPOfiamma."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -101,14 +101,14 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE2_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON TYPES"),
-        .desc = COMPOUND_STRING("PICHU is ELECTRIC type.\n"
-                                "CLEFFA is NORMAL type.\n"
-                                "IGGLYBUFF is NORMAL type.\n"
-                                "TYROGUE is FIGHTING type.\n"
-                                "SMOOCHUM is ICE type.\n"
-                                "ELEKID is ELECTRIC type.\n"
-                                "MAGBY is FIRE type."
+        .header = COMPOUND_STRING("TIPI DEI POKéMON BEBÈ"),
+        .desc = COMPOUND_STRING("PICHU è di tipo ELETTRICO.\n"
+                                "CLEFFA è di tipo NORMALE.\n"
+                                "IGGLYBUFF è di tipo NORMALE.\n"
+                                "TYROGUE è di tipo LOTTA.\n"
+                                "SMOOCHUM è di tipo GHIACCIO.\n"
+                                "ELEKID è di tipo ELETTRICO.\n"
+                                "MAGBY è di tipo FUOCO."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -116,14 +116,14 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE3_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON CRIES"),
-        .desc = COMPOUND_STRING("PICHU says WAAAH.\n"
-                                "CLEFFA says EEK.\n"
-                                "IGGLYBUFF says LALALA.\n"
-                                "TYROGUE says HIYAH.\n"
-                                "SMOOCHUM says EHEHE.\n"
-                                "ELEKID says OI, OI, OI.\n"
-                                "MAGBY says TCH."
+        .header = COMPOUND_STRING("VERSI DEI POKéMON BEBÈ"),
+        .desc = COMPOUND_STRING("PICHU fa WAAAH.\n"
+                                "CLEFFA fa IHH.\n"
+                                "IGGLYBUFF fa LALALA.\n"
+                                "TYROGUE fa HIYAH.\n"
+                                "SMOOCHUM fa EHEHE.\n"
+                                "ELEKID fa OI, OI, OI.\n"
+                                "MAGBY fa TCH."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -131,14 +131,14 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE4_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON ACTIONS"),
-        .desc = COMPOUND_STRING("PICHU likes to PLAY all day.\n"
-                                "CLEFFA LOOKS at the moon.\n"
-                                "IGGLYBUFF puts them to SLEEP.\n"
-                                "TYROGUE TRAINS constantly.\n"
-                                "SMOOCHUM likes to SHOW off.\n"
-                                "ELEKID STORES up charge.\n"
-                                "MAGBY often ANGERS."
+        .header = COMPOUND_STRING("AZIONI DEI POKéMON BEBÈ"),
+        .desc = COMPOUND_STRING("PICHU adora GIOCARE tutto il giorno.\n"
+                                "CLEFFA GUARDA la luna.\n"
+                                "IGGLYBUFF li fa ADDORMENTARE.\n"
+                                "TYROGUE si ALLENA sempre.\n"
+                                "SMOOCHUM adora METTERSI in mostra.\n"
+                                "ELEKID ACCUMULA carica.\n"
+                                "MAGBY spesso si ARRABBIA."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -146,15 +146,15 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_POKEBLOCK_WINDOW] =
     {
-        .header = COMPOUND_STRING("FEEDERS: REGULAR POKéBLOCKS"),
-        .desc = COMPOUND_STRING("POKéBLOCK colors attract perfect IVs:\n"
-                                "RED: HP,ATK,SPE   BLU: HP,SPA,SPE\n"
-                                "PNK: ATK,SPA,SPE  GRN: HP,DEF,SPD\n"
-                                "YEL: HP,ATK,DEF   PUR: ATK,DEF,SPD\n"
-                                "IND: HP,SPA,SPD   BRN: DEF,SPE,SPD\n"
-                                "LBL: SPA,SPE,SPD  OLV: ATK,DEF,SPE\n"
-                                "GRY: HP,ATK,SPA\n"
-                                "Every POKéBLOCK attracts HIDDEN ABILITY."
+        .header = COMPOUND_STRING("NUTRIENTI: POKéBLOCCHI NORMALI"),
+        .desc = COMPOUND_STRING("I POKéBLOCK attirano IV perfetti:\n"
+                                "ROS: PS,ATT,VEL   BLU: PS,ATTSP,VEL\n"
+                                "ROS: ATT,ATTSP,VEL VER: PS,DIF,VEL\n"
+                                "GIA: PS,ATT,DIF   PUR: ATT,DIF,VEL\n"
+                                "IND: PS,ATTSP,VEL  MAR: DIF,VEL,VEL\n"
+                                "LBL: ATTSP,VEL,VEL OLI: ATT,DIF,VEL\n"
+                                "GRG: PS,ATT,ATTSP\n"
+                                "Ogni POKéBLOCK attira ABILITÀ NASCOSTA."
 
                             ),
         .headerFont = FONT_NORMAL,
@@ -163,14 +163,14 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_GOLD_POKEBLOCK_WINDOW] =
     {
-        .header = COMPOUND_STRING("FEEDERS: GOLD POKéBLOCKS"),
-        .desc = COMPOUND_STRING("GOLD POKéBLOCKS attract POKéMON with\n"
-                                "5 perfect IVs. Flavor determines which\n"
-                                "IV is not perfect.\n"
-                                "SPICY: no SP.ATK    DRY:    no ATTACK\n"
-                                "SWEET: no SP.DEF   BITTER: no SPEED\n"
-                                "SOUR:  no HP\n"
-                                "Every POKéBLOCK attracts HIDDEN ABILITY."
+        .header = COMPOUND_STRING("NUTRIENTI: POKéBLOCCHI ORO"),
+        .desc = COMPOUND_STRING("I POKéBLOCK D'ORO attirano POKéMON con\n"
+                                "5 IV perfetti. Il sapore determina quale\n"
+                                "IV non è perfetto.\n"
+                                "PICC: no ATTSP    SECCO: no ATTACCO\n"
+                                "DOLCE: no DIFSP   AMARO: no VELOCITÀ\n"
+                                "ASPRO: no PS\n"
+                                "Ogni POKéBLOCK attira ABILITÀ NASCOSTA."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,

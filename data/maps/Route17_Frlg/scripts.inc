@@ -103,7 +103,7 @@ Route17_Text_CoreyIntro::
 	.string "Sii ribelle!$"
 
 Route17_Text_CoreyDefeat::
-	.string "Aaaargh!$"
+	.string "Aaah!$"
 
 Route17_Text_CoreyPostBattle::
 	.string "Lotta per le tue idee!$"

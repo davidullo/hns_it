@@ -40,20 +40,20 @@ static const u8 sText_Lv[] = _("Lv. ");
 static const u8 sText_ThreeDashes[] = _("---");
 static const u8 sText_FourQuestionMarks[] = _("????");
 static const u8 sText_UnusedEmpty[] = _("");
-static const u8 sText_IsThisTradeOkay[] = _("Is this trade okay?");
-static const u8 sText_Cancel[] = _("CANCEL");
-static const u8 sText_ChooseAPkmn[] = _("Choose a POKéMON.");
-static const u8 sText_Summary[] = _("SUMMARY");
-static const u8 sText_Trade[] = _("TRADE");
-static const u8 sText_CancelTrade[] = _("Cancel trade?");
-static const u8 sJPText_PressBButtonToQuit[] = _("Bボタン　で　もどります");
-static const u8 sText_Summary2[] = _("SUMMARY");
-static const u8 sText_Trade2[] = _("TRADE");
-static const u8 sText_CommunicationStandby[] = _("{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}Communication standby…\nPlease wait.");
-static const u8 sText_TheTradeHasBeenCanceled[] = _("{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}The trade has\nbeen canceled.");
-static const u8 sText_OnlyPkmnForBattle[] = _("That's your only\nPOKéMON for battle.");
-static const u8 sText_WaitingForYourFriend[] = _("{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}Waiting for your friend\nto finish…");
-static const u8 sText_YourFriendWantsToTrade[] = _("Your friend wants\nto trade POKéMON.");
+static const u8 sText_IsThisTradeOkay[] = _("Va bene questo scambio?");
+static const u8 sText_Cancel[] = _("ANNULLA");
+static const u8 sText_ChooseAPkmn[] = _("Scegli un POKéMON.");
+static const u8 sText_Summary[] = _("RIEPILOGO");
+static const u8 sText_Trade[] = _("SCAMBIO");
+static const u8 sText_CancelTrade[] = _("Annullare lo scambio?");
+static const u8 sJPText_PressBButtonToQuit[] = _("Premi B per tornare");
+static const u8 sText_Summary2[] = _("RIEPILOGO");
+static const u8 sText_Trade2[] = _("SCAMBIO");
+static const u8 sText_CommunicationStandby[] = _("{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}In attesa di comunicazione…\nAttendi.");
+static const u8 sText_TheTradeHasBeenCanceled[] = _("{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}Lo scambio è\nstato annullato.");
+static const u8 sText_OnlyPkmnForBattle[] = _("È il tuo unico\nPOKéMON per la lotta.");
+static const u8 sText_WaitingForYourFriend[] = _("{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}Attendiamo il tuo amico\nfinisca…");
+static const u8 sText_YourFriendWantsToTrade[] = _("Il tuo amico vuole\nscambiare POKéMON.");
 
 static const struct OamData sOamData_MenuText =
 {
@@ -970,7 +970,7 @@ static const struct InGameTrade sIngameTrades[] =
 {
     [INGAME_TRADE_SEEDOT] =
     {
-        .nickname = _("DOTS"),
+        .nickname = _("PUNTI"),
         .species = SPECIES_SEEDOT,
         .ivs = {5, 4, 5, 4, 4, 4},
         .abilityNum = 1,
@@ -1134,7 +1134,7 @@ static const struct InGameTrade sIngameTrades[] =
     },
     [INGAME_TRADE_BELDUM] =
     {
-        .nickname = _("IRON"),
+        .nickname = _("FERRO"),
         .species = SPECIES_BELDUM,
         .ivs = {4, 4, 4, 5, 5, 4},
         .abilityNum = 0,

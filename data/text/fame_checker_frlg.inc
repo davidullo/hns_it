@@ -790,12 +790,12 @@ gFameCheckerPersonName_Giovanni:: @ 0x81B0BA6
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}GIOVANNI$"
 
 gFameCheckerPersonQuote_Giovanni:: @ 0x81B0BB5
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Da: GIOVANNI\n"
-	.string "A: {PLAYER}\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Non ho nulla da dirti.\n"
-	.string "\p"
-	.string "Mi concentrerò solo sul\n"
-	.string "migliorare me stesso, e nessun altro.$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: GIOVANNI\n"
+	.string "To: {PLAYER}\p"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}There is nothing that I wish to say\n"
+	.string "to you.\p"
+	.string "I will concentrate solely on\n"
+	.string "bettering myself, and none other.$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak0:: @ 0x81B0C45
 	.string "BIANCAVILLA$"

@@ -20,7 +20,7 @@ PewterCity_PokemonCenter1F_Text_Teacher:
 	.string "…Sì? Sono al telefono. Vattene!$"
 
 PewterCity_PokemonCenter1F_Text_Jigglypuff:
-	.string "JIGGLYPUFF: Puu pupuu.$"
+	.string "JIGGLYPUFF: Puu pupuu!$"
 
 PewterCity_PokemonCenter_EventScript_Mondo::
 	lock

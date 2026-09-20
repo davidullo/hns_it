@@ -391,7 +391,7 @@ Alola_Poni_Island_Sign_Text_0:
 	.string "ISOLA PONI$"
 
 Alola_Poni_TotemBattle_Text_0:
-	.string "Buzz!!$"
+	.string "Bzzz!!$"
 
 Alola_Poni_TotemBattle_Text_1:
 	.string "Il totem ELECTIVIRE è stato battuto!\n"

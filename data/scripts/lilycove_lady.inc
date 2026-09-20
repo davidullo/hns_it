@@ -758,11 +758,11 @@ LilycoveCity_PokemonCenter_1F_Text_NoChangeThanks:
 	.string "Grazie mille!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ReallyImprovedThanks:
-	.string "Oh, yay!\n"
-	.string "It's really delighted!\p"
-	.string "I think it really improved {STR_VAR_1}'s\n"
-	.string "{STR_VAR_2} quality, too.\p"
-	.string "Thank you so much!$"
+	.string "Oh, evviva!\n"
+	.string "È davvero felice!\p"
+	.string "Credo che {STR_VAR_1} sia davvero migliorato\n"
+	.string "anche in {STR_VAR_2}.\p"
+	.string "Grazie mille!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ReadyToEnterContests:
 	.string "Hmm…\p"
