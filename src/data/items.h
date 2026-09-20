@@ -2419,7 +2419,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_ESCAPE_ROPE] =
     {
-        .name = ITEM_NAME("ESCAPE ROPE"),
+        .name = ITEM_NAME("FUNE DI FUGA"),
         .description = COMPOUND_STRING(
             "Fa uscire subito\n"
             "da una grotta o\n"

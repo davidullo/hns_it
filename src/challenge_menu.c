@@ -584,13 +584,13 @@ static const u8 *const sChoices_ExpMult[] = {
 
 static const u8 *const sChoices_TrainerIVs[] = {
     COMPOUND_STRING("NO"),
-    COMPOUND_STRING("FARFASCAGLIA"),
+    COMPOUND_STRING("SCALA"),
     COMPOUND_STRING("DIFFICILE"),
 };
 
 static const u8 *const sChoices_TrainerEVs[] = {
     COMPOUND_STRING("NO"),
-    COMPOUND_STRING("FARFASCAGLIA"),
+    COMPOUND_STRING("SCALA"),
     COMPOUND_STRING("DIFFICILE"),
     COMPOUND_STRING("ESTREMO"),
 };
@@ -1042,13 +1042,13 @@ static const struct ChallengeMenuItem sTabItems_Difficulty[] = {
         .choiceNames  = sChoices_ExpMult,
     },
     [ITEM_DIFFICULTY_ITEM_PLAYER] = {
-        .name         = COMPOUND_STRING("STRUMENTI GIOCATORE"),
+        .name         = COMPOUND_STRING("STRUM. GIOC."),
         .descriptions = sDesc_ItemPlayer,
         .numChoices   = 2,
         .choiceNames  = sChoices_YesNo,
     },
     [ITEM_DIFFICULTY_ITEM_TRAINER] = {
-        .name         = COMPOUND_STRING("STRUMENTI ALLENATORE"),
+        .name         = COMPOUND_STRING("STRUM. ALL."),
         .descriptions = sDesc_ItemTrainer,
         .numChoices   = 2,
         .choiceNames  = sChoices_YesNo,
