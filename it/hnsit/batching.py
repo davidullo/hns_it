@@ -23,6 +23,7 @@ from pathlib import Path
 
 
 from . import store
+from . import verify as verifymod
 from .autofill import allowed_kinds
 from .buffers import all_limits
 from .textparse import CONTROL_RE, Metrics
@@ -171,6 +172,15 @@ def apply_rows(units: dict, rows: list[dict], mark: str = "translated") -> tuple
             continue
         unit.it = it_lines
         unit.status = mark
+        # stesse regole di verify: codici {...} nelle stesse righe, larghezza
+        # di riga entro il limite del gioco. Se non passano, non entrano.
+        problems = verifymod.check_unit(unit, metrics, limits)
+        if problems:
+            unit.it = None
+            unit.status = "pending"
+            unit.note = ""
+            failed.append(f"{key}: {problems[0]}")
+            continue
         applied += 1
     return applied, failed
 
