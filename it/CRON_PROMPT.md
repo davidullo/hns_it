@@ -36,9 +36,13 @@ Solo se `verify units`, `verify repo` e `verify limits` escono senza problemi
 duri:
 
 ```
+source ~/.hermes/scripts/hns_env.sh
 cd /Users/crosta/Developer/hns_it && git add -A it src include data \
   && git commit -q -m "Traduzione italiana: lotto automatico" && git push origin master
 ```
+
+(il `source` serve per il token di GitHub: senza, il push chiede la password e
+fallisce)
 
 Se ci sono problemi duri NON committare: riportali in 5 righe e fermati dopo
 aver lanciato `python3 -m hnsit repair --apply`.
