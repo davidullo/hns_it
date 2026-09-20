@@ -24,30 +24,30 @@ MagmaHideout_1F_Text_Grunt1Intro:
 	.string "I'm always late to roll call!$"
 
 MagmaHideout_1F_Text_Grunt1Defeat:
-	.string "I'm always late for training sessions,\n"
-	.string "too!\p"
-	.string "I hate to say it, but I'm wimpy…$"
+	.string "Anch'io arrivo sempre tardi\n"
+	.string "agli allenamenti!\p"
+	.string "Mi scoccia dirlo, ma sono una frana…$"
 
 MagmaHideout_1F_Text_Grunt1PostBattle:
-	.string "Okay, I'll try to put a little more\n"
-	.string "effort into things from now on…$"
+	.string "Ok, cercherò di metterci un po' più\n"
+	.string "di impegno d'ora in poi…$"
 
 MagmaHideout_1F_Text_Grunt2Intro:
-	.string "Our leader told us to dig into\n"
-	.string "MT. CHIMNEY, so we dug and dug.\p"
-	.string "And in the course of digging, we came\n"
-	.string "across something that blew our minds!\p"
-	.string "What did we find?\p"
+	.string "Il nostro capo ci ha detto di scavare\n"
+	.string "nel MT. CAMINO, e abbiamo scavato.\p"
+	.string "E scavando abbiamo trovato\n"
+	.string "una cosa che ci ha sconvolti!\p"
+	.string "Cosa abbiamo trovato?\p"
 	.string "Fuhahaha!\n"
-	.string "I'll tell you if you beat me!$"
+	.string "Te lo dico se mi batti!$"
 
 MagmaHideout_1F_Text_Grunt2Defeat:
-	.string "Arrgh!\n"
-	.string "Taken down!$"
+	.string "Argh!\n"
+	.string "Battuto!$"
 
 MagmaHideout_1F_Text_Grunt2PostBattle:
-	.string "I won't tell you after all.\n"
-	.string "You'll find out when you get there!\p"
-	.string "It'd be better if you saved surprises\n"
-	.string "to the end, don't you think?$"
+	.string "Non te lo dico dopo tutto.\n"
+	.string "Lo scoprirai quando arrivi!\p"
+	.string "Meglio tenersi le sorprese\n"
+	.string "per la fine, no?$"
 

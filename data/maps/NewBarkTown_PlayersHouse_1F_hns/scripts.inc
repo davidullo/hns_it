@@ -326,8 +326,8 @@ NewBarkTown_PlayersHouse_1F_Text_WearTheseRunningShoes:
 	.string "RUNNING SHOES!$"
 
 NewBarkTown_PlayersHouse_1F_Text_SwitchShoesWithRunningShoes:
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
+	.string "{PLAYER} ha cambiato le scarpe con le\n"
+	.string "SCARPE DA CORSA.$"
 
 NewBarkTown_PlayersHouse_1F_Text_ExplainRunningShoes:
 	.string "MOM: {PLAYER}, press the B Button\n"

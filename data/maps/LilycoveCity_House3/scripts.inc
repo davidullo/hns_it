@@ -98,20 +98,20 @@ LilycoveCity_House3_EventScript_WereDoingContest::
 	end
 
 LilycoveCity_House3_Text_LearnFromMasterOfPokeblocks:
-	.string "Oh, my, my! Are you traveling alone?\n"
-	.string "But you're so young! Good for you!\p"
-	.string "I'm sure my kids could learn a thing\n"
-	.string "or two from you!\p"
-	.string "Me? I'm a master of {POKEBLOCK}S.\p"
-	.string "If I get serious just a little, why,\n"
-	.string "I can concoct great {POKEBLOCK}S.\p"
-	.string "Would you like to learn from me,\n"
-	.string "a master of {POKEBLOCK}S?$"
+	.string "Oh, ciao! Viaggi da solo?\n"
+	.string "Ma sei così giovane! Bravo!\p"
+	.string "I miei figli potrebbero imparare\n"
+	.string "qualcosa da te!\p"
+	.string "Io? Sono un maestro di {POKEBLOCK}.\p"
+	.string "Se mi impegno un pochino,\n"
+	.string "so creare {POKEBLOCK} fantastiche.\p"
+	.string "Vuoi imparare da me,\n"
+	.string "maestro di {POKEBLOCK}?$"
 
 LilycoveCity_House3_Text_OhAreYouSure:
-	.string "Oh? Are you sure?\p"
-	.string "You shouldn't always try to do\n"
-	.string "everything by yourself, dear!$"
+	.string "Oh? Sicuro?\p"
+	.string "Non devi fare sempre\n"
+	.string "tutto da solo!$"
 
 LilycoveCity_House3_Text_ExplainPokeblocks:
 	.string "Oh, good! You're a smart soul!\n"
@@ -149,20 +149,20 @@ LilycoveCity_House3_Text_HappyToHaveQuadruplets:
 	.string "it makes me happy.$"
 
 LilycoveCity_House3_Text_GoingToWinMultiBattles:
-	.string "We're having MULTI BATTLES, but I know\n"
-	.string "I'm going to win.$"
+	.string "Facciamo LOTTE MULTIPLE, ma so\n"
+	.string "che vincerò.$"
 
 LilycoveCity_House3_Text_LikeMixingAtRecordCorner:
-	.string "We like mixing stuff at\n"
-	.string "the RECORD CORNER.\p"
-	.string "But what gets mixed up?$"
+	.string "Ci piace mescolare cose al\n"
+	.string "RECORD CORNER.\p"
+	.string "Ma cosa si mescola?$"
 
 LilycoveCity_House3_Text_MakePokeblocksWithBerryBlender:
-	.string "We're going to make super {POKEBLOCK}S\n"
-	.string "with a BERRY BLENDER!$"
+	.string "Faremo {POKEBLOCK} super\n"
+	.string "con un FRULLA BACCHE!$"
 
 LilycoveCity_House3_Text_GoingToEnterContest:
-	.string "I want to brag about how tough my\n"
-	.string "POKéMON is, so we're going to enter\l"
-	.string "a CONTEST together.$"
+	.string "Voglio vantarmi di quanto è forte il mio\n"
+	.string "POKéMON, quindi andiamo\l"
+	.string "a una GARA insieme.$"
 

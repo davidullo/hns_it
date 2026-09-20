@@ -381,10 +381,10 @@ SlateportCity_Harbor_EventScript_TradedScanner::
 	end
 
 SlateportCity_Harbor_Text_FerryServiceUnavailable:
-	.string "I beg your pardon?\n"
-	.string "You're looking for a ship?\p"
-	.string "I'm sorry, the ferry service isn't\n"
-	.string "available at present…$"
+	.string "Come dici?\n"
+	.string "Cerchi una nave?\p"
+	.string "Mi spiace, il servizio di traghetti\n"
+	.string "non è attivo al momento…$"
 
 SlateportCity_Harbor_Text_MayISeeYourTicket:
 	.string "Salve, è qui per il traghetto?\n"
@@ -408,7 +408,7 @@ SlateportCity_Harbor_Text_LilycoveItIs:
 	.string "Allora si va a PORTALBA!$"
 
 SlateportCity_Harbor_Text_BattleFrontierItIs:
-	.string "BATTLE FRONTIER it is, then!$"
+	.string "PARCO LOTTA, allora!$"
 
 SlateportCity_Harbor_Text_PleaseBoardFerry:
 	.string "Salite sul traghetto e aspettate\n"

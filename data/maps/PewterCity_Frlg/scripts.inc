@@ -953,8 +953,8 @@ PewterCity_Text_ReceivedRunningShoesFromAide::
 	.string "RUNNING SHOES from the AIDE.$"
 
 PewterCity_Text_SwitchedShoesWithRunningShoes::
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
+	.string "{PLAYER} ha cambiato le scarpe con le\n"
+	.string "SCARPE DA CORSA.$"
 
 PewterCity_Text_ExplainRunningShoes::
 	.string "Press the B Button to run.\n"

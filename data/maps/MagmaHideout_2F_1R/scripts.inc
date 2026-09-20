@@ -31,8 +31,8 @@ MagmaHideout_2F_1R_Text_Grunt14Intro:
 	.string "Battle with me!$"
 
 MagmaHideout_2F_1R_Text_Grunt14Defeat:
-	.string "Aiyiyi…\n"
-	.string "My pride as a TEAM MAGMA member…$"
+	.string "Ahiahi…\n"
+	.string "Il mio orgoglio di membro del TEAM MAGMA…$"
 
 MagmaHideout_2F_1R_Text_Grunt14PostBattle:
 	.string "If you suffer from chills, you should\n"

@@ -537,10 +537,10 @@ LilycoveCity_Harbor_Movement_SailorBoardWithBrineyEast:
 	step_end
 
 LilycoveCity_Harbor_Text_FerryUnavailable:
-	.string "I beg your pardon?\n"
-	.string "You're looking for a ship?\p"
-	.string "I'm sorry, the ferry service isn't\n"
-	.string "available at present…$"
+	.string "Come dici?\n"
+	.string "Cerchi una nave?\p"
+	.string "Mi spiace, il servizio di traghetti\n"
+	.string "non è attivo al momento…$"
 
 LilycoveCity_Harbor_Text_MayISeeYourTicket:
 	.string "Salve, è qui per il traghetto?\n"
@@ -564,7 +564,7 @@ LilycoveCity_Harbor_Text_SlateportItIs:
 	.string "Dunque, PETROPOLI!$"
 
 LilycoveCity_Harbor_Text_BattleFrontierItIs:
-	.string "BATTLE FRONTIER it is, then!$"
+	.string "PARCO LOTTA, allora!$"
 
 LilycoveCity_Harbor_Text_PleaseBoard:
 	.string "Salite sul traghetto e aspettate\n"
@@ -574,14 +574,14 @@ LilycoveCity_Harbor_Text_WhereWouldYouLikeToGo:
 	.string "Dove vuoi andare, allora?$"
 
 LilycoveCity_Harbor_Text_SailorFerryUnavailable:
-	.string "Until they finish making the ferry,\n"
-	.string "we sailors have nothing to do…\p"
-	.string "I wish they'd get a move on, the folks\n"
-	.string "at the SHIPYARD in SLATEPORT.$"
+	.string "Finché non finiscono il traghetto,\n"
+	.string "noi marinai non abbiamo niente da fare…\p"
+	.string "Che si sbrighino, quelli\n"
+	.string "del CANTIERE di PORTOALTO.$"
 
 LilycoveCity_Harbor_Text_SailorFerryAvailable:
-	.string "The ferry S.S. TIDAL is finally in\n"
-	.string "operation.\p"
-	.string "The folks at the SHIPYARD in SLATEPORT\n"
-	.string "must've worked extra hard.\p"
-	.string "Well, it's my turn to get busy now!$"
+	.string "Il traghetto M/N MAREA è finalmente\n"
+	.string "attivo.\p"
+	.string "Gli operai del CANTIERE di PORTOALTO\n"
+	.string "avranno lavorato sodo.\p"
+	.string "Ora tocca a me darmi da fare!$"
