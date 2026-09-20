@@ -61,6 +61,9 @@ PROSE_TABLES = [
     ("item_prose.csv", "item_id", "item_effect"),
 ]
 
+# voci spazzatura dei dump PokeAPI (segni grafici, suffissi numerici interni)
+JUNK_RE = re.compile(r"[★♪]|And\d+$")
+
 
 def norm(text: str) -> str:
     """Normalizzazione per il confronto fra testi di gioco e PokeAPI."""
@@ -100,6 +103,10 @@ def build_names() -> list[dict]:
                 out.append({"kind": kind, "en": en, "it": it, "source": f"pokeapi:{fname}"})
             if genus_col:
                 gen_en, gen_it = entry.get("genus_en", "").strip(), entry.get("genus", "").strip()
+                # nel gioco `categoryName` e' solo la parola: la formula
+                # "POKéMON" la aggiunge il gioco ("MOUSE POKéMON")
+                gen_en = re.sub(r"\s*pok[eé]mon$", "", gen_en, flags=re.I).strip()
+                gen_it = re.sub(r"^pok[eé]mon\s+", "", gen_it, flags=re.I).strip()
                 if gen_en and gen_it:
                     out.append({"kind": "genus", "en": gen_en, "it": gen_it, "source": f"pokeapi:{fname}"})
     return out
@@ -174,6 +181,9 @@ def main() -> int:
         w.writeheader()
         seen = set()
         for row in allterms:
+            if JUNK_RE.search(row["en"]) or JUNK_RE.search(row["it"]):
+                # voci spazzatura dei dump (es. `★And15`): non esistono nel gioco
+                continue
             sig = (row["kind"], row["en"])
             if sig in seen:
                 continue

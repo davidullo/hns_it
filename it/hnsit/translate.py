@@ -23,11 +23,9 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-import batch as batchmod  # noqa: E402
-from hnsit import store  # noqa: E402
+from . import batching as batchmod
+from . import store
 
 ROOT = Path(__file__).resolve().parents[1]
 WORK = ROOT / "work"

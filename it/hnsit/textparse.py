@@ -39,29 +39,33 @@ TERMINATORS = ("n", "p", "l")
 # --------------------------------------------------------------------------
 
 
+# Una voce di charmap: chiave, '=', poi byte esadecimali.
+# La chiave puo' contenere '=' (es. `'=' = 35`), quindi si divide sull'ULTIMO '='.
+CHARMAP_RE = re.compile(r"^(?P<key>.*\S)\s*=\s*(?P<hex>[0-9A-Fa-f]{2}(?:\s+[0-9A-Fa-f]{2})*)\s*$")
+
+
 def parse_charmap(path: Path) -> dict:
     table: dict[str, list[int]] = {}
     for raw in path.read_text(encoding="utf-8").splitlines():
         line = raw.split("@")[0].rstrip()
-        if not line.strip() or "=" not in line:
+        if not line.strip():
             continue
-        left, right = line.split("=", 1)
-        left = left.strip()
+        m = CHARMAP_RE.match(line)
+        if not m:
+            continue
+        key = m.group("key").strip()
         chars: list[str] = []
-        if left.startswith("'") and left.endswith("'") and len(left) >= 2:
-            body = left[1:-1]
-            if len(body) == 2 and body[0] == BS:
+        if len(key) >= 2 and key[0] == key[-1] and key[0] in "'\"":
+            body = key[1:-1]
+            if body.startswith(BS) and len(body) > 1:
                 chars = [body[1]]
             elif body:
                 chars = [body]
-        elif len(left) == 1:
-            chars = [left]
+        elif len(key) == 1:
+            chars = [key]
         if not chars:
             continue
-        try:
-            values = [int(tok, 16) for tok in right.split()]
-        except ValueError:
-            continue
+        values = [int(tok, 16) for tok in m.group("hex").split()]
         for ch in chars:
             table.setdefault(ch, values)
     return table
@@ -93,6 +97,18 @@ class Metrics:
             for byte in seq:
                 total += self.widths[byte] if byte < len(self.widths) else self.widths[0x3F]
         return total, unknown
+
+    def encoded_len(self, text: str) -> int:
+        """Byte occupati da `text` nella ROM (per i campi ad array fisso).
+
+        Serve per capire se un testo entra in `u8 campo[N]`: i caratteri
+        fuori charmap contano 1 byte, come li codificherebbe il gioco.
+        """
+        total = 0
+        for ch in text:
+            seq = self.charmap.get(ch)
+            total += len(seq) if seq else 1
+        return total
 
 
 # --------------------------------------------------------------------------
@@ -206,8 +222,9 @@ def parse_string_line(raw: str) -> tuple[str, int, int, str, str] | None:
 def split_segment(body: str) -> list[tuple[str, str]]:
     """Da un letterale a [(testo_visibile, terminatore)].
 
-    Il terminatore e' `\\n`, `\\p`, `\\l`, `$` o ''. Gli escape diversi da
-    questi restano nel testo (es. i codici {...} che non hanno backslash).
+    Il terminatore e' `\\n`, `\\p`, `\\l`, oppure tutto quello che segue il
+    primo `$` (che chiude la stringa: nei testi giapponesi il resto e' padding
+    di `$` e va lasciato esattamente com'e').
     """
     parts: list[tuple[str, str]] = []
     buf: list[str] = []
@@ -222,17 +239,17 @@ def split_segment(body: str) -> list[tuple[str, str]]:
                 i += 2
                 continue
             if nxt == "$":
-                parts.append(("".join(buf), "$"))
+                parts.append(("".join(buf), BS + body[i + 1:]))
                 buf = []
-                i += 2
+                i = len(body)
                 continue
             buf.append(nxt)
             i += 2
             continue
         if ch == "$":
-            parts.append(("".join(buf), "$"))
+            parts.append(("".join(buf), body[i:]))
             buf = []
-            i += 1
+            i = len(body)
             continue
         buf.append(ch)
         i += 1

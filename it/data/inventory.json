@@ -1,27 +1,30 @@
 {
   "cstr": {
-    "character_inglesi": 533723,
-    "duplicati": 4842,
+    "character_inglesi": 535118,
+    "duplicati": 4847,
     "per_stato": {
-      "pending": 20000
+      "auto": 2510,
+      "pending": 17490
     },
     "per_tipo": {
       "cstr": 20000
     },
-    "righe_visibili": 28413,
+    "righe_visibili": 28392,
     "unita": 20000,
-    "unita_uniche_per_testo": 15158
+    "unita_uniche_per_testo": 15153
   },
   "inc": {
-    "character_inglesi": 1471001,
+    "character_inglesi": 1470586,
     "duplicati": 2480,
     "per_stato": {
-      "pending": 17473
+      "auto": 84,
+      "pending": 16499,
+      "translated": 890
     },
     "per_tipo": {
       "inc": 17473
     },
-    "righe_visibili": 58519,
+    "righe_visibili": 58518,
     "unita": 17473,
     "unita_uniche_per_testo": 14993
   },

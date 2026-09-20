@@ -76,6 +76,8 @@ MACRO_RE = re.compile(r"(?<![A-Za-z0-9_])(COMPOUND_STRING|COMPOUND_STRING_SIZE_L
 FIELD_RE = re.compile(r"\.\s*([A-Za-z_][A-Za-z0-9_]*)\s*=\s*$")
 ARRAY_RE = re.compile(r"\[\s*([A-Za-z_][A-Za-z0-9_]*)\s*\]\s*=\s*$")
 SYMBOL_RE = re.compile(r"([A-Za-z_][A-Za-z0-9_]*)\s*(?:\[\s*\])?\s*=\s*$")
+# dichiarazione di array con dimensione: `static const u8 nome[][PLAYER_NAME_LENGTH + 1] = {`
+DECL_RE = re.compile(r"([A-Za-z_][A-Za-z0-9_]*)\s*(?:\[[^\]]*\]\s*)+=\s*\{?\s*$")
 
 
 def _context(clean: str, pos: int) -> str:
@@ -94,6 +96,10 @@ def _context(clean: str, pos: int) -> str:
         syms = SYMBOL_RE.findall("".join(head.splitlines(keepends=True)[-3:]))
         if syms:
             parts.append(syms[-1])
+    # nome dell'array che contiene la stringa: `u8 nome[][N] = {`
+    decls = DECL_RE.findall("".join(head.splitlines(keepends=True)[-6:]))
+    if decls:
+        parts.insert(0, decls[-1])
     return ".".join(parts)
 
 

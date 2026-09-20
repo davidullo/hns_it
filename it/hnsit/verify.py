@@ -18,14 +18,24 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from hnsit import store  # noqa: E402
-from hnsit.textparse import CONTROL_RE, Metrics, read_inc_blocks, sha1_of  # noqa: E402
+from . import store
+from .buffers import Limits, all_limits
+from .textparse import CONTROL_RE, Metrics, read_inc_blocks, sha1_of  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 LIMIT_PX = 216
 TARGET_PX = 200
+
+_LIMITS_CACHE: dict[str, Limits] = {}
+
+
+def limits_for(repo: Path) -> Limits:
+    """Limiti dei campi ad array fisso (cache, il parsing dei header costa)."""
+    key = str(repo)
+    if key not in _LIMITS_CACHE:
+        _LIMITS_CACHE[key] = all_limits(repo)
+    return _LIMITS_CACHE[key]
 
 # testi che restano identici all'inglese perche' sono nomi propri o simboli
 ALLOW_IDENTICAL = {
@@ -46,7 +56,7 @@ def placeholders(text: str) -> list[str]:
     return sorted(CONTROL_RE.findall(text))
 
 
-def check_unit(unit, metrics: Metrics) -> list[str]:
+def check_unit(unit, metrics: Metrics, limits=None) -> list[str]:
     """Problemi duri di una unita' tradotta."""
     problems: list[str] = []
     if unit.it is None:
@@ -70,6 +80,16 @@ def check_unit(unit, metrics: Metrics) -> list[str]:
                 problems.append(f"riga {i}: caratteri fuori charmap {''.join(sorted(set(unknown)))}")
             if w > LIMIT_PX:
                 problems.append(f"riga {i}: {w}px oltre il limite {LIMIT_PX}")
+
+    # campi salvati in array a dimensione fissa: se non ci sta, la build muore.
+    # Le stringhe identiche all'inglese sono esenti: se compilavano prima,
+    # compilano anche adesso (es. `{B_RIVAL_NAME}` in trainerName).
+    if limits is not None and "".join(unit.it) != "".join(t for t, _ in en_lines):
+        limit = limits.limit(unit.file, unit.label)
+        if limit is not None:
+            size = metrics.encoded_len("".join(unit.it))
+            if size > limit:
+                problems.append(f"limite:{size}>{limit} byte nel campo {unit.label}")
 
     if not any("px oltre" in p or "codici" in p or "charmap" in p for p in problems):
         joined = "".join(unit.it).strip()
@@ -100,7 +120,7 @@ def cmd_units(limit: int, kind: str | None) -> int:
         if unit.it is None:
             stats["senza traduzione"] += 1
             continue
-        problems = check_unit(unit, metrics)
+        problems = check_unit(unit, metrics, limits_for(store.repo_root()))
         for p in problems:
             if p.startswith("W:"):
                 warn.append(f"{unit.key}: {p[2:]}")
@@ -124,6 +144,39 @@ def cmd_units(limit: int, kind: str | None) -> int:
     for k, v in stats.most_common():
         print(f"  {k}: {v}")
     return 1 if hard else 0
+
+
+def cmd_limits(limit: int, kind: str | None) -> int:
+    """Unita' in campi ad array fisso: quante sono e quante non ci stanno."""
+    metrics = Metrics(store.repo_root())
+    limits = limits_for(store.repo_root())
+    units = store.load_all()
+    fields: Counter = Counter()
+    over: list[tuple[str, int, int, str]] = []
+    for unit in units.values():
+        if kind and unit.kind != kind:
+            continue
+        lim = limits.limit(unit.file, unit.label)
+        if lim is None:
+            continue
+        field = (unit.label or "").split(".")[-1]
+        fields[f"{unit.file}:.{field} max {lim}"] += 1
+        if unit.it is None or unit.status == "skipped":
+            continue
+        # identica all'inglese: se il campo era stretto anche prima, non e' un
+        # problema introdotto dalla traduzione (es. `{B_RIVAL_NAME}`)
+        if "".join(unit.it) == "".join(t for t, _ in unit.lines):
+            continue
+        size = metrics.encoded_len("".join(unit.it))
+        if size > lim:
+            over.append((unit.key, size, lim, "".join(unit.it)))
+    print(f"unita' in campi a lunghezza fissa: {sum(fields.values())}")
+    for name, n in fields.most_common():
+        print(f"  {name}: {n}")
+    print(f"oltre il limite: {len(over)}")
+    for key, size, lim, text in over[:limit]:
+        print(f"  {key} {size}>{lim} {text!r}")
+    return 1 if over else 0
 
 
 def cmd_repo(limit: int) -> int:
@@ -180,10 +233,15 @@ def main() -> int:
     p_units.add_argument("--json-out", type=Path, default=None)
     p_repo = sub.add_parser("repo")
     p_repo.add_argument("--limit", type=int, default=40)
+    p_lim = sub.add_parser("limits")
+    p_lim.add_argument("--limit", type=int, default=40)
+    p_lim.add_argument("--kind", choices=["inc", "cstr"], default=None)
     sub.add_parser("report")
     args = ap.parse_args()
     if args.cmd == "units":
         return cmd_units(args.limit, args.kind)
+    if args.cmd == "limits":
+        return cmd_limits(args.limit, args.kind)
     if args.cmd == "repo":
         return cmd_repo(args.limit)
     if args.cmd == "report":

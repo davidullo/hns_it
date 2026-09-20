@@ -7,9 +7,9 @@ questo file e porta avanti il primo punto non concluso.
 
 La traduzione e' finita quando **tutte** queste condizioni sono vere:
 
-1. `python3 it/tools/hnsit.py stats` non ha unita' `pending`.
-2. `python3 it/tools/verify.py units` esce 0 (nessun problema duro).
-3. `python3 it/tools/verify.py repo` esce 0 dopo `hnsit.py inject`.
+1. `python3 -m hnsit stats` non ha unita' `pending`.
+2. `python3 -m hnsit verify units` esce 0 (nessun problema duro).
+3. `python3 -m hnsit verify repo` esce 0 dopo `hnsit.py inject`.
 4. `make hns` produce `pokehns.gba` senza errori.
 5. `python3 -m pytest it/tests -q` passa (col venv `it/.venv`).
 6. Parity con `helikoptermann843/hns_de`: le stesse superfici coperte
@@ -27,7 +27,7 @@ La traduzione e' finita quando **tutte** queste condizioni sono vere:
 
 ## Prossimo passo
 
-Tradurre i gruppi `pending` con `it/tools/translate_run.py`, poi verificare,
+Tradurre i gruppi `pending` con `it/hnsit/translate.py`, poi verificare,
 iniettare, compilare.
 
 ## Regole non negoziabili

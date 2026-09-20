@@ -364,657 +364,657 @@ egg_group,Undiscovered,Non ancora scoperto,pokeapi:egg_group_prose.csv
 egg_group,Water 1,Acqua 1,pokeapi:egg_group_prose.csv
 egg_group,Water 2,Acqua 2,pokeapi:egg_group_prose.csv
 egg_group,Water 3,Acqua 3,pokeapi:egg_group_prose.csv
-genus,Abundance Pokémon,Pokémon Fertilità,pokeapi:pokemon_species_names.csv
-genus,Acorn Pokémon,Pokémon Ghianda,pokeapi:pokemon_species_names.csv
-genus,Alloy Pokémon,Pokémon Metallolega,pokeapi:pokemon_species_names.csv
-genus,Alpha Pokémon,Pokémon Primevo,pokeapi:pokemon_species_names.csv
-genus,Angler Pokémon,Pokémon Pescatore,pokeapi:pokemon_species_names.csv
-genus,Ant Pit Pokémon,Pokémon Trappola,pokeapi:pokemon_species_names.csv
-genus,Anteater Pokémon,Pokémon Formichiere,pokeapi:pokemon_species_names.csv
-genus,Antenna Pokémon,Pokémon Antenna,pokeapi:pokemon_species_names.csv
-genus,Apple Core Pokémon,Pokémon Pomicolo,pokeapi:pokemon_species_names.csv
-genus,Apple Nectar Pokémon,Pokémon Pomisucco,pokeapi:pokemon_species_names.csv
-genus,Apple Wing Pokémon,Pokémon Pomivolo,pokeapi:pokemon_species_names.csv
-genus,Aqua Mouse Pokémon,Pokémon Acquatopo,pokeapi:pokemon_species_names.csv
-genus,Aqua Rabbit Pokémon,Pokémon Acquniglio,pokeapi:pokemon_species_names.csv
-genus,Arm Thrust Pokémon,Pokémon Sberletese,pokeapi:pokemon_species_names.csv
-genus,Armor Bird Pokémon,Pokémon Armuccello,pokeapi:pokemon_species_names.csv
-genus,Armor Pokémon,Pokémon Armatura,pokeapi:pokemon_species_names.csv
-genus,Arrow Quill Pokémon,Pokémon Alifreccia,pokeapi:pokemon_species_names.csv
-genus,Artificial Pokémon,Pokémon Artificiale,pokeapi:pokemon_species_names.csv
-genus,Astral Body Pokémon,Pokémon Corpoceleste,pokeapi:pokemon_species_names.csv
-genus,Atrocious Pokémon,Pokémon Atroce,pokeapi:pokemon_species_names.csv
-genus,Attaching Pokémon,Pokémon Appiccicante,pokeapi:pokemon_species_names.csv
-genus,Aura Pokémon,Pokémon Aura,pokeapi:pokemon_species_names.csv
-genus,Aurora Pokémon,Pokémon Aurora,pokeapi:pokemon_species_names.csv
-genus,Automaton Pokémon,Pokémon Statuanimata,pokeapi:pokemon_species_names.csv
-genus,Avianoid Pokémon,Pokémon Pseuduccello,pokeapi:pokemon_species_names.csv
-genus,Axe Jaw Pokémon,Pokémon Mascellascia,pokeapi:pokemon_species_names.csv
-genus,Axe Pokémon,Pokémon Scure,pokeapi:pokemon_species_names.csv
-genus,Baby Pokémon,Pokémon Bebè,pokeapi:pokemon_species_names.csv
-genus,Bagworm Pokémon,Pokémon Larva,pokeapi:pokemon_species_names.csv
-genus,Ball Pokémon,Pokémon Ball,pokeapi:pokemon_species_names.csv
-genus,Ball Roll Pokémon,Pokémon Rotapalla,pokeapi:pokemon_species_names.csv
-genus,Ball Whale Pokémon,Pokémon Balenottero,pokeapi:pokemon_species_names.csv
-genus,Balloon Pokémon,Pokémon Pallone,pokeapi:pokemon_species_names.csv
-genus,Barnacle Pokémon,Pokémon Lepade,pokeapi:pokemon_species_names.csv
-genus,Barrier Pokémon,Pokémon Barriera,pokeapi:pokemon_species_names.csv
-genus,Bash Buffalo Pokémon,Pokémon Sfondatoro,pokeapi:pokemon_species_names.csv
-genus,Bat Pokémon,Pokémon Pipistrello,pokeapi:pokemon_species_names.csv
-genus,Battery Pokémon,Pokémon Batteria,pokeapi:pokemon_species_names.csv
-genus,Beak Pokémon,Pokémon Becco,pokeapi:pokemon_species_names.csv
-genus,Beat Pokémon,Pokémon Ritmo,pokeapi:pokemon_species_names.csv
-genus,Beaver Pokémon,Pokémon Castoro,pokeapi:pokemon_species_names.csv
-genus,Beckon Pokémon,Pokémon Ipnosguardo,pokeapi:pokemon_species_names.csv
-genus,Bee Fly Pokémon,Pokémon Bombilide,pokeapi:pokemon_species_names.csv
-genus,Beehive Pokémon,Pokémon Alveare,pokeapi:pokemon_species_names.csv
-genus,Bell Pokémon,Pokémon Sonaglio,pokeapi:pokemon_species_names.csv
-genus,Big Boss Pokémon,Pokémon Grancapo,pokeapi:pokemon_species_names.csv
-genus,Big Eater Pokémon,Pokémon Ghiottone,pokeapi:pokemon_species_names.csv
-genus,Big Fish Pokémon,Pokémon Pescegrosso,pokeapi:pokemon_species_names.csv
-genus,Big Horn Pokémon,Pokémon Grancorno,pokeapi:pokemon_species_names.csv
-genus,Big Jaw Pokémon,Pokémon Mascellone,pokeapi:pokemon_species_names.csv
-genus,Big Rock Pokémon,Pokémon Megalito,pokeapi:pokemon_species_names.csv
-genus,Big Voice Pokémon,Pokémon Vocione,pokeapi:pokemon_species_names.csv
-genus,Big-Hearted Pokémon,Pokémon Generosità,pokeapi:pokemon_species_names.csv
-genus,Bird Pokémon,Pokémon Uccello,pokeapi:pokemon_species_names.csv
-genus,Bite Pokémon,Pokémon Morso,pokeapi:pokemon_species_names.csv
-genus,Bivalve Pokémon,Pokémon Bivalve,pokeapi:pokemon_species_names.csv
-genus,Black Tea Pokémon,Pokémon Tè,pokeapi:pokemon_species_names.csv
-genus,Blade Pokémon,Pokémon Lama,pokeapi:pokemon_species_names.csv
-genus,Blade Quill Pokémon,Pokémon Piumaffilata,pokeapi:pokemon_species_names.csv
-genus,Blast Pokémon,Pokémon Esplosivo,pokeapi:pokemon_species_names.csv
-genus,Blast Turtle Pokémon,Pokémon Tartabomba,pokeapi:pokemon_species_names.csv
-genus,Blaze Pokémon,Pokémon Vampe,pokeapi:pokemon_species_names.csv
-genus,Blazing Pokémon,Pokémon Altefiamme,pokeapi:pokemon_species_names.csv
-genus,Blimp Pokémon,Pokémon Dirigibile,pokeapi:pokemon_species_names.csv
-genus,Blocking Pokémon,Pokémon Bloccaggio,pokeapi:pokemon_species_names.csv
-genus,Bloom Sickle Pokémon,Pokémon Mantifiore,pokeapi:pokemon_species_names.csv
-genus,Blossom Pokémon,Pokémon Bocciolo,pokeapi:pokemon_species_names.csv
-genus,Bolt Strike Pokémon,Pokémon Fulminante,pokeapi:pokemon_species_names.csv
-genus,Bone Keeper Pokémon,Pokémon Guardaossi,pokeapi:pokemon_species_names.csv
-genus,Bone Vulture Pokémon,Pokémon Ossaquila,pokeapi:pokemon_species_names.csv
-genus,Bonsai Pokémon,Pokémon Bonsai,pokeapi:pokemon_species_names.csv
-genus,Bounce Pokémon,Pokémon Molla,pokeapi:pokemon_species_names.csv
-genus,Boundary Pokémon,Pokémon Confine,pokeapi:pokemon_species_names.csv
-genus,Bouquet Pokémon,Pokémon Floreale,pokeapi:pokemon_species_names.csv
-genus,Boxing Pokémon,Pokémon Pugile,pokeapi:pokemon_species_names.csv
-genus,Bright Pokémon,Pokémon Brillante,pokeapi:pokemon_species_names.csv
-genus,Bronze Bell Pokémon,Pokémon Squibronzo,pokeapi:pokemon_species_names.csv
-genus,Bronze Pokémon,Pokémon Bronzo,pokeapi:pokemon_species_names.csv
-genus,Brutal Pokémon,Pokémon Brutale,pokeapi:pokemon_species_names.csv
-genus,Brutal Star Pokémon,Pokémon Stellatroce,pokeapi:pokemon_species_names.csv
-genus,Bubble Frog Pokémon,Pokémon Schiumorana,pokeapi:pokemon_species_names.csv
-genus,Bubble Jet Pokémon,Pokémon Bollajet,pokeapi:pokemon_species_names.csv
-genus,Bud Pokémon,Pokémon Germoglio,pokeapi:pokemon_species_names.csv
-genus,Bug Catcher Pokémon,Pokémon Insettivoro,pokeapi:pokemon_species_names.csv
-genus,Bugle Beak Pokémon,Pokémon Trombecco,pokeapi:pokemon_species_names.csv
-genus,Bulb Pokémon,Pokémon Radice,pokeapi:pokemon_species_names.csv
-genus,Bulk Up Pokémon,Pokémon Granfisico,pokeapi:pokemon_species_names.csv
-genus,Butterfly Pokémon,Pokémon Farfalla,pokeapi:pokemon_species_names.csv
-genus,Cactus Pokémon,Pokémon Cactus,pokeapi:pokemon_species_names.csv
-genus,Calm Pokémon,Pokémon Calma,pokeapi:pokemon_species_names.csv
-genus,Candle Pokémon,Pokémon Candela,pokeapi:pokemon_species_names.csv
-genus,Cannon Pokémon,Pokémon Cannone,pokeapi:pokemon_species_names.csv
-genus,Carefree Pokémon,Pokémon Spensierato,pokeapi:pokemon_species_names.csv
-genus,Caretaker Pokémon,Pokémon Sostegno,pokeapi:pokemon_species_names.csv
-genus,Caring Pokémon,Pokémon Assistenza,pokeapi:pokemon_species_names.csv
-genus,Cat Ferret Pokémon,Pokémon Furogatto,pokeapi:pokemon_species_names.csv
-genus,Catty Pokémon,Pokémon Felide,pokeapi:pokemon_species_names.csv
-genus,Cavalry Pokémon,Pokémon Cavaliere,pokeapi:pokemon_species_names.csv
-genus,Cave Pokémon,Pokémon Grotta,pokeapi:pokemon_species_names.csv
-genus,Cavern Pokémon,Pokémon Caverna,pokeapi:pokemon_species_names.csv
-genus,Cell Pokémon,Pokémon Cellula,pokeapi:pokemon_species_names.csv
-genus,Centipede Pokémon,Pokémon Centipede,pokeapi:pokemon_species_names.csv
-genus,Cerebral Pokémon,Pokémon Cervello,pokeapi:pokemon_species_names.csv
-genus,Cheeky Pokémon,Pokémon Guancepiene,pokeapi:pokemon_species_names.csv
-genus,Cheering Pokémon,Pokémon Incitamento,pokeapi:pokemon_species_names.csv
-genus,Cherry Pokémon,Pokémon Ciliegia,pokeapi:pokemon_species_names.csv
-genus,Chick Pokémon,Pokémon Pulcino,pokeapi:pokemon_species_names.csv
-genus,Chill Pokémon,Pokémon Freddo,pokeapi:pokemon_species_names.csv
-genus,Chimp Pokémon,Pokémon Scimpanzé,pokeapi:pokemon_species_names.csv
-genus,Chinchilla Pokémon,Pokémon Cincillà,pokeapi:pokemon_species_names.csv
-genus,Clamping Pokémon,Pokémon Addentatore,pokeapi:pokemon_species_names.csv
-genus,Clap Pokémon,Pokémon Rotolante,pokeapi:pokemon_species_names.csv
-genus,Classy Cat Pokémon,Pokémon Nobilgatto,pokeapi:pokemon_species_names.csv
-genus,Clay Doll Pokémon,Pokémon Argilla,pokeapi:pokemon_species_names.csv
-genus,Clear Wing Pokémon,Pokémon Alachiara,pokeapi:pokemon_species_names.csv
-genus,Coal Pokémon,Pokémon Carbone,pokeapi:pokemon_species_names.csv
-genus,Cobra Pokémon,Pokémon Cobra,pokeapi:pokemon_species_names.csv
-genus,Coconut Pokémon,Pokémon Nocecocco,pokeapi:pokemon_species_names.csv
-genus,Cocoon Pokémon,Pokémon Bozzolo,pokeapi:pokemon_species_names.csv
-genus,Coffin Pokémon,Pokémon Bara,pokeapi:pokemon_species_names.csv
-genus,Collective Pokémon,Pokémon Aggregato,pokeapi:pokemon_species_names.csv
-genus,Color Swap Pokémon,Pokémon Mutacolore,pokeapi:pokemon_species_names.csv
-genus,Colossal Pokémon,Pokémon Colossale,pokeapi:pokemon_species_names.csv
-genus,Colt Pokémon,Pokémon Puledro,pokeapi:pokemon_species_names.csv
-genus,Comedian Pokémon,Pokémon Comico,pokeapi:pokemon_species_names.csv
-genus,Compass Pokémon,Pokémon Bussola,pokeapi:pokemon_species_names.csv
-genus,Compressed Pokémon,Pokémon Pressionalta,pokeapi:pokemon_species_names.csv
-genus,Constraint Pokémon,Pokémon Temperanza,pokeapi:pokemon_species_names.csv
-genus,Continent Pokémon,Pokémon Continente,pokeapi:pokemon_species_names.csv
-genus,Copperderm Pokémon,Pokémon Bronzofante,pokeapi:pokemon_species_names.csv
-genus,Coral Pokémon,Pokémon Corallo,pokeapi:pokemon_species_names.csv
-genus,Cotton Bird Pokémon,Pokémon Alidicotone,pokeapi:pokemon_species_names.csv
-genus,Cotton Bloom Pokémon,Pokémon Cotofronzolo,pokeapi:pokemon_species_names.csv
-genus,Cotton Candy Pokémon,Pokémon Zuccherino,pokeapi:pokemon_species_names.csv
-genus,Cotton Puff Pokémon,Pokémon Cotonpalla,pokeapi:pokemon_species_names.csv
-genus,Cottonweed Pokémon,Pokémon Gramigna,pokeapi:pokemon_species_names.csv
-genus,Courting Pokémon,Pokémon Cercamore,pokeapi:pokemon_species_names.csv
-genus,Cream Pokémon,Pokémon Pannafresca,pokeapi:pokemon_species_names.csv
-genus,Cricket Pokémon,Pokémon Grillo,pokeapi:pokemon_species_names.csv
-genus,Cruel Pokémon,Pokémon Sanguefreddo,pokeapi:pokemon_species_names.csv
-genus,Crystallizing Pokémon,Pokémon Cristallo,pokeapi:pokemon_species_names.csv
-genus,Curlipede Pokémon,Pokémon Rotopede,pokeapi:pokemon_species_names.csv
-genus,Cyclone Pokémon,Pokémon Turbinio,pokeapi:pokemon_species_names.csv
-genus,DNA Pokémon,Pokémon DNA,pokeapi:pokemon_species_names.csv
-genus,Dancing Pokémon,Pokémon Danza,pokeapi:pokemon_species_names.csv
-genus,Dark Pokémon,Pokémon Buio,pokeapi:pokemon_species_names.csv
-genus,Darkness Pokémon,Pokémon Oscurità,pokeapi:pokemon_species_names.csv
-genus,Daunting Pokémon,Pokémon Occhiotruce,pokeapi:pokemon_species_names.csv
-genus,Deceiver Pokémon,Pokémon Inganno,pokeapi:pokemon_species_names.csv
-genus,Deep Black Pokémon,Pokémon Nero Ideale,pokeapi:pokemon_species_names.csv
-genus,Deep Sea Pokémon,Pokémon Abissi,pokeapi:pokemon_species_names.csv
-genus,Delivery Pokémon,Pokémon Consegna,pokeapi:pokemon_species_names.csv
-genus,Desert Croc Pokémon,Pokémon Sabbiadrillo,pokeapi:pokemon_species_names.csv
-genus,Despot Pokémon,Pokémon Tiranno,pokeapi:pokemon_species_names.csv
-genus,Destruction Pokémon,Pokémon Distruzione,pokeapi:pokemon_species_names.csv
-genus,Devious Pokémon,Pokémon Furbizia,pokeapi:pokemon_species_names.csv
-genus,Diapered Pokémon,Pokémon Pannolino,pokeapi:pokemon_species_names.csv
-genus,Digging Pokémon,Pokémon Scavabuche,pokeapi:pokemon_species_names.csv
-genus,Disaster Pokémon,Pokémon Catastrofe,pokeapi:pokemon_species_names.csv
-genus,Discharge Pokémon,Pokémon Scossa,pokeapi:pokemon_species_names.csv
-genus,Discipline Pokémon,Pokémon Apprendista,pokeapi:pokemon_species_names.csv
-genus,Disguise Pokémon,Pokémon Fantasmanto,pokeapi:pokemon_species_names.csv
-genus,Diving Pokémon,Pokémon Immersione,pokeapi:pokemon_species_names.csv
-genus,Dog Pokémon,Pokémon Cane,pokeapi:pokemon_species_names.csv
-genus,Donkey Pokémon,Pokémon Ciuconiglio,pokeapi:pokemon_species_names.csv
-genus,Dopey Pokémon,Pokémon Ronfone,pokeapi:pokemon_species_names.csv
-genus,Draft Horse Pokémon,Pokémon Fortequino,pokeapi:pokemon_species_names.csv
-genus,Dragon Orb Pokémon,Pokémon Dracosfera,pokeapi:pokemon_species_names.csv
-genus,Dragon Pokémon,Pokémon Drago,pokeapi:pokemon_species_names.csv
-genus,Drawn Sword Pokémon,Pokémon Spadatratta,pokeapi:pokemon_species_names.csv
-genus,Dream Eater Pokémon,Pokémon Divorasogni,pokeapi:pokemon_species_names.csv
-genus,Drill Pokémon,Pokémon Trapano,pokeapi:pokemon_species_names.csv
-genus,Drowsing Pokémon,Pokémon Dormiveglia,pokeapi:pokemon_species_names.csv
-genus,Drummer Pokémon,Pokémon Percussione,pokeapi:pokemon_species_names.csv
-genus,Duck Pokémon,Pokémon Papero,pokeapi:pokemon_species_names.csv
-genus,Eaglet Pokémon,Pokémon Aquilotto,pokeapi:pokemon_species_names.csv
-genus,Egg Pokémon,Pokémon Uovo,pokeapi:pokemon_species_names.csv
-genus,Elder Tree Pokémon,Pokémon Alberantico,pokeapi:pokemon_species_names.csv
-genus,EleFish Pokémon,Pokémon Elettropesce,pokeapi:pokemon_species_names.csv
-genus,EleSpider Pokémon,Pokémon Elettroragno,pokeapi:pokemon_species_names.csv
-genus,EleSquirrel Pokémon,Pokémon Elescoiatto,pokeapi:pokemon_species_names.csv
-genus,Electric Pokémon,Pokémon Elettrico,pokeapi:pokemon_species_names.csv
-genus,Electrified Pokémon,Pokémon Caricavolt,pokeapi:pokemon_species_names.csv
-genus,Electron Pokémon,Pokémon Elettrone,pokeapi:pokemon_species_names.csv
-genus,Emanation Pokémon,Pokémon Emanazione,pokeapi:pokemon_species_names.csv
-genus,Ember Pokémon,Pokémon Sfavillante,pokeapi:pokemon_species_names.csv
-genus,Embrace Pokémon,Pokémon Abbraccio,pokeapi:pokemon_species_names.csv
-genus,Emotion Pokémon,Pokémon Emozione,pokeapi:pokemon_species_names.csv
-genus,Emperor Pokémon,Pokémon Imperatore,pokeapi:pokemon_species_names.csv
-genus,Endurance Pokémon,Pokémon Resistenza,pokeapi:pokemon_species_names.csv
-genus,Eon Pokémon,Pokémon Eone,pokeapi:pokemon_species_names.csv
-genus,Eruption Pokémon,Pokémon Eruzione,pokeapi:pokemon_species_names.csv
-genus,Evolution Pokémon,Pokémon Evoluzione,pokeapi:pokemon_species_names.csv
-genus,Eyeball Pokémon,Pokémon Occhi,pokeapi:pokemon_species_names.csv
-genus,Face Pokémon,Pokémon Tuttomuso,pokeapi:pokemon_species_names.csv
-genus,Fairy Pokémon,Pokémon Fata,pokeapi:pokemon_species_names.csv
-genus,Fang Scorpion Pokémon,Pokémon Scorpidente,pokeapi:pokemon_species_names.csv
-genus,Fang Snake Pokémon,Pokémon Zannaserpe,pokeapi:pokemon_species_names.csv
-genus,Feeling Pokémon,Pokémon Sensazione,pokeapi:pokemon_species_names.csv
-genus,Fire Cat Pokémon,Pokémon Pirofelino,pokeapi:pokemon_species_names.csv
-genus,Fire Horse Pokémon,Pokémon Cavalfuoco,pokeapi:pokemon_species_names.csv
-genus,Fire Mouse Pokémon,Pokémon Fuocotopo,pokeapi:pokemon_species_names.csv
-genus,Fire Pig Pokémon,Pokémon Suinfuoco,pokeapi:pokemon_species_names.csv
-genus,Firefly Pokémon,Pokémon Lucciola,pokeapi:pokemon_species_names.csv
-genus,Fireworks Pokémon,Pokémon Pirotecnico,pokeapi:pokemon_species_names.csv
-genus,First Bird Pokémon,Pokémon Paleouccello,pokeapi:pokemon_species_names.csv
-genus,Fish Pokémon,Pokémon Pesce,pokeapi:pokemon_species_names.csv
-genus,Five Star Pokémon,Pokémon Pentastra,pokeapi:pokemon_species_names.csv
-genus,Fixation Pokémon,Pokémon Fissosguardo,pokeapi:pokemon_species_names.csv
-genus,Flailing Pokémon,Pokémon Bizzoso,pokeapi:pokemon_species_names.csv
-genus,Flame Pokémon,Pokémon Fiamma,pokeapi:pokemon_species_names.csv
-genus,Flash Pokémon,Pokémon Baleno,pokeapi:pokemon_species_names.csv
-genus,Float Whale Pokémon,Pokémon Megabalena,pokeapi:pokemon_species_names.csv
-genus,Floating Pokémon,Pokémon Fluttuante,pokeapi:pokemon_species_names.csv
-genus,Flower Pokémon,Pokémon Fiore,pokeapi:pokemon_species_names.csv
-genus,Flowering Pokémon,Pokémon Fiorfronzolo,pokeapi:pokemon_species_names.csv
-genus,Fly Scorpion Pokémon,Pokémon Aliscorpio,pokeapi:pokemon_species_names.csv
-genus,Flycatcher Pokémon,Pokémon Moschivoro,pokeapi:pokemon_species_names.csv
-genus,Forbidden Pokémon,Pokémon Proibito,pokeapi:pokemon_species_names.csv
-genus,Forest Pokémon,Pokémon Foresta,pokeapi:pokemon_species_names.csv
-genus,Formation Pokémon,Pokémon Schieramento,pokeapi:pokemon_species_names.csv
-genus,Formidable Pokémon,Pokémon Dignità,pokeapi:pokemon_species_names.csv
-genus,Fossil Pokémon,Pokémon Fossile,pokeapi:pokemon_species_names.csv
-genus,Fox Pokémon,Pokémon Volpe,pokeapi:pokemon_species_names.csv
-genus,Fragrance Pokémon,Pokémon Fragranza,pokeapi:pokemon_species_names.csv
-genus,Free Climb Pokémon,Pokémon Scalata,pokeapi:pokemon_species_names.csv
-genus,Freeze Pokémon,Pokémon Gelo,pokeapi:pokemon_species_names.csv
-genus,Freezing Pokémon,Pokémon Glaciale,pokeapi:pokemon_species_names.csv
-genus,Fresh Snow Pokémon,Pokémon Nevefresca,pokeapi:pokemon_species_names.csv
-genus,Frog Pokémon,Pokémon Rana,pokeapi:pokemon_species_names.csv
-genus,Frost Moth Pokémon,Pokémon Gelofalena,pokeapi:pokemon_species_names.csv
-genus,Frost Tree Pokémon,Pokémon Albergelo,pokeapi:pokemon_species_names.csv
-genus,Fruit Pokémon,Pokémon Frutto,pokeapi:pokemon_species_names.csv
-genus,Garden Pokémon,Pokémon Giardino,pokeapi:pokemon_species_names.csv
-genus,Gas Pokémon,Pokémon Gas,pokeapi:pokemon_species_names.csv
-genus,Gear Pokémon,Pokémon Ingranaggio,pokeapi:pokemon_species_names.csv
-genus,Generator Pokémon,Pokémon Generatore,pokeapi:pokemon_species_names.csv
-genus,Genetic Pokémon,Pokémon Genetico,pokeapi:pokemon_species_names.csv
-genus,Geyser Pokémon,Pokémon Spruzzacqua,pokeapi:pokemon_species_names.csv
-genus,Gigantic Pokémon,Pokémon Gigante,pokeapi:pokemon_species_names.csv
-genus,Gleam Eyes Pokémon,Pokémon Occhiluce,pokeapi:pokemon_species_names.csv
-genus,Gloomdweller Pokémon,Pokémon Vivinombra,pokeapi:pokemon_species_names.csv
-genus,Glowing Pokémon,Pokémon Luminaria,pokeapi:pokemon_species_names.csv
-genus,Gnash Teeth Pokémon,Pokémon Sfregadenti,pokeapi:pokemon_species_names.csv
-genus,Goldfish Pokémon,Pokémon Pescerosso,pokeapi:pokemon_species_names.csv
-genus,Grass Monkey Pokémon,Pokémon Scimperba,pokeapi:pokemon_species_names.csv
-genus,Grass Quill Pokémon,Pokémon Aliderba,pokeapi:pokemon_species_names.csv
-genus,Grass Snake Pokémon,Pokémon Serperba,pokeapi:pokemon_species_names.csv
-genus,Grassland Pokémon,Pokémon Prateria,pokeapi:pokemon_species_names.csv
-genus,Gratitude Pokémon,Pokémon Gratitudine,pokeapi:pokemon_species_names.csv
-genus,Greedy Pokémon,Pokémon Ingordigia,pokeapi:pokemon_species_names.csv
-genus,Gripper Pokémon,Pokémon Pinza,pokeapi:pokemon_species_names.csv
-genus,Grove Pokémon,Pokémon Boschetto,pokeapi:pokemon_species_names.csv
-genus,Grudge Pokémon,Pokémon Rancore,pokeapi:pokemon_species_names.csv
-genus,Gulp Pokémon,Pokémon Inghiottone,pokeapi:pokemon_species_names.csv
-genus,Guts Pokémon,Pokémon Coraggio,pokeapi:pokemon_species_names.csv
-genus,Hairy Bug Pokémon,Pokémon Millepiedi,pokeapi:pokemon_species_names.csv
-genus,Handstand Pokémon,Pokémon Verticale,pokeapi:pokemon_species_names.csv
-genus,Happiness Pokémon,Pokémon Felicità,pokeapi:pokemon_species_names.csv
-genus,Hard Scale Pokémon,Pokémon Blindato,pokeapi:pokemon_species_names.csv
-genus,Hard Shell Pokémon,Pokémon Guscioduro,pokeapi:pokemon_species_names.csv
-genus,Head Butt Pokémon,Pokémon Cranioso,pokeapi:pokemon_species_names.csv
-genus,Hearing Pokémon,Pokémon Ascolto,pokeapi:pokemon_species_names.csv
-genus,Heavyweight Pokémon,Pokémon Grandepeso,pokeapi:pokemon_species_names.csv
-genus,Heel Pokémon,Pokémon Colpibassi,pokeapi:pokemon_species_names.csv
-genus,Herb Pokémon,Pokémon Erbe,pokeapi:pokemon_species_names.csv
-genus,Hermit Crab Pokémon,Pokémon Paguro,pokeapi:pokemon_species_names.csv
-genus,Hex Nut Pokémon,Pokémon Bullone,pokeapi:pokemon_species_names.csv
-genus,Hibernator Pokémon,Pokémon Letargo,pokeapi:pokemon_species_names.csv
-genus,High Temp Pokémon,Pokémon Testacalda,pokeapi:pokemon_species_names.csv
-genus,Hippo Pokémon,Pokémon Ippo,pokeapi:pokemon_species_names.csv
-genus,Hoodlum Pokémon,Pokémon Furfante,pokeapi:pokemon_species_names.csv
-genus,Hostile Pokémon,Pokémon Irruenza,pokeapi:pokemon_species_names.csv
-genus,Howitzer Pokémon,Pokémon Acqualancio,pokeapi:pokemon_species_names.csv
-genus,Human Shape Pokémon,Pokémon Umanoide,pokeapi:pokemon_species_names.csv
-genus,Humming Pokémon,Pokémon Canterino,pokeapi:pokemon_species_names.csv
-genus,Hypnosis Pokémon,Pokémon Ipnosi,pokeapi:pokemon_species_names.csv
-genus,Ice Break Pokémon,Pokémon Spaccagelo,pokeapi:pokemon_species_names.csv
-genus,Ice Chunk Pokémon,Pokémon Ghiacciolo,pokeapi:pokemon_species_names.csv
-genus,Iceberg Pokémon,Pokémon Iceberg,pokeapi:pokemon_species_names.csv
-genus,Icy Snow Pokémon,Pokémon Geloneve,pokeapi:pokemon_species_names.csv
-genus,Illuminating Pokémon,Pokémon Luminescenza,pokeapi:pokemon_species_names.csv
-genus,Illusion Fox Pokémon,Pokémon Mutevolpe,pokeapi:pokemon_species_names.csv
-genus,Imitation Pokémon,Pokémon Imitazione,pokeapi:pokemon_species_names.csv
-genus,Insect Pokémon,Pokémon Insetto,pokeapi:pokemon_species_names.csv
-genus,Intertwining Pokémon,Pokémon Legame,pokeapi:pokemon_species_names.csv
-genus,Intimidation Pokémon,Pokémon Minaccia,pokeapi:pokemon_species_names.csv
-genus,Irate Pokémon,Pokémon Impeto,pokeapi:pokemon_species_names.csv
-genus,Iron Ant Pokémon,Pokémon Ferformica,pokeapi:pokemon_species_names.csv
-genus,Iron Armor Pokémon,Pokémon Corazza,pokeapi:pokemon_species_names.csv
-genus,Iron Ball Pokémon,Pokémon Ferrosfera,pokeapi:pokemon_species_names.csv
-genus,Iron Claw Pokémon,Pokémon Ferrunghia,pokeapi:pokemon_species_names.csv
-genus,Iron Leg Pokémon,Pokémon Ferrarto,pokeapi:pokemon_species_names.csv
-genus,Iron Pokémon,Pokémon Ferro,pokeapi:pokemon_species_names.csv
-genus,Iron Snake Pokémon,Pokémon Ferroserpe,pokeapi:pokemon_species_names.csv
-genus,Iron Will Pokémon,Pokémon Metalcuore,pokeapi:pokemon_species_names.csv
-genus,Jellyfish Pokémon,Pokémon Medusa,pokeapi:pokemon_species_names.csv
-genus,Jet Pokémon,Pokémon Jet,pokeapi:pokemon_species_names.csv
-genus,Jewel Pokémon,Pokémon Gemma,pokeapi:pokemon_species_names.csv
-genus,Jolly Pokémon,Pokémon Giocoso,pokeapi:pokemon_species_names.csv
-genus,Jubilee Pokémon,Pokémon Festa,pokeapi:pokemon_species_names.csv
-genus,Judo Pokémon,Pokémon Judo,pokeapi:pokemon_species_names.csv
-genus,Jujitsu Pokémon,Pokémon Jujitsu,pokeapi:pokemon_species_names.csv
-genus,Junkivore Pokémon,Pokémon Divoratutto,pokeapi:pokemon_species_names.csv
-genus,Karate Pokémon,Pokémon Karate,pokeapi:pokemon_species_names.csv
-genus,Key Ring Pokémon,Pokémon Portachiavi,pokeapi:pokemon_species_names.csv
-genus,Kicking Pokémon,Pokémon Tiracalci,pokeapi:pokemon_species_names.csv
-genus,King Pokémon,Pokémon Re,pokeapi:pokemon_species_names.csv
-genus,Kiss Pokémon,Pokémon Bacio,pokeapi:pokemon_species_names.csv
-genus,Kite Pokémon,Pokémon Aquilone,pokeapi:pokemon_species_names.csv
-genus,Kitten Pokémon,Pokémon Micio,pokeapi:pokemon_species_names.csv
-genus,Knowledge Pokémon,Pokémon Sapienza,pokeapi:pokemon_species_names.csv
-genus,Lamp Pokémon,Pokémon Lanterna,pokeapi:pokemon_species_names.csv
-genus,Land Shark Pokémon,Pokémon Squaloterra,pokeapi:pokemon_species_names.csv
-genus,Land Snake Pokémon,Pokémon Terraserpe,pokeapi:pokemon_species_names.csv
-genus,Land Spirit Pokémon,Pokémon Nume Locale,pokeapi:pokemon_species_names.csv
-genus,Larva Pokémon,Pokémon Coleolarva,pokeapi:pokemon_species_names.csv
-genus,Launch Pokémon,Pokémon Decollo,pokeapi:pokemon_species_names.csv
-genus,Lava Dome Pokémon,Pokémon Cratere,pokeapi:pokemon_species_names.csv
-genus,Lava Pokémon,Pokémon Lava,pokeapi:pokemon_species_names.csv
-genus,Lazy Pokémon,Pokémon Pigrizia,pokeapi:pokemon_species_names.csv
-genus,Leaf Pokémon,Pokémon Foglia,pokeapi:pokemon_species_names.csv
-genus,Leaf-Wrapped Pokémon,Pokémon Coprifoglia,pokeapi:pokemon_species_names.csv
-genus,Legendary Pokémon,Pokémon Leggenda,pokeapi:pokemon_species_names.csv
-genus,Licking Pokémon,Pokémon Linguaccia,pokeapi:pokemon_species_names.csv
-genus,Life Pokémon,Pokémon Creazione,pokeapi:pokemon_species_names.csv
-genus,Light Pokémon,Pokémon Luce,pokeapi:pokemon_species_names.csv
-genus,Lightning Pokémon,Pokémon Luminoso,pokeapi:pokemon_species_names.csv
-genus,Lingering Pokémon,Pokémon Risentimento,pokeapi:pokemon_species_names.csv
-genus,Lion Cub Pokémon,Pokémon Leoncino,pokeapi:pokemon_species_names.csv
-genus,Lissome Pokémon,Pokémon Leggiadria,pokeapi:pokemon_species_names.csv
-genus,Little Bear Pokémon,Pokémon Orsetto,pokeapi:pokemon_species_names.csv
-genus,Live Coal Pokémon,Pokémon Carbonvivo,pokeapi:pokemon_species_names.csv
-genus,Lizard Pokémon,Pokémon Lucertola,pokeapi:pokemon_species_names.csv
-genus,Loitering Pokémon,Pokémon Pattuglia,pokeapi:pokemon_species_names.csv
-genus,Lonely Pokémon,Pokémon Solitario,pokeapi:pokemon_species_names.csv
-genus,Long Body Pokémon,Pokémon Lungocorpo,pokeapi:pokemon_species_names.csv
-genus,Long Leg Pokémon,Pokémon Lungazampa,pokeapi:pokemon_species_names.csv
-genus,Long Neck Pokémon,Pokémon Lungocollo,pokeapi:pokemon_species_names.csv
-genus,Long Nose Pokémon,Pokémon Nasone,pokeapi:pokemon_species_names.csv
-genus,Long Tail Pokémon,Pokémon Lungacoda,pokeapi:pokemon_species_names.csv
-genus,Longevity Pokémon,Pokémon Longevità,pokeapi:pokemon_species_names.csv
-genus,Lookout Pokémon,Pokémon Sentinella,pokeapi:pokemon_species_names.csv
-genus,Loud Noise Pokémon,Pokémon Fragore,pokeapi:pokemon_species_names.csv
-genus,Love-Hate Pokémon,Pokémon Amoreodio,pokeapi:pokemon_species_names.csv
-genus,Loyal Dog Pokémon,Pokémon Fedeltà,pokeapi:pokemon_species_names.csv
-genus,Lunar Pokémon,Pokémon Falcato,pokeapi:pokemon_species_names.csv
-genus,Luring Pokémon,Pokémon Attiranime,pokeapi:pokemon_species_names.csv
-genus,Mach Pokémon,Pokémon Mach,pokeapi:pokemon_species_names.csv
-genus,Magical Pokémon,Pokémon Stregone,pokeapi:pokemon_species_names.csv
-genus,Magnet Area Pokémon,Pokémon Magnetico,pokeapi:pokemon_species_names.csv
-genus,Magnet Pokémon,Pokémon Calamita,pokeapi:pokemon_species_names.csv
-genus,Manipulate Pokémon,Pokémon Raggiro,pokeapi:pokemon_species_names.csv
-genus,Mantis Pokémon,Pokémon Mantide,pokeapi:pokemon_species_names.csv
-genus,Mantle Pokémon,Pokémon Placca,pokeapi:pokemon_species_names.csv
-genus,Marionette Pokémon,Pokémon Marionetta,pokeapi:pokemon_species_names.csv
-genus,Martial Arts Pokémon,Pokémon Marziale,pokeapi:pokemon_species_names.csv
-genus,Meditate Pokémon,Pokémon Meditazione,pokeapi:pokemon_species_names.csv
-genus,Mega Fire Pig Pokémon,Pokémon Suincendio,pokeapi:pokemon_species_names.csv
-genus,Megapede Pokémon,Pokémon Megapede,pokeapi:pokemon_species_names.csv
-genus,Megaton Pokémon,Pokémon Megatone,pokeapi:pokemon_species_names.csv
-genus,Melody Pokémon,Pokémon Melodia,pokeapi:pokemon_species_names.csv
-genus,Meringue Pokémon,Pokémon Panna,pokeapi:pokemon_species_names.csv
-genus,Meteor Pokémon,Pokémon Meteora,pokeapi:pokemon_species_names.csv
-genus,Meteorite Pokémon,Pokémon Meteorite,pokeapi:pokemon_species_names.csv
-genus,Milk Cow Pokémon,Pokémon Bovino,pokeapi:pokemon_species_names.csv
-genus,Mime Pokémon,Pokémon Mimo,pokeapi:pokemon_species_names.csv
-genus,Mischief Pokémon,Pokémon Birba,pokeapi:pokemon_species_names.csv
-genus,Mitosis Pokémon,Pokémon Scissione,pokeapi:pokemon_species_names.csv
-genus,Mock Kelp Pokémon,Pokémon Similalga,pokeapi:pokemon_species_names.csv
-genus,Mold Pokémon,Pokémon Muffa,pokeapi:pokemon_species_names.csv
-genus,Mole Pokémon,Pokémon Talpa,pokeapi:pokemon_species_names.csv
-genus,Moone Pokémon,Pokémon Lunare,pokeapi:pokemon_species_names.csv
-genus,Moonlight Pokémon,Pokémon Lucelunare,pokeapi:pokemon_species_names.csv
-genus,Moth Pokémon,Pokémon Falena,pokeapi:pokemon_species_names.csv
-genus,Mount Pokémon,Pokémon Cavalcatura,pokeapi:pokemon_species_names.csv
-genus,Mouse Pokémon,Pokémon Topo,pokeapi:pokemon_species_names.csv
-genus,Mud Fish Pokémon,Pokémon Fango Pesce,pokeapi:pokemon_species_names.csv
-genus,Multiplying Pokémon,Pokémon Espansione,pokeapi:pokemon_species_names.csv
-genus,Muscular Pokémon,Pokémon Forzaimmane,pokeapi:pokemon_species_names.csv
-genus,Mushroom Pokémon,Pokémon Fungo,pokeapi:pokemon_species_names.csv
-genus,Music Note Pokémon,Pokémon Musicale,pokeapi:pokemon_species_names.csv
-genus,Mysterious Pokémon,Pokémon Misterioso,pokeapi:pokemon_species_names.csv
-genus,Mystic Pokémon,Pokémon Magico,pokeapi:pokemon_species_names.csv
-genus,Nebula Pokémon,Pokémon Nebulosa,pokeapi:pokemon_species_names.csv
-genus,Neon Pokémon,Pokémon Neon,pokeapi:pokemon_species_names.csv
-genus,New Species Pokémon,Pokémon Novaspecie,pokeapi:pokemon_species_names.csv
-genus,Ninja Pokémon,Pokémon Ninja,pokeapi:pokemon_species_names.csv
-genus,Numb Pokémon,Pokémon Torpore,pokeapi:pokemon_species_names.csv
-genus,Nurturing Pokémon,Pokémon Balia,pokeapi:pokemon_species_names.csv
-genus,Ogre Darner Pokémon,Pokémon Libellorco,pokeapi:pokemon_species_names.csv
-genus,Ogre Scorpion Pokémon,Pokémon Scorpiaccio,pokeapi:pokemon_species_names.csv
-genus,Old Shrimp Pokémon,Pokémon Primaceo,pokeapi:pokemon_species_names.csv
-genus,Order Pokémon,Pokémon Equilibrio,pokeapi:pokemon_species_names.csv
-genus,Ore Pokémon,Pokémon Minerale,pokeapi:pokemon_species_names.csv
-genus,Overturning Pokémon,Pokémon Giravolta,pokeapi:pokemon_species_names.csv
-genus,Owl Pokémon,Pokémon Gufo,pokeapi:pokemon_species_names.csv
-genus,Painter Pokémon,Pokémon Pittore,pokeapi:pokemon_species_names.csv
-genus,Paleozoic Pokémon,Pokémon Paleozoico,pokeapi:pokemon_species_names.csv
-genus,Parasite Pokémon,Pokémon Parassita,pokeapi:pokemon_species_names.csv
-genus,Parent Pokémon,Pokémon Genitore,pokeapi:pokemon_species_names.csv
-genus,Patient Pokémon,Pokémon Pazienza,pokeapi:pokemon_species_names.csv
-genus,Peat Pokémon,Pokémon Torba,pokeapi:pokemon_species_names.csv
-genus,Penguin Pokémon,Pokémon Pinguino,pokeapi:pokemon_species_names.csv
-genus,Perfume Pokémon,Pokémon Profumo,pokeapi:pokemon_species_names.csv
-genus,Pig Monkey Pokémon,Pokémon Suinpanzé,pokeapi:pokemon_species_names.csv
-genus,Pig Pokémon,Pokémon Maiale,pokeapi:pokemon_species_names.csv
-genus,Pin Cluster Pokémon,Pokémon Spinoso,pokeapi:pokemon_species_names.csv
-genus,Pincer Pokémon,Pokémon Chela,pokeapi:pokemon_species_names.csv
-genus,Pitch-Black Pokémon,Pokémon Neropesto,pokeapi:pokemon_species_names.csv
-genus,Placid Pokémon,Pokémon Tuttacalma,pokeapi:pokemon_species_names.csv
-genus,Plasma Pokémon,Pokémon Plasma,pokeapi:pokemon_species_names.csv
-genus,Plate Pokémon,Pokémon Piastre,pokeapi:pokemon_species_names.csv
-genus,Playful Pokémon,Pokémon Briccone,pokeapi:pokemon_species_names.csv
-genus,Playhouse Pokémon,Pokémon Ovettino,pokeapi:pokemon_species_names.csv
-genus,Plump Mouse Pokémon,Pokémon Topaffuto,pokeapi:pokemon_species_names.csv
-genus,Poison Bag Pokémon,Pokémon Velenosacco,pokeapi:pokemon_species_names.csv
-genus,Poison Bee Pokémon,Pokémon Velenape,pokeapi:pokemon_species_names.csv
-genus,Poison Gas Pokémon,Pokémon Velenuvola,pokeapi:pokemon_species_names.csv
-genus,Poison Moth Pokémon,Pokémon Velentarma,pokeapi:pokemon_species_names.csv
-genus,Poison Pin Pokémon,Pokémon Velenago,pokeapi:pokemon_species_names.csv
-genus,Polka Dot Pokémon,Pokémon Pois,pokeapi:pokemon_species_names.csv
-genus,Pond Skater Pokémon,Pokémon Sfiorapozze,pokeapi:pokemon_species_names.csv
-genus,Poodle Pokémon,Pokémon Barboncino,pokeapi:pokemon_species_names.csv
-genus,Pop Star Pokémon,Pokémon Pop Star,pokeapi:pokemon_species_names.csv
-genus,Posy Picker Pokémon,Pokémon Ghirlanda,pokeapi:pokemon_species_names.csv
-genus,Predator Pokémon,Pokémon Rapace,pokeapi:pokemon_species_names.csv
-genus,Prim Pokémon,Pokémon Finezza,pokeapi:pokemon_species_names.csv
-genus,Prism Pokémon,Pokémon Prisma,pokeapi:pokemon_species_names.csv
-genus,Protostar Pokémon,Pokémon Protostella,pokeapi:pokemon_species_names.csv
-genus,Prototurtle Pokémon,Pokémon Ancestruga,pokeapi:pokemon_species_names.csv
-genus,Proud Pokémon,Pokémon Orgoglio,pokeapi:pokemon_species_names.csv
-genus,Psi Pokémon,Pokémon Psico,pokeapi:pokemon_species_names.csv
-genus,Pumpkin Pokémon,Pokémon Zucca,pokeapi:pokemon_species_names.csv
-genus,Punching Pokémon,Pokémon Tirapugni,pokeapi:pokemon_species_names.csv
-genus,Punk Pokémon,Pokémon Punk,pokeapi:pokemon_species_names.csv
-genus,Puppet Pokémon,Pokémon Pupazzo,pokeapi:pokemon_species_names.csv
-genus,Puppy Pokémon,Pokémon Cagnolino,pokeapi:pokemon_species_names.csv
-genus,Rabbit Pokémon,Pokémon Coniglio,pokeapi:pokemon_species_names.csv
-genus,Radiator Pokémon,Pokémon Termogeno,pokeapi:pokemon_species_names.csv
-genus,Radome Pokémon,Pokémon Radome,pokeapi:pokemon_species_names.csv
-genus,Rainbow Pokémon,Pokémon Arcobaleno,pokeapi:pokemon_species_names.csv
-genus,Rampart Pokémon,Pokémon Bastione,pokeapi:pokemon_species_names.csv
-genus,Raven Pokémon,Pokémon Corvo,pokeapi:pokemon_species_names.csv
-genus,Regal Pokémon,Pokémon Regale,pokeapi:pokemon_species_names.csv
-genus,Rendezvous Pokémon,Pokémon Rendezvous,pokeapi:pokemon_species_names.csv
-genus,Renegade Pokémon,Pokémon Ribelle,pokeapi:pokemon_species_names.csv
-genus,Requiem Pokémon,Pokémon Requiem,pokeapi:pokemon_species_names.csv
-genus,Restraint Pokémon,Pokémon Moderazione,pokeapi:pokemon_species_names.csv
-genus,Revolving Pokémon,Pokémon Volteggio,pokeapi:pokemon_species_names.csv
-genus,River Crab Pokémon,Pokémon Granchio,pokeapi:pokemon_species_names.csv
-genus,Rock Head Pokémon,Pokémon Rocciotesta,pokeapi:pokemon_species_names.csv
-genus,Rock Inn Pokémon,Pokémon Pietracasa,pokeapi:pokemon_species_names.csv
-genus,Rock Peak Pokémon,Pokémon Picco,pokeapi:pokemon_species_names.csv
-genus,Rock Pokémon,Pokémon Roccia,pokeapi:pokemon_species_names.csv
-genus,Rock Skin Pokémon,Pokémon Peldisasso,pokeapi:pokemon_species_names.csv
-genus,Rock Snake Pokémon,Pokémon Serpesasso,pokeapi:pokemon_species_names.csv
-genus,Rogue Monkey Pokémon,Pokémon Scimmialigna,pokeapi:pokemon_species_names.csv
-genus,Rogue Pokémon,Pokémon Canaglia,pokeapi:pokemon_species_names.csv
-genus,Roly-Poly Pokémon,Pokémon Ricciopalla,pokeapi:pokemon_species_names.csv
-genus,Royal Heir Pokémon,Pokémon Principino,pokeapi:pokemon_species_names.csv
-genus,Royal Pokémon,Pokémon Reale,pokeapi:pokemon_species_names.csv
-genus,Royal Sword Pokémon,Pokémon Spadareale,pokeapi:pokemon_species_names.csv
-genus,Ruffian Pokémon,Pokémon Birbone,pokeapi:pokemon_species_names.csv
-genus,Rush Pokémon,Pokémon Carica,pokeapi:pokemon_species_names.csv
-genus,Rushing Pokémon,Pokémon Sfrecciante,pokeapi:pokemon_species_names.csv
-genus,Sage Pokémon,Pokémon Saggio,pokeapi:pokemon_species_names.csv
-genus,Sand Castle Pokémon,Pokémon Castelsabbia,pokeapi:pokemon_species_names.csv
-genus,Sand Heap Pokémon,Pokémon Montesabbia,pokeapi:pokemon_species_names.csv
-genus,Sand Snake Pokémon,Pokémon Sabbiaserpe,pokeapi:pokemon_species_names.csv
-genus,Savage Pokémon,Pokémon Feroce,pokeapi:pokemon_species_names.csv
-genus,Scale Pokémon,Pokémon Farfascaglia,pokeapi:pokemon_species_names.csv
-genus,Scaly Pokémon,Pokémon Squama,pokeapi:pokemon_species_names.csv
-genus,Scarecrow Pokémon,Pokémon Spavento,pokeapi:pokemon_species_names.csv
-genus,Scarf Pokémon,Pokémon Sciarpa,pokeapi:pokemon_species_names.csv
-genus,Scatterdust Pokémon,Pokémon Tirascaglie,pokeapi:pokemon_species_names.csv
-genus,Scorching Pokémon,Pokémon Ardifiamma,pokeapi:pokemon_species_names.csv
-genus,Scorpion Pokémon,Pokémon Scorpione,pokeapi:pokemon_species_names.csv
-genus,Scout Pokémon,Pokémon Esplorante,pokeapi:pokemon_species_names.csv
-genus,Scratch Cat Pokémon,Pokémon Graffimiao,pokeapi:pokemon_species_names.csv
-genus,Screech Pokémon,Pokémon Strido,pokeapi:pokemon_species_names.csv
-genus,Scuffle Pokémon,Pokémon Baruffa,pokeapi:pokemon_species_names.csv
-genus,Sea Basin Pokémon,Pokémon Oceano,pokeapi:pokemon_species_names.csv
-genus,Sea Creeper Pokémon,Pokémon Brandellalga,pokeapi:pokemon_species_names.csv
-genus,Sea Cucumber Pokémon,Pokémon Oloturia,pokeapi:pokemon_species_names.csv
-genus,Sea Drifter Pokémon,Pokémon Oceanbondo,pokeapi:pokemon_species_names.csv
-genus,Sea Lily Pokémon,Pokémon Fiordimare,pokeapi:pokemon_species_names.csv
-genus,Sea Lion Pokémon,Pokémon Otaria,pokeapi:pokemon_species_names.csv
-genus,Sea Otter Pokémon,Pokémon Lontra,pokeapi:pokemon_species_names.csv
-genus,Sea Slug Pokémon,Pokémon Lumacomare,pokeapi:pokemon_species_names.csv
-genus,Sea Urchin Pokémon,Pokémon Echino,pokeapi:pokemon_species_names.csv
-genus,Sea Weasel Pokémon,Pokémon Maridonnola,pokeapi:pokemon_species_names.csv
-genus,Seafaring Pokémon,Pokémon Oceandante,pokeapi:pokemon_species_names.csv
-genus,Seagull Pokémon,Pokémon Gabbiano,pokeapi:pokemon_species_names.csv
-genus,Season Pokémon,Pokémon Stagione,pokeapi:pokemon_species_names.csv
-genus,Secret Agent Pokémon,Pokémon Agente,pokeapi:pokemon_species_names.csv
-genus,Seed Pokémon,Pokémon Seme,pokeapi:pokemon_species_names.csv
-genus,Serene Pokémon,Pokémon Quiete,pokeapi:pokemon_species_names.csv
-genus,Seven Spot Pokémon,Pokémon Settepunti,pokeapi:pokemon_species_names.csv
-genus,Sewing Pokémon,Pokémon Grancucito,pokeapi:pokemon_species_names.csv
-genus,Shadow Pokémon,Pokémon Ombra,pokeapi:pokemon_species_names.csv
-genus,Sharp Blade Pokémon,Pokémon Lamaffilata,pokeapi:pokemon_species_names.csv
-genus,Sharp Claw Pokémon,Pokémon Lamartigli,pokeapi:pokemon_species_names.csv
-genus,Shed Pokémon,Pokémon Cambiapelle,pokeapi:pokemon_species_names.csv
-genus,Shedding Pokémon,Pokémon Mutapelle,pokeapi:pokemon_species_names.csv
-genus,Sheep Pokémon,Pokémon Pecora,pokeapi:pokemon_species_names.csv
-genus,Shell Out Pokémon,Pokémon Sgusciato,pokeapi:pokemon_species_names.csv
-genus,Shellfish Pokémon,Pokémon Crostaceo,pokeapi:pokemon_species_names.csv
-genus,Shield Pokémon,Pokémon Schermo,pokeapi:pokemon_species_names.csv
-genus,Sickle Grass Pokémon,Pokémon Mantiderba,pokeapi:pokemon_species_names.csv
-genus,Silent Pokémon,Pokémon Silenzio,pokeapi:pokemon_species_names.csv
-genus,Single Bloom Pokémon,Pokémon Monofiore,pokeapi:pokemon_species_names.csv
-genus,Single Horn Pokémon,Pokémon Monocorno,pokeapi:pokemon_species_names.csv
-genus,Skewer Pokémon,Pokémon Spiedo,pokeapi:pokemon_species_names.csv
-genus,Skunk Pokémon,Pokémon Moffetta,pokeapi:pokemon_species_names.csv
-genus,Sky High Pokémon,Pokémon Stratosfera,pokeapi:pokemon_species_names.csv
-genus,Sky Squirrel Pokémon,Pokémon Petauro,pokeapi:pokemon_species_names.csv
-genus,Slacker Pokémon,Pokémon Ozioso,pokeapi:pokemon_species_names.csv
-genus,Sleeping Pokémon,Pokémon Sonno,pokeapi:pokemon_species_names.csv
-genus,Sludge Pokémon,Pokémon Melma,pokeapi:pokemon_species_names.csv
-genus,Small Fry Pokémon,Pokémon Pesciolino,pokeapi:pokemon_species_names.csv
-genus,Snail Pokémon,Pokémon Lumachina,pokeapi:pokemon_species_names.csv
-genus,Snake Pokémon,Pokémon Serpente,pokeapi:pokemon_species_names.csv
-genus,Snapping Pokémon,Pokémon Mordace,pokeapi:pokemon_species_names.csv
-genus,Snow Hat Pokémon,Pokémon Cappelneve,pokeapi:pokemon_species_names.csv
-genus,Snow Land Pokémon,Pokémon Suolnevoso,pokeapi:pokemon_species_names.csv
-genus,Snowstorm Pokémon,Pokémon Bufera,pokeapi:pokemon_species_names.csv
-genus,Soft Tissue Pokémon,Pokémon Mollusco,pokeapi:pokemon_species_names.csv
-genus,Soloist Pokémon,Pokémon Solista,pokeapi:pokemon_species_names.csv
-genus,Sound Wave Pokémon,Pokémon Ondasonora,pokeapi:pokemon_species_names.csv
-genus,South Sea Pokémon,Pokémon Sudmarino,pokeapi:pokemon_species_names.csv
-genus,Spark Pokémon,Pokémon Favilla,pokeapi:pokemon_species_names.csv
-genus,Spatial Pokémon,Pokémon Spazio,pokeapi:pokemon_species_names.csv
-genus,Spike Ball Pokémon,Pokémon Pallapunte,pokeapi:pokemon_species_names.csv
-genus,Spikes Pokémon,Pokémon Punzoni,pokeapi:pokemon_species_names.csv
-genus,Spiny Armor Pokémon,Pokémon Spincorazza,pokeapi:pokemon_species_names.csv
-genus,Spiny Nut Pokémon,Pokémon Castanriccio,pokeapi:pokemon_species_names.csv
-genus,Spiral Pokémon,Pokémon Spirale,pokeapi:pokemon_species_names.csv
-genus,Spirit Pokémon,Pokémon Fatuanima,pokeapi:pokemon_species_names.csv
-genus,Spitfire Pokémon,Pokémon Sputafuoco,pokeapi:pokemon_species_names.csv
-genus,Spot Panda Pokémon,Pokémon Macchipanda,pokeapi:pokemon_species_names.csv
-genus,Spray Pokémon,Pokémon Annaffiatore,pokeapi:pokemon_species_names.csv
-genus,Stag Beetle Pokémon,Pokémon Cervolante,pokeapi:pokemon_species_names.csv
-genus,Stakeout Pokémon,Pokémon Sorveglianza,pokeapi:pokemon_species_names.csv
-genus,Star Shape Pokémon,Pokémon Stella,pokeapi:pokemon_species_names.csv
-genus,Starling Pokémon,Pokémon Storno,pokeapi:pokemon_species_names.csv
-genus,Stealth Pokémon,Pokémon Furtivo,pokeapi:pokemon_species_names.csv
-genus,Steam Pokémon,Pokémon Vapore,pokeapi:pokemon_species_names.csv
-genus,Stomach Pokémon,Pokémon Stomaco,pokeapi:pokemon_species_names.csv
-genus,Stone Home Pokémon,Pokémon Scogliocasa,pokeapi:pokemon_species_names.csv
-genus,Striker Pokémon,Pokémon Cannoniere,pokeapi:pokemon_species_names.csv
-genus,String Spit Pokémon,Pokémon Tela,pokeapi:pokemon_species_names.csv
-genus,Strong Arm Pokémon,Pokémon Fortebraccio,pokeapi:pokemon_species_names.csv
-genus,Stump Pokémon,Pokémon Ceppo,pokeapi:pokemon_species_names.csv
-genus,Subterrene Pokémon,Pokémon Sottoterra,pokeapi:pokemon_species_names.csv
-genus,Sun Pokémon,Pokémon Sole,pokeapi:pokemon_species_names.csv
-genus,Sunne Pokémon,Pokémon Solare,pokeapi:pokemon_species_names.csv
-genus,Superpower Pokémon,Pokémon Megaforza,pokeapi:pokemon_species_names.csv
-genus,Swallow Pokémon,Pokémon Rondine,pokeapi:pokemon_species_names.csv
-genus,Swift Horse Pokémon,Pokémon Sveltequino,pokeapi:pokemon_species_names.csv
-genus,Swine Pokémon,Pokémon Suino,pokeapi:pokemon_species_names.csv
-genus,Swollen Pokémon,Pokémon Gonfiacorpo,pokeapi:pokemon_species_names.csv
-genus,Sword Blade Pokémon,Pokémon Fildilama,pokeapi:pokemon_species_names.csv
-genus,Sword Pokémon,Pokémon Armabianca,pokeapi:pokemon_species_names.csv
-genus,Symbol Pokémon,Pokémon Simbolo,pokeapi:pokemon_species_names.csv
-genus,Synthetic Pokémon,Pokémon Multigene,pokeapi:pokemon_species_names.csv
-genus,Tadpole Pokémon,Pokémon Girino,pokeapi:pokemon_species_names.csv
-genus,Tantrum Pokémon,Pokémon Bizze,pokeapi:pokemon_species_names.csv
-genus,Teamwork Pokémon,Pokémon Giocosquadra,pokeapi:pokemon_species_names.csv
-genus,Temporal Pokémon,Pokémon Tempo,pokeapi:pokemon_species_names.csv
-genus,Tender Pokémon,Pokémon Tenerezza,pokeapi:pokemon_species_names.csv
-genus,Thorn Monkey Pokémon,Pokémon Spinpanzé,pokeapi:pokemon_species_names.csv
-genus,Thorn Pod Pokémon,Pokémon Spinasfere,pokeapi:pokemon_species_names.csv
-genus,Thorn Pokémon,Pokémon Spina,pokeapi:pokemon_species_names.csv
-genus,Thorn Seed Pokémon,Pokémon Spinaseme,pokeapi:pokemon_species_names.csv
-genus,Thunder Pokémon,Pokémon Tuono,pokeapi:pokemon_species_names.csv
-genus,Thunderbolt Pokémon,Pokémon Saetta,pokeapi:pokemon_species_names.csv
-genus,Thunderclap Pokémon,Pokémon Fulmirapido,pokeapi:pokemon_species_names.csv
-genus,Tiger Cat Pokémon,Pokémon Gattotigre,pokeapi:pokemon_species_names.csv
-genus,Time Travel Pokémon,Pokémon Tempovia,pokeapi:pokemon_species_names.csv
-genus,Tiny Bee Pokémon,Pokémon Apetta,pokeapi:pokemon_species_names.csv
-genus,Tiny Bird Pokémon,Pokémon Uccellino,pokeapi:pokemon_species_names.csv
-genus,Tiny Leaf Pokémon,Pokémon Fogliolina,pokeapi:pokemon_species_names.csv
-genus,Tiny Mouse Pokémon,Pokémon Topino,pokeapi:pokemon_species_names.csv
-genus,Tiny Pigeon Pokémon,Pokémon Piccione,pokeapi:pokemon_species_names.csv
-genus,Tiny Raccoon Pokémon,Pokémon Procione,pokeapi:pokemon_species_names.csv
-genus,Tiny Robin Pokémon,Pokémon Pettirosso,pokeapi:pokemon_species_names.csv
-genus,Tiny Swallow Pokémon,Pokémon Rondinella,pokeapi:pokemon_species_names.csv
-genus,Tiny Turtle Pokémon,Pokémon Tartaghina,pokeapi:pokemon_species_names.csv
-genus,Torch Pokémon,Pokémon Torcia,pokeapi:pokemon_species_names.csv
-genus,Toxic Lizard Pokémon,Pokémon Lucertossina,pokeapi:pokemon_species_names.csv
-genus,Toxic Mouth Pokémon,Pokémon Inveieleno,pokeapi:pokemon_species_names.csv
-genus,Trainee Pokémon,Pokémon Novizio,pokeapi:pokemon_species_names.csv
-genus,Transform Pokémon,Pokémon Mutante,pokeapi:pokemon_species_names.csv
-genus,Transport Pokémon,Pokémon Trasporto,pokeapi:pokemon_species_names.csv
-genus,Trap Pokémon,Pokémon Trappola,pokeapi:pokemon_species_names.csv
-genus,Trash Bag Pokémon,Pokémon Spazzatura,pokeapi:pokemon_species_names.csv
-genus,Trash Heap Pokémon,Pokémon Discarica,pokeapi:pokemon_species_names.csv
-genus,Tricky Fox Pokémon,Pokémon Malavolpe,pokeapi:pokemon_species_names.csv
-genus,Triple Bird Pokémon,Pokémon Triuccello,pokeapi:pokemon_species_names.csv
-genus,Tundra Pokémon,Pokémon Tundra,pokeapi:pokemon_species_names.csv
-genus,Turn Tail Pokémon,Pokémon Lestopode,pokeapi:pokemon_species_names.csv
-genus,Turtle Pokémon,Pokémon Tartaruga,pokeapi:pokemon_species_names.csv
-genus,Tusk Pokémon,Pokémon Zanna,pokeapi:pokemon_species_names.csv
-genus,Twin Bird Pokémon,Pokémon Biuccello,pokeapi:pokemon_species_names.csv
-genus,Twin Tusk Pokémon,Pokémon Duezanne,pokeapi:pokemon_species_names.csv
-genus,Two-Handed Pokémon,Pokémon Bimano,pokeapi:pokemon_species_names.csv
-genus,Two-Sided Pokémon,Pokémon Doppiafaccia,pokeapi:pokemon_species_names.csv
-genus,Valiant Pokémon,Pokémon Baldanza,pokeapi:pokemon_species_names.csv
-genus,Vast White Pokémon,Pokémon Bianco Verità,pokeapi:pokemon_species_names.csv
-genus,Verdant Pokémon,Pokémon Rigoglioso,pokeapi:pokemon_species_names.csv
-genus,Vibration Pokémon,Pokémon Vibrazione,pokeapi:pokemon_species_names.csv
-genus,Victory Pokémon,Pokémon Vittoria,pokeapi:pokemon_species_names.csv
-genus,Viking Pokémon,Pokémon Vichingo,pokeapi:pokemon_species_names.csv
-genus,Vine Pokémon,Pokémon Liana,pokeapi:pokemon_species_names.csv
-genus,Virtual Pokémon,Pokémon Virtuale,pokeapi:pokemon_species_names.csv
-genus,Volcano Pokémon,Pokémon Vulcano,pokeapi:pokemon_species_names.csv
-genus,Warrior Pokémon,Pokémon Guerriero,pokeapi:pokemon_species_names.csv
-genus,Water Bird Pokémon,Pokémon Alacquatico,pokeapi:pokemon_species_names.csv
-genus,Water Bubble Pokémon,Pokémon Bolladacqua,pokeapi:pokemon_species_names.csv
-genus,Water Fish Pokémon,Pokémon Acquapesce,pokeapi:pokemon_species_names.csv
-genus,Water Gun Pokémon,Pokémon Zampillo,pokeapi:pokemon_species_names.csv
-genus,Water Lizard Pokémon,Pokémon Acquacertola,pokeapi:pokemon_species_names.csv
-genus,Water Weed Pokémon,Pokémon Alga,pokeapi:pokemon_species_names.csv
-genus,Weather Pokémon,Pokémon Meteo,pokeapi:pokemon_species_names.csv
-genus,Weed Pokémon,Pokémon Malerba,pokeapi:pokemon_species_names.csv
-genus,Whiskers Pokémon,Pokémon Baffetti,pokeapi:pokemon_species_names.csv
-genus,Whisper Pokémon,Pokémon Sussurro,pokeapi:pokemon_species_names.csv
-genus,White Bird Pokémon,Pokémon Biancuccello,pokeapi:pokemon_species_names.csv
-genus,Wicked Pokémon,Pokémon Burbero,pokeapi:pokemon_species_names.csv
-genus,Wild Bull Pokémon,Pokémon Torobrado,pokeapi:pokemon_species_names.csv
-genus,Wild Duck Pokémon,Pokémon Selvanatra,pokeapi:pokemon_species_names.csv
-genus,Wild Horse Pokémon,Pokémon Furiequino,pokeapi:pokemon_species_names.csv
-genus,Wild Monkey Pokémon,Pokémon Indocile,pokeapi:pokemon_species_names.csv
-genus,Wild Pigeon Pokémon,Pokémon Granpiccione,pokeapi:pokemon_species_names.csv
-genus,Willpower Pokémon,Pokémon Volontà,pokeapi:pokemon_species_names.csv
-genus,Wily Pokémon,Pokémon Scaltro,pokeapi:pokemon_species_names.csv
-genus,Wind Chime Pokémon,Pokémon Vencampana,pokeapi:pokemon_species_names.csv
-genus,Windveiled Pokémon,Pokémon Spiffero,pokeapi:pokemon_species_names.csv
-genus,Wing Fish Pokémon,Pokémon Pescealato,pokeapi:pokemon_species_names.csv
-genus,Wish Pokémon,Pokémon Desiderio,pokeapi:pokemon_species_names.csv
-genus,Wolf Pokémon,Pokémon Lupo,pokeapi:pokemon_species_names.csv
-genus,Wood Gecko Pokémon,Pokémon Legnogeco,pokeapi:pokemon_species_names.csv
-genus,Woodpecker Pokémon,Pokémon Picchio,pokeapi:pokemon_species_names.csv
-genus,Wool Pokémon,Pokémon Lana,pokeapi:pokemon_species_names.csv
-genus,Woolly Crab Pokémon,Pokémon Peligranchio,pokeapi:pokemon_species_names.csv
-genus,Worm Pokémon,Pokémon Baco,pokeapi:pokemon_species_names.csv
-genus,Wrestling Pokémon,Pokémon Lottalibera,pokeapi:pokemon_species_names.csv
-genus,Wushu Pokémon,Pokémon Kung Fu,pokeapi:pokemon_species_names.csv
-genus,Young Fowl Pokémon,Pokémon Rampollo,pokeapi:pokemon_species_names.csv
-genus,Zen Charm Pokémon,Pokémon Daruma,pokeapi:pokemon_species_names.csv
+genus,Abundance,Fertilità,pokeapi:pokemon_species_names.csv
+genus,Acorn,Ghianda,pokeapi:pokemon_species_names.csv
+genus,Alloy,Metallolega,pokeapi:pokemon_species_names.csv
+genus,Alpha,Primevo,pokeapi:pokemon_species_names.csv
+genus,Angler,Pescatore,pokeapi:pokemon_species_names.csv
+genus,Ant Pit,Trappola,pokeapi:pokemon_species_names.csv
+genus,Anteater,Formichiere,pokeapi:pokemon_species_names.csv
+genus,Antenna,Antenna,pokeapi:pokemon_species_names.csv
+genus,Apple Core,Pomicolo,pokeapi:pokemon_species_names.csv
+genus,Apple Nectar,Pomisucco,pokeapi:pokemon_species_names.csv
+genus,Apple Wing,Pomivolo,pokeapi:pokemon_species_names.csv
+genus,Aqua Mouse,Acquatopo,pokeapi:pokemon_species_names.csv
+genus,Aqua Rabbit,Acquniglio,pokeapi:pokemon_species_names.csv
+genus,Arm Thrust,Sberletese,pokeapi:pokemon_species_names.csv
+genus,Armor,Armatura,pokeapi:pokemon_species_names.csv
+genus,Armor Bird,Armuccello,pokeapi:pokemon_species_names.csv
+genus,Arrow Quill,Alifreccia,pokeapi:pokemon_species_names.csv
+genus,Artificial,Artificiale,pokeapi:pokemon_species_names.csv
+genus,Astral Body,Corpoceleste,pokeapi:pokemon_species_names.csv
+genus,Atrocious,Atroce,pokeapi:pokemon_species_names.csv
+genus,Attaching,Appiccicante,pokeapi:pokemon_species_names.csv
+genus,Aura,Aura,pokeapi:pokemon_species_names.csv
+genus,Aurora,Aurora,pokeapi:pokemon_species_names.csv
+genus,Automaton,Statuanimata,pokeapi:pokemon_species_names.csv
+genus,Avianoid,Pseuduccello,pokeapi:pokemon_species_names.csv
+genus,Axe,Scure,pokeapi:pokemon_species_names.csv
+genus,Axe Jaw,Mascellascia,pokeapi:pokemon_species_names.csv
+genus,Baby,Bebè,pokeapi:pokemon_species_names.csv
+genus,Bagworm,Larva,pokeapi:pokemon_species_names.csv
+genus,Ball,Ball,pokeapi:pokemon_species_names.csv
+genus,Ball Roll,Rotapalla,pokeapi:pokemon_species_names.csv
+genus,Ball Whale,Balenottero,pokeapi:pokemon_species_names.csv
+genus,Balloon,Pallone,pokeapi:pokemon_species_names.csv
+genus,Barnacle,Lepade,pokeapi:pokemon_species_names.csv
+genus,Barrier,Barriera,pokeapi:pokemon_species_names.csv
+genus,Bash Buffalo,Sfondatoro,pokeapi:pokemon_species_names.csv
+genus,Bat,Pipistrello,pokeapi:pokemon_species_names.csv
+genus,Battery,Batteria,pokeapi:pokemon_species_names.csv
+genus,Beak,Becco,pokeapi:pokemon_species_names.csv
+genus,Beat,Ritmo,pokeapi:pokemon_species_names.csv
+genus,Beaver,Castoro,pokeapi:pokemon_species_names.csv
+genus,Beckon,Ipnosguardo,pokeapi:pokemon_species_names.csv
+genus,Bee Fly,Bombilide,pokeapi:pokemon_species_names.csv
+genus,Beehive,Alveare,pokeapi:pokemon_species_names.csv
+genus,Bell,Sonaglio,pokeapi:pokemon_species_names.csv
+genus,Big Boss,Grancapo,pokeapi:pokemon_species_names.csv
+genus,Big Eater,Ghiottone,pokeapi:pokemon_species_names.csv
+genus,Big Fish,Pescegrosso,pokeapi:pokemon_species_names.csv
+genus,Big Horn,Grancorno,pokeapi:pokemon_species_names.csv
+genus,Big Jaw,Mascellone,pokeapi:pokemon_species_names.csv
+genus,Big Rock,Megalito,pokeapi:pokemon_species_names.csv
+genus,Big Voice,Vocione,pokeapi:pokemon_species_names.csv
+genus,Big-Hearted,Generosità,pokeapi:pokemon_species_names.csv
+genus,Bird,Uccello,pokeapi:pokemon_species_names.csv
+genus,Bite,Morso,pokeapi:pokemon_species_names.csv
+genus,Bivalve,Bivalve,pokeapi:pokemon_species_names.csv
+genus,Black Tea,Tè,pokeapi:pokemon_species_names.csv
+genus,Blade,Lama,pokeapi:pokemon_species_names.csv
+genus,Blade Quill,Piumaffilata,pokeapi:pokemon_species_names.csv
+genus,Blast,Esplosivo,pokeapi:pokemon_species_names.csv
+genus,Blast Turtle,Tartabomba,pokeapi:pokemon_species_names.csv
+genus,Blaze,Vampe,pokeapi:pokemon_species_names.csv
+genus,Blazing,Altefiamme,pokeapi:pokemon_species_names.csv
+genus,Blimp,Dirigibile,pokeapi:pokemon_species_names.csv
+genus,Blocking,Bloccaggio,pokeapi:pokemon_species_names.csv
+genus,Bloom Sickle,Mantifiore,pokeapi:pokemon_species_names.csv
+genus,Blossom,Bocciolo,pokeapi:pokemon_species_names.csv
+genus,Bolt Strike,Fulminante,pokeapi:pokemon_species_names.csv
+genus,Bone Keeper,Guardaossi,pokeapi:pokemon_species_names.csv
+genus,Bone Vulture,Ossaquila,pokeapi:pokemon_species_names.csv
+genus,Bonsai,Bonsai,pokeapi:pokemon_species_names.csv
+genus,Bounce,Molla,pokeapi:pokemon_species_names.csv
+genus,Boundary,Confine,pokeapi:pokemon_species_names.csv
+genus,Bouquet,Floreale,pokeapi:pokemon_species_names.csv
+genus,Boxing,Pugile,pokeapi:pokemon_species_names.csv
+genus,Bright,Brillante,pokeapi:pokemon_species_names.csv
+genus,Bronze,Bronzo,pokeapi:pokemon_species_names.csv
+genus,Bronze Bell,Squibronzo,pokeapi:pokemon_species_names.csv
+genus,Brutal,Brutale,pokeapi:pokemon_species_names.csv
+genus,Brutal Star,Stellatroce,pokeapi:pokemon_species_names.csv
+genus,Bubble Frog,Schiumorana,pokeapi:pokemon_species_names.csv
+genus,Bubble Jet,Bollajet,pokeapi:pokemon_species_names.csv
+genus,Bud,Germoglio,pokeapi:pokemon_species_names.csv
+genus,Bug Catcher,Insettivoro,pokeapi:pokemon_species_names.csv
+genus,Bugle Beak,Trombecco,pokeapi:pokemon_species_names.csv
+genus,Bulb,Radice,pokeapi:pokemon_species_names.csv
+genus,Bulk Up,Granfisico,pokeapi:pokemon_species_names.csv
+genus,Butterfly,Farfalla,pokeapi:pokemon_species_names.csv
+genus,Cactus,Cactus,pokeapi:pokemon_species_names.csv
+genus,Calm,Calma,pokeapi:pokemon_species_names.csv
+genus,Candle,Candela,pokeapi:pokemon_species_names.csv
+genus,Cannon,Cannone,pokeapi:pokemon_species_names.csv
+genus,Carefree,Spensierato,pokeapi:pokemon_species_names.csv
+genus,Caretaker,Sostegno,pokeapi:pokemon_species_names.csv
+genus,Caring,Assistenza,pokeapi:pokemon_species_names.csv
+genus,Cat Ferret,Furogatto,pokeapi:pokemon_species_names.csv
+genus,Catty,Felide,pokeapi:pokemon_species_names.csv
+genus,Cavalry,Cavaliere,pokeapi:pokemon_species_names.csv
+genus,Cave,Grotta,pokeapi:pokemon_species_names.csv
+genus,Cavern,Caverna,pokeapi:pokemon_species_names.csv
+genus,Cell,Cellula,pokeapi:pokemon_species_names.csv
+genus,Centipede,Centipede,pokeapi:pokemon_species_names.csv
+genus,Cerebral,Cervello,pokeapi:pokemon_species_names.csv
+genus,Cheeky,Guancepiene,pokeapi:pokemon_species_names.csv
+genus,Cheering,Incitamento,pokeapi:pokemon_species_names.csv
+genus,Cherry,Ciliegia,pokeapi:pokemon_species_names.csv
+genus,Chick,Pulcino,pokeapi:pokemon_species_names.csv
+genus,Chill,Freddo,pokeapi:pokemon_species_names.csv
+genus,Chimp,Scimpanzé,pokeapi:pokemon_species_names.csv
+genus,Chinchilla,Cincillà,pokeapi:pokemon_species_names.csv
+genus,Clamping,Addentatore,pokeapi:pokemon_species_names.csv
+genus,Clap,Rotolante,pokeapi:pokemon_species_names.csv
+genus,Classy Cat,Nobilgatto,pokeapi:pokemon_species_names.csv
+genus,Clay Doll,Argilla,pokeapi:pokemon_species_names.csv
+genus,Clear Wing,Alachiara,pokeapi:pokemon_species_names.csv
+genus,Coal,Carbone,pokeapi:pokemon_species_names.csv
+genus,Cobra,Cobra,pokeapi:pokemon_species_names.csv
+genus,Coconut,Nocecocco,pokeapi:pokemon_species_names.csv
+genus,Cocoon,Bozzolo,pokeapi:pokemon_species_names.csv
+genus,Coffin,Bara,pokeapi:pokemon_species_names.csv
+genus,Collective,Aggregato,pokeapi:pokemon_species_names.csv
+genus,Color Swap,Mutacolore,pokeapi:pokemon_species_names.csv
+genus,Colossal,Colossale,pokeapi:pokemon_species_names.csv
+genus,Colt,Puledro,pokeapi:pokemon_species_names.csv
+genus,Comedian,Comico,pokeapi:pokemon_species_names.csv
+genus,Compass,Bussola,pokeapi:pokemon_species_names.csv
+genus,Compressed,Pressionalta,pokeapi:pokemon_species_names.csv
+genus,Constraint,Temperanza,pokeapi:pokemon_species_names.csv
+genus,Continent,Continente,pokeapi:pokemon_species_names.csv
+genus,Copperderm,Bronzofante,pokeapi:pokemon_species_names.csv
+genus,Coral,Corallo,pokeapi:pokemon_species_names.csv
+genus,Cotton Bird,Alidicotone,pokeapi:pokemon_species_names.csv
+genus,Cotton Bloom,Cotofronzolo,pokeapi:pokemon_species_names.csv
+genus,Cotton Candy,Zuccherino,pokeapi:pokemon_species_names.csv
+genus,Cotton Puff,Cotonpalla,pokeapi:pokemon_species_names.csv
+genus,Cottonweed,Gramigna,pokeapi:pokemon_species_names.csv
+genus,Courting,Cercamore,pokeapi:pokemon_species_names.csv
+genus,Cream,Pannafresca,pokeapi:pokemon_species_names.csv
+genus,Cricket,Grillo,pokeapi:pokemon_species_names.csv
+genus,Cruel,Sanguefreddo,pokeapi:pokemon_species_names.csv
+genus,Crystallizing,Cristallo,pokeapi:pokemon_species_names.csv
+genus,Curlipede,Rotopede,pokeapi:pokemon_species_names.csv
+genus,Cyclone,Turbinio,pokeapi:pokemon_species_names.csv
+genus,DNA,DNA,pokeapi:pokemon_species_names.csv
+genus,Dancing,Danza,pokeapi:pokemon_species_names.csv
+genus,Dark,Buio,pokeapi:pokemon_species_names.csv
+genus,Darkness,Oscurità,pokeapi:pokemon_species_names.csv
+genus,Daunting,Occhiotruce,pokeapi:pokemon_species_names.csv
+genus,Deceiver,Inganno,pokeapi:pokemon_species_names.csv
+genus,Deep Black,Nero Ideale,pokeapi:pokemon_species_names.csv
+genus,Deep Sea,Abissi,pokeapi:pokemon_species_names.csv
+genus,Delivery,Consegna,pokeapi:pokemon_species_names.csv
+genus,Desert Croc,Sabbiadrillo,pokeapi:pokemon_species_names.csv
+genus,Despot,Tiranno,pokeapi:pokemon_species_names.csv
+genus,Destruction,Distruzione,pokeapi:pokemon_species_names.csv
+genus,Devious,Furbizia,pokeapi:pokemon_species_names.csv
+genus,Diapered,Pannolino,pokeapi:pokemon_species_names.csv
+genus,Digging,Scavabuche,pokeapi:pokemon_species_names.csv
+genus,Disaster,Catastrofe,pokeapi:pokemon_species_names.csv
+genus,Discharge,Scossa,pokeapi:pokemon_species_names.csv
+genus,Discipline,Apprendista,pokeapi:pokemon_species_names.csv
+genus,Disguise,Fantasmanto,pokeapi:pokemon_species_names.csv
+genus,Diving,Immersione,pokeapi:pokemon_species_names.csv
+genus,Dog,Cane,pokeapi:pokemon_species_names.csv
+genus,Donkey,Ciuconiglio,pokeapi:pokemon_species_names.csv
+genus,Dopey,Ronfone,pokeapi:pokemon_species_names.csv
+genus,Draft Horse,Fortequino,pokeapi:pokemon_species_names.csv
+genus,Dragon,Drago,pokeapi:pokemon_species_names.csv
+genus,Dragon Orb,Dracosfera,pokeapi:pokemon_species_names.csv
+genus,Drawn Sword,Spadatratta,pokeapi:pokemon_species_names.csv
+genus,Dream Eater,Divorasogni,pokeapi:pokemon_species_names.csv
+genus,Drill,Trapano,pokeapi:pokemon_species_names.csv
+genus,Drowsing,Dormiveglia,pokeapi:pokemon_species_names.csv
+genus,Drummer,Percussione,pokeapi:pokemon_species_names.csv
+genus,Duck,Papero,pokeapi:pokemon_species_names.csv
+genus,Eaglet,Aquilotto,pokeapi:pokemon_species_names.csv
+genus,Egg,Uovo,pokeapi:pokemon_species_names.csv
+genus,Elder Tree,Alberantico,pokeapi:pokemon_species_names.csv
+genus,EleFish,Elettropesce,pokeapi:pokemon_species_names.csv
+genus,EleSpider,Elettroragno,pokeapi:pokemon_species_names.csv
+genus,EleSquirrel,Elescoiatto,pokeapi:pokemon_species_names.csv
+genus,Electric,Elettrico,pokeapi:pokemon_species_names.csv
+genus,Electrified,Caricavolt,pokeapi:pokemon_species_names.csv
+genus,Electron,Elettrone,pokeapi:pokemon_species_names.csv
+genus,Emanation,Emanazione,pokeapi:pokemon_species_names.csv
+genus,Ember,Sfavillante,pokeapi:pokemon_species_names.csv
+genus,Embrace,Abbraccio,pokeapi:pokemon_species_names.csv
+genus,Emotion,Emozione,pokeapi:pokemon_species_names.csv
+genus,Emperor,Imperatore,pokeapi:pokemon_species_names.csv
+genus,Endurance,Resistenza,pokeapi:pokemon_species_names.csv
+genus,Eon,Eone,pokeapi:pokemon_species_names.csv
+genus,Eruption,Eruzione,pokeapi:pokemon_species_names.csv
+genus,Evolution,Evoluzione,pokeapi:pokemon_species_names.csv
+genus,Eyeball,Occhi,pokeapi:pokemon_species_names.csv
+genus,Face,Tuttomuso,pokeapi:pokemon_species_names.csv
+genus,Fairy,Fata,pokeapi:pokemon_species_names.csv
+genus,Fang Scorpion,Scorpidente,pokeapi:pokemon_species_names.csv
+genus,Fang Snake,Zannaserpe,pokeapi:pokemon_species_names.csv
+genus,Feeling,Sensazione,pokeapi:pokemon_species_names.csv
+genus,Fire Cat,Pirofelino,pokeapi:pokemon_species_names.csv
+genus,Fire Horse,Cavalfuoco,pokeapi:pokemon_species_names.csv
+genus,Fire Mouse,Fuocotopo,pokeapi:pokemon_species_names.csv
+genus,Fire Pig,Suinfuoco,pokeapi:pokemon_species_names.csv
+genus,Firefly,Lucciola,pokeapi:pokemon_species_names.csv
+genus,Fireworks,Pirotecnico,pokeapi:pokemon_species_names.csv
+genus,First Bird,Paleouccello,pokeapi:pokemon_species_names.csv
+genus,Fish,Pesce,pokeapi:pokemon_species_names.csv
+genus,Five Star,Pentastra,pokeapi:pokemon_species_names.csv
+genus,Fixation,Fissosguardo,pokeapi:pokemon_species_names.csv
+genus,Flailing,Bizzoso,pokeapi:pokemon_species_names.csv
+genus,Flame,Fiamma,pokeapi:pokemon_species_names.csv
+genus,Flash,Baleno,pokeapi:pokemon_species_names.csv
+genus,Float Whale,Megabalena,pokeapi:pokemon_species_names.csv
+genus,Floating,Fluttuante,pokeapi:pokemon_species_names.csv
+genus,Flower,Fiore,pokeapi:pokemon_species_names.csv
+genus,Flowering,Fiorfronzolo,pokeapi:pokemon_species_names.csv
+genus,Fly Scorpion,Aliscorpio,pokeapi:pokemon_species_names.csv
+genus,Flycatcher,Moschivoro,pokeapi:pokemon_species_names.csv
+genus,Forbidden,Proibito,pokeapi:pokemon_species_names.csv
+genus,Forest,Foresta,pokeapi:pokemon_species_names.csv
+genus,Formation,Schieramento,pokeapi:pokemon_species_names.csv
+genus,Formidable,Dignità,pokeapi:pokemon_species_names.csv
+genus,Fossil,Fossile,pokeapi:pokemon_species_names.csv
+genus,Fox,Volpe,pokeapi:pokemon_species_names.csv
+genus,Fragrance,Fragranza,pokeapi:pokemon_species_names.csv
+genus,Free Climb,Scalata,pokeapi:pokemon_species_names.csv
+genus,Freeze,Gelo,pokeapi:pokemon_species_names.csv
+genus,Freezing,Glaciale,pokeapi:pokemon_species_names.csv
+genus,Fresh Snow,Nevefresca,pokeapi:pokemon_species_names.csv
+genus,Frog,Rana,pokeapi:pokemon_species_names.csv
+genus,Frost Moth,Gelofalena,pokeapi:pokemon_species_names.csv
+genus,Frost Tree,Albergelo,pokeapi:pokemon_species_names.csv
+genus,Fruit,Frutto,pokeapi:pokemon_species_names.csv
+genus,Garden,Giardino,pokeapi:pokemon_species_names.csv
+genus,Gas,Gas,pokeapi:pokemon_species_names.csv
+genus,Gear,Ingranaggio,pokeapi:pokemon_species_names.csv
+genus,Generator,Generatore,pokeapi:pokemon_species_names.csv
+genus,Genetic,Genetico,pokeapi:pokemon_species_names.csv
+genus,Geyser,Spruzzacqua,pokeapi:pokemon_species_names.csv
+genus,Gigantic,Gigante,pokeapi:pokemon_species_names.csv
+genus,Gleam Eyes,Occhiluce,pokeapi:pokemon_species_names.csv
+genus,Gloomdweller,Vivinombra,pokeapi:pokemon_species_names.csv
+genus,Glowing,Luminaria,pokeapi:pokemon_species_names.csv
+genus,Gnash Teeth,Sfregadenti,pokeapi:pokemon_species_names.csv
+genus,Goldfish,Pescerosso,pokeapi:pokemon_species_names.csv
+genus,Grass Monkey,Scimperba,pokeapi:pokemon_species_names.csv
+genus,Grass Quill,Aliderba,pokeapi:pokemon_species_names.csv
+genus,Grass Snake,Serperba,pokeapi:pokemon_species_names.csv
+genus,Grassland,Prateria,pokeapi:pokemon_species_names.csv
+genus,Gratitude,Gratitudine,pokeapi:pokemon_species_names.csv
+genus,Greedy,Ingordigia,pokeapi:pokemon_species_names.csv
+genus,Gripper,Pinza,pokeapi:pokemon_species_names.csv
+genus,Grove,Boschetto,pokeapi:pokemon_species_names.csv
+genus,Grudge,Rancore,pokeapi:pokemon_species_names.csv
+genus,Gulp,Inghiottone,pokeapi:pokemon_species_names.csv
+genus,Guts,Coraggio,pokeapi:pokemon_species_names.csv
+genus,Hairy Bug,Millepiedi,pokeapi:pokemon_species_names.csv
+genus,Handstand,Verticale,pokeapi:pokemon_species_names.csv
+genus,Happiness,Felicità,pokeapi:pokemon_species_names.csv
+genus,Hard Scale,Blindato,pokeapi:pokemon_species_names.csv
+genus,Hard Shell,Guscioduro,pokeapi:pokemon_species_names.csv
+genus,Head Butt,Cranioso,pokeapi:pokemon_species_names.csv
+genus,Hearing,Ascolto,pokeapi:pokemon_species_names.csv
+genus,Heavyweight,Grandepeso,pokeapi:pokemon_species_names.csv
+genus,Heel,Colpibassi,pokeapi:pokemon_species_names.csv
+genus,Herb,Erbe,pokeapi:pokemon_species_names.csv
+genus,Hermit Crab,Paguro,pokeapi:pokemon_species_names.csv
+genus,Hex Nut,Bullone,pokeapi:pokemon_species_names.csv
+genus,Hibernator,Letargo,pokeapi:pokemon_species_names.csv
+genus,High Temp,Testacalda,pokeapi:pokemon_species_names.csv
+genus,Hippo,Ippo,pokeapi:pokemon_species_names.csv
+genus,Hoodlum,Furfante,pokeapi:pokemon_species_names.csv
+genus,Hostile,Irruenza,pokeapi:pokemon_species_names.csv
+genus,Howitzer,Acqualancio,pokeapi:pokemon_species_names.csv
+genus,Human Shape,Umanoide,pokeapi:pokemon_species_names.csv
+genus,Humming,Canterino,pokeapi:pokemon_species_names.csv
+genus,Hypnosis,Ipnosi,pokeapi:pokemon_species_names.csv
+genus,Ice Break,Spaccagelo,pokeapi:pokemon_species_names.csv
+genus,Ice Chunk,Ghiacciolo,pokeapi:pokemon_species_names.csv
+genus,Iceberg,Iceberg,pokeapi:pokemon_species_names.csv
+genus,Icy Snow,Geloneve,pokeapi:pokemon_species_names.csv
+genus,Illuminating,Luminescenza,pokeapi:pokemon_species_names.csv
+genus,Illusion Fox,Mutevolpe,pokeapi:pokemon_species_names.csv
+genus,Imitation,Imitazione,pokeapi:pokemon_species_names.csv
+genus,Insect,Insetto,pokeapi:pokemon_species_names.csv
+genus,Intertwining,Legame,pokeapi:pokemon_species_names.csv
+genus,Intimidation,Minaccia,pokeapi:pokemon_species_names.csv
+genus,Irate,Impeto,pokeapi:pokemon_species_names.csv
+genus,Iron,Ferro,pokeapi:pokemon_species_names.csv
+genus,Iron Ant,Ferformica,pokeapi:pokemon_species_names.csv
+genus,Iron Armor,Corazza,pokeapi:pokemon_species_names.csv
+genus,Iron Ball,Ferrosfera,pokeapi:pokemon_species_names.csv
+genus,Iron Claw,Ferrunghia,pokeapi:pokemon_species_names.csv
+genus,Iron Leg,Ferrarto,pokeapi:pokemon_species_names.csv
+genus,Iron Snake,Ferroserpe,pokeapi:pokemon_species_names.csv
+genus,Iron Will,Metalcuore,pokeapi:pokemon_species_names.csv
+genus,Jellyfish,Medusa,pokeapi:pokemon_species_names.csv
+genus,Jet,Jet,pokeapi:pokemon_species_names.csv
+genus,Jewel,Gemma,pokeapi:pokemon_species_names.csv
+genus,Jolly,Giocoso,pokeapi:pokemon_species_names.csv
+genus,Jubilee,Festa,pokeapi:pokemon_species_names.csv
+genus,Judo,Judo,pokeapi:pokemon_species_names.csv
+genus,Jujitsu,Jujitsu,pokeapi:pokemon_species_names.csv
+genus,Junkivore,Divoratutto,pokeapi:pokemon_species_names.csv
+genus,Karate,Karate,pokeapi:pokemon_species_names.csv
+genus,Key Ring,Portachiavi,pokeapi:pokemon_species_names.csv
+genus,Kicking,Tiracalci,pokeapi:pokemon_species_names.csv
+genus,King,Re,pokeapi:pokemon_species_names.csv
+genus,Kiss,Bacio,pokeapi:pokemon_species_names.csv
+genus,Kite,Aquilone,pokeapi:pokemon_species_names.csv
+genus,Kitten,Micio,pokeapi:pokemon_species_names.csv
+genus,Knowledge,Sapienza,pokeapi:pokemon_species_names.csv
+genus,Lamp,Lanterna,pokeapi:pokemon_species_names.csv
+genus,Land Shark,Squaloterra,pokeapi:pokemon_species_names.csv
+genus,Land Snake,Terraserpe,pokeapi:pokemon_species_names.csv
+genus,Land Spirit,Nume Locale,pokeapi:pokemon_species_names.csv
+genus,Larva,Coleolarva,pokeapi:pokemon_species_names.csv
+genus,Launch,Decollo,pokeapi:pokemon_species_names.csv
+genus,Lava,Lava,pokeapi:pokemon_species_names.csv
+genus,Lava Dome,Cratere,pokeapi:pokemon_species_names.csv
+genus,Lazy,Pigrizia,pokeapi:pokemon_species_names.csv
+genus,Leaf,Foglia,pokeapi:pokemon_species_names.csv
+genus,Leaf-Wrapped,Coprifoglia,pokeapi:pokemon_species_names.csv
+genus,Legendary,Leggenda,pokeapi:pokemon_species_names.csv
+genus,Licking,Linguaccia,pokeapi:pokemon_species_names.csv
+genus,Life,Creazione,pokeapi:pokemon_species_names.csv
+genus,Light,Luce,pokeapi:pokemon_species_names.csv
+genus,Lightning,Luminoso,pokeapi:pokemon_species_names.csv
+genus,Lingering,Risentimento,pokeapi:pokemon_species_names.csv
+genus,Lion Cub,Leoncino,pokeapi:pokemon_species_names.csv
+genus,Lissome,Leggiadria,pokeapi:pokemon_species_names.csv
+genus,Little Bear,Orsetto,pokeapi:pokemon_species_names.csv
+genus,Live Coal,Carbonvivo,pokeapi:pokemon_species_names.csv
+genus,Lizard,Lucertola,pokeapi:pokemon_species_names.csv
+genus,Loitering,Pattuglia,pokeapi:pokemon_species_names.csv
+genus,Lonely,Solitario,pokeapi:pokemon_species_names.csv
+genus,Long Body,Lungocorpo,pokeapi:pokemon_species_names.csv
+genus,Long Leg,Lungazampa,pokeapi:pokemon_species_names.csv
+genus,Long Neck,Lungocollo,pokeapi:pokemon_species_names.csv
+genus,Long Nose,Nasone,pokeapi:pokemon_species_names.csv
+genus,Long Tail,Lungacoda,pokeapi:pokemon_species_names.csv
+genus,Longevity,Longevità,pokeapi:pokemon_species_names.csv
+genus,Lookout,Sentinella,pokeapi:pokemon_species_names.csv
+genus,Loud Noise,Fragore,pokeapi:pokemon_species_names.csv
+genus,Love-Hate,Amoreodio,pokeapi:pokemon_species_names.csv
+genus,Loyal Dog,Fedeltà,pokeapi:pokemon_species_names.csv
+genus,Lunar,Falcato,pokeapi:pokemon_species_names.csv
+genus,Luring,Attiranime,pokeapi:pokemon_species_names.csv
+genus,Mach,Mach,pokeapi:pokemon_species_names.csv
+genus,Magical,Stregone,pokeapi:pokemon_species_names.csv
+genus,Magnet,Calamita,pokeapi:pokemon_species_names.csv
+genus,Magnet Area,Magnetico,pokeapi:pokemon_species_names.csv
+genus,Manipulate,Raggiro,pokeapi:pokemon_species_names.csv
+genus,Mantis,Mantide,pokeapi:pokemon_species_names.csv
+genus,Mantle,Placca,pokeapi:pokemon_species_names.csv
+genus,Marionette,Marionetta,pokeapi:pokemon_species_names.csv
+genus,Martial Arts,Marziale,pokeapi:pokemon_species_names.csv
+genus,Meditate,Meditazione,pokeapi:pokemon_species_names.csv
+genus,Mega Fire Pig,Suincendio,pokeapi:pokemon_species_names.csv
+genus,Megapede,Megapede,pokeapi:pokemon_species_names.csv
+genus,Megaton,Megatone,pokeapi:pokemon_species_names.csv
+genus,Melody,Melodia,pokeapi:pokemon_species_names.csv
+genus,Meringue,Panna,pokeapi:pokemon_species_names.csv
+genus,Meteor,Meteora,pokeapi:pokemon_species_names.csv
+genus,Meteorite,Meteorite,pokeapi:pokemon_species_names.csv
+genus,Milk Cow,Bovino,pokeapi:pokemon_species_names.csv
+genus,Mime,Mimo,pokeapi:pokemon_species_names.csv
+genus,Mischief,Birba,pokeapi:pokemon_species_names.csv
+genus,Mitosis,Scissione,pokeapi:pokemon_species_names.csv
+genus,Mock Kelp,Similalga,pokeapi:pokemon_species_names.csv
+genus,Mold,Muffa,pokeapi:pokemon_species_names.csv
+genus,Mole,Talpa,pokeapi:pokemon_species_names.csv
+genus,Moone,Lunare,pokeapi:pokemon_species_names.csv
+genus,Moonlight,Lucelunare,pokeapi:pokemon_species_names.csv
+genus,Moth,Falena,pokeapi:pokemon_species_names.csv
+genus,Mount,Cavalcatura,pokeapi:pokemon_species_names.csv
+genus,Mouse,Topo,pokeapi:pokemon_species_names.csv
+genus,Mud Fish,Fango Pesce,pokeapi:pokemon_species_names.csv
+genus,Multiplying,Espansione,pokeapi:pokemon_species_names.csv
+genus,Muscular,Forzaimmane,pokeapi:pokemon_species_names.csv
+genus,Mushroom,Fungo,pokeapi:pokemon_species_names.csv
+genus,Music Note,Musicale,pokeapi:pokemon_species_names.csv
+genus,Mysterious,Misterioso,pokeapi:pokemon_species_names.csv
+genus,Mystic,Magico,pokeapi:pokemon_species_names.csv
+genus,Nebula,Nebulosa,pokeapi:pokemon_species_names.csv
+genus,Neon,Neon,pokeapi:pokemon_species_names.csv
+genus,New Species,Novaspecie,pokeapi:pokemon_species_names.csv
+genus,Ninja,Ninja,pokeapi:pokemon_species_names.csv
+genus,Numb,Torpore,pokeapi:pokemon_species_names.csv
+genus,Nurturing,Balia,pokeapi:pokemon_species_names.csv
+genus,Ogre Darner,Libellorco,pokeapi:pokemon_species_names.csv
+genus,Ogre Scorpion,Scorpiaccio,pokeapi:pokemon_species_names.csv
+genus,Old Shrimp,Primaceo,pokeapi:pokemon_species_names.csv
+genus,Order,Equilibrio,pokeapi:pokemon_species_names.csv
+genus,Ore,Minerale,pokeapi:pokemon_species_names.csv
+genus,Overturning,Giravolta,pokeapi:pokemon_species_names.csv
+genus,Owl,Gufo,pokeapi:pokemon_species_names.csv
+genus,Painter,Pittore,pokeapi:pokemon_species_names.csv
+genus,Paleozoic,Paleozoico,pokeapi:pokemon_species_names.csv
+genus,Parasite,Parassita,pokeapi:pokemon_species_names.csv
+genus,Parent,Genitore,pokeapi:pokemon_species_names.csv
+genus,Patient,Pazienza,pokeapi:pokemon_species_names.csv
+genus,Peat,Torba,pokeapi:pokemon_species_names.csv
+genus,Penguin,Pinguino,pokeapi:pokemon_species_names.csv
+genus,Perfume,Profumo,pokeapi:pokemon_species_names.csv
+genus,Pig,Maiale,pokeapi:pokemon_species_names.csv
+genus,Pig Monkey,Suinpanzé,pokeapi:pokemon_species_names.csv
+genus,Pin Cluster,Spinoso,pokeapi:pokemon_species_names.csv
+genus,Pincer,Chela,pokeapi:pokemon_species_names.csv
+genus,Pitch-Black,Neropesto,pokeapi:pokemon_species_names.csv
+genus,Placid,Tuttacalma,pokeapi:pokemon_species_names.csv
+genus,Plasma,Plasma,pokeapi:pokemon_species_names.csv
+genus,Plate,Piastre,pokeapi:pokemon_species_names.csv
+genus,Playful,Briccone,pokeapi:pokemon_species_names.csv
+genus,Playhouse,Ovettino,pokeapi:pokemon_species_names.csv
+genus,Plump Mouse,Topaffuto,pokeapi:pokemon_species_names.csv
+genus,Poison Bag,Velenosacco,pokeapi:pokemon_species_names.csv
+genus,Poison Bee,Velenape,pokeapi:pokemon_species_names.csv
+genus,Poison Gas,Velenuvola,pokeapi:pokemon_species_names.csv
+genus,Poison Moth,Velentarma,pokeapi:pokemon_species_names.csv
+genus,Poison Pin,Velenago,pokeapi:pokemon_species_names.csv
+genus,Polka Dot,Pois,pokeapi:pokemon_species_names.csv
+genus,Pond Skater,Sfiorapozze,pokeapi:pokemon_species_names.csv
+genus,Poodle,Barboncino,pokeapi:pokemon_species_names.csv
+genus,Pop Star,Pop Star,pokeapi:pokemon_species_names.csv
+genus,Posy Picker,Ghirlanda,pokeapi:pokemon_species_names.csv
+genus,Predator,Rapace,pokeapi:pokemon_species_names.csv
+genus,Prim,Finezza,pokeapi:pokemon_species_names.csv
+genus,Prism,Prisma,pokeapi:pokemon_species_names.csv
+genus,Protostar,Protostella,pokeapi:pokemon_species_names.csv
+genus,Prototurtle,Ancestruga,pokeapi:pokemon_species_names.csv
+genus,Proud,Orgoglio,pokeapi:pokemon_species_names.csv
+genus,Psi,Psico,pokeapi:pokemon_species_names.csv
+genus,Pumpkin,Zucca,pokeapi:pokemon_species_names.csv
+genus,Punching,Tirapugni,pokeapi:pokemon_species_names.csv
+genus,Punk,Punk,pokeapi:pokemon_species_names.csv
+genus,Puppet,Pupazzo,pokeapi:pokemon_species_names.csv
+genus,Puppy,Cagnolino,pokeapi:pokemon_species_names.csv
+genus,Rabbit,Coniglio,pokeapi:pokemon_species_names.csv
+genus,Radiator,Termogeno,pokeapi:pokemon_species_names.csv
+genus,Radome,Radome,pokeapi:pokemon_species_names.csv
+genus,Rainbow,Arcobaleno,pokeapi:pokemon_species_names.csv
+genus,Rampart,Bastione,pokeapi:pokemon_species_names.csv
+genus,Raven,Corvo,pokeapi:pokemon_species_names.csv
+genus,Regal,Regale,pokeapi:pokemon_species_names.csv
+genus,Rendezvous,Rendezvous,pokeapi:pokemon_species_names.csv
+genus,Renegade,Ribelle,pokeapi:pokemon_species_names.csv
+genus,Requiem,Requiem,pokeapi:pokemon_species_names.csv
+genus,Restraint,Moderazione,pokeapi:pokemon_species_names.csv
+genus,Revolving,Volteggio,pokeapi:pokemon_species_names.csv
+genus,River Crab,Granchio,pokeapi:pokemon_species_names.csv
+genus,Rock,Roccia,pokeapi:pokemon_species_names.csv
+genus,Rock Head,Rocciotesta,pokeapi:pokemon_species_names.csv
+genus,Rock Inn,Pietracasa,pokeapi:pokemon_species_names.csv
+genus,Rock Peak,Picco,pokeapi:pokemon_species_names.csv
+genus,Rock Skin,Peldisasso,pokeapi:pokemon_species_names.csv
+genus,Rock Snake,Serpesasso,pokeapi:pokemon_species_names.csv
+genus,Rogue,Canaglia,pokeapi:pokemon_species_names.csv
+genus,Rogue Monkey,Scimmialigna,pokeapi:pokemon_species_names.csv
+genus,Roly-Poly,Ricciopalla,pokeapi:pokemon_species_names.csv
+genus,Royal,Reale,pokeapi:pokemon_species_names.csv
+genus,Royal Heir,Principino,pokeapi:pokemon_species_names.csv
+genus,Royal Sword,Spadareale,pokeapi:pokemon_species_names.csv
+genus,Ruffian,Birbone,pokeapi:pokemon_species_names.csv
+genus,Rush,Carica,pokeapi:pokemon_species_names.csv
+genus,Rushing,Sfrecciante,pokeapi:pokemon_species_names.csv
+genus,Sage,Saggio,pokeapi:pokemon_species_names.csv
+genus,Sand Castle,Castelsabbia,pokeapi:pokemon_species_names.csv
+genus,Sand Heap,Montesabbia,pokeapi:pokemon_species_names.csv
+genus,Sand Snake,Sabbiaserpe,pokeapi:pokemon_species_names.csv
+genus,Savage,Feroce,pokeapi:pokemon_species_names.csv
+genus,Scale,Farfascaglia,pokeapi:pokemon_species_names.csv
+genus,Scaly,Squama,pokeapi:pokemon_species_names.csv
+genus,Scarecrow,Spavento,pokeapi:pokemon_species_names.csv
+genus,Scarf,Sciarpa,pokeapi:pokemon_species_names.csv
+genus,Scatterdust,Tirascaglie,pokeapi:pokemon_species_names.csv
+genus,Scorching,Ardifiamma,pokeapi:pokemon_species_names.csv
+genus,Scorpion,Scorpione,pokeapi:pokemon_species_names.csv
+genus,Scout,Esplorante,pokeapi:pokemon_species_names.csv
+genus,Scratch Cat,Graffimiao,pokeapi:pokemon_species_names.csv
+genus,Screech,Strido,pokeapi:pokemon_species_names.csv
+genus,Scuffle,Baruffa,pokeapi:pokemon_species_names.csv
+genus,Sea Basin,Oceano,pokeapi:pokemon_species_names.csv
+genus,Sea Creeper,Brandellalga,pokeapi:pokemon_species_names.csv
+genus,Sea Cucumber,Oloturia,pokeapi:pokemon_species_names.csv
+genus,Sea Drifter,Oceanbondo,pokeapi:pokemon_species_names.csv
+genus,Sea Lily,Fiordimare,pokeapi:pokemon_species_names.csv
+genus,Sea Lion,Otaria,pokeapi:pokemon_species_names.csv
+genus,Sea Otter,Lontra,pokeapi:pokemon_species_names.csv
+genus,Sea Slug,Lumacomare,pokeapi:pokemon_species_names.csv
+genus,Sea Urchin,Echino,pokeapi:pokemon_species_names.csv
+genus,Sea Weasel,Maridonnola,pokeapi:pokemon_species_names.csv
+genus,Seafaring,Oceandante,pokeapi:pokemon_species_names.csv
+genus,Seagull,Gabbiano,pokeapi:pokemon_species_names.csv
+genus,Season,Stagione,pokeapi:pokemon_species_names.csv
+genus,Secret Agent,Agente,pokeapi:pokemon_species_names.csv
+genus,Seed,Seme,pokeapi:pokemon_species_names.csv
+genus,Serene,Quiete,pokeapi:pokemon_species_names.csv
+genus,Seven Spot,Settepunti,pokeapi:pokemon_species_names.csv
+genus,Sewing,Grancucito,pokeapi:pokemon_species_names.csv
+genus,Shadow,Ombra,pokeapi:pokemon_species_names.csv
+genus,Sharp Blade,Lamaffilata,pokeapi:pokemon_species_names.csv
+genus,Sharp Claw,Lamartigli,pokeapi:pokemon_species_names.csv
+genus,Shed,Cambiapelle,pokeapi:pokemon_species_names.csv
+genus,Shedding,Mutapelle,pokeapi:pokemon_species_names.csv
+genus,Sheep,Pecora,pokeapi:pokemon_species_names.csv
+genus,Shell Out,Sgusciato,pokeapi:pokemon_species_names.csv
+genus,Shellfish,Crostaceo,pokeapi:pokemon_species_names.csv
+genus,Shield,Schermo,pokeapi:pokemon_species_names.csv
+genus,Sickle Grass,Mantiderba,pokeapi:pokemon_species_names.csv
+genus,Silent,Silenzio,pokeapi:pokemon_species_names.csv
+genus,Single Bloom,Monofiore,pokeapi:pokemon_species_names.csv
+genus,Single Horn,Monocorno,pokeapi:pokemon_species_names.csv
+genus,Skewer,Spiedo,pokeapi:pokemon_species_names.csv
+genus,Skunk,Moffetta,pokeapi:pokemon_species_names.csv
+genus,Sky High,Stratosfera,pokeapi:pokemon_species_names.csv
+genus,Sky Squirrel,Petauro,pokeapi:pokemon_species_names.csv
+genus,Slacker,Ozioso,pokeapi:pokemon_species_names.csv
+genus,Sleeping,Sonno,pokeapi:pokemon_species_names.csv
+genus,Sludge,Melma,pokeapi:pokemon_species_names.csv
+genus,Small Fry,Pesciolino,pokeapi:pokemon_species_names.csv
+genus,Snail,Lumachina,pokeapi:pokemon_species_names.csv
+genus,Snake,Serpente,pokeapi:pokemon_species_names.csv
+genus,Snapping,Mordace,pokeapi:pokemon_species_names.csv
+genus,Snow Hat,Cappelneve,pokeapi:pokemon_species_names.csv
+genus,Snow Land,Suolnevoso,pokeapi:pokemon_species_names.csv
+genus,Snowstorm,Bufera,pokeapi:pokemon_species_names.csv
+genus,Soft Tissue,Mollusco,pokeapi:pokemon_species_names.csv
+genus,Soloist,Solista,pokeapi:pokemon_species_names.csv
+genus,Sound Wave,Ondasonora,pokeapi:pokemon_species_names.csv
+genus,South Sea,Sudmarino,pokeapi:pokemon_species_names.csv
+genus,Spark,Favilla,pokeapi:pokemon_species_names.csv
+genus,Spatial,Spazio,pokeapi:pokemon_species_names.csv
+genus,Spike Ball,Pallapunte,pokeapi:pokemon_species_names.csv
+genus,Spikes,Punzoni,pokeapi:pokemon_species_names.csv
+genus,Spiny Armor,Spincorazza,pokeapi:pokemon_species_names.csv
+genus,Spiny Nut,Castanriccio,pokeapi:pokemon_species_names.csv
+genus,Spiral,Spirale,pokeapi:pokemon_species_names.csv
+genus,Spirit,Fatuanima,pokeapi:pokemon_species_names.csv
+genus,Spitfire,Sputafuoco,pokeapi:pokemon_species_names.csv
+genus,Spot Panda,Macchipanda,pokeapi:pokemon_species_names.csv
+genus,Spray,Annaffiatore,pokeapi:pokemon_species_names.csv
+genus,Stag Beetle,Cervolante,pokeapi:pokemon_species_names.csv
+genus,Stakeout,Sorveglianza,pokeapi:pokemon_species_names.csv
+genus,Star Shape,Stella,pokeapi:pokemon_species_names.csv
+genus,Starling,Storno,pokeapi:pokemon_species_names.csv
+genus,Stealth,Furtivo,pokeapi:pokemon_species_names.csv
+genus,Steam,Vapore,pokeapi:pokemon_species_names.csv
+genus,Stomach,Stomaco,pokeapi:pokemon_species_names.csv
+genus,Stone Home,Scogliocasa,pokeapi:pokemon_species_names.csv
+genus,Striker,Cannoniere,pokeapi:pokemon_species_names.csv
+genus,String Spit,Tela,pokeapi:pokemon_species_names.csv
+genus,Strong Arm,Fortebraccio,pokeapi:pokemon_species_names.csv
+genus,Stump,Ceppo,pokeapi:pokemon_species_names.csv
+genus,Subterrene,Sottoterra,pokeapi:pokemon_species_names.csv
+genus,Sun,Sole,pokeapi:pokemon_species_names.csv
+genus,Sunne,Solare,pokeapi:pokemon_species_names.csv
+genus,Superpower,Megaforza,pokeapi:pokemon_species_names.csv
+genus,Swallow,Rondine,pokeapi:pokemon_species_names.csv
+genus,Swift Horse,Sveltequino,pokeapi:pokemon_species_names.csv
+genus,Swine,Suino,pokeapi:pokemon_species_names.csv
+genus,Swollen,Gonfiacorpo,pokeapi:pokemon_species_names.csv
+genus,Sword,Armabianca,pokeapi:pokemon_species_names.csv
+genus,Sword Blade,Fildilama,pokeapi:pokemon_species_names.csv
+genus,Symbol,Simbolo,pokeapi:pokemon_species_names.csv
+genus,Synthetic,Multigene,pokeapi:pokemon_species_names.csv
+genus,Tadpole,Girino,pokeapi:pokemon_species_names.csv
+genus,Tantrum,Bizze,pokeapi:pokemon_species_names.csv
+genus,Teamwork,Giocosquadra,pokeapi:pokemon_species_names.csv
+genus,Temporal,Tempo,pokeapi:pokemon_species_names.csv
+genus,Tender,Tenerezza,pokeapi:pokemon_species_names.csv
+genus,Thorn,Spina,pokeapi:pokemon_species_names.csv
+genus,Thorn Monkey,Spinpanzé,pokeapi:pokemon_species_names.csv
+genus,Thorn Pod,Spinasfere,pokeapi:pokemon_species_names.csv
+genus,Thorn Seed,Spinaseme,pokeapi:pokemon_species_names.csv
+genus,Thunder,Tuono,pokeapi:pokemon_species_names.csv
+genus,Thunderbolt,Saetta,pokeapi:pokemon_species_names.csv
+genus,Thunderclap,Fulmirapido,pokeapi:pokemon_species_names.csv
+genus,Tiger Cat,Gattotigre,pokeapi:pokemon_species_names.csv
+genus,Time Travel,Tempovia,pokeapi:pokemon_species_names.csv
+genus,Tiny Bee,Apetta,pokeapi:pokemon_species_names.csv
+genus,Tiny Bird,Uccellino,pokeapi:pokemon_species_names.csv
+genus,Tiny Leaf,Fogliolina,pokeapi:pokemon_species_names.csv
+genus,Tiny Mouse,Topino,pokeapi:pokemon_species_names.csv
+genus,Tiny Pigeon,Piccione,pokeapi:pokemon_species_names.csv
+genus,Tiny Raccoon,Procione,pokeapi:pokemon_species_names.csv
+genus,Tiny Robin,Pettirosso,pokeapi:pokemon_species_names.csv
+genus,Tiny Swallow,Rondinella,pokeapi:pokemon_species_names.csv
+genus,Tiny Turtle,Tartaghina,pokeapi:pokemon_species_names.csv
+genus,Torch,Torcia,pokeapi:pokemon_species_names.csv
+genus,Toxic Lizard,Lucertossina,pokeapi:pokemon_species_names.csv
+genus,Toxic Mouth,Inveieleno,pokeapi:pokemon_species_names.csv
+genus,Trainee,Novizio,pokeapi:pokemon_species_names.csv
+genus,Transform,Mutante,pokeapi:pokemon_species_names.csv
+genus,Transport,Trasporto,pokeapi:pokemon_species_names.csv
+genus,Trap,Trappola,pokeapi:pokemon_species_names.csv
+genus,Trash Bag,Spazzatura,pokeapi:pokemon_species_names.csv
+genus,Trash Heap,Discarica,pokeapi:pokemon_species_names.csv
+genus,Tricky Fox,Malavolpe,pokeapi:pokemon_species_names.csv
+genus,Triple Bird,Triuccello,pokeapi:pokemon_species_names.csv
+genus,Tundra,Tundra,pokeapi:pokemon_species_names.csv
+genus,Turn Tail,Lestopode,pokeapi:pokemon_species_names.csv
+genus,Turtle,Tartaruga,pokeapi:pokemon_species_names.csv
+genus,Tusk,Zanna,pokeapi:pokemon_species_names.csv
+genus,Twin Bird,Biuccello,pokeapi:pokemon_species_names.csv
+genus,Twin Tusk,Duezanne,pokeapi:pokemon_species_names.csv
+genus,Two-Handed,Bimano,pokeapi:pokemon_species_names.csv
+genus,Two-Sided,Doppiafaccia,pokeapi:pokemon_species_names.csv
+genus,Valiant,Baldanza,pokeapi:pokemon_species_names.csv
+genus,Vast White,Bianco Verità,pokeapi:pokemon_species_names.csv
+genus,Verdant,Rigoglioso,pokeapi:pokemon_species_names.csv
+genus,Vibration,Vibrazione,pokeapi:pokemon_species_names.csv
+genus,Victory,Vittoria,pokeapi:pokemon_species_names.csv
+genus,Viking,Vichingo,pokeapi:pokemon_species_names.csv
+genus,Vine,Liana,pokeapi:pokemon_species_names.csv
+genus,Virtual,Virtuale,pokeapi:pokemon_species_names.csv
+genus,Volcano,Vulcano,pokeapi:pokemon_species_names.csv
+genus,Warrior,Guerriero,pokeapi:pokemon_species_names.csv
+genus,Water Bird,Alacquatico,pokeapi:pokemon_species_names.csv
+genus,Water Bubble,Bolladacqua,pokeapi:pokemon_species_names.csv
+genus,Water Fish,Acquapesce,pokeapi:pokemon_species_names.csv
+genus,Water Gun,Zampillo,pokeapi:pokemon_species_names.csv
+genus,Water Lizard,Acquacertola,pokeapi:pokemon_species_names.csv
+genus,Water Weed,Alga,pokeapi:pokemon_species_names.csv
+genus,Weather,Meteo,pokeapi:pokemon_species_names.csv
+genus,Weed,Malerba,pokeapi:pokemon_species_names.csv
+genus,Whiskers,Baffetti,pokeapi:pokemon_species_names.csv
+genus,Whisper,Sussurro,pokeapi:pokemon_species_names.csv
+genus,White Bird,Biancuccello,pokeapi:pokemon_species_names.csv
+genus,Wicked,Burbero,pokeapi:pokemon_species_names.csv
+genus,Wild Bull,Torobrado,pokeapi:pokemon_species_names.csv
+genus,Wild Duck,Selvanatra,pokeapi:pokemon_species_names.csv
+genus,Wild Horse,Furiequino,pokeapi:pokemon_species_names.csv
+genus,Wild Monkey,Indocile,pokeapi:pokemon_species_names.csv
+genus,Wild Pigeon,Granpiccione,pokeapi:pokemon_species_names.csv
+genus,Willpower,Volontà,pokeapi:pokemon_species_names.csv
+genus,Wily,Scaltro,pokeapi:pokemon_species_names.csv
+genus,Wind Chime,Vencampana,pokeapi:pokemon_species_names.csv
+genus,Windveiled,Spiffero,pokeapi:pokemon_species_names.csv
+genus,Wing Fish,Pescealato,pokeapi:pokemon_species_names.csv
+genus,Wish,Desiderio,pokeapi:pokemon_species_names.csv
+genus,Wolf,Lupo,pokeapi:pokemon_species_names.csv
+genus,Wood Gecko,Legnogeco,pokeapi:pokemon_species_names.csv
+genus,Woodpecker,Picchio,pokeapi:pokemon_species_names.csv
+genus,Wool,Lana,pokeapi:pokemon_species_names.csv
+genus,Woolly Crab,Peligranchio,pokeapi:pokemon_species_names.csv
+genus,Worm,Baco,pokeapi:pokemon_species_names.csv
+genus,Wrestling,Lottalibera,pokeapi:pokemon_species_names.csv
+genus,Wushu,Kung Fu,pokeapi:pokemon_species_names.csv
+genus,Young Fowl,Rampollo,pokeapi:pokemon_species_names.csv
+genus,Zen Charm,Daruma,pokeapi:pokemon_species_names.csv
 item,Ability Capsule,Capsula abilità,pokeapi:item_names.csv
 item,Ability Patch,Cerotto abilità,pokeapi:item_names.csv
 item,Ability Shield,Scudo abilità,pokeapi:item_names.csv
@@ -2816,306 +2816,6 @@ item,Zoom Lens,Zoomlente,pokeapi:item_names.csv
 item,Zorua Fur,Pelo di Zorua,pokeapi:item_names.csv
 item,Zubat Candy,Caramella Zubat,pokeapi:item_names.csv
 item,Zygarde Cube,Teca Zygarde,pokeapi:item_names.csv
-item,★And15,★And15,pokeapi:item_names.csv
-item,★And337,★And337,pokeapi:item_names.csv
-item,★And390,★And390,pokeapi:item_names.csv
-item,★And458,★And458,pokeapi:item_names.csv
-item,★And603,★And603,pokeapi:item_names.csv
-item,★Aql7235,★Aql7235,pokeapi:item_names.csv
-item,★Aql7525,★Aql7525,pokeapi:item_names.csv
-item,★Aql7557,★Aql7557,pokeapi:item_names.csv
-item,★Aql7595,★Aql7595,pokeapi:item_names.csv
-item,★Aql7602,★Aql7602,pokeapi:item_names.csv
-item,★Aqr7950,★Aqr7950,pokeapi:item_names.csv
-item,★Aqr8232,★Aqr8232,pokeapi:item_names.csv
-item,★Aqr8264,★Aqr8264,pokeapi:item_names.csv
-item,★Aqr8414,★Aqr8414,pokeapi:item_names.csv
-item,★Aqr8499,★Aqr8499,pokeapi:item_names.csv
-item,★Aqr8518,★Aqr8518,pokeapi:item_names.csv
-item,★Aqr8610,★Aqr8610,pokeapi:item_names.csv
-item,★Aqr8709,★Aqr8709,pokeapi:item_names.csv
-item,★Ara6585,★Ara6585,pokeapi:item_names.csv
-item,★Ari546,★Ari546,pokeapi:item_names.csv
-item,★Ari553,★Ari553,pokeapi:item_names.csv
-item,★Ari617,★Ari617,pokeapi:item_names.csv
-item,★Ari951,★Ari951,pokeapi:item_names.csv
-item,★Aur1577,★Aur1577,pokeapi:item_names.csv
-item,★Aur1605,★Aur1605,pokeapi:item_names.csv
-item,★Aur1612,★Aur1612,pokeapi:item_names.csv
-item,★Aur1641,★Aur1641,pokeapi:item_names.csv
-item,★Aur1708,★Aur1708,pokeapi:item_names.csv
-item,★Aur2088,★Aur2088,pokeapi:item_names.csv
-item,★Aur2095,★Aur2095,pokeapi:item_names.csv
-item,★Boo5235,★Boo5235,pokeapi:item_names.csv
-item,★Boo5340,★Boo5340,pokeapi:item_names.csv
-item,★Boo5351,★Boo5351,pokeapi:item_names.csv
-item,★Boo5435,★Boo5435,pokeapi:item_names.csv
-item,★Boo5506,★Boo5506,pokeapi:item_names.csv
-item,★Boo5602,★Boo5602,pokeapi:item_names.csv
-item,★Boo5733,★Boo5733,pokeapi:item_names.csv
-item,★CMa2282,★CMa2282,pokeapi:item_names.csv
-item,★CMa2294,★CMa2294,pokeapi:item_names.csv
-item,★CMa2491,★CMa2491,pokeapi:item_names.csv
-item,★CMa2618,★CMa2618,pokeapi:item_names.csv
-item,★CMa2646,★CMa2646,pokeapi:item_names.csv
-item,★CMa2657,★CMa2657,pokeapi:item_names.csv
-item,★CMa2693,★CMa2693,pokeapi:item_names.csv
-item,★CMa2827,★CMa2827,pokeapi:item_names.csv
-item,★CMi2845,★CMi2845,pokeapi:item_names.csv
-item,★CMi2943,★CMi2943,pokeapi:item_names.csv
-item,★CVn4785,★CVn4785,pokeapi:item_names.csv
-item,★CVn4846,★CVn4846,pokeapi:item_names.csv
-item,★CVn4915,★CVn4915,pokeapi:item_names.csv
-item,★Cap7754,★Cap7754,pokeapi:item_names.csv
-item,★Cap7773,★Cap7773,pokeapi:item_names.csv
-item,★Cap7776,★Cap7776,pokeapi:item_names.csv
-item,★Cap8278,★Cap8278,pokeapi:item_names.csv
-item,★Cap8322,★Cap8322,pokeapi:item_names.csv
-item,★Car2326,★Car2326,pokeapi:item_names.csv
-item,★Car3307,★Car3307,pokeapi:item_names.csv
-item,★Car3685,★Car3685,pokeapi:item_names.csv
-item,★Car3699,★Car3699,pokeapi:item_names.csv
-item,★Cas153,★Cas153,pokeapi:item_names.csv
-item,★Cas168,★Cas168,pokeapi:item_names.csv
-item,★Cas21,★Cas21,pokeapi:item_names.csv
-item,★Cas219,★Cas219,pokeapi:item_names.csv
-item,★Cas265,★Cas265,pokeapi:item_names.csv
-item,★Cas403,★Cas403,pokeapi:item_names.csv
-item,★Cas542,★Cas542,pokeapi:item_names.csv
-item,★Cen5267,★Cen5267,pokeapi:item_names.csv
-item,★Cen5288,★Cen5288,pokeapi:item_names.csv
-item,★Cen5459,★Cen5459,pokeapi:item_names.csv
-item,★Cen5460,★Cen5460,pokeapi:item_names.csv
-item,★Cen551,★Cen551,pokeapi:item_names.csv
-item,★Cep8162,★Cep8162,pokeapi:item_names.csv
-item,★Cep8238,★Cep8238,pokeapi:item_names.csv
-item,★Cep8417,★Cep8417,pokeapi:item_names.csv
-item,★Cep8974,★Cep8974,pokeapi:item_names.csv
-item,★Cet188,★Cet188,pokeapi:item_names.csv
-item,★Cet539,★Cet539,pokeapi:item_names.csv
-item,★Cet681,★Cet681,pokeapi:item_names.csv
-item,★Cet804,★Cet804,pokeapi:item_names.csv
-item,★Cet911,★Cet911,pokeapi:item_names.csv
-item,★Cnc3208,★Cnc3208,pokeapi:item_names.csv
-item,★Cnc3249,★Cnc3249,pokeapi:item_names.csv
-item,★Cnc3268,★Cnc3268,pokeapi:item_names.csv
-item,★Cnc3429,★Cnc3429,pokeapi:item_names.csv
-item,★Cnc3449,★Cnc3449,pokeapi:item_names.csv
-item,★Cnc3461,★Cnc3461,pokeapi:item_names.csv
-item,★Cnc3572,★Cnc3572,pokeapi:item_names.csv
-item,★Cnc3627,★Cnc3627,pokeapi:item_names.csv
-item,★Col1956,★Col1956,pokeapi:item_names.csv
-item,★Col2040,★Col2040,pokeapi:item_names.csv
-item,★Col2177,★Col2177,pokeapi:item_names.csv
-item,★Com4968,★Com4968,pokeapi:item_names.csv
-item,★Crt4287,★Crt4287,pokeapi:item_names.csv
-item,★Cru4656,★Cru4656,pokeapi:item_names.csv
-item,★Cru4700,★Cru4700,pokeapi:item_names.csv
-item,★Cru4730,★Cru4730,pokeapi:item_names.csv
-item,★Cru4763,★Cru4763,pokeapi:item_names.csv
-item,★Cru4853,★Cru4853,pokeapi:item_names.csv
-item,★Crv4623,★Crv4623,pokeapi:item_names.csv
-item,★Crv4662,★Crv4662,pokeapi:item_names.csv
-item,★Crv4757,★Crv4757,pokeapi:item_names.csv
-item,★Crv4786,★Crv4786,pokeapi:item_names.csv
-item,★Cyg7417,★Cyg7417,pokeapi:item_names.csv
-item,★Cyg7528,★Cyg7528,pokeapi:item_names.csv
-item,★Cyg7796,★Cyg7796,pokeapi:item_names.csv
-item,★Cyg7924,★Cyg7924,pokeapi:item_names.csv
-item,★Cyg7949,★Cyg7949,pokeapi:item_names.csv
-item,★Cyg8301,★Cyg8301,pokeapi:item_names.csv
-item,★Del7852,★Del7852,pokeapi:item_names.csv
-item,★Del7882,★Del7882,pokeapi:item_names.csv
-item,★Del7906,★Del7906,pokeapi:item_names.csv
-item,★Dra4434,★Dra4434,pokeapi:item_names.csv
-item,★Dra5291,★Dra5291,pokeapi:item_names.csv
-item,★Dra5744,★Dra5744,pokeapi:item_names.csv
-item,★Dra6132,★Dra6132,pokeapi:item_names.csv
-item,★Dra6370,★Dra6370,pokeapi:item_names.csv
-item,★Dra6396,★Dra6396,pokeapi:item_names.csv
-item,★Dra6536,★Dra6536,pokeapi:item_names.csv
-item,★Dra6636,★Dra6636,pokeapi:item_names.csv
-item,★Dra6688,★Dra6688,pokeapi:item_names.csv
-item,★Dra6705,★Dra6705,pokeapi:item_names.csv
-item,★Dra7310,★Dra7310,pokeapi:item_names.csv
-item,★Dra7462,★Dra7462,pokeapi:item_names.csv
-item,★Equ8131,★Equ8131,pokeapi:item_names.csv
-item,★Eri1084,★Eri1084,pokeapi:item_names.csv
-item,★Eri1231,★Eri1231,pokeapi:item_names.csv
-item,★Eri1298,★Eri1298,pokeapi:item_names.csv
-item,★Eri1325,★Eri1325,pokeapi:item_names.csv
-item,★Eri1393,★Eri1393,pokeapi:item_names.csv
-item,★Eri1464,★Eri1464,pokeapi:item_names.csv
-item,★Eri1666,★Eri1666,pokeapi:item_names.csv
-item,★Eri472,★Eri472,pokeapi:item_names.csv
-item,★Eri850,★Eri850,pokeapi:item_names.csv
-item,★Eri874,★Eri874,pokeapi:item_names.csv
-item,★Eri897,★Eri897,pokeapi:item_names.csv
-item,★Eri984,★Eri984,pokeapi:item_names.csv
-item,★Gem2216,★Gem2216,pokeapi:item_names.csv
-item,★Gem2286,★Gem2286,pokeapi:item_names.csv
-item,★Gem2421,★Gem2421,pokeapi:item_names.csv
-item,★Gem2473,★Gem2473,pokeapi:item_names.csv
-item,★Gem2484,★Gem2484,pokeapi:item_names.csv
-item,★Gem2650,★Gem2650,pokeapi:item_names.csv
-item,★Gem2777,★Gem2777,pokeapi:item_names.csv
-item,★Gem2891,★Gem2891,pokeapi:item_names.csv
-item,★Gem2930,★Gem2930,pokeapi:item_names.csv
-item,★Gem2990,★Gem2990,pokeapi:item_names.csv
-item,★Gru8353,★Gru8353,pokeapi:item_names.csv
-item,★Gru8425,★Gru8425,pokeapi:item_names.csv
-item,★Gru8636,★Gru8636,pokeapi:item_names.csv
-item,★Her6008,★Her6008,pokeapi:item_names.csv
-item,★Her6117,★Her6117,pokeapi:item_names.csv
-item,★Her6148,★Her6148,pokeapi:item_names.csv
-item,★Her6406,★Her6406,pokeapi:item_names.csv
-item,★Her6410,★Her6410,pokeapi:item_names.csv
-item,★Her6526,★Her6526,pokeapi:item_names.csv
-item,★Hya3418,★Hya3418,pokeapi:item_names.csv
-item,★Hya3482,★Hya3482,pokeapi:item_names.csv
-item,★Hya3748,★Hya3748,pokeapi:item_names.csv
-item,★Hya3845,★Hya3845,pokeapi:item_names.csv
-item,★Hya3903,★Hya3903,pokeapi:item_names.csv
-item,★Leo3773,★Leo3773,pokeapi:item_names.csv
-item,★Leo3852,★Leo3852,pokeapi:item_names.csv
-item,★Leo3905,★Leo3905,pokeapi:item_names.csv
-item,★Leo3982,★Leo3982,pokeapi:item_names.csv
-item,★Leo4031,★Leo4031,pokeapi:item_names.csv
-item,★Leo4057,★Leo4057,pokeapi:item_names.csv
-item,★Leo4357,★Leo4357,pokeapi:item_names.csv
-item,★Leo4359,★Leo4359,pokeapi:item_names.csv
-item,★Leo4534,★Leo4534,pokeapi:item_names.csv
-item,★Lep1829,★Lep1829,pokeapi:item_names.csv
-item,★Lep1865,★Lep1865,pokeapi:item_names.csv
-item,★Lib5531,★Lib5531,pokeapi:item_names.csv
-item,★Lib5603,★Lib5603,pokeapi:item_names.csv
-item,★Lib5685,★Lib5685,pokeapi:item_names.csv
-item,★Lib5787,★Lib5787,pokeapi:item_names.csv
-item,★Lyr7001,★Lyr7001,pokeapi:item_names.csv
-item,★Lyr7106,★Lyr7106,pokeapi:item_names.csv
-item,★Lyr7178,★Lyr7178,pokeapi:item_names.csv
-item,★Lyr7298,★Lyr7298,pokeapi:item_names.csv
-item,★Oct7228,★Oct7228,pokeapi:item_names.csv
-item,★Oph6056,★Oph6056,pokeapi:item_names.csv
-item,★Oph6075,★Oph6075,pokeapi:item_names.csv
-item,★Oph6149,★Oph6149,pokeapi:item_names.csv
-item,★Oph6378,★Oph6378,pokeapi:item_names.csv
-item,★Oph6556,★Oph6556,pokeapi:item_names.csv
-item,★Oph6603,★Oph6603,pokeapi:item_names.csv
-item,★Ori1543,★Ori1543,pokeapi:item_names.csv
-item,★Ori1713,★Ori1713,pokeapi:item_names.csv
-item,★Ori1790,★Ori1790,pokeapi:item_names.csv
-item,★Ori1852,★Ori1852,pokeapi:item_names.csv
-item,★Ori1879,★Ori1879,pokeapi:item_names.csv
-item,★Ori1899,★Ori1899,pokeapi:item_names.csv
-item,★Ori1903,★Ori1903,pokeapi:item_names.csv
-item,★Ori1948,★Ori1948,pokeapi:item_names.csv
-item,★Ori2004,★Ori2004,pokeapi:item_names.csv
-item,★Ori2061,★Ori2061,pokeapi:item_names.csv
-item,★Pav7790,★Pav7790,pokeapi:item_names.csv
-item,★Peg39,★Peg39,pokeapi:item_names.csv
-item,★Peg8308,★Peg8308,pokeapi:item_names.csv
-item,★Peg8450,★Peg8450,pokeapi:item_names.csv
-item,★Peg8634,★Peg8634,pokeapi:item_names.csv
-item,★Peg8650,★Peg8650,pokeapi:item_names.csv
-item,★Peg8684,★Peg8684,pokeapi:item_names.csv
-item,★Peg8775,★Peg8775,pokeapi:item_names.csv
-item,★Peg8781,★Peg8781,pokeapi:item_names.csv
-item,★Peg8880,★Peg8880,pokeapi:item_names.csv
-item,★Peg8905,★Peg8905,pokeapi:item_names.csv
-item,★Per1017,★Per1017,pokeapi:item_names.csv
-item,★Per1131,★Per1131,pokeapi:item_names.csv
-item,★Per1228,★Per1228,pokeapi:item_names.csv
-item,★Per834,★Per834,pokeapi:item_names.csv
-item,★Per936,★Per936,pokeapi:item_names.csv
-item,★Per941,★Per941,pokeapi:item_names.csv
-item,★Phe338,★Phe338,pokeapi:item_names.csv
-item,★Phe99,★Phe99,pokeapi:item_names.csv
-item,★PsA8728,★PsA8728,pokeapi:item_names.csv
-item,★Psc361,★Psc361,pokeapi:item_names.csv
-item,★Psc437,★Psc437,pokeapi:item_names.csv
-item,★Psc510,★Psc510,pokeapi:item_names.csv
-item,★Psc596,★Psc596,pokeapi:item_names.csv
-item,★Psc8773,★Psc8773,pokeapi:item_names.csv
-item,★Pup3045,★Pup3045,pokeapi:item_names.csv
-item,★Pup3165,★Pup3165,pokeapi:item_names.csv
-item,★Pup3185,★Pup3185,pokeapi:item_names.csv
-item,★Sco5928,★Sco5928,pokeapi:item_names.csv
-item,★Sco5944,★Sco5944,pokeapi:item_names.csv
-item,★Sco5953,★Sco5953,pokeapi:item_names.csv
-item,★Sco5984,★Sco5984,pokeapi:item_names.csv
-item,★Sco6027,★Sco6027,pokeapi:item_names.csv
-item,★Sco6084,★Sco6084,pokeapi:item_names.csv
-item,★Sco6134,★Sco6134,pokeapi:item_names.csv
-item,★Sco6165,★Sco6165,pokeapi:item_names.csv
-item,★Sco6241,★Sco6241,pokeapi:item_names.csv
-item,★Sco6247,★Sco6247,pokeapi:item_names.csv
-item,★Sco6252,★Sco6252,pokeapi:item_names.csv
-item,★Sco6508,★Sco6508,pokeapi:item_names.csv
-item,★Sco6527,★Sco6527,pokeapi:item_names.csv
-item,★Sco6553,★Sco6553,pokeapi:item_names.csv
-item,★Sco6630,★Sco6630,pokeapi:item_names.csv
-item,★Ser5854,★Ser5854,pokeapi:item_names.csv
-item,★Ser5879,★Ser5879,pokeapi:item_names.csv
-item,★Ser7141,★Ser7141,pokeapi:item_names.csv
-item,★Sge7479,★Sge7479,pokeapi:item_names.csv
-item,★Sgr6746,★Sgr6746,pokeapi:item_names.csv
-item,★Sgr6812,★Sgr6812,pokeapi:item_names.csv
-item,★Sgr6859,★Sgr6859,pokeapi:item_names.csv
-item,★Sgr6879,★Sgr6879,pokeapi:item_names.csv
-item,★Sgr6913,★Sgr6913,pokeapi:item_names.csv
-item,★Sgr7116,★Sgr7116,pokeapi:item_names.csv
-item,★Sgr7121,★Sgr7121,pokeapi:item_names.csv
-item,★Sgr7194,★Sgr7194,pokeapi:item_names.csv
-item,★Sgr7264,★Sgr7264,pokeapi:item_names.csv
-item,★Sgr7337,★Sgr7337,pokeapi:item_names.csv
-item,★Sgr7343,★Sgr7343,pokeapi:item_names.csv
-item,★Sgr7348,★Sgr7348,pokeapi:item_names.csv
-item,★Sgr7597,★Sgr7597,pokeapi:item_names.csv
-item,★Tau1165,★Tau1165,pokeapi:item_names.csv
-item,★Tau1346,★Tau1346,pokeapi:item_names.csv
-item,★Tau1373,★Tau1373,pokeapi:item_names.csv
-item,★Tau1409,★Tau1409,pokeapi:item_names.csv
-item,★Tau1412,★Tau1412,pokeapi:item_names.csv
-item,★Tau1457,★Tau1457,pokeapi:item_names.csv
-item,★Tau1791,★Tau1791,pokeapi:item_names.csv
-item,★Tau1910,★Tau1910,pokeapi:item_names.csv
-item,★TrA6217,★TrA6217,pokeapi:item_names.csv
-item,★Tri544,★Tri544,pokeapi:item_names.csv
-item,★UMa3323,★UMa3323,pokeapi:item_names.csv
-item,★UMa3569,★UMa3569,pokeapi:item_names.csv
-item,★UMa3594,★UMa3594,pokeapi:item_names.csv
-item,★UMa4033,★UMa4033,pokeapi:item_names.csv
-item,★UMa4069,★UMa4069,pokeapi:item_names.csv
-item,★UMa4295,★UMa4295,pokeapi:item_names.csv
-item,★UMa4301,★UMa4301,pokeapi:item_names.csv
-item,★UMa4375,★UMa4375,pokeapi:item_names.csv
-item,★UMa4377,★UMa4377,pokeapi:item_names.csv
-item,★UMa4518,★UMa4518,pokeapi:item_names.csv
-item,★UMa4554,★UMa4554,pokeapi:item_names.csv
-item,★UMa4660,★UMa4660,pokeapi:item_names.csv
-item,★UMa4905,★UMa4905,pokeapi:item_names.csv
-item,★UMa5054,★UMa5054,pokeapi:item_names.csv
-item,★UMa5191,★UMa5191,pokeapi:item_names.csv
-item,★UMi424,★UMi424,pokeapi:item_names.csv
-item,★UMi5563,★UMi5563,pokeapi:item_names.csv
-item,★UMi5735,★UMi5735,pokeapi:item_names.csv
-item,★UMi6789,★UMi6789,pokeapi:item_names.csv
-item,★Vel3485,★Vel3485,pokeapi:item_names.csv
-item,★Vel3634,★Vel3634,pokeapi:item_names.csv
-item,★Vel3734,★Vel3734,pokeapi:item_names.csv
-item,★Vir4540,★Vir4540,pokeapi:item_names.csv
-item,★Vir4689,★Vir4689,pokeapi:item_names.csv
-item,★Vir4825,★Vir4825,pokeapi:item_names.csv
-item,★Vir4910,★Vir4910,pokeapi:item_names.csv
-item,★Vir4932,★Vir4932,pokeapi:item_names.csv
-item,★Vir5056,★Vir5056,pokeapi:item_names.csv
-item,★Vir5107,★Vir5107,pokeapi:item_names.csv
-item,★Vir5315,★Vir5315,pokeapi:item_names.csv
-item,★Vir5338,★Vir5338,pokeapi:item_names.csv
-item,★Vir5359,★Vir5359,pokeapi:item_names.csv
-item,★Vir5409,★Vir5409,pokeapi:item_names.csv
-item,★Vul7405,★Vul7405,pokeapi:item_names.csv
 location,???,???,pokeapi:location_names.csv
 location,Aether Paradise,Æther Paradise,pokeapi:location_names.csv
 location,Akala Meadow,Prato Akala,pokeapi:location_names.csv

@@ -65,9 +65,36 @@ def extract_cstr(repo: Path) -> list[Unit]:
     return units
 
 
+def merge_units(new_units: list, old_path: Path) -> list:
+    """Fonde le unita' nuove con l'archivio precedente.
+
+    Il lavoro fatto (traduzioni e stato) non va perso quando si ri-estrae:
+    si conserva per chiave, ma solo se il testo inglese non e' cambiato.
+    """
+    old = {u.key: u for u in store.load_units(old_path)}
+    kept = dropped = changed = 0
+    for unit in new_units:
+        prev = old.get(unit.key)
+        if prev is None:
+            continue
+        if prev.sha1 == unit.sha1:
+            unit.it = prev.it
+            unit.status = prev.status
+            unit.note = prev.note
+            kept += 1
+        else:
+            changed += 1
+            unit.note = "testo inglese cambiato"
+        dropped += 1 if prev.status == "skipped" else 0
+    print(f"  merge: {kept} conservate, {changed} con inglese cambiato, {len(old) - dropped} vecchie")
+    return new_units
+
+
 def cmd_extract(repo: Path) -> int:
     inc = extract_inc(repo)
     c = extract_cstr(repo)
+    inc = merge_units(inc, store.data_dir() / store.INC_STORE)
+    c = merge_units(c, store.data_dir() / store.CSTR_STORE)
     store.save_units(store.data_dir() / store.INC_STORE, inc)
     store.save_units(store.data_dir() / store.CSTR_STORE, c)
     inv = {

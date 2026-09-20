@@ -21,10 +21,10 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from hnsit import store  # noqa: E402
-from hnsit.textparse import CONTROL_RE, Metrics  # noqa: E402
+from . import store
+from .buffers import all_limits
+from .textparse import CONTROL_RE, Metrics
 
 ROOT = Path(__file__).resolve().parents[1]
 WORK = ROOT / "work"
@@ -68,19 +68,26 @@ def relevant_terms(items: list[dict], terms: dict[str, str], limit: int = 60) ->
     return out
 
 
-def unit_record(unit, metrics) -> dict:
+def unit_record(unit, metrics, limits=None) -> dict:
     lines = unit.visible_lines
     widths = []
     for line in lines:
         w, _ = metrics.line_width(CONTROL_RE.sub("", line))
         widths.append(w)
-    return {
+    rec = {
         "id": unit.key,
         "hint": unit.label + (" " + unit.hint if unit.hint else ""),
         "lines": lines,
         "width_px": widths,
         "max_px": max(LIMIT_PX, max(widths) if widths else LIMIT_PX),
     }
+    # limite di byte per i campi ad array fisso (`u8 campo[N]`): la build muore
+    # se la traduzione non ci sta
+    if limits is not None:
+        limit = limits.limit(unit.file, unit.label)
+        if limit is not None:
+            rec["max_chars"] = limit
+    return rec
 
 
 def plan(kind: str, size: int, max_batches: int, start: int) -> int:
@@ -89,13 +96,14 @@ def plan(kind: str, size: int, max_batches: int, start: int) -> int:
     terms = glossary_map()
     metrics = load_metrics()
     groups = pending_groups(units)
+    limits = all_limits(store.repo_root())
 
     made = 0
     for idx in range(start, start + max_batches):
         chunk = groups[idx * size:(idx + 1) * size]
         if not chunk:
             break
-        write_batch(kind, f"{kind}-{idx:04d}", chunk, metrics, terms)
+        write_batch(kind, f"{kind}-{idx:04d}", chunk, metrics, terms, limits)
         made += 1
     print(f"lotti scritti: {made} in {BATCH_DIR}")
     return 0
@@ -118,8 +126,8 @@ def pending_groups(units) -> list[list]:
     return todo
 
 
-def write_batch(kind: str, name: str, chunk: list, metrics, terms) -> Path:
-    items = [unit_record(head, metrics) for head, _m in chunk]
+def write_batch(kind: str, name: str, chunk: list, metrics, terms, limits=None) -> Path:
+    items = [unit_record(head, metrics, limits) for head, _m in chunk]
     aliases = {head.key: [m.key for m in members if m.key != head.key] for head, members in chunk}
     batch = {
         "batch": name,
@@ -136,6 +144,8 @@ def write_batch(kind: str, name: str, chunk: list, metrics, terms) -> Path:
 def apply_rows(units: dict, rows: list[dict], mark: str = "translated") -> tuple[int, list[str]]:
     applied = 0
     failed: list[str] = []
+    limits = all_limits(store.repo_root())
+    metrics = load_metrics()
     for row in rows:
         key, it_lines = row.get("id"), row.get("it")
         if key not in units:
@@ -145,6 +155,14 @@ def apply_rows(units: dict, rows: list[dict], mark: str = "translated") -> tuple
         if not isinstance(it_lines, list) or not all(isinstance(x, str) for x in it_lines):
             failed.append(f"{key}: campo it non valido")
             continue
+        # la traduzione non deve sfondare i campi ad array fisso: la build muore
+        if "".join(it_lines) != "".join(t for t, _ in unit.lines):
+            lim = limits.limit(unit.file, unit.label)
+            if lim is not None:
+                size = metrics.encoded_len("".join(it_lines))
+                if size > lim:
+                    failed.append(f"{key}: {size}>{lim} byte, troppo lungo per {unit.label}")
+                    continue
         try:
             unit.rebuild(it_lines)
         except ValueError as exc:

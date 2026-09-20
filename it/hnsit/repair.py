@@ -14,13 +14,11 @@ import argparse
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-import batch as batchmod  # noqa: E402
-import verify as verifymod  # noqa: E402
-from hnsit import store  # noqa: E402
-from hnsit.textparse import Metrics  # noqa: E402
+from . import batching as batchmod
+from . import verify as verifymod
+from . import store
+from .textparse import Metrics
 
 
 def main() -> int:
@@ -35,7 +33,11 @@ def main() -> int:
     for unit in units.values():
         if unit.status in ("pending", "skipped") or unit.it is None:
             continue
-        problems = [p for p in verifymod.check_unit(unit, metrics) if not p.startswith("W:")]
+        problems = [
+            p
+            for p in verifymod.check_unit(unit, metrics, verifymod.limits_for(store.repo_root()))
+            if not p.startswith("W:")
+        ]
         if problems:
             bad.append((unit.key, problems))
 

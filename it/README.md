@@ -55,18 +55,18 @@ merge da upstream.
 
 ```bash
 # 1. inventario (dopo un merge da upstream)
-python3 it/tools/hnsit.py extract
-python3 it/tools/build_glossary.py      # riscarica i dump PokeAPI se mancano
-python3 it/tools/autofill.py            # riempie nomi e descrizioni ufficiali
+python3 -m hnsit extract
+python3 -m hnsit glossary      # riscarica i dump PokeAPI se mancano
+python3 -m hnsit autofill            # riempie nomi e descrizioni ufficiali
 
 # 2. traduzione dei testi originali con modelli economici
-python3 it/tools/translate_run.py --kind inc  --size 20 --workers 6 --rounds 20
-python3 it/tools/translate_run.py --kind cstr --size 20 --workers 6 --rounds 20
+python3 -m hnsit translate --kind inc  --size 20 --workers 6 --rounds 20
+python3 -m hnsit translate --kind cstr --size 20 --workers 6 --rounds 20
 
 # 3. verifica, iniezione, build
-python3 it/tools/verify.py units
-python3 it/tools/hnsit.py inject
-python3 it/tools/verify.py repo
+python3 -m hnsit verify units
+python3 -m hnsit inject
+python3 -m hnsit verify repo
 make hns -j$(sysctl -n hw.ncpu)
 it/.venv/bin/python -m pytest it/tests -q
 ```

@@ -9,12 +9,16 @@ Fonti deterministiche:
    abilita' e oggetti.
 
 Regole:
-* si sostituisce solo quando l'intero testo visibile dell'unita' corrisponde;
-* se l'inglese e' tutto maiuscolo, anche l'italiano viene messo in maiuscolo
-  (convenzione delle localizzazioni ufficiali);
-* nessuna sostituzione parziale dentro le frasi: quelle passano dall'LLM.
 
-    python3 it/tools/autofill.py [--dry-run] [--only inc|cstr]
+* si sostituisce solo quando l'intero testo visibile dell'unita' corrisponde;
+* nei file di dati .c/.h si usa il glossario SOLO dove il contesto lo giustifica
+  (nomi oggetto in items.h, mosse in moves_info.h, ...): altrove una parola come
+  "Bacon" in una lista di soprannomi verrebbe tradotta a sproposito;
+* niente traduzioni che non entrano nel campo di destinazione (array a
+  dimensione fissa): quelle restano all'LLM, che sa accorciare;
+* i testi su piu' righe si ripartiscono in proporzione alle righe inglesi.
+
+    cd it && python3 -m hnsit autofill [--dry-run] [--only inc|cstr]
 """
 
 from __future__ import annotations
@@ -23,14 +27,12 @@ import argparse
 import csv
 import json
 import re
-import sys
 from collections import Counter
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-
-from hnsit import store  # noqa: E402
-from hnsit.textparse import CONTROL_RE  # noqa: E402
+from . import store
+from .buffers import all_limits
+from .textparse import CONTROL_RE, Metrics
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -48,6 +50,20 @@ NAME_KINDS = {
     "region",
     "genus",
 }
+# ordine di preferenza quando piu' tipi combaciano
+KIND_ORDER = [
+    "species",
+    "form",
+    "move",
+    "ability",
+    "item",
+    "type",
+    "nature",
+    "stat",
+    "location",
+    "region",
+    "genus",
+]
 PROSE_KINDS = {
     "move_effect_short",
     "move_effect_long",
@@ -61,6 +77,47 @@ PROSE_KINDS = {
     "super_contest",
 }
 
+# contesto -> tipi ammessi, per le unita' dentro file di dati .c/.h
+FILE_KINDS: dict[str, set[str]] = {
+    "src/data/items.h": {"item"},
+    "src/data/moves_info.h": {"move"},
+    "src/data/abilities.h": {"ability"},
+    "src/data/types_info.h": {"type"},
+    "src/data/natures.h": {"nature"},
+    "src/data/pokemon/species_info": {"species", "genus"},
+}
+# file -> prefissi di prose ammessi
+FILE_PROSE: dict[str, tuple[str, ...]] = {
+    "src/data/items.h": ("item_",),
+    "src/data/moves_info.h": ("move_",),
+    "src/data/abilities.h": ("ability_",),
+}
+
+
+def allowed_kinds(unit) -> set[str] | None:
+    """Tipi di glossario ammessi per questa unita' (None = nessuno)."""
+    if not unit.file.endswith((".c", ".h")):
+        # script e testi .inc: match esatto sull'intero testo
+        return NAME_KINDS
+    for prefix, kinds in FILE_KINDS.items():
+        if unit.file.startswith(prefix):
+            if prefix.endswith("species_info"):
+                label = unit.label or ""
+                if label.endswith("categoryName"):
+                    return {"genus"}
+                if label.endswith("speciesName"):
+                    return {"species"}
+                return None
+            return set(kinds)
+    return None
+
+
+def allowed_prose(unit) -> tuple[str, ...]:
+    for prefix, kinds in FILE_PROSE.items():
+        if unit.file.startswith(prefix):
+            return kinds
+    return ()
+
 
 def norm(text: str) -> str:
     t = text.replace("\u000c", " ").replace("\u00ad", "")
@@ -71,7 +128,7 @@ def norm(text: str) -> str:
     t = re.sub(r"\\[npl]", " ", t)
     t = re.sub(r"\{[^}]*\}", " ", t)
     t = re.sub(r"[\s]+", " ", t)
-    return t.strip().lower().strip(".!")
+    return t.strip().lower().strip(".")
 
 
 def load_glossary() -> dict[str, dict[str, str]]:
@@ -84,7 +141,7 @@ def load_glossary() -> dict[str, dict[str, str]]:
     return out
 
 
-def load_prose() -> dict[str, str]:
+def load_prose() -> dict[str, tuple[str, str]]:
     out: dict[str, str] = {}
     path = ROOT / "data" / "prose.jsonl"
     for line in path.read_text(encoding="utf-8").splitlines():
@@ -92,7 +149,7 @@ def load_prose() -> dict[str, str]:
             continue
         row = json.loads(line)
         if row["kind"] in PROSE_KINDS:
-            out.setdefault(norm(row["en"]), row["it"])
+            out.setdefault(norm(row["en"]), (row["kind"], row["it"]))
     return out
 
 
@@ -100,7 +157,31 @@ def wordsish(text: str) -> bool:
     return bool(re.search(r"[A-Za-z]", text))
 
 
-def apply_units(units: list, glossary, prose, dry_run: bool) -> Counter:
+def ascii_punct(text: str) -> str:
+    """Punteggiatura come nei testi del gioco: apostrofo dritto, niente “ ”.
+
+    Il charmap conosce anche le virgolette tipografiche, ma i testi originali
+    usano l'apostrofo dritto: tenersi coerenti evita differenze a video.
+    """
+    return (
+        text.replace("\u2019", "'")
+        .replace("\u2018", "'")
+        .replace("\u201c", '"')
+        .replace("\u201d", '"')
+        .replace("\u2013", "-")
+        .replace("\u2014", "-")
+    )
+
+
+def pick(entry: dict[str, str], allowed: set[str] | None = None) -> tuple[str, str] | None:
+    """(kind, testo) dalla voce di glossario, rispettando i tipi ammessi."""
+    for kind in KIND_ORDER:
+        if kind in entry and (allowed is None or kind in allowed):
+            return kind, entry[kind]
+    return None
+
+
+def apply_units(units: list, glossary, prose, limits, metrics: Metrics, dry_run: bool) -> Counter:
     counts: Counter = Counter()
     for unit in units:
         if unit.status != "pending" or unit.it is not None:
@@ -108,6 +189,7 @@ def apply_units(units: list, glossary, prose, dry_run: bool) -> Counter:
         lines = unit.visible_lines
         if not lines:
             continue
+        limit = limits.limit(unit.file, unit.label)
         # testi senza lettere (es. "???", "- - -"): restano come sono
         if all(not wordsish(CONTROL_RE.sub("", line)) for line in lines):
             if not dry_run:
@@ -116,48 +198,54 @@ def apply_units(units: list, glossary, prose, dry_run: bool) -> Counter:
                 unit.note = "identico:simboli"
             counts["identico:simboli"] += 1
             continue
+
+        allowed = allowed_kinds(unit)
+        if allowed is None:
+            counts["salta:contesto"] += 1
+            continue
+        prose_kinds = allowed_prose(unit)
+
         joined = " ".join(lines)
         key = norm(joined)
-        it_text = None
-        hit_kind = None
+        it_text: str | None = None
+        hit_kind: str | None = None
         pre_rebuilt: list[str] | None = None
-        if it_text is None and len(lines) == 1 and CONTROL_RE.search(lines[0]):
+
+        if len(lines) == 1 and CONTROL_RE.search(lines[0]):
             # riga con codici {...}: si sostituisce solo la parte testuale,
             # i codici restano dove sono e non si perdono
             line = lines[0]
             residual = CONTROL_RE.sub("", line).strip()
             if residual:
-                entry = glossary.get(norm(residual), {})
-                for kind in NAME_KINDS:
-                    if kind in entry:
-                        cand = entry[kind]
-                        if residual.isupper():
-                            cand = cand.upper()
-                        markers: dict[str, str] = {}
-                        masked = CONTROL_RE.sub(
-                            lambda m: markers.setdefault(f"\x01{len(markers)}\x01", m.group(0)), line
-                        )
-                        if masked.count(residual) == 1:
-                            rebuilt = masked.replace(residual, cand)
-                            for token, code in markers.items():
-                                rebuilt = rebuilt.replace(token, code)
-                            it_text = cand
-                            hit_kind = f"glossary-coded:{kind}"
-                            pre_rebuilt = [rebuilt]
-                        break
+                hit = pick(glossary.get(norm(residual), {}), allowed)
+                if hit is not None:
+                    kind, cand = hit
+                    if residual.isupper():
+                        cand = cand.upper()
+                    markers: dict[str, str] = {}
+                    masked = CONTROL_RE.sub(
+                        lambda m: markers.setdefault(f"\x01{len(markers)}\x01", m.group(0)), line
+                    )
+                    if masked.count(residual) == 1:
+                        rebuilt = masked.replace(residual, cand)
+                        for token, code in markers.items():
+                            rebuilt = rebuilt.replace(token, code)
+                        it_text = cand
+                        hit_kind = f"glossary-coded:{kind}"
+                        pre_rebuilt = [rebuilt]
+
         if it_text is None and not any(CONTROL_RE.search(line) for line in lines):
-            if key in glossary:
-                entry = glossary[key]
-                for kind in NAME_KINDS:
-                    if kind in entry:
-                        it_text = entry[kind]
-                        hit_kind = f"glossary:{kind}"
-                        break
-            if it_text is None and key in prose:
-                it_text = prose[key]
-                hit_kind = "prose"
+            hit = pick(glossary.get(key, {}), allowed)
+            if hit is not None:
+                hit_kind, it_text = f"glossary:{hit[0]}", hit[1]
+            elif prose_kinds:
+                row = prose.get(key)
+                if row is not None and row[0].startswith(prose_kinds):
+                    it_text = row[1]
+                    hit_kind = "prose"
         if it_text is None:
             continue
+        it_text = ascii_punct(it_text)
         if pre_rebuilt is not None:
             new_lines = pre_rebuilt
         else:
@@ -171,6 +259,10 @@ def apply_units(units: list, glossary, prose, dry_run: bool) -> Counter:
                 # blocco su piu' righe: si ripartisce sulle righe originali in
                 # modo proporzionale alla lunghezza
                 new_lines = split_proportional(it_text, [len(l) or 1 for l in lines])
+
+        if limit is not None and metrics.encoded_len("".join(new_lines)) > limit:
+            counts["salta:limite"] += 1
+            continue
         if dry_run:
             counts[f"would:{hit_kind}"] += 1
             continue
@@ -212,6 +304,8 @@ def main() -> int:
 
     glossary = load_glossary()
     prose = load_prose()
+    limits = all_limits(store.repo_root())
+    metrics = Metrics(store.repo_root())
     print(f"glossario: {len(glossary)} chiavi, prose: {len(prose)} testi")
 
     for name in (store.INC_STORE, store.CSTR_STORE):
@@ -220,7 +314,7 @@ def main() -> int:
             continue
         path = store.data_dir() / name
         units = store.load_units(path)
-        counts = apply_units(units, glossary, prose, args.dry_run)
+        counts = apply_units(units, glossary, prose, limits, metrics, args.dry_run)
         if not args.dry_run:
             store.save_units(path, units)
         print(f"--- {kind}")

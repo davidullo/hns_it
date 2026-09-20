@@ -49,18 +49,23 @@ def test_charmap_ha_gli_accenti_italiani():
 
 
 def test_glyph_widths_coerenti(metrics: Metrics):
-    assert len(metrics.widths) == 256
-    for byte in range(256):
+    # la tabella del font normale ha 512 voci (il charmap puo' indicizzare
+    # oltre 0xFF per i caratteri estesi)
+    assert len(metrics.widths) >= 256
+    for byte in range(len(metrics.widths)):
         assert 0 < metrics.widths[byte] <= 12
-    # 'A' e' largo 6 px nel font normale del gioco
     assert metrics.line_width("A")[0] == metrics.widths[metrics.charmap["A"][0]]
+    # '=' e' un glifo vero (8 px): senza di lui le larghezze sarebbero sbagliate
+    assert metrics.line_width("=")[0] == 8
 
 
 def test_nessun_carattere_fuori_charmap_nei_testi_inglesi(metrics: Metrics):
+    from hnsit.textparse import CONTROL_RE
+
     seen = set()
     for unit in iter_inc_units(REPO):
         for line in unit.visible_lines:
-            _w, unknown = metrics.line_width(line)
+            _w, unknown = metrics.line_width(CONTROL_RE.sub("", line))
             seen.update(unknown)
     assert not seen, f"caratteri non rappresentabili: {''.join(sorted(seen))!r}"
 
@@ -105,9 +110,11 @@ def test_rebuild_rifiuta_numero_di_righe_sbagliato():
 
 
 def test_rebuild_lascia_stare_i_segmenti_strutturali():
+    # un segmento fatto solo di terminatore occupa comunque uno slot, ma il
+    # testo tradotto non lo tocca: resta `\l` com'e'
     unit = Unit(key="t", kind="inc", file="f.inc", label="L", segments=["Hi\\n", "\\l"])
-    it = unit.rebuild(["Ciao"])
-    assert it[1] == "\\l"
+    it = unit.rebuild(["Ciao", ""])
+    assert it == ["Ciao\\n", "\\l"]
 
 
 def test_key_univoca_su_tutto_il_repo():
@@ -143,7 +150,8 @@ def test_ogni_unita_ha_sha1_e_file_esistente():
 
 
 def test_placeholders_identici_dopo_la_traduzione():
-    from tools_import import placeholders  # type: ignore
+    sys.path.insert(0, str(ROOT / "tools"))
+    from hnsit.verify import placeholders  # type: ignore
 
     units = store.load_all()
     bad = []
