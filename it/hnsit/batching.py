@@ -70,6 +70,28 @@ def relevant_terms(items: list[dict], terms: dict[str, str], limit: int = 60) ->
     return out
 
 
+def _motivo_rifiuto(unit, metrics, limits) -> str:
+    """Perche' la traduzione precedente e' stata scartata.
+
+    Serve al giro dopo: se al modello non si dice cosa non andava, riprova la
+    stessa traduzione e l'unita' resta in coda per sempre.
+    """
+    import copy
+
+    try:
+        probe = copy.copy(unit)
+        probe.it = unit.prev_it
+        problemi = verifymod.check_unit(probe, metrics, limits)
+    except Exception:
+        return "rifiutata"
+    if not problemi:
+        return "rifiutata"
+    p = problemi[0]
+    if p.startswith("limite:"):
+        return "rifiutata: " + p.split("limite:", 1)[1] + " byte, il tetto del campo e' piu' basso"
+    return "rifiutata: " + p
+
+
 def unit_record(unit, metrics, limits=None) -> dict:
     lines = unit.visible_lines
     widths = []
@@ -87,8 +109,10 @@ def unit_record(unit, metrics, limits=None) -> dict:
         "max_car": [len(t) for t in lines],
     }
     if unit.prev_it:
+        # il giro prima ha provato e non e' passata: al modello va detto
+        # esattamente perche', altrimenti riprova la stessa cosa
         rec["prev"] = unit.prev_it
-        rec["prev_nota"] = "rifiutata: una riga sfondava il tetto di caratteri"
+        rec["prev_nota"] = _motivo_rifiuto(unit, metrics, limits)
     # limite di byte per i campi ad array fisso (`u8 campo[N]`): la build muore
     # se la traduzione non ci sta
     if limits is not None:

@@ -6,6 +6,7 @@ se cambiano nel gioco, questi test lo dicono subito.
 
 from __future__ import annotations
 
+import copy
 import sys
 from pathlib import Path
 
@@ -61,11 +62,17 @@ def test_i_nomi_di_tipo_italiani_entrano():
 
 
 def test_categoria_troppo_lunga_e_problema_duro():
+    """Il meccanismo: una categoria italiana che sfonda il campo va segnalata.
+
+    Il caso vero (Prestigiatore 13>12) e' stato risolto accorciando, quindi il
+    test non puo' piu' dipendere dallo stato dello store: si costruisce a mano.
+    """
     unit = store.load_all()["cstr:src/data/pokemon/species_info/gen_9_families.h#7"]
     assert unit.label.endswith("categoryName")
-    problems = check_unit(unit, METRICS, limits_for(ROOT))
-    if unit.it and "".join(unit.it) != "".join(t for t, _ in unit.lines):
-        assert any(p.startswith("limite:") for p in problems)
+    probe = copy.copy(unit)
+    probe.it = ["PRESTIGIATORE LUNGHISSIMO"]
+    problems = check_unit(probe, METRICS, limits_for(ROOT))
+    assert any(p.startswith("limite:") for p in problems), problems
 
 
 def test_identica_all_inglese_non_viola_il_limite():
