@@ -710,7 +710,7 @@ Debug_EventScript_InflictStatus1_Text_Burn:
 	.string "Burn$"
 
 Debug_EventScript_InflictStatus1_Text_Freeze:
-	.string "Freeze$"
+	.string "Gelo$"
 
 Debug_EventScript_InflictStatus1_Text_Frostbite:
 	.string "Frostbite$"

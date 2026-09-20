@@ -499,10 +499,10 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Mon1::
 	.string "Un {STR_VAR_2} con {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Mon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\n"
-	.string "Of course I raised them superbly!\p"
-	.string "So, want to team up?\n"
-	.string "I'm sure it'll be a great combo!$"
+	.string "un {STR_VAR_2} con {STR_VAR_1}.\n"
+	.string "Certo che li ho allevati bene!\p"
+	.string "Facciamo squadra?\n"
+	.string "Sarà un'ottima coppia!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Accept::
 	.string "Yay! Sarà divertente!\n"
@@ -563,9 +563,9 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Reject::
 	.string "Ma così sei più fico…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Intro::
-	.string "Yeehaw! I'm {STR_VAR_1}'s\n"
-	.string "no. {STR_VAR_2} apprentice!\p"
-	.string "{STR_VAR_3}'s my name, hello, hello!$"
+	.string "Ehi! Sono di {STR_VAR_1}\n"
+	.string "allievo n. {STR_VAR_2}!\p"
+	.string "Mi chiamo {STR_VAR_3}, salve, salve!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Mon1::
 	.string "Il maestro {STR_VAR_3} ha\n"
@@ -672,11 +672,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Reject::
 	.string "{PLAYER}, che tristezza!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Intro::
-	.string "Cough!\p"
-	.string "Oh, sorry, I have a cold.\n"
-	.string "My POKéMON are fine, though.\p"
-	.string "My name's {STR_VAR_3}, {STR_VAR_1}'s\n"
-	.string "no. {STR_VAR_2} apprentice. Cough!$"
+	.string "Ahem!\p"
+	.string "Scusa, ho il raffreddore.\n"
+	.string "I miei POKéMON stanno bene.\p"
+	.string "Sono {STR_VAR_3}, di {STR_VAR_1}\n"
+	.string "allievo n. {STR_VAR_2}. Ahem!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon1::
 	.string "Ho seguito il consiglio di {STR_VAR_3}\n"
@@ -925,8 +925,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMIntro::
 	.string "Sono lo SCOLARO {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMMon1::
-	.string "What I've been raising are one\n"
-	.string "{STR_VAR_2} that uses {STR_VAR_1}$"
+	.string "Quello che allevio è un\n"
+	.string "{STR_VAR_2} che usa {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMMon2Ask::
 	.string "e uno {STR_VAR_2} che usa\n"
@@ -1012,8 +1012,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacIntro::
 	.string "Sono la STRANA {STR_VAR_1}…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon1::
-	.string "I bear with me one {STR_VAR_1}-using\n"
-	.string "{STR_VAR_2} together with one$"
+	.string "Porto con me un {STR_VAR_1} e\n"
+	.string "un {STR_VAR_2}, e un$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon2Ask::
 	.string "{STR_VAR_2} che usa {STR_VAR_1}…\p"
@@ -1415,8 +1415,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMIntro::
 	.string "Sono un RANGER POKéMON.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMMon1::
-	.string "Keeping me company are one\n"
-	.string "{STR_VAR_1}-using {STR_VAR_2} and$"
+	.string "Mi fanno compagnia un\n"
+	.string "{STR_VAR_2} con {STR_VAR_1} e un$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMMon2Ask::
 	.string "un {STR_VAR_2} con {STR_VAR_1}!\p"
@@ -1583,8 +1583,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperIntro::
 	.string "Sono CAMPEGGIATORE {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon1::
-	.string "I've been raising one {STR_VAR_1}-\n"
-	.string "using {STR_VAR_2} and one$"
+	.string "Allevio un {STR_VAR_1} con\n"
+	.string "un {STR_VAR_2}, e un$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon2Ask::
 	.string "{STR_VAR_2} che usa {STR_VAR_1}.\p"

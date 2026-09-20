@@ -982,12 +982,12 @@ BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved_hns:
 	.string "entrare in una SALA COMBATTIMENTO.$"
 
 BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer_hns:
-	.string "You're finally about to face the\n"
-	.string "50th TRAINER.\p"
-	.string "From here on, every time you beat seven\n"
-	.string "TRAINERS in a row, your POKéMON will\l"
-	.string "receive a commemorative RIBBON.\p"
-	.string "Good luck!$"
+	.string "Finalmente affronterai il\n"
+	.string "50º ALLENATORE.\p"
+	.string "Da qui in poi, ogni serie di sette\n"
+	.string "ALLENATORI battuta dà un NASTRO\l"
+	.string "commemorativo ai tuoi POKéMON.\p"
+	.string "Forza!$"
 
 BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons_hns:
 	.string "Ecco delle FIIOCCHI per aver\n"
@@ -1358,7 +1358,7 @@ BattleFrontier_Text_ObtainedXBattlePoints_hns:
 	.string "{PLAYER} ha ottenuto {STR_VAR_1} Punti Lotta.$"
 
 BattleFrontier_BattleTowerLobby_Text_RulesAreListed_hns:
-	.string "The BATTLE TOWER rules are listed.$"
+	.string "Ecco le regole della TORRE LOTTA.$"
 
 BattleFrontier_BattleTowerLobby_Text_ReadWhichHeading_hns:
 	.string "Quale voce vuoi leggere?$"

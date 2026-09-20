@@ -36,20 +36,20 @@ CeladonCity_DepartmentStore_4F_Items::
 	end
 
 CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
-	.string "I'm getting a present for my\n"
-	.string "girlfriend.\p"
-	.string "I guess a POKé DOLL will be it.\n"
-	.string "It's the popular thing.$"
+	.string "Devo fare un regalo alla\n"
+	.string "ragazza.\p"
+	.string "Sarà un POKé DOLL.\n"
+	.string "È il regalo di moda.$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
-	.string "I heard something useful.\p"
-	.string "If a wild POKéMON appears, you can\n"
-	.string "distract it with a POKé DOLL.\p"
-	.string "You can run away while the wild\n"
-	.string "POKéMON is distracted.$"
+	.string "Sentita una cosa utile.\p"
+	.string "Se appare un POKéMON selvatico,\n"
+	.string "puoi distrarlo con un\p"
+	.string "POKé DOLL e fuggire mentre\n"
+	.string "è distratto.$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
-	.string "Express yourself with gifts!\n"
-	.string "4F: WISE MAN GIFTS\p"
-	.string "Evolution Special!\n"
-	.string "Element STONES on sale now!$"
+	.string "Esprimiti con i regali!\n"
+	.string "4F: DAL SAGGIO\p"
+	.string "Top evoluzione!\n"
+	.string "PIETRE ELEMENTALI scontate!$"

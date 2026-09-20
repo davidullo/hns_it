@@ -322,10 +322,10 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForRound2_hns:
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals_hns:
-	.string "Congratulations for advancing\n"
-	.string "to the semifinals.\p"
-	.string "The best four teams meet in this round.\n"
-	.string "Are you ready?$"
+	.string "Congratulazioni,\n"
+	.string "alle semifinali.\p"
+	.string "Le quattro migliori si sfidano qui.\n"
+	.string "Sei pronto?$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals_hns:
@@ -335,8 +335,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals_hns:
 	.string "Sei pronto?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer_hns:
-	.string "{PLAYER}'s next opponent\n"
-	.string "is this TRAINER.$"
+	.string "Ora {PLAYER} sfida\n"
+	.string "quest'ALLENATORE.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1_hns:
 	.string "Torneo al primo turno.$"

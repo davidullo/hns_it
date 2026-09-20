@@ -596,7 +596,7 @@ GoldenrodCity_GameCorner_Text_PrizeVendorIntro:
     .string "fabulous prizes!$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorWhichPrize:
-    .string "Which prize would you like?$"
+    .string "Quale premio vuoi?$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorHereYouGo:
     .string "Here you go!$"
@@ -620,7 +620,7 @@ GoldenrodCity_GameCorner_Text_Pharmacist:
     .string "I think.$"
 
 GoldenrodCity_GameCorner_Text_Woman:
-    .string "I can't stop winning!$"
+    .string "Sto vincendo sempre!$"
 
 GoldenrodCity_GameCorner_Text_PokefanM1:
     .string "I just love this new slot machine.\p"
@@ -633,9 +633,9 @@ GoldenrodCity_GameCorner_Text_CooltrainerM:
 
 GoldenrodCity_GameCorner_Text_PokefanF:
     .string "Roulette…\p"
-    .string "I prefer it over the slots because\n"
-    .string "it's easier to figure the odds.\p"
-    .string "But the payout is much lower.$"
+    .string "La preferisco alle slot perché\n"
+    .string "è facile capire le probabilità.\p"
+    .string "Ma la vincita è più bassa.$"
 
 GoldenrodCity_GameCorner_Text_CooltrainerF:
     .string "I won't quit until I win!$"

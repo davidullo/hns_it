@@ -996,7 +996,7 @@ MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
 	.string "prizes here.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "Quale premio vuoi?$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
 	.string "So your choice is\n"

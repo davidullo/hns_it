@@ -8,7 +8,7 @@ gNameChoice_Red::
 	.string "RED$"
 
 gNameChoice_Leaf::
-	.string "LEAF$"
+	.string "FOGLIA$"
 
 gNameChoice_Fire::
 	.string "FUOCO$"

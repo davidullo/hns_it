@@ -174,12 +174,12 @@ BattleFrontier_Lounge2_Text_DomeAceIsThere_hns::
 	.string "AS DELLA CUPOLA.$"
 
 BattleFrontier_Lounge2_Text_DomeAceSilverMons_hns::
-	.string "Have you battled the DOME ACE?\p"
-	.string "When he's treating the opponent\n"
-	.string "lightly, he uses these three POKéMON:\p"
-	.string "A DRAGON & FLYING DRAGON POKéMON,\n"
-	.string "a WATER & GROUND MUD FISH POKéMON,\l"
-	.string "and a FIRE & FLYING FLAME POKéMON.$"
+	.string "Hai mai sfidato il MAESTRO\p"
+	.string "DEL DOMO? Quando sottovaluta un\n"
+	.string "avversario, usa questi tre POKéMON:\p"
+	.string "Un POKéMON DRAGO & VOLANTE,\n"
+	.string "un POKéMON ACQUA & TERRA,\l"
+	.string "e un POKéMON FUOCO & VOLANTE.$"
 
 BattleFrontier_Lounge2_Text_DomeAceGoldMons_hns::
 	.string "Hai già sfidato l'AS DELLA\n"

@@ -16,13 +16,13 @@ BlackthornCity_PokemonCenter_EventScript_Twin::
 	end
 
 BlackthornCity_PokemonCenter1FGentlemanText:
-	.string "Deep inside far-off INDIGO\n"
-	.string "PLATEAU is the POKéMON LEAGUE.\p"
-	.string "I hear the best trainers gather\n"
-	.string "there from around the country.$"
+	.string "In fondo al lontano INDACO\n"
+	.string "PLATEAU c'è la LEGA POKéMON.\p"
+	.string "I migliori allenatori si\n"
+	.string "radunano da tutto il paese.$"
 
 BlackthornCity_PokemonCenter1FTwinText:
-	.string "There was this move I just had\n"
-	.string "to teach my POKéMON.\p"
-	.string "So I got the MOVE DELETER to make\n"
-	.string "it forget an HM move.$"
+	.string "Dovevo insegnare una mossa al\n"
+	.string "mio POKéMON.\p"
+	.string "Così ho fatto dimenticare una MN\n"
+	.string "col CANCELLAMOSSE.$"

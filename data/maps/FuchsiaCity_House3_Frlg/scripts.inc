@@ -65,26 +65,26 @@ FuchsiaCity_House3_Text_WhichMonShouldForgetMove::
 	.string "move?$"
 
 FuchsiaCity_House3_Text_WhichMoveShouldBeForgotten::
-	.string "Which move should be forgotten?$"
+	.string "Quale mossa dimenticare?$"
 
 FuchsiaCity_House3_Text_MonOnlyKnowsOneMove::
 	.string "{STR_VAR_1} seems to know only one\n"
 	.string "move…$"
 
 FuchsiaCity_House3_Text_MonsMoveShouldBeForgotten::
-	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "That move should be forgotten?$"
+	.string "Hm! {STR_VAR_2} di {STR_VAR_1}?\n"
+	.string "Da dimenticare, quella mossa?$"
 
 FuchsiaCity_House3_Text_MonHasForgottenMoveCompletely::
-	.string "It worked to perfection!\p"
-	.string "{STR_VAR_1} has forgotten\n"
-	.string "{STR_VAR_2} completely.$"
+	.string "Perfetto, ci siamo!\p"
+	.string "{STR_VAR_1} ha dimenticato\n"
+	.string "del tutto {STR_VAR_2}.$"
 
 FuchsiaCity_House3_Text_ComeAgainToForgetOtherMoves::
 	.string "Come again if there are other\n"
 	.string "moves to be forgotten.$"
 
 FuchsiaCity_House3_Text_NoEggShouldKnowMoves::
-	.string "What?\n"
-	.string "No EGG should know any moves.$"
+	.string "Cosa?\n"
+	.string "Un UOVO non conosce mosse.$"
 

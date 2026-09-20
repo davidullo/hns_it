@@ -65,28 +65,28 @@ CeladonCity_Condominiums_1F_Text_Meowth::
 	.string "MEOWTH: Meow!$"
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
-	.string "You shouldn't spend all your money\n"
-	.string "on drinks.\p"
-	.string "Try this instead.$"
+	.string "Non spendere tutti i soldi\n"
+	.string "nelle bevande.\p"
+	.string "Prova questo.$"
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
-	.string "Nothing beats thirst like some hot\n"
-	.string "TEA.\p"
-	.string "It really is the best.$"
+	.string "Niente spegne la sete come un\n"
+	.string "TÈ.\p"
+	.string "Il migliore, davvero.$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
-	.string "My dear POKéMON keep me company.\n"
-	.string "MEOWTH even brings money home!$"
+	.string "I miei POKéMON mi fanno compagnia.\n"
+	.string "MEOWTH porta pure a casa soldi!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
-	.string "Oh, hello, dearie.\n"
-	.string "Did you enjoy my TEA?\p"
-	.string "By the way, dear. Are you, by any\n"
-	.string "chance, from PALLET TOWN?\p"
-	.string "A girl from PALLET TOWN, DAISY,\n"
-	.string "she enjoys TEA every day.\p"
-	.string "She visits the CELADON DEPT. STORE\n"
-	.string "to buy some TEA.$"
+	.string "Oh, ciao, cara.\n"
+	.string "Ti è piaciuto il mio Tè?\p"
+	.string "A proposito, cara. Vieni\n"
+	.string "per caso da PALLET TOWN?\p"
+	.string "Una ragazza di PALLET TOWN, DAISY,\n"
+	.string "beve Tè ogni giorno.\p"
+	.string "Va al CENTRO COMMERCIALE di\n"
+	.string "CELADON a comprare il Tè.$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
 	.string "CLEFAIRY: Pi pippippi!$"
@@ -95,6 +95,6 @@ CeladonCity_Condominiums_1F_Text_Nidoran::
 	.string "NIDORAN♀: Kya kyaoo!$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
-	.string "CELADON MANSION\n"
-	.string "Manager's Suite$"
+	.string "PALAZZINA CELADON\n"
+	.string "Uso del Direttore$"
 

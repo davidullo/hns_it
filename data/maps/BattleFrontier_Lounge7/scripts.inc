@@ -329,16 +329,16 @@ BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack:
 	.string "speciali e carine?$"
 
 BattleFrontier_Lounge7_Text_TeachWhichMove:
-	.string "Fine, fine, look here!\n"
-	.string "Which move should I teach?$"
+	.string "Va bene, guarda qui!\n"
+	.string "Quale mossa insegno?$"
 
 BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
 	.string "La mossa {STR_VAR_1}, vero?\n"
 	.string "Sono {STR_VAR_2} Punti Lotta, va bene?$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
-	.string "Fine, fine, now pick the POKéMON\n"
-	.string "I should teach the move to.$"
+	.string "Va bene, scegli il POKéMON\n"
+	.string "a cui insegnare la mossa.$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints:
 	.string "Ma che…\n"
@@ -349,10 +349,10 @@ BattleFrontier_Lounge7_Text_IllTakeBattlePoints:
 	.string "I tuoi Punti Lotta sono miei, grazie!$"
 
 BattleFrontier_Lounge7_Text_YouDontWantTo:
-	.string "What's that?\n"
-	.string "You don't want to…\p"
-	.string "If you want to see how skilled I am,\n"
-	.string "you come see me anytime!$"
+	.string "Che c'è?\n"
+	.string "Non vuoi…\p"
+	.string "Se vuoi vedermi all'opera,\n"
+	.string "vieni a trovarmi!$"
 
 BattleFrontier_Lounge7_Text_RightTutorIntro:
 	.string "Ihihihi!\p"
@@ -378,11 +378,11 @@ BattleFrontier_Lounge7_Text_RightTutorWelcomeBack:
 	.string "dure e graziose?$"
 
 BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
-	.string "Those ladies, the way they bad-mouth\n"
-	.string "each other, you probably think that\l"
-	.string "they don't get along.\p"
-	.string "But if that were true, they wouldn't\n"
-	.string "stay out here together, would they?$"
+	.string "Quelle signore, a sentirsi parlare\n"
+	.string "così, pensi proprio che non vadano\l"
+	.string "d'accordo, vero?\p"
+	.string "Ma non è vero: se restano insieme\n"
+	.string "qui fuori, un motivo ci sarà.$"
 
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
 	.string "Quando ero un piccolo YOUNGSTER,\n"
@@ -397,14 +397,14 @@ BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
 	.string "Il tempo è rio…$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc::
-	.string "Recovers up to\n"
-	.string "half the user's\n"
-	.string "maximum HP.$"
+	.string "Recupera fino\n"
+	.string "a metà dei PS\n"
+	.string "massimi.$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc::
-	.string "Inflicts damage\n"
-	.string "identical to the\n"
-	.string "user's level.$"
+	.string "Infligge danni\n"
+	.string "pari al livello\n"
+	.string "dell'utente.$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc::
 	.string "Ruba metà dei\n"
@@ -427,9 +427,9 @@ BattleFrontier_Lounge7_Text_BodySlamDesc::
 	.string "che può paralizzare.$"
 
 BattleFrontier_Lounge7_Text_RockSlideDesc::
-	.string "Large boulders\n"
-	.string "are hurled. May\n"
-	.string "cause flinching.$"
+	.string "Grandi macigni\n"
+	.string "lanciati. Può\n"
+	.string "spaventare.$"
 
 BattleFrontier_Lounge7_Text_CounterDesc::
 	.string "Contrattacca i\n"
@@ -437,14 +437,14 @@ BattleFrontier_Lounge7_Text_CounterDesc::
 	.string "col doppio.$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc::
-	.string "A weak jolt of\n"
-	.string "electricity that\n"
-	.string "paralyzes the foe.$"
+	.string "Scossa debole\n"
+	.string "che paralizza il\n"
+	.string "nemico.$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc::
-	.string "A fighting dance\n"
-	.string "that sharply\n"
-	.string "raises ATTACK.$"
+	.string "Danza guerriera\n"
+	.string "che aumenta\n"
+	.string "l'ATTACCO.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc::
 	.string "Si arrotola,\n"
@@ -452,9 +452,9 @@ BattleFrontier_Lounge7_Text_DefenseCurlDesc::
 	.string "deboli, su DIFESA.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc::
-	.string "A loud attack\n"
-	.string "that can be used\n"
-	.string "only while asleep.$"
+	.string "Rumore forte\n"
+	.string "utilizzabile\n"
+	.string "solo dormendo.$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc::
 	.string "Lancia fango in\n"
@@ -462,9 +462,9 @@ BattleFrontier_Lounge7_Text_MudSlapDesc::
 	.string "cala la precisione.$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc::
-	.string "Sprays star-\n"
-	.string "shaped rays\n"
-	.string "that never miss.$"
+	.string "Lancia raggi\n"
+	.string "a stella che\n"
+	.string "non sbagliano.$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc::
 	.string "Attacco freddo\n"
@@ -487,9 +487,9 @@ BattleFrontier_Lounge7_Text_IcePunchDesc::
 	.string "che può gelare.$"
 
 BattleFrontier_Lounge7_Text_ThunderPunchDesc::
-	.string "An electrified\n"
-	.string "punch that may\n"
-	.string "paralyze the foe.$"
+	.string "Un pugno che\n"
+	.string "fulmina e può\n"
+	.string "paralizzare.$"
 
 BattleFrontier_Lounge7_Text_FirePunchDesc::
 	.string "Un pugno di\n"

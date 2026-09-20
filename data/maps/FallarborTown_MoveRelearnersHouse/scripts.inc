@@ -59,41 +59,41 @@ FallarborTown_MoveRelearnersHouse_EventScript_ComeBackWithHeartScale::
 	end
 
 FallarborTown_MoveRelearnersHouse_Text_ImTheMoveTutor:
-	.string "I'm the MOVE TUTOR.\p"
-	.string "I know all the moves that POKéMON\n"
-	.string "learn--every one of them--and I can\l"
-	.string "teach POKéMON those moves.\p"
-	.string "I can teach a move to a POKéMON\n"
-	.string "of yours if you'd like.\p"
-	.string "I'll do it for a HEART SCALE.\n"
-	.string "I'm collecting those now.$"
+	.string "Il MAESTRO DI MOSSE\p"
+	.string "sono io. Conosco tutte le mosse\n"
+	.string "che i POKéMON imparano, e posso\l"
+	.string "insegnarle ai POKéMON.\p"
+	.string "Posso insegnare una mossa a un\n"
+	.string "tuo POKéMON, se vuoi.\p"
+	.string "Lo faccio per FARFASCAGLIA.\n"
+	.string "Ne sto collezionando.$"
 
 FallarborTown_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
-	.string "Oh! That's it! That's an honest to\n"
-	.string "goodness HEART SCALE!\p"
-	.string "Let me guess, you want me to teach\n"
-	.string "a move?$"
+	.string "Oh! Ma è una FARFASCAGLIA\n"
+	.string "autentica!\p"
+	.string "Indovina: vuoi che ti insegni una\n"
+	.string "mossa?$"
 
 FallarborTown_MoveRelearnersHouse_Text_TutorWhichMon:
-	.string "Which POKéMON needs tutoring?$"
+	.string "Quale POKéMON va istruito?$"
 
 FallarborTown_MoveRelearnersHouse_Text_TeachWhichMove:
-	.string "Which move should I teach?$"
+	.string "Che mossa devo insegnare?$"
 
 FallarborTown_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
-	.string "Sorry…\p"
-	.string "It doesn't appear as if I have any move\n"
-	.string "I can teach that POKéMON.$"
+	.string "Scusa…\p"
+	.string "Sembra che non abbia mosse da\n"
+	.string "insegnare a quel POKéMON.$"
 
 FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale:
-	.string "{PLAYER} handed over one HEART SCALE\n"
-	.string "in exchange.$"
+	.string "{PLAYER} dà una FARFASCAGLIA\n"
+	.string "in cambio.$"
 
 FallarborTown_MoveRelearnersHouse_Text_ComeBackWithHeartScale:
-	.string "If your POKéMON need to learn a move,\n"
-	.string "come back with a HEART SCALE.$"
+	.string "Se un tuo POKéMON deve imparare\n"
+	.string "una mossa, con FARFASCAGLIA.$"
 
 FallarborTown_MoveRelearnersHouse_Text_CantTeachEgg:
-	.string "Hunh? There isn't a single move that\n"
-	.string "I can teach an EGG.$"
+	.string "Eh? Non ho mosse da insegnare\n"
+	.string "a un UOVO.$"
 

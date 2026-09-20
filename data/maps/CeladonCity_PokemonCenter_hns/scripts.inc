@@ -19,37 +19,37 @@ CeladonCity_PokemonCenter_EventScript_Eusine::
 	end
 
 CeladonCity_PokemonCenter1F_Text_CooltrainerF:
-	.string "ERIKA is a master of grass\n"
-	.string "POKéMON.\p"
-	.string "She'll make you pay if you don't\n"
-	.string "watch yourself.$"
+	.string "ERIKA è maestra di POKéMON\n"
+	.string "d'ERBA.\p"
+	.string "Ti farà pagare se non fai\n"
+	.string "attenzione.$"
 
 CeladonCity_PokemonCenter1F_Text_Pharmacist:
-	.string "TEAM ROCKET's hideout is in the\n"
-	.string "basement of the GAME CORNER.\p"
-	.string "Oh, wait. That was three years\n"
-	.string "ago.$"
+	.string "Il covo del TEAM ROCKET è nel\n"
+	.string "seminterrato del GAME CORNER.\p"
+	.string "Oh, aspetta. Sono passati tre\n"
+	.string "anni.$"
 
 Celadon_Text_Eusine1:
-	.string "EUSINE: Hi!\p"
-	.string "I'm back visiting my hometown.\p"
-	.string "It's been quite a while.$"
+	.string "EUSINE: Ehi!\p"
+	.string "Rivedo il mio paese natale.\p"
+	.string "Ne è passato di tempo.$"
 
 Celadon_Text_EusineLeaves:
-	.string "{PLAYER}, have you heard?\p"
-	.string "There have been fresh rumors of a\n"
-	.string "rainbow-colored POKéMON\n"
-	.string "appearing at TIN TOWER.\p"
-	.string "I've just had my party healed,\n"
-	.string "so now I'm headed to ECRUTEAK.\p"
-	.string "I'll be seeing you, {PLAYER}!$"
+	.string "{PLAYER}, hai saputo?\p"
+	.string "Ci sono nuove voci su un\n"
+	.string "POKéMON arcobaleno che\n"
+	.string "appare alla TIN TOWER.\p"
+	.string "Ho appena curato la squadra,\n"
+	.string "quindi ora vado a ECRUTEAK.\p"
+	.string "Ci vediamo, {PLAYER}!$"
 
 Celadon_Text_NoBeasts:
-	.string "Oh, by the way, {PLAYER}.\p"
-	.string "Have you caught the legendary\n"
-	.string "POKéMON RAIKOU and ENTEI?\p"
+	.string "A proposito, {PLAYER}.\p"
+	.string "Hai catturato i POKéMON\n"
+	.string "LEGGENDARI RAIKOU ed ENTEI?\p"
 	.string "<……><……><……>\p"
-	.string "Okay…\p"
-	.string "If you catch even one, I hope\n"
-	.string "that you'll inform me.\p"
-	.string "I'm counting on you, {PLAYER}!$"
+	.string "Ok…\p"
+	.string "Se ne catturi anche solo uno,\n"
+	.string "voglio saperlo.\p"
+	.string "Conto su di te, {PLAYER}!$"

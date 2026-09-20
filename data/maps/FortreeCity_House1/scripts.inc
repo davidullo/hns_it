@@ -56,8 +56,8 @@ FortreeCity_House1_Text_MonYouTakeCare:
 	.string "{STR_VAR_2}, you take care!$"
 
 FortreeCity_House1_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "Ah, no, temo di no.\n"
+	.string "Non è un {STR_VAR_1}.$"
 
 FortreeCity_House1_Text_YouWontTradeMe:
 	.string "No? You won't trade me?\n"

@@ -27,17 +27,17 @@ CeladonCity_PokemonCenter_1F_EventScript_Youngster::
 	end
 
 CeladonCity_PokemonCenter_1F_Text_PokeFluteAwakensSleepingMons::
-	.string "A POKé FLUTE awakens sleeping\n"
-	.string "POKéMON. You know that.\p"
-	.string "It does so with a sound that only\n"
-	.string "they can hear.$"
+	.string "Il POKé FLAUTO sveglia i\n"
+	.string "POKéMON dal sonno. Lo sai.\p"
+	.string "Lo fa con un suono che solo\n"
+	.string "loro sentono.$"
 
 CeladonCity_PokemonCenter_1F_Text_RodeHereFromFuchsia::
-	.string "I rode here from FUCHSIA.\p"
-	.string "It's an uphill ride on CYCLING\n"
-	.string "ROAD, so I'm exhausted.$"
+	.string "Ho pedalato da FUCHSIA.\p"
+	.string "È tutta in salita sulla PISTA\n"
+	.string "CICLABILE: che fatica!$"
 
 CeladonCity_PokemonCenter_1F_Text_GoToCyclingRoadIfIHadBike::
-	.string "If I had a BIKE, I would go to\n"
-	.string "CYCLING ROAD!$"
+	.string "Se avessi una BICICLETTA, andrei\n"
+	.string "alla PISTA CICLABILE!$"
 

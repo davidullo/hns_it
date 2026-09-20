@@ -109,9 +109,9 @@ PacifidlogTown_House2_Text_AdoringPokemonTakeThis:
 
 PacifidlogTown_House2_Text_PutInSomeMoreEffort:
 	.string "Hmm…\n"
-	.string "It's not bad, but it's also not good.\p"
-	.string "You, as the TRAINER, need to put in\n"
-	.string "some more effort.$"
+	.string "Non è male, ma non è granché.\p"
+	.string "Tu, come ALLENATORE, devi\n"
+	.string "impegnarti più.$"
 
 PacifidlogTown_House2_Text_ViciousPokemonTakeThis:
 	.string "It has a vicious look to it.\p"

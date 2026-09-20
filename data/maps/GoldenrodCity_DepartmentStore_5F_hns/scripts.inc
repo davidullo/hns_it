@@ -63,16 +63,16 @@ GoldenrodDeptStore5_EventScript_Receptionist_Already::
 	end
 
 GoldenrodDeptStore_Text_5FReceptionistOhYourMon:
-    .string "Hello. Oh, your POKéMON…$"
+    .string "Ciao. Il tuo POKéMON…$"
 
 GoldenrodDeptStore_Text_5FReceptionistWait:
-    .string "Wait, I already gave you that TM!$"
+    .string "Aspetta, ti ho già dato la MT!$"
 
 GoldenrodDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
 	.string "Hmm…\n"
-	.string "It's not bad, but it's also not good.\p"
-	.string "You, as the TRAINER, need to put in\n"
-	.string "some more effort.$"
+	.string "Non è male, ma non è granché.\p"
+	.string "Tu, come ALLENATORE, devi\n"
+	.string "impegnarti più.$"
 
 GoldenrodDeptStore_Text_5FReceptionistThisMoveShouldBePerfect:
     .string "It's very attached to you.\p"

@@ -867,10 +867,10 @@ SaffronCity_FightingDojoVIP_Text_Erika_Rematch:
 	.string "Want to have a rematch with me?$"
 
 SaffronCity_FightingDojoVIP_Text_Erika_RematchDefeat:
-	.string "ERIKA: Losing still leaves a\n"
-	.string "bitter aftertaste…\p"
-	.string "But knowing that there are strong\n"
-	.string "trainers spurs me to do better…$"
+	.string "ERIKA: Anche perdere\n"
+	.string "lascia l'amaro…\p"
+	.string "Ma sapere che ci sono\n"
+	.string "allenatori forti mi sprona…$"
 
 SaffronCity_FightingDojoVIP_Text_Sabrina_Rematch:
 	.string "SABRINA: Ah, the CHAMPION.\p"

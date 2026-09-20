@@ -394,24 +394,24 @@ CeruleanCity_Text_OhRightLittlePresentAsFavor::
 	.string "present as a favor.$"
 
 CeruleanCity_Text_ExplainFameCheckerSmellYa::
-	.string "A chatty gossip like you…\n"
-	.string "That thing's perfect.\p"
-	.string "I don't need it because I don't\n"
-	.string "give a hoot about others.\p"
-	.string "All right, this time I really am\n"
-	.string "gone. Smell ya!$"
+	.string "Chi chiacchiera come te…\n"
+	.string "È perfetto per te.\p"
+	.string "Non mi serve, non m'importa\n"
+	.string "degli altri.\p"
+	.string "Ok, stavolta me ne vado\n"
+	.string "davvero. Ciao!$"
 
 CeruleanCity_Text_GruntIntro::
-	.string "Hey! Stay out!\n"
-	.string "It's not your yard!\p"
-	.string "…Huh?\n"
-	.string "Me?\p"
-	.string "I'm an innocent bystander!\n"
-	.string "Don't you believe me?{PLAY_BGM}{MUS_RG_ENCOUNTER_ROCKET}$"
+	.string "Ehi! Vattene!\n"
+	.string "Non è casa tua!\p"
+	.string "…Eh?\n"
+	.string "Io?\p"
+	.string "Un passante innocente!\n"
+	.string "Non mi credi?{PLAY_BGM}{MUS_RG_ENCOUNTER_ROCKET}$"
 
 CeruleanCity_Text_GruntDefeat::
-	.string "GRUNT: Stop! I give up!\n"
-	.string "I'll leave quietly!$"
+	.string "RECLUTA: Mi arrendo!\n"
+	.string "Me ne vado zitto!$"
 
 CeruleanCity_Text_OkayIllReturnStolenTM::
 	.string "…Okay.\n"
@@ -422,8 +422,8 @@ CeruleanCity_Text_RecoveredTM28FromGrunt::
 	.string "the TEAM ROCKET GRUNT.$"
 
 CeruleanCity_Text_BetterGetMovingBye::
-	.string "I better get moving!\n"
-	.string "Bye!$"
+	.string "È meglio che vada!\n"
+	.string "Ciao!$"
 
 CeruleanCity_Text_MakeRoomForThisCantRun::
 	.string "Make room for this!\n"
@@ -514,9 +514,9 @@ CeruleanCity_Text_ThisIsCeruleanCave::
 	.string "made a great achievement.$"
 
 CeruleanCity_Text_CitySign::
-	.string "CERULEAN CITY\n"
-	.string "A Mysterious, Blue Aura Surrounds\l"
-	.string "It$"
+	.string "CELESTOPOLI\n"
+	.string "Un'aura blu e misteriosa la\l"
+	.string "avvolge.$"
 
 CeruleanCity_Text_TrainerTipsHeldItems::
 	.string "TRAINER TIPS\p"
@@ -526,11 +526,11 @@ CeruleanCity_Text_TrainerTipsHeldItems::
 	.string "the holding POKéMON in battle.$"
 
 CeruleanCity_Text_BikeShopSign::
-	.string "Grass and caves handled easily!\n"
-	.string "BIKE SHOP$"
+	.string "Erba e grotte senza problemi!\n"
+	.string "NEGOZIO BICI$"
 
 CeruleanCity_Text_GymSign::
-	.string "CERULEAN CITY POKéMON GYM\n"
-	.string "LEADER: MISTY\l"
-	.string "The Tomboyish Mermaid!$"
+	.string "PALESTRA POKéMON DI\n"
+	.string "CELESTOPOLI: MISTY\l"
+	.string "La sirena maschiaccio!$"
 

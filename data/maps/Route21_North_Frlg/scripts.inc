@@ -6,7 +6,7 @@ Route21_North_Text_RonaldIntro::
 	.string "biting?$"
 
 Route21_North_Text_RonaldDefeat::
-	.string "Dang!$"
+	.string "Uff!$"
 
 Route21_North_Text_RonaldPostBattle::
 	.string "I can't catch anything good.\n"

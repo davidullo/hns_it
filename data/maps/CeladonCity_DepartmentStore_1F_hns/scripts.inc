@@ -19,25 +19,25 @@ CeladonDept1_EventScript_Directory::
     end
 
 CeladonDeptStore_Text_1FReceptionist:
-    .string "Hello! Welcome to CELADON DEPT.\n"
-    .string "STORE!\p"
-    .string "The directory is on the wall.$"
+    .string "Ciao! Benvenuto al GR.\n"
+    .string "MAGAZZINI CELADON!\p"
+    .string "L'insegna è sul muro.$"
 
 CeladonDeptStore_Text_1FGentleman:
-    .string "This DEPT.STORE is part of the same\n"
-    .string "chain as the one in GOLDENROD CITY.\p"
-    .string "They were both renovated at the same\n"
-    .string "time.$"
+    .string "Questo GR. MAGAZZINI è della\n"
+    .string "stessa catena di quello di\p"
+    .string "FIORDOROPOLI, ristrutturati\n"
+    .string "nello stesso periodo.$"
 
 CeladonDeptStore_Text_1FTeacher:
-    .string "This is my first time here.\p"
-    .string "It's so big…\p"
-    .string "I'm afraid I'll get lost.$"
+    .string "È la mia prima volta qui.\p"
+    .string "È enorme…\p"
+    .string "Ho paura di perdermi.$"
 
 CeladonDeptStore_Text_1FDirectory:
-    .string "1F: SERVICE COUNTER\p"
-    .string "2F: TRAINER'S MARKET\p"
-    .string "3F: TM SHOP\p"
-    .string "4F: WISEMAN GIFTS\p"
-    .string "5F: DRUG STORE\p"
-    .string "6F: ROOFTOP SQUARE$"
+    .string "1F: BANCO ASSISTENZA\p"
+    .string "2F: MERCATO DELL'ALLENATORE\p"
+    .string "3F: NEGOZIO MT\p"
+    .string "4F: REGALI PER SAGGI\p"
+    .string "5F: FARMACIA\p"
+    .string "6F: PIAZZALE TERRAZZA$"

@@ -387,35 +387,35 @@ SlateportCity_Harbor_Text_FerryServiceUnavailable:
 	.string "available at present…$"
 
 SlateportCity_Harbor_Text_MayISeeYourTicket:
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "Salve, è qui per il traghetto?\n"
+	.string "Posso vedere il BIGLIETTO?$"
 
 SlateportCity_Harbor_Text_YouMustHaveTicket:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.string "{PLAYER} non ha il BIGLIETTO…\p"
+	.string "Mi dispiace davvero.\p"
+	.string "Per salire sul traghetto serve\n"
+	.string "un BIGLIETTO.$"
 
 SlateportCity_Harbor_Text_FlashedTicketWhereTo:
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.string "{PLAYER} mostra il BIGLIETTO.\p"
+	.string "Perfetto! È tutto qui!\p"
+	.string "E dove vuoi andare?$"
 
 SlateportCity_Harbor_Text_SailAnotherTime:
-	.string "Please sail with us another time!$"
+	.string "Viaggiate con noi un'altra volta!$"
 
 SlateportCity_Harbor_Text_LilycoveItIs:
-	.string "LILYCOVE CITY it is, then!$"
+	.string "Allora si va a PORTALBA!$"
 
 SlateportCity_Harbor_Text_BattleFrontierItIs:
 	.string "BATTLE FRONTIER it is, then!$"
 
 SlateportCity_Harbor_Text_PleaseBoardFerry:
-	.string "Please board the ferry and wait for\n"
-	.string "departure.$"
+	.string "Salite sul traghetto e aspettate\n"
+	.string "la partenza.$"
 
 SlateportCity_Harbor_Text_WhereWouldYouLikeToGo:
-	.string "Then, where would you like to go?$"
+	.string "Dove vuoi andare, allora?$"
 
 SlateportCity_Harbor_Text_LoveToGoDeepUnderwaterSomeday:
 	.string "A journey to the bottom of the sea…\n"

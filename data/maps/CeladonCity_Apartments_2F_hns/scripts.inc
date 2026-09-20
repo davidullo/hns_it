@@ -15,20 +15,20 @@ CeladonCity_Apartments_2F_EventScript_Sign::
 	end
 
 CeladonMansion2F_Text_Computer:
-	.string "{PLAYER} turned on the PC.\p"
+	.string "{PLAYER} usa il PC.\p"
 	.string "…\p"
-	.string "Someone was in the middle of\n"
-	.string "composing an e-mail.\p"
-	.string "…I hope you'll come visit KANTO.\p"
-	.string "I think you'll be surprised at\n"
-	.string "how much things have changed here.\p"
-	.string "You'll also see many POKéMON that\n"
-	.string "aren't native to JOHTO.\p"
-	.string "To the PRODUCER\p"
+	.string "Qualcuno stava scrivendo\n"
+	.string "una e-mail.\p"
+	.string "…Spero che verrai in KANTO.\p"
+	.string "Ti stupirà vedere quanto è\n"
+	.string "cambiato tutto qui.\p"
+	.string "Vedrai anche molti POKéMON che\n"
+	.string "non sono di JOHTO.\p"
+	.string "Al PRODUTTORE\p"
 	.string "…$"
 
 CeladonMansion2F_Text_DevOfficeSign:
-	.string "HEART & SOUL DEVELOPMENT OFFICE$"
+	.string "UFFICIO SVILUPPO HEART & SOUL$"
 
 CeladonMansion2F_EventScript_LilDill::
 	msgbox CeladonMansion2F_Text_LilDill, MSGBOX_NPC
@@ -55,48 +55,48 @@ CeladonMansion2F_EventScript_DaniRainbow::
     end
 
 CeladonMansion2F_Text_LilDill:
-	.string "Hi all, Patch 15--\p"
-	.string "Sorry, I mean...\p"
-	.string "Hi there, I'm the GAME DIRECTOR!\p"
-	.string "I built the maps, the tilesets, the\n"
-	.string "the scripts, and much more.\p"
-	.string "But I couldn't have done it without\n"
-	.string "the other devs and the playtesters.\p"
-	.string "Thank you for playing! I hope you've\n"
-	.string "enjoyed POKéMON HEART & SOUL.$"
+	.string "Ciao, la Patch 15...\p"
+	.string "Scusa, cioè...\p"
+	.string "Ciao, sono il GAME DIRECTOR!\p"
+	.string "Ho creato le mappe, i tileset,\n"
+	.string "gli script e molto altro.\p"
+	.string "Ma non ce l'avrei fatta senza\n"
+	.string "gli altri dev e i playtester.\p"
+	.string "Grazie per giocare! Spero che\n"
+	.string "vi sia piaciuto HEART & SOUL.$"
 
 CeladonMansion2F_Text_InfiniteBacon:
-	.string "We're working to rebuild this game\n"
-	.string "in pokeemerald expansion!$"
+	.string "Stiamo rifacendo il gioco\n"
+	.string "con pokeemerald expansion!$"
 
 CeladonMansion2F_Text_TixoRebel:
-	.string "Have you heard of THE EGGENING?\n"
-	.string "It was a bug from the playtest\l"
-	.string "that randomly changed POKéMON into\l"
-	.string "EGGs!\p"
-	.string "I developed the fix for it!$"
+	.string "Hai sentito parlare di THE EGGENING?\n"
+	.string "Era un bug del playtest\l"
+	.string "che trasformava a caso i POKéMON\l"
+	.string "in UOVA!\p"
+	.string "La correzione l'ho fatta io!$"
 
 CeladonMansion2F_Text_Phant:
-	.string "I love DEMAKES!\p"
-	.string "Have you played SWORD AND SHIELD\n"
+	.string "Adoro i DEMAKE!\p"
+	.string "Hai giocato a SWORD AND SHIELD\n"
 	.string "ULTIMATE PLUS - ENGLISH?\l"
-	.string "I translated it!\p"
-	.string "For my next DEMAKE, I think I'll\n"
-	.string "do ALOLA!$"
+	.string "L'ho tradotto io!\p"
+	.string "Per il prossimo DEMAKE penso\n"
+	.string "di fare ALOLA!$"
 
 CeladonMansion2F_Text_Exclsior:
-	.string "I implemented the unique surfing\n"
-	.string "surfing sprites for each POKéMON!\p"
-	.string "Since the project is OPEN SOURCE,\n"
-	.string "you can add your own features too!$"
+	.string "Ho realizzato le sprite uniche\n"
+	.string "di NUOTA per ogni POKéMON!\p"
+	.string "Il progetto è OPEN SOURCE,\n"
+	.string "aggiungi anche tu novità!$"
 
 CeladonMansion2F_Text_DaniRaibow:
-	.string "Hi!\p"
-	.string "I am pretty good at finding problems,\n"
-	.string "and can fix little ones.\p"
-    .string "Wanna hear a joke?\p"
-    .string "Lance tried to teach DRAGONITE the\n"
-    .string "move DRAGON BREATH.\p"
-    .string "However, DRAGONITE was moving too\n"
-    .string "fast from EXTREMESPEED; it couldn't\l"
-    .string "catch it!$"
+	.string "Oh!\p"
+	.string "Sono bravo a trovare i difetti,\n"
+	.string "e a sistemare i piccoli.\p"
+    .string "Una barzelletta?\p"
+    .string "LANCE ha provato a insegnare\n"
+    .string "ALITO DRAGO a DRAGONITE.\p"
+    .string "Ma DRAGONITE andava troppo\n"
+    .string "veloce con IPERVELOCITÀ e non\l"
+    .string "beccarla!$"

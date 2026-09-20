@@ -602,8 +602,8 @@ BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid_hns:
 	.string "nella PIRAMIDE.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping_hns:
-	.string "We will hold your BAG for safekeeping,\n"
-	.string "{PLAYER}, while you are exploring.$"
+	.string "Ti teniamo la BORSA al sicuro,\n"
+	.string "{PLAYER}, mentre esplori.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag_hns:
 	.string "In cambio, prendi questo ZAINO,\n"
@@ -640,11 +640,11 @@ BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid_hns:
 	.string "Che meraviglia!$"
 
 BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake_hns:
-	.string "Ah, a slight problem.\p"
-	.string "At least one POKéMON is holding\n"
-	.string "an item.\p"
-	.string "I'm sorry to say, items obtained in\n"
-	.string "the PYRAMID cannot be taken away.$"
+	.string "Ah, un problema.\p"
+	.string "Almeno un POKéMON ha un\n"
+	.string "oggetto.\p"
+	.string "Mi dispiace, ma gli oggetti\n"
+	.string "della PIRAMIDE non si tengono.$"
 
 BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag_hns:
 	.string "Gli strumenti dei tuoi POKéMON\n"

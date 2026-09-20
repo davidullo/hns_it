@@ -52,44 +52,44 @@ CeladonCity_Condominiums_3F_EventScript_Computer3::
 	end
 
 CeladonCity_Condominiums_3F_Text_ImTheProgrammer::
-	.string "Me?\n"
-	.string "I'm the programmer!$"
+	.string "Io?\n"
+	.string "Sono il programmatore!$"
 
 CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
-	.string "I'm the graphic artist!\n"
-	.string "I drew you!$"
+	.string "Sono il grafico!\n"
+	.string "Ti ho disegnato io!$"
 
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
-	.string "I wrote the story!\n"
-	.string "Isn't ERIKA cute?\p"
-	.string "I like MISTY a lot, too!\n"
-	.string "Oh, and SABRINA, I like her!$"
+	.string "Ho scritto la storia!\n"
+	.string "ERIKA non è carina?\p"
+	.string "MISTY mi piace un sacco!\n"
+	.string "E anche SABRINA, mi piace!$"
 
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
-	.string "Is that right?\p"
-	.string "I'm the game designer!\p"
-	.string "Filling up your POKéDEX is tough,\n"
-	.string "but don't quit!\p"
-	.string "When you finish, come tell me!$"
+	.string "Davvero?\p"
+	.string "Sono il game designer!\p"
+	.string "Completare il POKéDEX è duro,\n"
+	.string "ma non mollare!\p"
+	.string "Quando finisci, vienimi a dire!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
-	.string "Wow! Excellent!\n"
-	.string "You completed your POKéDEX!\l"
-	.string "Congratulations!\l"
+	.string "Wow! Ottimo!\n"
+	.string "Hai completato il POKéDEX!\l"
+	.string "Congratulazioni!\l"
 	.string "…$"
 
 CeladonCity_Condominiums_3F_Text_ItsTheGameProgram::
-	.string "It's the game program! Messing with\n"
-	.string "it could bug out the game!$"
+	.string "È il programma del gioco!\n"
+	.string "Modificarlo può fare errori!$"
 
 CeladonCity_Condominiums_3F_Text_SomeonesPlayingGame::
-	.string "Someone's playing a game instead of\n"
-	.string "working!$"
+	.string "Qualcuno gioca invece\n"
+	.string "di lavorare!$"
 
 CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding::
-	.string "It's the script!\n"
-	.string "Better not look at the ending!$"
+	.string "È lo script!\n"
+	.string "Meglio non guardare il finale!$"
 
 CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom::
-	.string "GAME FREAK Development Room$"
+	.string "Stanza di Sviluppo GAME FREAK$"
 
