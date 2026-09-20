@@ -157,6 +157,15 @@ def wordsish(text: str) -> bool:
     return bool(re.search(r"[A-Za-z]", text))
 
 
+# testo giapponese rimasto nel sorgente (ramo JP del gioco): non e' tradotto,
+# quindi non va contato come "fatto"
+CJK_RE = re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uff66-\uff9f]")
+
+
+def is_japanese(text: str) -> bool:
+    return bool(CJK_RE.search(text))
+
+
 def ascii_punct(text: str) -> str:
     """Punteggiatura come nei testi del gioco: apostrofo dritto, niente “ ”.
 
@@ -190,13 +199,15 @@ def apply_units(units: list, glossary, prose, limits, metrics: Metrics, dry_run:
         if not lines:
             continue
         limit = limits.limit(unit.file, unit.label)
-        # testi senza lettere (es. "???", "- - -"): restano come sono
+        # testi senza lettere latine: o simboli (restano come sono) o stringhe
+        # giapponesi del ramo JP, che NON sono tradotte e non vanno contate
         if all(not wordsish(CONTROL_RE.sub("", line)) for line in lines):
+            japanese = any(is_japanese(line) for line in lines)
             if not dry_run:
                 unit.it = list(lines)
-                unit.status = "auto"
-                unit.note = "identico:simboli"
-            counts["identico:simboli"] += 1
+                unit.status = "skipped" if japanese else "auto"
+                unit.note = "sorgente giapponese" if japanese else "identico:simboli"
+            counts["sorgente giapponese" if japanese else "identico:simboli"] += 1
             continue
 
         allowed = allowed_kinds(unit)

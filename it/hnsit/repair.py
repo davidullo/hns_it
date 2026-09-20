@@ -18,8 +18,25 @@ from pathlib import Path
 from . import batching as batchmod
 from . import verify as verifymod
 from . import store
-from .autofill import allowed_kinds, allowed_prose
+from .autofill import allowed_kinds, allowed_prose, is_japanese
 from .textparse import Metrics
+
+
+def mark_japanese(units: dict) -> int:
+    """Le stringhe del ramo giapponese non sono tradotte: non contarle come fatte.
+
+    Erano marcate `auto` con nota "identico:simboli" solo perche' non hanno
+    lettere latine: cosi' il conteggio delle unita' fatte mentiva.
+    """
+    n = 0
+    for unit in units.values():
+        if unit.status == "skipped" or not unit.it:
+            continue
+        if any(is_japanese(line) for line in unit.it):
+            unit.status = "skipped"
+            unit.note = "sorgente giapponese"
+            n += 1
+    return n
 
 
 def wrong_context(unit, units: dict | None = None) -> str | None:
@@ -94,7 +111,11 @@ def main() -> int:
     if stale:
         print(f"unita' pending con traduzione rimasta: {len(stale)}")
 
-    if args.apply and (bad or stale):
+    jp = mark_japanese(units)
+    if jp:
+        print(f"stringhe del ramo giapponese marcate come non tradotte: {jp}")
+
+    if args.apply and (bad or stale or jp):
         for key, _problems in bad:
             unit = units[key]
             unit.prev_it = unit.it
