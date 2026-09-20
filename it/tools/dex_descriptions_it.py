@@ -524,6 +524,19 @@ class Esito:
 def process(blocks: list[Block], index: dict[int, str], dex_map: dict[str, int],
             metrics, only: str | None = None) -> list[Esito]:
     esiti: list[Esito] = []
+    # Alcune forme (Vivillon, Flabe'be'...) non hanno `.natDexNum` nel blocco:
+    # lo prendono dalla macro di famiglia, quindi si eredita dalla specie base
+    # che ha lo stesso prefisso di nome.
+    noto: dict[str, str] = {}
+    for blk in blocks:
+        if blk.dex:
+            noto[blk.species] = blk.dex
+    for blk in blocks:
+        if blk.dex is None:
+            for base in sorted(noto, key=len, reverse=True):
+                if blk.species.startswith(base + "_"):
+                    blk.dex = noto[base]
+                    break
     for blk in blocks:
         if only and blk.species != only:
             continue
