@@ -345,7 +345,7 @@ static const u8 *const sChoices_OnOff[] = {
 
 static const u8 *const sChoices_Gamemode[] = {
     COMPOUND_STRING("CONSIGLIATO"),
-    COMPOUND_STRING("PERSONALIZZA"),
+    COMPOUND_STRING("CUSTOM"),
 };
 
 static const u8 *const sChoices_OriginalModern[] = {
