@@ -389,46 +389,46 @@ BattleFrontier_Lounge7_EventScript_CancelChooseMon_hns::
 
 BattleFrontier_Lounge7_Text_LeftTutorIntro_hns:
 	.string "Buhahaha!\p"
-	.string "You couldn't tell it from looking now,\n"
-	.string "but I used to be one tough TRAINER.\p"
-	.string "I had a reputation as the toughest\n"
-	.string "BEAUTY around, I tell you!\p"
+	.string "A vedermi ora non lo diresti,\n"
+	.string "ma ero un ALLENATORE durissimo.\p"
+	.string "Ero famosa come la BELLA più\n"
+	.string "dura in giro, giuro!\p"
 	.string "… … … … … …\p"
-	.string "What is it now?\n"
-	.string "You don't believe me.\p"
-	.string "I'm not like that blowhard woman over\n"
-	.string "there. I'm actually talented!\p"
-	.string "Let me prove it to you.\n"
-	.string "I can teach your POKéMON special and\l"
-	.string "yet cute moves.\p"
-	.string "But my lessons don't come free.\n"
-	.string "How about paying for the moves I teach\l"
-	.string "with a wee bit of Battle Points?$"
+	.string "Che c'è ora?\n"
+	.string "Non mi credi.\p"
+	.string "Non sono come quella spaccona là\n"
+	.string "Sono davvero brava!\p"
+	.string "Te lo dimostro.\n"
+	.string "Insegno ai tuoi POKéMON mosse\l"
+	.string "speciali e carine.\p"
+	.string "Ma le lezioni non sono gratis.\n"
+	.string "Che ne dici di pagare le mosse\l"
+	.string "con qualche Punto Lotta?$"
 
 BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack_hns:
 	.string "Buhahaha!\p"
-	.string "Are you back to learn special and\n"
-	.string "yet cute POKéMON moves?$"
+	.string "Sei tornato per imparare mosse\n"
+	.string "speciali e carine?$"
 
 BattleFrontier_Lounge7_Text_TeachWhichMove_hns:
 	.string "Fine, fine, look here!\n"
 	.string "Which move should I teach?$"
 
 BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints_hns:
-	.string "The move {STR_VAR_1}, is it?\n"
-	.string "That will be {STR_VAR_2} Battle Points, okay?$"
+	.string "La mossa {STR_VAR_1}, vero?\n"
+	.string "Sono {STR_VAR_2} Punti Lotta, va bene?$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon_hns:
 	.string "Fine, fine, now pick the POKéMON\n"
 	.string "I should teach the move to.$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints_hns:
-	.string "What the…\n"
-	.string "You haven't got enough Battle Points!$"
+	.string "Ma che…\n"
+	.string "Non hai abbastanza Punti Lotta!$"
 
 BattleFrontier_Lounge7_Text_IllTakeBattlePoints_hns:
-	.string "Do you see how skilled I am now?\n"
-	.string "I'll take your Battle Points, thanks!$"
+	.string "Hai visto che bravo che sono?\n"
+	.string "I tuoi Punti Lotta sono miei, grazie!$"
 
 BattleFrontier_Lounge7_Text_YouDontWantTo_hns:
 	.string "What's that?\n"
@@ -438,26 +438,26 @@ BattleFrontier_Lounge7_Text_YouDontWantTo_hns:
 
 BattleFrontier_Lounge7_Text_RightTutorIntro_hns:
 	.string "Ihihihi!\p"
-	.string "I know it's hard to see now, but I used\n"
-	.string "to be one fantastic TRAINER.\p"
-	.string "I had a reputation as the most\n"
-	.string "invincible SWIMMER around, I tell you!\p"
+	.string "Lo so, ora non si vede, ma ero\n"
+	.string "un ALLENATORE fantastico.\p"
+	.string "Ero famosa come la NUOTATRICE\n"
+	.string "invincibile della zona, giuro!\p"
 	.string "… … … … … …\p"
-	.string "What's wrong?\n"
-	.string "You don't believe me.\p"
-	.string "I'm not like that buffoonish woman over\n"
-	.string "there. I'm actually experienced!\p"
-	.string "I can prove it to you.\n"
-	.string "I can teach your POKéMON hard and\l"
-	.string "yet pretty moves.\p"
-	.string "But my lessons don't come free.\n"
-	.string "How about paying for the moves I teach\l"
-	.string "with a wee bit of Battle Points?$"
+	.string "Che c'è?\n"
+	.string "Non mi credi.\p"
+	.string "Non sono come quella pagliaccia\n"
+	.string "Sono esperta davvero!\p"
+	.string "Posso dimostrartelo.\n"
+	.string "Insegno ai tuoi POKéMON mosse\l"
+	.string "dure e graziose.\p"
+	.string "Ma le lezioni non sono gratis.\n"
+	.string "Che ne dici di pagare le mosse\l"
+	.string "con qualche Punto Lotta?$"
 
 BattleFrontier_Lounge7_Text_RightTutorWelcomeBack_hns:
 	.string "Ihihihi!\p"
-	.string "Have you come to learn hard and\n"
-	.string "yet pretty POKéMON moves?$"
+	.string "Sei tornato per imparare mosse\n"
+	.string "dure e graziose?$"
 
 BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong_hns:
 	.string "Those ladies, the way they bad-mouth\n"
@@ -467,16 +467,16 @@ BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong_hns:
 	.string "stay out here together, would they?$"
 
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful_hns:
-	.string "When I was just a wee YOUNGSTER,\n"
-	.string "those ladies were strong and beautiful.\p"
-	.string "They were idols among us TRAINERS.\p"
-	.string "Even now, age hasn't dulled their\n"
-	.string "abilities.\p"
-	.string "In fact, their POKéMON moves have\n"
-	.string "grown even more polished.\p"
-	.string "But… For some reason, I can't help\n"
-	.string "but feel this…\p"
-	.string "Time is so cruel…$"
+	.string "Quando ero un piccolo YOUNGSTER,\n"
+	.string "quelle signore erano forti e belle.\p"
+	.string "Erano idoli per noi ALLENATORI.\p"
+	.string "Ancora oggi l'età non ha spento\n"
+	.string "il talento.\p"
+	.string "Anzi, le mosse dei loro POKéMON\n"
+	.string "sono ancora più raffinate.\p"
+	.string "Ma… Non so perché, mi viene da\n"
+	.string "dire che…\p"
+	.string "Il tempo è rio…$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc_hns::
 	.string "Recovers up to\n"
@@ -489,24 +489,24 @@ BattleFrontier_Lounge7_Text_SeismicTossDesc_hns::
 	.string "user's level.$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc_hns::
-	.string "Recovers half the\n"
-	.string "damage inflicted\n"
-	.string "on a sleeping foe.$"
+	.string "Ruba metà dei\n"
+	.string "danni a un nemico\n"
+	.string "che sta dormendo.$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc_hns::
-	.string "A strong punch\n"
-	.string "thrown with\n"
-	.string "incredible power.$"
+	.string "Pugno potente\n"
+	.string "buttato con\n"
+	.string "forza incredibile.$"
 
 BattleFrontier_Lounge7_Text_MegaKickDesc_hns::
-	.string "An extremely\n"
-	.string "powerful kick with\n"
-	.string "intense force.$"
+	.string "Un calcio\n"
+	.string "potentissimo e\n"
+	.string "devastante.$"
 
 BattleFrontier_Lounge7_Text_BodySlamDesc_hns::
-	.string "A full-body slam\n"
-	.string "that may cause\n"
-	.string "paralysis.$"
+	.string "Colpo con\n"
+	.string "tutto il corpo\n"
+	.string "che può paralizzare.$"
 
 BattleFrontier_Lounge7_Text_RockSlideDesc_hns::
 	.string "Large boulders\n"
@@ -514,9 +514,9 @@ BattleFrontier_Lounge7_Text_RockSlideDesc_hns::
 	.string "cause flinching.$"
 
 BattleFrontier_Lounge7_Text_CounterDesc_hns::
-	.string "Retaliates any\n"
-	.string "physical hit with\n"
-	.string "double the power.$"
+	.string "Contrattacca i\n"
+	.string "colpi fisici\n"
+	.string "col doppio.$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc_hns::
 	.string "A weak jolt of\n"
@@ -529,9 +529,9 @@ BattleFrontier_Lounge7_Text_SwordsDanceDesc_hns::
 	.string "raises ATTACK.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc_hns::
-	.string "Curls up to con-\n"
-	.string "ceal weak spots\n"
-	.string "and raise DEFENSE.$"
+	.string "Si arrotola,\n"
+	.string "occulta i punti\n"
+	.string "deboli, su DIFESA.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc_hns::
 	.string "A loud attack\n"
@@ -539,9 +539,9 @@ BattleFrontier_Lounge7_Text_SnoreDesc_hns::
 	.string "only while asleep.$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc_hns::
-	.string "Hurls mud in the\n"
-	.string "foe's face to re-\n"
-	.string "duce its accuracy.$"
+	.string "Lancia fango in\n"
+	.string "faccia al nemico e\n"
+	.string "cala la precisione.$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc_hns::
 	.string "Sprays star-\n"
@@ -549,24 +549,24 @@ BattleFrontier_Lounge7_Text_SwiftDesc_hns::
 	.string "that never miss.$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc_hns::
-	.string "A chilling attack\n"
-	.string "that lowers the\n"
-	.string "foe's SPEED.$"
+	.string "Attacco freddo\n"
+	.string "che taglia la\n"
+	.string "VELOCITÀ.$"
 
 BattleFrontier_Lounge7_Text_EndureDesc_hns::
-	.string "Endures any at-\n"
-	.string "tack for 1 turn,\n"
-	.string "leaving 1HP.$"
+	.string "Resiste a ogni\n"
+	.string "attacco 1 turno,\n"
+	.string "con 1PS.$"
 
 BattleFrontier_Lounge7_Text_PsychUpDesc_hns::
-	.string "Copies the foe's\n"
-	.string "effect(s) and\n"
-	.string "gives to the user.$"
+	.string "Copia l'effetto\n"
+	.string "del nemico e\n"
+	.string "se lo prende.$"
 
 BattleFrontier_Lounge7_Text_IcePunchDesc_hns::
-	.string "An icy punch\n"
-	.string "that may\n"
-	.string "freeze the foe.$"
+	.string "Un pugno\n"
+	.string "di ghiaccio\n"
+	.string "che può gelare.$"
 
 BattleFrontier_Lounge7_Text_ThunderPunchDesc_hns::
 	.string "An electrified\n"
@@ -574,9 +574,9 @@ BattleFrontier_Lounge7_Text_ThunderPunchDesc_hns::
 	.string "paralyze the foe.$"
 
 BattleFrontier_Lounge7_Text_FirePunchDesc_hns::
-	.string "A fiery punch\n"
-	.string "that may burn\n"
-	.string "the foe.$"
+	.string "Un pugno di\n"
+	.string "fuoco che può\n"
+	.string "bruciare.$"
 
 
 BattleFrontier_Lounge7_Text_ElementalTutorIntro::

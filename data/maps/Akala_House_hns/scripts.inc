@@ -11,7 +11,7 @@ Alola_Akala_House_OldWoman::
 
 
 Alola_Akala_House_OldWoman_Text_0:
-	.string "I tell my husband everyday not to feed\n"
-	.string "the NATU, but he never listens!\p"
-	.string "One day he'll bring one of those darn\n"
-	.string "things home, I just know it!$"
+	.string "Dico ogni giorno a mio marito di\n"
+	.string "non dare da mangiare ai NATU,\p"
+	.string "ma non mi ascolta mai!\n"
+	.string "Un giorno se ne porta a casa uno, lo so!$"

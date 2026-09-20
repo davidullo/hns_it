@@ -1003,8 +1003,8 @@ MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
 	.string "the {STR_VAR_1} {STR_VAR_2}?$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "Grazie!\n"
+	.string "Te lo invieremo al PC di casa.$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
 	.string "You don't have enough COINS.$"

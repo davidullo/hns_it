@@ -22,14 +22,19 @@ from .autofill import allowed_kinds, allowed_prose
 from .textparse import Metrics
 
 
-def wrong_context(unit) -> str | None:
+def wrong_context(unit, units: dict | None = None) -> str | None:
     """Riempimento automatico non piu' valido per le regole attuali.
 
     Se le regole del glossario cambiano, i riempimenti vecchi restano: qui si
     riconoscono quelli fatti col tipo sbagliato (es. "GUTS" nome di allenatore
-    tradotto con l'abilita' "Dentistretti").
+    tradotto con l'abilita' "Dentistretti") e quelli copiati via translation
+    memory da un contesto che qui non vale.
     """
     note = unit.note or ""
+    if note.startswith("tm:"):
+        # il contesto vale quello della sorgente della copia
+        kind = _tm_kind(note, units)
+        note = f"glossary:{kind}" if kind else "tm"
     if note.startswith("glossary"):
         kind = note.split(":")[-1]
         allowed = allowed_kinds(unit)
@@ -38,6 +43,19 @@ def wrong_context(unit) -> str | None:
     elif note == "prose" and not allowed_prose(unit):
         return "contesto: prose non ammesse qui"
     return None
+
+
+def _tm_kind(note: str, units: dict | None = None) -> str:
+    """Tipo di glossario dell'unita' sorgente di una copia `tm:<key>`."""
+    key = note[3:]
+    src = (units or store.load_all()).get(key)
+    if src is None or not src.note:
+        return ""
+    if src.note.startswith("glossary"):
+        return src.note.split(":")[-1]
+    if src.note.startswith("tm:"):
+        return _tm_kind(src.note, units)
+    return ""
 
 
 def main() -> int:
@@ -64,7 +82,7 @@ def main() -> int:
             for p in verifymod.check_unit(unit, metrics, verifymod.limits_for(store.repo_root()))
             if not p.startswith("W:")
         ]
-        context = wrong_context(unit)
+        context = wrong_context(unit, units)
         if context:
             problems.append(context)
         if problems:
@@ -79,15 +97,17 @@ def main() -> int:
     if args.apply and (bad or stale):
         for key, _problems in bad:
             unit = units[key]
+            unit.prev_it = unit.it
             unit.it = None
             unit.status = "pending"
             unit.note = "reset:verifica"
         for key in stale:
             unit = units[key]
+            unit.prev_it = unit.it
             unit.it = None
             unit.note = "reset:verifica"
         batchmod.save_all(units)
-        print("riportate a pending")
+        print("riportate a pending (il sorgente torna all'inglese al prossimo inject)")
     return 0
 
 

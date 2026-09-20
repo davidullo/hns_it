@@ -315,7 +315,7 @@ Alola_Ulaula_MtLanikalaSign_Text_0:
 	.string "lost to time.$"
 
 Alola_Ulaula_UlaulaSign_Text_0:
-	.string "ULA'ULA ISLE$"
+	.string "ISOLA ULA'ULA$"
 
 Alola_Ulaula_Phant_outside_Text_0:
 	.string "Hello there, {PLAYER}!\p"
@@ -711,5 +711,5 @@ Alola_Ulaula_Text_TutorMove_WorkUp:
 	.string "CUORDILEONE$"
 
 Alola_Ulaula_Text_TutorMove_Cancel:
-	.string "CANCEL$"
+	.string "ANNULLA$"
 

@@ -397,7 +397,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Conditions[] = {
     },
     [EC_INDEX(EC_WORD_SIMPLE)] =
     {
-        .text = COMPOUND_STRING("DISINVOLTURA"),
+        .text = COMPOUND_STRING("SIMPLE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WEAKENED),
         .enabled = TRUE,
     },

@@ -120,7 +120,7 @@ VioletGym_Text_BirdKeeperRod_Seen:
 	.string "Come on!$"
 
 VioletGym_Text_BirdKeeperRod_Beaten:
-	.string "Gaaah!$"
+	.string "Aaah!$"
 
 VioletGym_Text_BirdKeeperRod_After:
 	.string "FALKNER's skills are for real!\p"

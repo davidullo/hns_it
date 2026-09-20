@@ -433,130 +433,130 @@ BattleFrontier_BattleTowerBattleRoom_EventScript_RetireChallenge_hns::
 	end
 
 BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth_hns:
-	.string "We will restore your POKéMON to\n"
-	.string "full health.$"
+	.string "Riporteremo i tuoi POKéMON\n"
+	.string "a piena salute.$"
 
 @ Unused
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent_hns:
-	.string "You will be facing opponent no. {STR_VAR_1}.\n"
-	.string "Are you ready?$"
+	.string "Affronterai l'avversario {STR_VAR_1}.\n"
+	.string "Pronto?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent_hns:
-	.string "You will be facing opponent no. 2.\n"
-	.string "Are you ready?$"
+	.string "Affronterai l'avversario 2.\n"
+	.string "Pronto?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor3rdOpponent_hns:
-	.string "You will be facing opponent no. 3.\n"
-	.string "Are you ready?$"
+	.string "Affronterai l'avversario 3.\n"
+	.string "Pronto?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor4thOpponent_hns:
-	.string "You will be facing opponent no. 4.\n"
-	.string "Are you ready?$"
+	.string "Affronterai l'avversario 4.\n"
+	.string "Pronto?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor5thOpponent_hns:
-	.string "You will be facing opponent no. 5.\n"
-	.string "Are you ready?$"
+	.string "Affronterai l'avversario 5.\n"
+	.string "Pronto?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor6thOpponent_hns:
-	.string "You will be facing opponent no. 6.\n"
-	.string "Are you ready?$"
+	.string "Affronterai l'avversario 6.\n"
+	.string "Pronto?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent_hns:
-	.string "You will be facing opponent no. 7.\n"
-	.string "Are you ready?$"
+	.string "Affronterai l'avversario 7.\n"
+	.string "Pronto?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle_hns:
-	.string "Record your battle on your\n"
-	.string "FRONTIER PASS?$"
+	.string "Registri la lotta sul\n"
+	.string "SUPERPASS?$"
 
 BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass_hns:
-	.string "{PLAYER}'s battle was recorded\n"
-	.string "on the FRONTIER PASS.$"
+	.string "La lotta di {PLAYER} è stata\n"
+	.string "registrata sul SUPERPASS.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "Vuoi salvare e uscire\n"
+	.string "dal gioco?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait_hns:
-	.string "Saving your battle data.\n"
-	.string "Please wait.$"
+	.string "Salvataggio dei dati.\n"
+	.string "Attendere.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge_hns:
-	.string "Would you like to cancel your BATTLE\n"
-	.string "ROOM challenge?$"
+	.string "Vuoi annullare la sfida alla\n"
+	.string "SALA DI LOTTA?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved_hns::
-	.string "There was an error of some sort.\n"
-	.string "Your record could not be saved.$"
+	.string "Si è verificato un errore.\n"
+	.string "Il record non è stato salvato.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay_hns:
-	.string "Excuse me, but…\p"
-	.string "Our leader, the SALON MAIDEN, is on\n"
-	.string "her way here in hopes of battling you.\p"
-	.string "She should be arriving very shortly.$"
+	.string "Mi scusi, ma…\p"
+	.string "La nostra PLATANISTA sta\n"
+	.string "venendo per sfidarti.\p"
+	.string "Arriverà tra poco.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden_hns:
-	.string "You will be facing the SALON MAIDEN.\n"
-	.string "Are you prepared?$"
+	.string "Affronterai la PLATANISTA.\n"
+	.string "Sei preparato?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel_hns:
-	.string "Greetings…\n"
-	.string "My name is ANABEL.\p"
-	.string "I am the SALON MAIDEN, and I am in\n"
-	.string "charge of running the BATTLE TOWER…\p"
-	.string "I have heard several rumors\n"
-	.string "about you…\p"
-	.string "In all honesty, what I have heard does\n"
-	.string "not seem attractive in any way…\p"
-	.string "The reason I've come to see you…\n"
-	.string "Well, there is but one reason…$"
+	.string "Salve…\n"
+	.string "Mi chiamo ANABEL.\p"
+	.string "Sono la DAMA DI SALONE e mi occupo\n"
+	.string "della TORRE DI LOTTA…\p"
+	.string "Ho sentito diverse voci\n"
+	.string "su di te…\p"
+	.string "A dire il vero, ciò che ho sentito\n"
+	.string "non sembra affatto bello…\p"
+	.string "Il motivo per cui ti vedo…\n"
+	.string "Beh, c'è un solo motivo…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent_hns:
-	.string "Let me see your talent in\n"
-	.string "its entirety…$"
+	.string "Mostrami tutto il tuo\n"
+	.string "talento…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized_hns:
-	.string "ANABEL: Fufufu, nicely done…\p"
-	.string "Your FRONTIER PASS, please…\n"
-	.string "Your talent shall be recognized.$"
+	.string "ANABEL: Fufufu, ben fatto…\p"
+	.string "Il tuo SUPERPASS, ti prego…\n"
+	.string "Il tuo talento sarà riconosciuto.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol_hns:
-	.string "The Ability Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Il Simbolo Abilità è impresso\n"
+	.string "sul SUPERPASS!$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime_hns:
 	.string "… … … … … …\p"
-	.string "You have confidence in your POKéMON\n"
-	.string "battling talent, don't you?\p"
-	.string "I urge you to keep battling and\n"
-	.string "keep on winning.\p"
-	.string "I will be waiting for you.\n"
-	.string "Until the next time we meet…$"
+	.string "Hai fiducia nel talento\n"
+	.string "dei tuoi POKéMON, vero?\p"
+	.string "Continua a lottare\n"
+	.string "e a vincere.\p"
+	.string "Ti aspetterò.\n"
+	.string "Alla prossima volta…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack_hns:
-	.string "ANABEL: You really did come back to\n"
-	.string "see me…\p"
+	.string "ANABEL: Sei davvero tornato\n"
+	.string "da me…\p"
 	.string "… … … … … …\p"
-	.string "You've won straight matches to see me…\n"
-	.string "I won't have to hold back against you…\p"
-	.string "It's been too long now…\p"
-	.string "Too long since I've been able to battle\n"
-	.string "without thinking about anything…$"
+	.string "Hai vinto di fila per vedermi…\n"
+	.string "Non mi tratterò con te…\p"
+	.string "È troppo tempo ormai…\p"
+	.string "Troppo tempo da quando posso\n"
+	.string "lottare senza pensare a nulla…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe_hns:
-	.string "Let's begin, shall we?$"
+	.string "Iniziamo, va bene?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease_hns:
-	.string "ANABEL: Fufu, congratulations…\n"
-	.string "Your FRONTIER PASS, please…$"
+	.string "ANABEL: Fufu, congratulazioni…\n"
+	.string "Il tuo SUPERPASS, ti prego…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine_hns:
-	.string "The Ability Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Il Simbolo Abilità\n"
+	.string "ha un bagliore dorato!$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain_hns:
-	.string "That was fun…\p"
-	.string "I have never had a POKéMON battle\n"
-	.string "so enjoyable before…\p"
-	.string "I wish I could battle with you again…$"
+	.string "È stato divertente…\p"
+	.string "Mai avuto una lotta\n"
+	.string "POKéMON così bella…\p"
+	.string "Vorrei riaffrontarti…$"
 

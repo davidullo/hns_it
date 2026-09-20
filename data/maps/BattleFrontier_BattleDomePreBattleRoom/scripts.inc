@@ -271,54 +271,54 @@ BattleFrontier_BattleDomePreBattleRoom_Movement_PlayerEnterDoor:
 	step_end
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound1:
-	.string "Your 1st-round match is next.\n"
-	.string "Are you ready?$"
+	.string "Ora tocca al 1º turno.\n"
+	.string "Sei pronto?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound2:
-	.string "Your 2nd-round match is next.\n"
-	.string "Are you ready?$"
+	.string "Ora tocca al 2º turno.\n"
+	.string "Sei pronto?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForSemifinals:
-	.string "Your semifinal match is next.\n"
-	.string "Are you ready?$"
+	.string "Ora tocca alla semifinale.\n"
+	.string "Sei pronto?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals:
-	.string "Your final match is next.\n"
-	.string "Are you ready?$"
+	.string "Ora tocca alla finale.\n"
+	.string "Sei pronto?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons:
-	.string "Please choose the two POKéMON\n"
-	.string "that are to appear in battle.$"
+	.string "Scegli i due POKéMON\n"
+	.string "che scenderanno in lotta.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please.$"
+	.string "Da qui, prego.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RestoreMonsToFullHealth:
-	.string "Thank you for competing!\p"
-	.string "I'll restore your POKéMON to\n"
-	.string "full health.$"
+	.string "Grazie per la gara!\p"
+	.string "Riporterò i tuoi POKéMON\n"
+	.string "in salute.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round1Complete:
-	.string "All 1st-round matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "Tutti gli incontri del primo\n"
+	.string "turno son finiti.\p"
+	.string "Ecco le squadre passate!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round2Complete:
-	.string "All 2nd-round matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "Tutti gli incontri del secondo\n"
+	.string "turno son finiti.\p"
+	.string "Ecco le squadre passate!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SemifinalsComplete:
-	.string "All semifinal matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "Tutte le semifinali son\n"
+	.string "finite.\p"
+	.string "Ecco le squadre passate!$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForRound2:
-	.string "Congratulations for getting through\n"
-	.string "the 1st round.\p"
-	.string "The 2nd round is next.\n"
-	.string "Are you ready?$"
+	.string "Complimenti, hai superato\n"
+	.string "il 1º turno.\p"
+	.string "Ora tocca al 2º.\n"
+	.string "Sei pronto?$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals:
@@ -329,64 +329,64 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals:
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "You're one win from the championship.\n"
-	.string "Are you ready?$"
+	.string "Complimenti, sei in\n"
+	.string "finale.\p"
+	.string "Ti basta una vittoria per il titolo.\n"
+	.string "Sei pronto?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer:
 	.string "{PLAYER}'s next opponent\n"
 	.string "is this TRAINER.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1:
-	.string "The tournament is in the 1st round.$"
+	.string "Torneo al primo turno.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound2:
-	.string "The tournament is in the 2nd round.$"
+	.string "Torneo al secondo turno.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInSemifinals:
-	.string "The tournament is in the semifinals.$"
+	.string "Torneo in semifinale.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInFinals:
-	.string "The tournament is up to the final.$"
+	.string "Siamo in finale del torneo!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "Vuoi salvare e uscire\n"
+	.string "dal gioco?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RetireYourChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Tournament challenge?$"
+	.string "Vuoi ritirarti dalla\n"
+	.string "sfida al Torneo?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Salvo i tuoi dati.\n"
+	.string "Attendi.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch:
-	.string "Should I record your last match\n"
-	.string "on your FRONTIER PASS?$"
+	.string "Devo registrare la tua\n"
+	.string "ultima sfida sul SUPERPASS?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.string "Complimenti, sei in\n"
+	.string "finale.\p"
+	.string "Alla finale affronterai\n"
+	.string "il DOME ACE TUCKER.\p"
+	.string "Sei pronto?$"
 
 @ Identical to ReadyForTuckerSilver
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.string "Complimenti, sei in\n"
+	.string "finale.\p"
+	.string "Alla finale affronterai\n"
+	.string "il DOME ACE TUCKER.\p"
+	.string "Sei pronto?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort:
-	.string "Your final battle against TUCKER is\n"
-	.string "next. Are you ready?$"
+	.string "La finale con TUCKER è\n"
+	.string "imminente. Sei pronto?$"
 
 @ Identical again
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGoldShort:
-	.string "Your final battle against TUCKER is\n"
-	.string "next. Are you ready?$"
+	.string "La finale con TUCKER è\n"
+	.string "imminente. Sei pronto?$"
 

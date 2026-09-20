@@ -2,8 +2,11 @@
 
 Regole:
 * la struttura (segmenti, terminatori, codici {...}) non cambia mai;
-* ogni scrittura e' verificata contro lo sha1 dell'inglese registrato,
-  oppure contro il testo italiano gia' iniettato (idempotenza);
+* si scrive l'italiano accettato, e si RIMETTE l'inglese per le unita' che non
+  hanno piu' una traduzione accettata (dopo un `repair`): altrimenti nel
+  sorgente resta l'italiano vecchio e la build muore su un campo troppo stretto;
+* ogni scrittura e' verificata contro lo sha1 dell'inglese registrato o contro
+  l'ultima traduzione nota (idempotenza e revert);
 * qualunque altra cosa e' DRIFT: non si scrive niente e si esce 1.
 """
 
@@ -24,6 +27,40 @@ def _replace_span(text: str, start: int, end: int, new: str) -> str:
     return text[:start] + new + text[end:]
 
 
+def _known_texts(unit: Unit) -> list[list[str]]:
+    """Versioni del testo accettabili nel sorgente per questa unita'."""
+    out = [unit.segments]
+    for candidate in (unit.it, unit.prev_it):
+        if not candidate:
+            continue
+        try:
+            rebuilt = unit.rebuild(candidate)
+        except ValueError:
+            continue
+        if rebuilt not in out:
+            out.append(rebuilt)
+    return out
+
+
+def _check_known(unit: Unit, current) -> None:
+    """Un'unita' senza traduzione accettata torna all'inglese comunque.
+
+    Se invece una traduzione accettata esiste, il sorgente deve contenere
+    l'inglese o una versione che conosciamo: altrimenti e' drift.
+    """
+    if unit.it is None or unit.status == "skipped":
+        return
+    if current not in _known_texts(unit):
+        raise Drift(f"{unit.key}: il testo nel file non corrisponde ne' all'inglese ne' a una traduzione nota")
+
+
+def _target_segments(unit: Unit) -> list[str]:
+    """Cosa deve contenere il sorgente: italiano accettato, altrimenti inglese."""
+    if unit.it is not None and unit.status != "skipped":
+        return unit.rebuild(unit.it)
+    return list(unit.segments)
+
+
 def inject_file(repo: Path, rel: str, units: list[Unit], dry_run: bool = False) -> int:
     """Scrive le unita' di un file. Ritorna quante unita' ha scritto."""
     path = repo / rel
@@ -33,10 +70,16 @@ def inject_file(repo: Path, rel: str, units: list[Unit], dry_run: bool = False) 
     if kind == "inc":
         blocks = read_inc_blocks(repo, rel)
         # offset dei letterali per etichetta, ricavati dalle righe attive
+        # (i rami #if/#else non compilati non contano: altrimenti si contano
+        # letterali che il gioco non vede e l'iniezione va in drift)
+        active = {lineno for lineno, _ in active_lines(text)}
         spans: dict[str, list[tuple[int, int, str]]] = defaultdict(list)
         label = None
         offset = 0
-        for raw in text.splitlines(keepends=True):
+        for lineno, raw in enumerate(text.splitlines(keepends=True), start=1):
+            if lineno not in active:
+                offset += len(raw)
+                continue
             stripped = raw.lstrip()
             if LABEL_RE.match(raw.rstrip("\n")):
                 m = LABEL_RE.match(raw.rstrip("\n"))
@@ -58,22 +101,17 @@ def inject_file(repo: Path, rel: str, units: list[Unit], dry_run: bool = False) 
         edits: list[tuple[int, int, str]] = []
         written = 0
         for unit in units:
-            if unit.it is None or unit.status == "skipped":
-                continue
+            target = _target_segments(unit)
             current = blocks.get(unit.label)
             if current is None:
                 raise Drift(f"{unit.key}: blocco assente dal file")
             s = spans.get(unit.label, [])
             if len(s) != len(unit.segments):
                 raise Drift(f"{unit.key}: {len(s)} letterali nel file, {len(unit.segments)} attesi")
-            en_ok = current == unit.segments
-            it_segments = unit.rebuild(unit.it)
-            it_ok = current == it_segments
-            if not en_ok and not it_ok:
-                raise Drift(f"{unit.key}: il testo nel file non corrisponde ne' all'inglese ne' all'italiano")
-            if it_ok:
+            if current == target:
                 continue
-            for (start, end, _old), new in zip(s, it_segments):
+            _check_known(unit, current)
+            for (start, end, _old), new in zip(s, target):
                 edits.append((start, end, new))
             written += 1
         if not dry_run:
@@ -87,20 +125,17 @@ def inject_file(repo: Path, rel: str, units: list[Unit], dry_run: bool = False) 
         edits = []
         written = 0
         for unit in units:
-            if unit.it is None or unit.status == "skipped":
-                continue
             hit = hits.get(unit.key)
             if hit is None:
                 raise Drift(f"{unit.key}: macro assente dal file")
             if len(hit.parts) != len(unit.segments):
                 raise Drift(f"{unit.key}: {len(hit.parts)} letterali, {len(unit.segments)} attesi")
+            target = _target_segments(unit)
             current = [p[0] for p in hit.parts]
-            it_segments = unit.rebuild(unit.it)
-            if current == it_segments:
+            if current == target:
                 continue
-            if current != unit.segments:
-                raise Drift(f"{unit.key}: il testo nel file non corrisponde ne' all'inglese ne' all'italiano")
-            for (content, start, end), new in zip(hit.parts, it_segments):
+            _check_known(unit, current)
+            for (content, start, end), new in zip(hit.parts, target):
                 edits.append((start, end, new))
             written += 1
         if not dry_run:
@@ -124,10 +159,20 @@ def cmd_inject(repo: Path, dry_run: bool = False, only: str | None = None) -> in
         else:
             by_file[unit.file].append(unit)
     total = 0
+    failures: list[str] = []
     for rel in sorted(by_file):
-        n = inject_file(repo, rel, by_file[rel], dry_run=dry_run)
+        try:
+            n = inject_file(repo, rel, by_file[rel], dry_run=dry_run)
+        except Drift as exc:
+            # un file in drift non deve bloccare tutti gli altri
+            failures.append(f"{rel}: {exc}")
+            continue
         if n:
             print(f"{'[dry] ' if dry_run else ''}{rel}: {n} unita'")
         total += n
+    if failures:
+        print(f"file in drift: {len(failures)}")
+        for row in failures[:10]:
+            print("  ! " + row)
     print(f"totale unita' scritte: {total}{' (dry run)' if dry_run else ''}")
-    return 0
+    return 1 if failures else 0

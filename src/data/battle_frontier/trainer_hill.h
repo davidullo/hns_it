@@ -4038,7 +4038,7 @@ static const struct TrainerHillFloor sFloors_Expert[] = {
                 {
                     [0] =
                         {
-                            .name = _("DENTISTRETTI"),
+                            .name = _("GUTS"),
                             .facilityClass = FACILITY_CLASS_COOLTRAINER_M,
                             .speechBefore = {EC_WORD_I, EC_WORD_CAN, EC_WORD_WIN, EC_WORD_WITHOUT, EC_WORD_A, EC_MOVE2(HELPING_HAND)},
                             .speechWin = {EC_WORD_IT_S, EC_WORD_ONLY, EC_WORD_NATURAL, EC_WORD_THAT, EC_WORD_I, EC_WORD_WIN},

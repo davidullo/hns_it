@@ -23,6 +23,7 @@ from pathlib import Path
 
 
 from . import store
+from .autofill import allowed_kinds
 from .buffers import all_limits
 from .textparse import CONTROL_RE, Metrics
 
@@ -205,7 +206,31 @@ def apply_results(path: Path, mark: str = "translated") -> int:
     return 0
 
 
-def fan_out(units: dict) -> int:
+def _propagabile(src, target, limits, metrics) -> bool:
+    """La traduzione di `src` si puo' copiare su `target`?
+
+    La translation memory e' cieca al contesto: senza questi controlli una
+    parola come "GUTS" (nome di un allenatore) si propaga dalla scheda
+    dell'abilita' e diventa "Dentistretti", e "Bacon" (soprannome) diventa
+    "Pancetta rosolata" dentro un array da 7 byte.
+    """
+    note = src.note or ""
+    if note.startswith("glossary"):
+        kind = note.split(":")[-1]
+        allowed = allowed_kinds(target)
+        if allowed is None or kind not in allowed:
+            return False
+    limit = limits.limit(target.file, target.label)
+    if limit is not None and metrics.encoded_len("".join(src.it or [])) > limit:
+        return False
+    return True
+
+
+def fan_out(units: dict, limits=None, metrics=None) -> int:
+    if limits is None:
+        limits = all_limits(store.repo_root())
+    if metrics is None:
+        metrics = load_metrics()
     by_sha: dict[str, list] = defaultdict(list)
     for unit in units.values():
         by_sha[unit.sha1].append(unit)
@@ -217,6 +242,8 @@ def fan_out(units: dict) -> int:
         src = sorted(done, key=lambda u: (u.status != "reviewed", u.key))[0]
         for m in members:
             if m.it or m.status == "skipped":
+                continue
+            if not _propagabile(src, m, limits, metrics):
                 continue
             try:
                 m.rebuild(src.it)

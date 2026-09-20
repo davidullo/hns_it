@@ -215,7 +215,7 @@ static const u8 *const sChoices_MonoStereo[] = {
 };
 
 static const u8 *const sChoices_ButtonMode[] = {
-    COMPOUND_STRING("NORMALE"),
+    COMPOUND_STRING("NORMAL"),
     COMPOUND_STRING("LR"),
     COMPOUND_STRING("L=A"),
 };

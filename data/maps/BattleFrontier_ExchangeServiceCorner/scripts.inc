@@ -358,175 +358,175 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Girl::
 	end
 
 BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
-	.string "Hello, this is the EXCHANGE SERVICE\n"
-	.string "CORNER.\p"
-	.string "We exchange the Battle Points you\n"
-	.string "have collected for lovely prizes.\p"
-	.string "Please choose a prize from this list.$"
+	.string "Salve, questo è il SERVIZIO\n"
+	.string "SCAMBI.\p"
+	.string "Scambiamo i Punti Lotta che\n"
+	.string "hai raccolto con bei premi.\p"
+	.string "Scegli un premio da questo elenco.$"
 
 @ Unused
 BattleFrontier_ExchangeServiceCorner_Text_PleaseChoosePrize:
-	.string "Please choose a prize from this list.$"
+	.string "Scegli un premio da questo elenco.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmPurchase:
-	.string "You've chosen the {STR_VAR_1}.\n"
-	.string "Is that correct?$"
+	.string "Hai scelto {STR_VAR_1}.\n"
+	.string "Confermi?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WellSendItToPC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "Grazie!\n"
+	.string "Te lo invieremo al PC di casa.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HereIsYourPrize:
-	.string "Here is your prize!$"
+	.string "Ecco il tuo premio!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveEnoughPoints:
-	.string "I'm so sorry…\n"
-	.string "You don't have enough Battle Points…$"
+	.string "Mi dispiace tanto…\n"
+	.string "Non hai abbastanza Punti Lotta…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_PCIsFull:
-	.string "I'm so sorry…\n"
-	.string "Your PC appears to be full…$"
+	.string "Mi dispiace…\n"
+	.string "Il tuo PC sembra pieno…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveSpaceToHoldIt:
-	.string "I'm so sorry…\n"
-	.string "You don't have space to hold it…$"
+	.string "Mi dispiace tanto…\n"
+	.string "Non c'è spazio per portarlo…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ThankYouVisitWithPoints:
-	.string "Thank you very much.\p"
-	.string "Please visit us when you have\n"
-	.string "saved up Battle Points.$"
+	.string "Grazie mille.\p"
+	.string "Torna quando avrai\n"
+	.string "accumulato Punti Lotta.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls:
-	.string "Oh, they're so nice!\n"
-	.string "I wish I had them!\l"
-	.string "Cute cushions!\l"
-	.string "Big plush DOLLS!\l"
-	.string "Little plush DOLLS!\l"
-	.string "I wish I had them all!$"
+	.string "Oh, che carini!\n"
+	.string "Quanto li vorrei!\l"
+	.string "Cuscini carini!\l"
+	.string "PELUCHE grandi!\l"
+	.string "PELUCHE piccoli!\l"
+	.string "Li vorrei tutti!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
-	.string "Leave it to your mommy!\p"
-	.string "If it's anything you want, I'll go\n"
-	.string "through anything to get it, honey!$"
+	.string "Lascia fare alla mamma!\p"
+	.string "Se desideri qualcosa, lo otterrò\n"
+	.string "a ogni costo, tesoro!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
-	.string "If I can get hold of the items here,\n"
-	.string "my POKéMON will get tougher.\p"
-	.string "You bet they will!\n"
-	.string "No question about it!$"
+	.string "Se ottengo gli oggetti di qui,\n"
+	.string "i miei POKéMON diventeranno\p"
+	.string "più tosti!\n"
+	.string "Senza dubbio!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
-	.string "Hah?\n"
-	.string "What are you gawking at?\p"
-	.string "I don't like you staring at my plush\n"
-	.string "doll like that.\p"
-	.string "If you want it, go get one yourself!\n"
-	.string "Isn't that right, SMOOCHUM?$"
+	.string "Eh?\n"
+	.string "Cosa mi fissi così?\p"
+	.string "Non mi piace che mi fissi\n"
+	.string "il peluche.\p"
+	.string "Se la vuoi, prenditene una!\n"
+	.string "Vero, SMOOCHUM?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
-	.string "Did you know?\p"
-	.string "If you stretch your record at any of\n"
-	.string "the BATTLE facilities, they start\l"
-	.string "giving you more and more Battle Points.$"
+	.string "Lo sapevi?\p"
+	.string "Se porti avanti il record nelle\n"
+	.string "STRUTTURE DI LOTTA, ti daranno\l"
+	.string "Punti Lotta sempre più grandi.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
-	.string "A large poster with a SMOOCHUM print.$"
+	.string "Poster grande con SMOOCHUM stampato.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissCushionDesc::
-	.string "A SMOOCHUM cushion.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Un cuscino SMOOCHUM.\n"
+	.string "Da mettere su tappeto o scrivania.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_SmoochumDollDesc::
-	.string "A SMOOCHUM DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "PELUCHE SMOOCHUM.\n"
+	.string "Posa su tappeto o scrivania.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TogepiDollDesc::
-	.string "A TOGEPI DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "PELUCHE TOGEPI.\n"
+	.string "Posa su tappeto o scrivania.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MeowthDollDesc::
-	.string "A MEOWTH DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "PELUCHE MEOWTH.\n"
+	.string "Posa su tappeto o scrivania.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ClefairyDollDesc::
-	.string "A CLEFAIRY DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una bambola CLEFAIRY.\n"
+	.string "Da mettere su tappeto o scrivania.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DittoDollDesc::
-	.string "A DITTO DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una bambola DITTO.\n"
+	.string "Da mettere su tappeto o scrivania.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CyndaquilDollDesc::
-	.string "A CYNDAQUIL DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una bambola CYNDAQUIL.\n"
+	.string "Da mettere su tappeto o scrivania.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChikoritaDollDesc::
-	.string "A CHIKORITA DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una bambola CHIKORITA.\n"
+	.string "Da mettere su tappeto o scrivania.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc::
-	.string "A TOTODILE DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "PELUCHE TOTODILE.\n"
+	.string "Posa su tappeto o scrivania.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
-	.string "A large DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "GRAN PELUCHE.\n"
+	.string "Posa su tappeto o scrivania.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::
-	.string "Raises the stat ATTACK of one\n"
+	.string "Aumenta l'ATTACCO di un\n"
 	.string "POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CalciumDesc::
-	.string "Raises the stat SP. ATK of one\n"
+	.string "Aumenta l'ATT. SP. di un\n"
 	.string "POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_IronDesc::
-	.string "Raises the stat DEFENSE of one\n"
+	.string "Aumenta la DIFESA di un\n"
 	.string "POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ZincDesc::
-	.string "Raises the stat SP. DEF of one\n"
+	.string "Aumenta la DIF. SPEC. di un\n"
 	.string "POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CarbosDesc::
-	.string "Raises the stat SPEED of one\n"
+	.string "Aumenta la VELOCITÀ di un\n"
 	.string "POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HPUpDesc::
-	.string "Raises the HP of one POKéMON.$"
+	.string "Aumenta i PS di un POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc::
-	.string "A hold item that gradually restores\n"
-	.string "HP in battle.$"
+	.string "Strumento che ricarica gli HP\n"
+	.string "poco a poco in lotta.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WhiteHerbDesc::
-	.string "A hold item that restores any\n"
-	.string "lowered stat.$"
+	.string "Strumento che annulla le\n"
+	.string "statistiche scese.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_QuickClawDesc::
-	.string "A hold item that occasionally allows\n"
-	.string "the first strike.$"
+	.string "Strumento che a volte consente\n"
+	.string "di colpire per primo.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MentalHerbDesc::
-	.string "A hold item that snaps POKéMON out\n"
-	.string "of infatuation.$"
+	.string "Strumento che scioglie i POKéMON\n"
+	.string "dall'infatuazione.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_BrightpowderDesc::
-	.string "A hold item that casts a glare to\n"
-	.string "reduce accuracy.$"
+	.string "Oggetto che con lo Sguardo\n"
+	.string "Feroce riduce la precisione.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChoiceBandDesc::
-	.string "Raises a move's power, but permits\n"
-	.string "only that move.$"
+	.string "Aumenta la forza di una mossa,\n"
+	.string "ma solo quella.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KingsRockDesc::
-	.string "A hold item that may cause flinching\n"
-	.string "when the foe is hit.$"
+	.string "Oggetto che a volte fa tentennare\n"
+	.string "il nemico colpito.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_FocusBandDesc::
-	.string "A hold item that occasionally\n"
-	.string "prevents fainting.$"
+	.string "Oggetto che a volte evita\n"
+	.string "l'abbattimento.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ScopeLensDesc::
-	.string "A hold item that raises the\n"
-	.string "critical-hit rate.$"
+	.string "Strumento che potenzia\n"
+	.string "i colpi critici.$"

@@ -293,6 +293,7 @@ class Unit:
     segments: list[str] = field(default_factory=list)  # EN, come scritto nel sorgente
     sha1: str = ""
     it: list[str] | None = None  # righe tradotte (senza terminatori)
+    prev_it: list[str] | None = None  # ultima traduzione scartata (per il revert)
     status: str = "pending"  # pending | translated | reviewed | skipped
     note: str = ""
 

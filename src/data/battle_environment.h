@@ -69,7 +69,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 {
     [BATTLE_ENVIRONMENT_GRASS] =
     {
-        .name = _("Erba"),
+        .name = _("Grass"),
     #if B_NATURE_POWER_MOVES >= GEN_6
         .naturePower = MOVE_ENERGY_BALL,
     #elif B_NATURE_POWER_MOVES >= GEN_4
@@ -137,7 +137,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_WATER] =
     {
-        .name = _("Acqua"),
+        .name = _("Water"),
         .naturePower = B_NATURE_POWER_MOVES >= GEN_4 ? MOVE_HYDRO_PUMP : MOVE_SURF,
         .secretPowerAnimation = B_SECRET_POWER_ANIMATION >= GEN_4 ? gBattleAnimMove_WaterPulse : gBattleAnimMove_Surf,
         .secretPowerEffect = MOVE_EFFECT_ATK_MINUS_1,
@@ -603,7 +603,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_SKY_PILLAR] =
     {
-        .name = _("Torre dei Cieli"),
+        .name = _("Sky Pillar"),
         .naturePower = MOVE_AIR_SLASH,
         .secretPowerAnimation = gBattleAnimMove_Gust,
         .secretPowerEffect = MOVE_EFFECT_SPD_MINUS_1,
@@ -669,7 +669,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_ICE] =
     {
-        .name = _("Ghiaccio"),
+        .name = _("Ice"),
         .naturePower = MOVE_ICE_BEAM,
         .secretPowerAnimation = gBattleAnimMove_IceShard,
         .secretPowerEffect = MOVE_EFFECT_FREEZE_OR_FROSTBITE,
@@ -709,7 +709,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_ULTRA_SPACE] =
     {
-        .name = _("Ultramondo"),
+        .name = _("Ultra Space"),
         .naturePower = MOVE_PSYSHOCK,
         .secretPowerAnimation = gBattleAnimMove_Psywave,
         .secretPowerEffect = MOVE_EFFECT_DEF_MINUS_1,

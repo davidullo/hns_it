@@ -388,7 +388,7 @@ Alola_Poni_BattleExeggutor_Text_0:
 	.string "Gaah-aah!$"
 
 Alola_Poni_Island_Sign_Text_0:
-	.string "PONI ISLE$"
+	.string "ISOLA PONI$"
 
 Alola_Poni_TotemBattle_Text_0:
 	.string "Buzz!!$"
@@ -403,26 +403,26 @@ PoniIsle_hns_Movement_FacePlayerUpAfterTotemWarp:
 
 
 Alola_Poni_Totem_sign_Text_0:
-	.string "The totem is emanating a strong\n"
-	.string "energy…\p"
-	.string "Touch the totem to teleport to another\n"
-	.string "Isle?$"
+	.string "Il totem emana un'energia\n"
+	.string "potente…\p"
+	.string "Toccalo per il Teletrasporto\n"
+	.string "su un'altra isola?$"
 
 Alola_Poni_Totem_sign_Text_1:
-	.string "MELEMELE ISLE$"
+	.string "ISOLA MELEMELE$"
 
 Alola_Poni_Totem_sign_Text_2:
-	.string "AKALA ISLE$"
+	.string "ISOLA AKALA$"
 
 Alola_Poni_Totem_sign_Text_3:
-	.string "ULA'ULA ISLE$"
+	.string "ISOLA ULA'ULA$"
 
 Alola_Poni_Totem_sign_Text_4:
-	.string "CANCEL$"
+	.string "ANNULLA$"
 
 Alola_Poni_Totem_sign_Text_5:
-	.string "A strange totem stands here,\n"
-	.string "power is emanating from it…$"
+	.string "Uno strano totem si erge qui,\n"
+	.string "emana una grande forza…$"
 
 Alola_Poni_BattleVsTapuFini_Text_0:
 	.string "Fiiin!$"

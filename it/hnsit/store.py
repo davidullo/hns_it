@@ -39,6 +39,7 @@ def load_units(path: Path) -> list[Unit]:
                 segments=d["segments"],
                 sha1=d["sha1"],
                 it=d.get("it"),
+                prev_it=d.get("prev_it"),
                 status=d.get("status", "pending"),
                 note=d.get("note", ""),
             )

@@ -436,19 +436,19 @@ static const struct ChallengeMenuItem sTabItems_Mode[] = {
         .choiceNames  = sChoices_Gen3Gen7,
     },
     [ITEM_MODE_SYNCHRONIZE] = {
-        .name         = COMPOUND_STRING("SINCRONISMO"),
+        .name         = COMPOUND_STRING("SYNCHRONIZE"),
         .descriptions = sDesc_Synchronize,
         .numChoices   = 2,
         .choiceNames  = sChoices_OriginalModern,
     },
     [ITEM_MODE_STURDY] = {
-        .name         = COMPOUND_STRING("VIGORE"),
+        .name         = COMPOUND_STRING("STURDY"),
         .descriptions = sDesc_Sturdy,
         .numChoices   = 2,
         .choiceNames  = sChoices_OriginalModern,
     },
     [ITEM_MODE_NEW_CITRUS] = {
-        .name         = COMPOUND_STRING("BACCACEDRO"),
+        .name         = COMPOUND_STRING("SITRUS BERRY"),
         .descriptions = sDesc_NewCitrus,
         .numChoices   = 2,
         .choiceNames  = sChoices_OriginalModern,
@@ -551,7 +551,7 @@ static const u8 *const sChoices_ShinyChance[] = {
 static const u8 *const sChoices_Nuzlocke[] = {
     COMPOUND_STRING("OFF"),
     COMPOUND_STRING("EASY"),
-    COMPOUND_STRING("NORMALE"),
+    COMPOUND_STRING("NORMAL"),
     COMPOUND_STRING("HARD"),
 };
 
@@ -571,7 +571,7 @@ static const u8 *const sChoices_PartyLimit[] = {
 
 static const u8 *const sChoices_LevelCap[] = {
     COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("NORMALE"),
+    COMPOUND_STRING("NORMAL"),
     COMPOUND_STRING("HARD"),
 };
 
@@ -677,7 +677,7 @@ static const struct ChallengeMenuItem sTabItems_Features[] = {
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_FEATURES_ITEM_DROP] = {
-        .name         = COMPOUND_STRING("LASCIOGGETTO"),
+        .name         = COMPOUND_STRING("ITEM DROP"),
         .descriptions = sDesc_ItemDrop,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
@@ -804,7 +804,7 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_STATIC] = {
-        .name         = COMPOUND_STRING("STATICO {PKMN}"),
+        .name         = COMPOUND_STRING("STATIC {PKMN}"),
         .descriptions = sDesc_RandomStatic,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,

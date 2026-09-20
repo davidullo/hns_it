@@ -355,29 +355,29 @@ UlaUla_Forest_hns_Movement_FacePlayerUpAfterTotemWarp:
 
 
 Alola_Ulaula_Totem_sign_Text_0:
-	.string "The totem is emanating a strong\n"
-	.string "energy…\p"
-	.string "Touch the totem to teleport to another\n"
-	.string "Isle?$"
+	.string "Il totem emana un'energia\n"
+	.string "potente…\p"
+	.string "Toccalo per il Teletrasporto\n"
+	.string "su un'altra isola?$"
 
 Alola_Ulaula_Totem_sign_Text_1:
-	.string "MELEMELE ISLE$"
+	.string "ISOLA MELEMELE$"
 
 Alola_Ulaula_Totem_sign_Text_2:
-	.string "AKALA ISLE$"
+	.string "ISOLA AKALA$"
 
 Alola_Ulaula_Totem_sign_Text_3:
-	.string "ULA'ULA ISLE$"
+	.string "ISOLA ULA'ULA$"
 
 Alola_Ulaula_Totem_sign_Text_4:
-	.string "PONI ISLE$"
+	.string "ISOLA PONI$"
 
 Alola_Ulaula_Totem_sign_Text_5:
-	.string "CANCEL$"
+	.string "ANNULLA$"
 
 Alola_Ulaula_Totem_sign_Text_6:
-	.string "A strange totem stands here,\n"
-	.string "power is emanating from it…$"
+	.string "Uno strano totem si erge qui,\n"
+	.string "emana una grande forza…$"
 
 Alola_Ulaula_BattleVsTapuBulu_Text_0:
 	.string "Bu-Bulu!$"

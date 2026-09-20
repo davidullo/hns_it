@@ -361,7 +361,7 @@ Route25_BillsHouse_hns_Text_Linoone:
 	.string "LINOONE$"
 
 Route25_BillsHouse_hns_Text_Cancel:
-	.string "CANCEL$"
+	.string "ANNULLA$"
 
 Route25_BillsHouse_hns_Text_NotInParty:
 	.string "POKéMON NOT DETECTED.$"

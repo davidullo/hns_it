@@ -87,41 +87,41 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Girl_hns::
 	end
 
 BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize_hns:
-	.string "Hello, this is the EXCHANGE SERVICE\n"
-	.string "CORNER.\p"
-	.string "We exchange the Battle Points you\n"
-	.string "have collected for lovely prizes.\p"
-	.string "Please choose a prize from this list.$"
+	.string "Salve, questo è il SERVIZIO\n"
+	.string "SCAMBI.\p"
+	.string "Scambiamo i Punti Lotta che\n"
+	.string "hai raccolto con bei premi.\p"
+	.string "Scegli un premio da questo elenco.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls_hns:
-	.string "Oh, they're so nice!\n"
-	.string "I wish I had them!\l"
-	.string "Cute cushions!\l"
-	.string "Big plush DOLLS!\l"
-	.string "Little plush DOLLS!\l"
-	.string "I wish I had them all!$"
+	.string "Oh, che carini!\n"
+	.string "Quanto li vorrei!\l"
+	.string "Cuscini carini!\l"
+	.string "PELUCHE grandi!\l"
+	.string "PELUCHE piccoli!\l"
+	.string "Li vorrei tutti!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant_hns:
-	.string "Leave it to your mommy!\p"
-	.string "If it's anything you want, I'll go\n"
-	.string "through anything to get it, honey!$"
+	.string "Lascia fare alla mamma!\p"
+	.string "Se desideri qualcosa, lo otterrò\n"
+	.string "a ogni costo, tesoro!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher_hns:
-	.string "If I can get hold of the items here,\n"
-	.string "my POKéMON will get tougher.\p"
-	.string "You bet they will!\n"
-	.string "No question about it!$"
+	.string "Se ottengo gli oggetti di qui,\n"
+	.string "i miei POKéMON diventeranno\p"
+	.string "più tosti!\n"
+	.string "Senza dubbio!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll_hns:
-	.string "Hah?\n"
-	.string "What are you gawking at?\p"
-	.string "I don't like you staring at my plush\n"
-	.string "doll like that.\p"
-	.string "If you want it, go get one yourself!\n"
-	.string "Isn't that right, SMOOCHUM?$"
+	.string "Eh?\n"
+	.string "Cosa mi fissi così?\p"
+	.string "Non mi piace che mi fissi\n"
+	.string "il peluche.\p"
+	.string "Se la vuoi, prenditene una!\n"
+	.string "Vero, SMOOCHUM?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord_hns:
-	.string "Did you know?\p"
-	.string "If you stretch your record at any of\n"
-	.string "the BATTLE facilities, they start\l"
-	.string "giving you more and more Battle Points.$"
+	.string "Lo sapevi?\p"
+	.string "Se porti avanti il record nelle\n"
+	.string "STRUTTURE DI LOTTA, ti daranno\l"
+	.string "Punti Lotta sempre più grandi.$"
