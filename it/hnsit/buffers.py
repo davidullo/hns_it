@@ -12,8 +12,9 @@ Limite = byte dell'array meno il terminatore EOS.
 
 from __future__ import annotations
 
+import json
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 # struct di cui ci interessa il testo, per file di dati
@@ -23,9 +24,13 @@ FILE_STRUCT = {
     "src/data/abilities": "AbilityInfo",
     "src/data/trainer_classes": "TrainerClass",
     "src/data/trainers": "Trainer",
+    "src/data/battle_frontier/trainer_hill": "TrainerHillTrainer",
     "src/data/battle_environment": "BattleEnvironment",
     "src/data/items": "ItemInfo",  # nomi via macro ITEM_NAME, non array
 }
+
+# limiti imparati dagli errori di build: it/data/limits_learned.json
+LEARNED_FILE = "it/data/limits_learned.json"
 
 STRUCT_HEAD_RE = re.compile(r"\bstruct\s+(?P<name>\w+)\s*(?:/\*.*?\*/\s*)?\{")
 
@@ -64,6 +69,7 @@ class Limits:
     fields: dict[tuple[str, str], int]
     structs: dict[str, dict[str, int]]
     arrays: dict[str, dict[str, int]]
+    learned: dict[str, dict[str, int]] = field(default_factory=dict)
 
     @classmethod
     def load(cls, repo: Path) -> "Limits":
@@ -95,21 +101,37 @@ class Limits:
                 found[m.group("name")] = size - 1
             if found:
                 arrays[rel] = found
+        learned: dict[str, dict[str, int]] = {}
+        learned_path = repo / LEARNED_FILE
+        if learned_path.exists():
+            try:
+                raw = json.loads(learned_path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError:
+                raw = {}
+            for rel, fields_map in raw.items():
+                if isinstance(fields_map, dict):
+                    learned[rel] = {str(k): int(v) for k, v in fields_map.items()}
         out: dict[tuple[str, str], int] = {}
         for prefix, struct in FILE_STRUCT.items():
-            for field, limit in structs.get(struct, {}).items():
-                if not _is_text_field(field):
+            for field_name, limit in structs.get(struct, {}).items():
+                if not _is_text_field(field_name):
                     continue
-                out[(prefix, field)] = limit
-        return cls(fields=out, structs=structs, arrays=arrays)
+                out[(prefix, field_name)] = limit
+        return cls(fields=out, structs=structs, arrays=arrays, learned=learned)
 
     def limit(self, file: str, label: str | None) -> int | None:
         """Limite per un'unita' del file dato, dal suffisso del suo label."""
         if not label:
             return None
         field = label.split(".")[-1]
+        # 1. limiti ricavati dai sorgenti (header): sono la verita'
         for (prefix, f), limit in self.fields.items():
             if file.startswith(prefix) and f == field:
+                return limit
+        # 2. limiti imparati dagli errori di build (per file esatto)
+        for name in (field, *label.split(".")):
+            limit = self.learned.get(file, {}).get(name)
+            if limit is not None:
                 return limit
         # array di stringhe dichiarati nel file (`u8 nome[][N] = {`)
         for name in label.split("."):

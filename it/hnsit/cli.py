@@ -67,6 +67,7 @@ def main() -> int:
         "translate": "translate",
         "verify": "verify",
         "repair": "repair",
+        "learn": "learn_limits",
     }
     if cmd in mods:
         mod = __import__(f"hnsit.{mods[cmd]}", fromlist=["main"])

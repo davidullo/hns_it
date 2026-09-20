@@ -18,7 +18,26 @@ from pathlib import Path
 from . import batching as batchmod
 from . import verify as verifymod
 from . import store
+from .autofill import allowed_kinds, allowed_prose
 from .textparse import Metrics
+
+
+def wrong_context(unit) -> str | None:
+    """Riempimento automatico non piu' valido per le regole attuali.
+
+    Se le regole del glossario cambiano, i riempimenti vecchi restano: qui si
+    riconoscono quelli fatti col tipo sbagliato (es. "GUTS" nome di allenatore
+    tradotto con l'abilita' "Dentistretti").
+    """
+    note = unit.note or ""
+    if note.startswith("glossary"):
+        kind = note.split(":")[-1]
+        allowed = allowed_kinds(unit)
+        if allowed is None or kind not in allowed:
+            return f"contesto: {kind} non ammesso qui"
+    elif note == "prose" and not allowed_prose(unit):
+        return "contesto: prose non ammesse qui"
+    return None
 
 
 def main() -> int:
@@ -30,26 +49,42 @@ def main() -> int:
     metrics = Metrics(store.repo_root())
     units = store.load_all()
     bad = []
+    stale = []
     for unit in units.values():
-        if unit.status in ("pending", "skipped") or unit.it is None:
+        if unit.status == "pending":
+            # pending = nessuna traduzione accettata: se ne era rimasta una
+            # (reset a meta'), va buttata, altrimenti la verifica la contesta
+            if unit.it is not None:
+                stale.append(unit.key)
+            continue
+        if unit.status == "skipped" or unit.it is None:
             continue
         problems = [
             p
             for p in verifymod.check_unit(unit, metrics, verifymod.limits_for(store.repo_root()))
             if not p.startswith("W:")
         ]
+        context = wrong_context(unit)
+        if context:
+            problems.append(context)
         if problems:
             bad.append((unit.key, problems))
 
     print(f"unita' con problemi duri: {len(bad)}")
     for key, problems in bad[: args.limit]:
         print(f"  {key}: {problems[0]}")
+    if stale:
+        print(f"unita' pending con traduzione rimasta: {len(stale)}")
 
-    if args.apply and bad:
+    if args.apply and (bad or stale):
         for key, _problems in bad:
             unit = units[key]
             unit.it = None
             unit.status = "pending"
+            unit.note = "reset:verifica"
+        for key in stale:
+            unit = units[key]
+            unit.it = None
             unit.note = "reset:verifica"
         batchmod.save_all(units)
         print("riportate a pending")
