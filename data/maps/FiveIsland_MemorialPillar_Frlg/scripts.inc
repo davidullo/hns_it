@@ -82,10 +82,10 @@ FiveIsland_MemorialPillar_EventScript_MemorialLemonadeAlreadyPlaced::
 	end
 
 FiveIsland_MemorialPillar_Text_MiloIntro::
-	.string "Sono il primo dei FRATELLI\n"
-	.string "UCCELLO.\p"
-	.string "Il bello degli uccelli…\n"
-	.string "È il becco.$"
+	.string "I'm the eldest of the BIRD\n"
+	.string "BROTHERS.\p"
+	.string "The best thing about birds…\n"
+	.string "It has to be the beak.$"
 
 FiveIsland_MemorialPillar_Text_MiloDefeat::
 	.string "Che affilato!$"
@@ -95,10 +95,10 @@ FiveIsland_MemorialPillar_Text_MiloPostBattle::
 	.string "a ISOLA QUATTRO.$"
 
 FiveIsland_MemorialPillar_Text_ChazIntro::
-	.string "Sono il secondo dei FRATELLI\n"
-	.string "UCCELLO.\p"
-	.string "Il bello degli uccelli…\n"
-	.string "Sono le ali.$"
+	.string "I'm the middle kid of the BIRD\n"
+	.string "BROTHERS.\p"
+	.string "The best thing about birds…\n"
+	.string "It has to be the wings.$"
 
 FiveIsland_MemorialPillar_Text_ChazDefeat::
 	.string "Fla, fla!$"

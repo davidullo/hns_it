@@ -1033,10 +1033,10 @@ LilycoveCity_ContestLobby_Text_OkaySeeYou:
 	.string "Ok, ci vediamo!$"
 
 LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum:
-	.string "Oh… Allora me lo porterò\n"
-	.string "a casa…\p"
-	.string "Ma sai, mi piacerebbe portarlo\n"
-	.string "al museo d'arte… Va bene?$"
+	.string "Oh… Then, I guess I'll just take\n"
+	.string "this home with me…\p"
+	.string "But, you know, I would like to take\n"
+	.string "this to the art museum… Okay?$"
 
 LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs:
 	.string "Oh, va bene, così sia.\n"

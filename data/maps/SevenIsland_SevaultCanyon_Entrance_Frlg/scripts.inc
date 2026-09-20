@@ -54,8 +54,8 @@ SevenIsland_SevaultCanyon_Entrance_Text_MadelineDefeat::
 	.string "ALLENATORE.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelinePostBattle::
-	.string "Se tratti bene i tuoi POKéMON,\n"
-	.string "ti capiranno.$"
+	.string "If you treat your POKéMON with\n"
+	.string "kindness, they'll understand.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveIntro::
 	.string "EVE: Farò squadra con JON e\n"

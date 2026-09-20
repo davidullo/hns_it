@@ -426,7 +426,7 @@ static const u8 Roulette_Text_NothingDoing[] = _("Niente da fare!");
 static const u8 Roulette_Text_YouveWonXCoins[] = _("Hai vinto {STR_VAR_1} GETTONI!");
 static const u8 Roulette_Text_NoCoinsLeft[] = _("Non hai più GETTONI…");
 static const u8 Roulette_Text_KeepPlaying[] = _("Continuare?");
-static const u8 Roulette_Text_BoardWillBeCleared[] = _("The ROULETTE board will be cleared.");
+static const u8 Roulette_Text_BoardWillBeCleared[] = _("Il tabellone ROULETTE verrà azzerato.");
 static const u8 Roulette_Text_CoinCaseIsFull[] = _("Il PORTAGETTONI è pieno!\nI gettoni si scambiano con premi.");
 
 static const u16 sWheel_Pal[] = INCBIN_U16("graphics/roulette/wheel.gbapal"); // also palette for grid

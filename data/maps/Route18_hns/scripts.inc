@@ -52,9 +52,9 @@ Route18_Text_BirdKeeperBobBeaten:
 	.string "…Fiuu!$"
 
 Route18_Text_BirdKeeperBobAfterBattle:
-	.string "Senza BICICLETTA,\n"
-	.string "non puoi usare\l"
-	.string "la scorciatoia.$"
+	.string "If you don't have a BICYCLE,\n"
+	.string "you're not allowed to use the\l"
+	.string "shortcut.$"
 
 Route18_Text_Sign:
 	.string "PERCORSO 18\p"

@@ -618,11 +618,11 @@ BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag_hns:
 	.string "con la BORSA LOTTA.$"
 
 BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel_hns:
-	.string "Sopra questo pannello verrai\n"
-	.string "trasportato a un piano più\l"
-	.string "alto della PIRAMIDE.\p"
-	.string "Ti auguro una buona\n"
-	.string "impresa!$"
+	.string "When you step on this floor panel,\n"
+	.string "you will be transported to a higher\l"
+	.string "floor in the PYRAMID.\p"
+	.string "I hope for your sake that your\n"
+	.string "quest goes safely!$"
 
 BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag_hns:
 	.string "Grande problema, esploratore!\p"
@@ -708,10 +708,10 @@ BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_HereIsPrize_hns:
-	.string "Siamo felici\n"
-	.string "del tuo arrivo!\p"
-	.string "Ecco il premio per aver vinto\n"
-	.string "la PIRAMIDE.$"
+	.string "We have been looking forward to\n"
+	.string "your arrival!\p"
+	.string "Here is your prize for conquering\n"
+	.string "the PYRAMID.$"
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait_hns:
 	.string "Benvenuto…\p"
@@ -836,10 +836,10 @@ BattleFrontier_BattlePyramidLobby_Text_HintNormal_hns:
 	.string "da mosse di forza enorme…$"
 
 BattleFrontier_BattlePyramidLobby_Text_BelieveMyFortunesOrNot_hns:
-	.string "Che tu creda alle mie profezie\n"
-	.string "o no, decidi tu…\p"
-	.string "Il futuro si può cambiare sempre…\n"
-	.string "Buon viaggio…$"
+	.string "Whether you believe my fortunes\n"
+	.string "or not, the choice is yours…\p"
+	.string "The future can be changed anytime…\n"
+	.string "I wish you safe passage…$"
 
 BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning_hns:
 	.string "Lo sapevi?\p"

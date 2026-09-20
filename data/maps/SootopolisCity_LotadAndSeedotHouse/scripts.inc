@@ -181,8 +181,8 @@ SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
 	.string "{STR_VAR_2}?\p"
-	.string "Mmm… ho visto un LOTAD più grande\n"
-	.string "di questo.$"
+	.string "Hmm… I've seen a bigger LOTAD\n"
+	.string "than this one here.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad:
 	.string "Bella roba, davvero!\n"

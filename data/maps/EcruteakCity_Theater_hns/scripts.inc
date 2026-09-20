@@ -454,15 +454,15 @@ EcruteakCity_Theater_Text_GrannyBefore:
 	.string "lascerei fare così…!$"
 
 EcruteakCity_Theater_Text_Gramps:
-	.string "Le KIMONO GIRL sono\n"
-	.string "così belle…\p"
-	.string "Ma il loro allenamento\n"
-	.string "è duro.\p"
-	.string "E devono imparare le usanze\n"
-	.string "prima di apparire in\l"
-	.string "pubblico.\p"
-	.string "Ma se ami qualcosa,\n"
-	.string "tutto è possibile.$"
+	.string "The KIMONO GIRLS are so\n"
+	.string "beautiful...\p"
+	.string "But they have to go through\n"
+	.string "rigorous training.\p"
+	.string "And they have to learn to follow\n"
+	.string "customs before appearing in\l"
+	.string "public.\p"
+	.string "But if you love something,\n"
+	.string "anything is possible.$"
 
 EcruteakCity_Theater_Text_GrampsBefore:
 	.string "Oh… Ahi…!\n"

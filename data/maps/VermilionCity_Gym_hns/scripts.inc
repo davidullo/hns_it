@@ -365,14 +365,14 @@ VermilionGym_Text_GuitaristVincentBeaten:
 	.string "Ooh, che shock!$"
 
 VermilionGym_Text_GuitaristVincentAfter:
-	.string "La mamma mi disse di non lasciare\n"
-	.string "il lavoro, ma cosa devo fare\l"
-	.string "se non trovo successo\l"
-	.string "neanche lì?$"
+	.string "Mom told me not to quit my\n"
+	.string "day job, but what am I supposed\l"
+	.string "to do when I'm not finding\l"
+	.string "success there either?$"
 
 VermilionGym_Text_JugglerHortonSeen:
-	.string "Ti abbatterò!\n"
-	.string "Preparati alla scossa!$"
+	.string "I'm going to take you down!\n"
+	.string "Prepare to be shocked!$"
 
 VermilionGym_Text_JugglerHortonBeaten:
 	.string "Gwaaah! Mi hai sopraffatto…$"

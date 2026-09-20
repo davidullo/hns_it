@@ -433,21 +433,21 @@ MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
 	.string "dei razzi?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Dato che sei così\n"
-	.string "curioso, meriti una spiegazione.\p"
-	.string "Getteremo l'intero\n"
-	.string "carico nel MONTE CAMINO!\p"
-	.string "Senza GROUDON, non ci serve\n"
-	.string "quella montagna di scorie!\p"
-	.string "Useremo la forza del carburante per far\n"
-	.string "eruttare il vulcano!\p"
-	.string "Sarà feroce!$"
+	.string "MAXIE: Fufufu… Since you're so\n"
+	.string "curious, you deserve an explanation.\p"
+	.string "We're going to jettison the entire\n"
+	.string "load into MT. CHIMNEY!\p"
+	.string "With GROUDON gone, we have no need\n"
+	.string "for that slag heap of a mountain!\p"
+	.string "So we'll use the fuel's power to make\n"
+	.string "the volcano erupt!\p"
+	.string "It will be savage!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
 	.string "STEVEN: {PLAYER}{KUN}!\n"
-	.string "Mi aiuterai?\p"
-	.string "Andiamo in battaglia insieme!\n"
-	.string "Sei pronto?$"
+	.string "You're going to help me?\p"
+	.string "Let's go into battle together!\n"
+	.string "Are you ready?$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
 	.string "STEVEN: Allora, sbrigati!\n"

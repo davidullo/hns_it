@@ -60,13 +60,13 @@ VictoryRoad_3F_EventScript_Tyra::
 	end
 
 Text_DoubleEdgeTeach::
-	.string "Devi essere fiero di te,\n"
-	.string "hai attraversato\l"
-	.string "la VICTORY ROAD con coraggio.\p"
-	.string "In riconoscenza dell'impresa,\n"
-	.string "t'insegnerò DOUBLE-EDGE.\p"
-	.string "Vuoi che t'insegni quella\n"
-	.string "tecnica?$"
+	.string "You should be proud of yourself,\n"
+	.string "having battled your way through\l"
+	.string "VICTORY ROAD so courageously.\p"
+	.string "In recognition of your feat,\n"
+	.string "I'll teach you DOUBLE-EDGE.\p"
+	.string "Would you like me to teach that\n"
+	.string "technique?$"
 
 Text_DoubleEdgeDeclined::
 	.string "T'Insegnerò la tecnica\n"
@@ -139,10 +139,10 @@ VictoryRoad_3F_Text_RayPostBattle::
 	.string "La gloria resta lontana…$"
 
 VictoryRoad_3F_Text_RayNotEnoughMons::
-	.string "RAY: Insieme miriamo\n"
-	.string "alla vetta.\p"
-	.string "Ci servono due POKéMON\n"
-	.string "per lottare con noi.$"
+	.string "RAY: Together, the two of us are\n"
+	.string "striving for the pinnacle.\p"
+	.string "We need you to bring two POKéMON\n"
+	.string "into battle with us.$"
 
 VictoryRoad_3F_Text_TyraIntro::
 	.string "TYRA: Vogliamo diventare\n"

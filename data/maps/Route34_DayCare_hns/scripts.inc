@@ -182,10 +182,10 @@ Route34_DayCare_Text_TakeCare:
 	.string "giusto. Prenditene cura!$"
 
 Route34_DayCare_Text_ClerkAfter:
-	.string "We see a lot of those eggs around\n"
-	.string "here.\p"
-	.string "Something was different about that\n"
-	.string "one, though.$"
+	.string "Qui se ne vedono tante di Uova.\n"
+	.string "Eh sì.\p"
+	.string "Quella però era diversa\n"
+	.string "da tutte le altre.$"
 
 Route34_DayCare_EventScript_Ditto::
 	lock

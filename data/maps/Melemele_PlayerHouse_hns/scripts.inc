@@ -698,16 +698,16 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_22:
 	.string "riferiscimi i tuoi progressi!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_23:
-	.string "Let me take a look at your POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
-	.string "It seems you haven't quite found all of\n"
-	.string "the Alolan variants on MELEMELE ISLE\l"
-	.string "just yet.\p"
-	.string "I've heard MELEMELE ISLE has {COLOR RED}4 {COLOR DARK_GRAY}Alolan\n"
-	.string "variants for you to find…\p"
-	.string "{COLOR RED}RATTATA{COLOR DARK_GRAY}, {COLOR RED}RATICATE{COLOR DARK_GRAY}, {COLOR RED}MEOWTH{COLOR DARK_GRAY}, and\n"
+	.string "Fammi vedere il tuo POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
+	.string "Sembra che tu non abbia ancora trovato\n"
+	.string "tutte le varianti di Alola su MELEMELE.\l"
+	.string "Ebbene sì.\p"
+	.string "Ho sentito che MELEMELE ha {COLOR RED}4 {COLOR DARK_GRAY}varianti\n"
+	.string "di Alola da trovare…\p"
+	.string "{COLOR RED}RATTATA{COLOR DARK_GRAY}, {COLOR RED}RATICATE{COLOR DARK_GRAY}, {COLOR RED}MEOWTH{COLOR DARK_GRAY} e\n"
 	.string "{COLOR RED}PERSIAN{COLOR DARK_GRAY}.\p"
-	.string "Keep on searching and come back when\n"
-	.string "you've caught them all!$"
+	.string "Continua a cercare e torna quando\n"
+	.string "le avrai catturate tutte!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_24:
 	.string "Hai trovato tutte le forme di Alola\n"
@@ -736,15 +736,15 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_26:
 	.string "riferiscimi i tuoi progressi!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_27:
-	.string "Let me take a look at your POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
-	.string "It seems you haven't quite found all of\n"
-	.string "the Alolan variants on AKALA ISLE\l"
-	.string "just yet.\p"
-	.string "I've heard AKALA ISLE has {COLOR RED}4 {COLOR DARK_GRAY}Alolan\n"
-	.string "variants for you to find…\p"
-	.string "{COLOR RED}RAICHU{COLOR DARK_GRAY}, {COLOR RED}MAROWAK{COLOR DARK_GRAY}, {COLOR RED}DIGLETT{COLOR DARK_GRAY}, and {COLOR RED}DUGTRIO{COLOR DARK_GRAY}.\p"
-	.string "Keep on searching and come back when\n"
-	.string "you've caught them all!$"
+	.string "Fammi vedere il tuo POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
+	.string "Sembra che tu non abbia ancora trovato\n"
+	.string "tutte le varianti di Alola su AKALA.\l"
+	.string "Ebbene sì.\p"
+	.string "Ho sentito che AKALA ha {COLOR RED}4 {COLOR DARK_GRAY}varianti\n"
+	.string "di Alola da trovare…\p"
+	.string "{COLOR RED}RAICHU{COLOR DARK_GRAY}, {COLOR RED}MAROWAK{COLOR DARK_GRAY}, {COLOR RED}DIGLETT{COLOR DARK_GRAY} e {COLOR RED}DUGTRIO{COLOR DARK_GRAY}.\p"
+	.string "Continua a cercare e torna quando\n"
+	.string "le avrai catturate tutte!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_28:
 	.string "Hai trovato tutte le forme di Alola\n"
@@ -758,16 +758,16 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_29:
 	.string "riferiscimi i tuoi progressi!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_30:
-	.string "Let me take a look at your POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
-	.string "It seems you haven't quite found all of\n"
-	.string "the Alolan variants on ULA'ULA ISLE\l"
-	.string "just yet.\p"
-	.string "I've heard ULA'ULA ISLE has {COLOR RED}6 {COLOR DARK_GRAY}Alolan\n"
-	.string "variants for you to find…\p"
+	.string "Fammi vedere il tuo POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
+	.string "Sembra che tu non abbia ancora trovato\n"
+	.string "tutte le varianti di Alola su ULA'ULA.\l"
+	.string "Ebbene sì.\p"
+	.string "Ho sentito che ULA'ULA ha {COLOR RED}6 {COLOR DARK_GRAY}varianti\n"
+	.string "di Alola da trovare…\p"
 	.string "{COLOR RED}VULPIX{COLOR DARK_GRAY}, {COLOR RED}NINETALES{COLOR DARK_GRAY}, {COLOR RED}SANDSHREW{COLOR DARK_GRAY}, {COLOR RED}SANDSLASH{COLOR DARK_GRAY},\n"
-	.string "{COLOR RED}GRIMER{COLOR DARK_GRAY}, and {COLOR RED}MUK{COLOR DARK_GRAY}.\p"
-	.string "Keep on searching and come back when\n"
-	.string "you've caught them all!$"
+	.string "{COLOR RED}GRIMER{COLOR DARK_GRAY} e {COLOR RED}MUK{COLOR DARK_GRAY}.\p"
+	.string "Continua a cercare e torna quando\n"
+	.string "le avrai catturate tutte!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_31:
 	.string "Hai trovato tutte le varianti di Alola che\n"
@@ -781,16 +781,16 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_32:
 	.string "aggiornami sui tuoi progressi!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_33:
-	.string "Let me take a look at your POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
-	.string "It seems you haven't quite found all of\n"
-	.string "the Alolan variants on PONI ISLE\l"
-	.string "just yet.\p"
-	.string "I've heard PONI ISLE has {COLOR RED}4 {COLOR DARK_GRAY}Alolan\n"
-	.string "variants for you to find…\p"
-	.string "{COLOR RED}GEODUDE{COLOR DARK_GRAY}, {COLOR RED}GRAVELER{COLOR DARK_GRAY}, {COLOR RED}GOLEM{COLOR DARK_GRAY}, and\n"
+	.string "Fammi vedere il tuo POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
+	.string "Sembra che tu non abbia ancora trovato\n"
+	.string "tutte le varianti di Alola su PONI.\l"
+	.string "Ebbene sì.\p"
+	.string "Ho sentito che PONI ha {COLOR RED}4 {COLOR DARK_GRAY}varianti\n"
+	.string "di Alola da trovare…\p"
+	.string "{COLOR RED}GEODUDE{COLOR DARK_GRAY}, {COLOR RED}GRAVELER{COLOR DARK_GRAY}, {COLOR RED}GOLEM{COLOR DARK_GRAY} e\n"
 	.string "{COLOR RED}EXEGGUTOR{COLOR DARK_GRAY}.\p"
-	.string "Keep on searching and come back when\n"
-	.string "you've caught them all!$"
+	.string "Continua a cercare e torna quando\n"
+	.string "le avrai catturate tutte!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_34:
 	.string "Nessun problema, {PLAYER}!\p"

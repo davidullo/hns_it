@@ -42,10 +42,10 @@ RockTunnel_B1F_EventScript_Winston::
 	end
 
 RockTunnel_B1F_Text_SofiaIntro::
-	.string "Sai come evitare di perderti\n"
-	.string "in montagna?\p"
-	.string "Pieghi dei rametti come\n"
-	.string "segnali.$"
+	.string "Do you know how you can avoid\n"
+	.string "getting lost in the mountains?\p"
+	.string "You can bend twigs as trail\n"
+	.string "markers.$"
 
 RockTunnel_B1F_Text_SofiaDefeat::
 	.string "Oooh!\n"

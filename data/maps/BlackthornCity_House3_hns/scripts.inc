@@ -183,10 +183,10 @@ BlackthornCity_MoveRelearnersHouse_Text_ImTheMoveTutor:
 	.string "Ne sto collezionando.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
-	.string "Oh! Ma è una FARFASCAGLIA\n"
-	.string "autentica!\p"
-	.string "Indovina: vuoi che ti insegni una\n"
-	.string "mossa?$"
+	.string "Oh! That's it! That's an honest to\n"
+	.string "goodness HEART SCALE!\p"
+	.string "Let me guess, you want me to teach\n"
+	.string "a move?$"
 
 BlackthornCity_MoveRelearnersHouse_Text_TutorWhichMon:
 	.string "Quale POKéMON va istruito?$"
@@ -208,8 +208,8 @@ BlackthornCity_MoveRelearnersHouse_Text_ComeBackWithHeartScale:
 	.string "una mossa, con FARFASCAGLIA.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_CantTeachEgg:
-	.string "Eh? Non ho mosse da insegnare\n"
-	.string "a un UOVO.$"
+	.string "Hunh? There isn't a single move that\n"
+	.string "I can teach an EGG.$"
 
 
 

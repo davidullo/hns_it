@@ -80,19 +80,19 @@ PewterCity_Gym_Text_Brock_FightDone:
 	.string "molto più forte anch'io.$"
 
 PewterCity_Gym_Text_CamperJerry_Seen:
-	.string "Gli allenatori di questa PALESTRA usano\n"
-	.string "POKéMON di tipo ROCIA.\p"
-	.string "Il tipo ROCIA ha una DIFESA alta.\p"
-	.string "Le lotte possono durare a lungo.\n"
-	.string "Sei pronto?$"
+	.string "The trainers of this GYM use ROCK-type\n"
+	.string "POKéMON.\p"
+	.string "The ROCK-type has high DEFENSE.\p"
+	.string "Battles could end up going a long time.\n"
+	.string "Are you ready for this?$"
 
 PewterCity_Gym_Text_CamperJerry_Beaten:
 	.string "Devo vincere queste lotte…$"
 
 PewterCity_Gym_Text_CamperJerry_AfterBattle:
-	.string "Ehi, tu! Allenatore da JOHTO! BROCK è\n"
-	.string "tosto. Ti punirà se non lo prendi\l"
-	.string "sul serio.$"
+	.string "Hey, you! Trainer from JOHTO! BROCK is\n"
+	.string "tough. He'll punish you if you don't\l"
+	.string "take him seriously.$"
 
 PewterCity_Gym_Text_Guide:
 	.string "Yo! CAMPIONE in erba! Sei davvero\n"

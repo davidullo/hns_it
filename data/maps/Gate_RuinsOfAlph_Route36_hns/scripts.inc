@@ -26,9 +26,9 @@ Gate_RuinsOfAlph_Route36_EventScript_Youngster::
 	end
 
 Gate_RuinsOfAlph_Route36_Text_Officer:
-	.string "ROVINE DI ALPH\p"
-	.string "Sito da toccare\p"
-	.string "Prova le lastre mobili!$"
+	.string "RUINS OF ALPH\p"
+	.string "A Look-and-Touch Tourist Site\p"
+	.string "Try the sliding stone panels!$"
 
 Gate_RuinsOfAlph_Route36_Text_PokefanM:
 	.string "Studi le ROVINE?\p"

@@ -39,9 +39,9 @@ MagmaHideout_2F_1R_Text_Grunt14PostBattle:
 	.string "unirti al TEAM MAGMA.$"
 
 MagmaHideout_2F_1R_Text_Grunt3Intro:
-	.string "Fermo lì!\p"
-	.string "Credi che stia zitto e ti lasci\n"
-	.string "passare come se niente fosse?$"
+	.string "Hold it right there!\p"
+	.string "You don't really expect me to keep\n"
+	.string "my trap shut and let you waltz by me?$"
 
 MagmaHideout_2F_1R_Text_Grunt3Defeat:
 	.string "Oooh!\n"

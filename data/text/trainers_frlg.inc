@@ -87,8 +87,8 @@ Route8_Text_AndreaRematchIntro::
 	.string "miao, miao, miao!$"
 
 Route8_Text_MeganRematchIntro::
-	.string "Sembriamo sciocchi così, ma\n"
-	.string "so ancora lottare.$"
+	.string "We may look silly standing here\n"
+	.string "like this, but I can still battle.$"
 
 Route8_Text_RichRematchIntro::
 	.string "Sono un tipo che gioca e vaga!\n"
@@ -234,10 +234,10 @@ Route12_Text_JustinRematchIntro::
 	.string "Ne hai trovata una?$"
 
 Route12_Text_LucaRematchIntro::
-	.string "L'elettricità è sempre stata la mia\n"
-	.string "specialità.\p"
-	.string "Ma non so nulla dei POKéMON\n"
-	.string "del mare.$"
+	.string "Electricity has always been my\n"
+	.string "specialty.\p"
+	.string "I don't know a thing about POKéMON\n"
+	.string "of the sea, though.$"
 
 Route12_Text_HankRematchIntro::
 	.string "IL PESCATORE PAZZO contro POKéMON KID!\n"
@@ -295,7 +295,7 @@ Route13_Text_SheilaRematchIntro::
 	.string "lottato con me?$"
 
 Route13_Text_JaredRematchIntro::
-	.string "Cosa fissi?$"
+	.string "What're you starin' at?$"
 
 Route13_Text_RobertRematchIntro::
 	.string "Vado sempre con POKéMON uccello.\n"
@@ -819,10 +819,10 @@ FiveIsland_MemorialPillar_Text_MiloRematchIntro::
 	.string "gli uccelli per i loro becchi!$"
 
 FiveIsland_MemorialPillar_Text_ChazRematchIntro::
-	.string "Sono il fratello di mezzo dei FRATELLI\n"
-	.string "UCCELLO.\p"
-	.string "Adoro le ali.\n"
-	.string "Lottiamo di nuovo!$"
+	.string "I'm the middle kid of the BIRD\n"
+	.string "BROTHERS.\p"
+	.string "I'm the one that loves wings.\n"
+	.string "Let's battle again!$"
 
 FiveIsland_MemorialPillar_Text_HaroldRematchIntro::
 	.string "Sono il più piccolo dei FRATELLI\n"
@@ -944,10 +944,10 @@ SevenIsland_SevaultCanyon_Text_CyndyRematchIntro::
 	.string "Sono in forma smagliante!$"
 
 SevenIsland_SevaultCanyon_Text_EvanRematchIntro::
-	.string "Non importa se hai i POKéMON\n"
-	.string "più forti…\p"
-	.string "Non contano nulla se non sai\n"
-	.string "usarli come si deve!$"
+	.string "It doesn't matter if you happen to\n"
+	.string "have the strongest POKéMON…\p"
+	.string "It doesn't mean a thing if you don't\n"
+	.string "know how to use them properly!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonRematchIntro::
 	.string "Proteggo l'ambiente.\n"

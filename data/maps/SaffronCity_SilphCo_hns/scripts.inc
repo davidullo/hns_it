@@ -92,11 +92,11 @@ SaffronCity_SilphCo_Movement_StevenLeave:
 
 
 SaffronCity_SilphCo_Text_Steven1:
-	.string "Pronto...\n"
-	.string "Ti sento male...\l"
-	.string "Penso dipenda da mio padre.\l"
-	.string "Capisco...\n"
-	.string "Arrivo. A presto.$"
+	.string "Hello...\n"
+	.string "You're breaking up...\l"
+	.string "I think it depends on my dad.\l"
+	.string "I see...\n"
+	.string "I'll be on my way. See you soon.$"
 SaffronCity_SilphCo_Text_Steven2:
 	.string "STEVEN: Tu sei... ricordo i tuoi\n"
 	.string "occhi.\p"

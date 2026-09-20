@@ -1359,14 +1359,14 @@ PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
 	.string "Lascia fare tutto a me!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
-	.string "{PLAYER}, mi dispiace dirlo, ma tu\n"
-	.string "non servirà.\p"
-	.string "Lo so! Prenderò una MAPPA CITTÀ\n"
-	.string "da mia sorella!\p"
-	.string "Le dirò di non dartene una,\n"
-	.string "{PLAYER}! Ahahah!\p"
-	.string "Non passare da casa mia\n"
-	.string "dopo questa!$"
+	.string "{PLAYER}, I hate to say it, but you\n"
+	.string "won't be necessary for this.\p"
+	.string "I know! I'll borrow a TOWN MAP\n"
+	.string "from my sis!\p"
+	.string "I'll tell her not to lend you one,\n"
+	.string "{PLAYER}! Hahaha!\p"
+	.string "Don't bother coming around to\n"
+	.string "my place after this!$"
 
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
 	.string "OAK: {RIVAL}?\n"
@@ -1593,10 +1593,10 @@ PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
 	.string "grande considerazione.$"
 
 PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
-	.string "Ah, questo è ottimo!\p"
-	.string "{PLAYER}, ho un altro importante\n"
-	.string "favore da chiederti.\p"
-	.string "Ascolta bene.$"
+	.string "Ah, now this is excellent!\p"
+	.string "{PLAYER}, I have another important\n"
+	.string "favor to ask of you.\p"
+	.string "I need you to listen closely.$"
 
 PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
 	.string "Di recente sono stati avvistati\n"

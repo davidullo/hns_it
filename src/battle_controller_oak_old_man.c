@@ -49,7 +49,7 @@ static void PrintOakTextWithMainBgDarkened(enum BattlerId battler, const u8 *tex
 static void HandleInputChooseAction(enum BattlerId battler);
 
 static const u8 sText_ForPetesSake[] = _("OAK: Oh, per l'amor del cielo…\nChe insistente, come sempre.\p{B_PLAYER_NAME}.\pNon hai mai fatto una lotta\nPOKéMON, vero?\pUna lotta POKéMON è quando\ngli ALLENATORI mettono i loro\lPOKéMON l'uno contro l'altro.\p");
-static const u8 sText_HowDissapointing[] = _("OAK: Hm…\nChe delusione…\pSe vinci, guadagni soldi,\ne i tuoi POKéMON crescono.\pMa se perdi, {B_PLAYER_NAME}, paghi\ntu i soldi…\pPerò, visto che nessuno ti ha\navvisato, stavolta pago io.\pMa non sarà così appena\nmetterai piede fuori di qui.\pEcco perché devi rinforzare i\nPOKéMON lottando con i selvatici.\p");
+static const u8 sText_HowDissapointing[] = _("OAK: Hm…\nChe delusione…\pSe vinci, guadagni soldi,\ne i tuoi POKéMON crescono.\pMa se perdi, {B_PLAYER_NAME}, paghi\ntu i soldi…\pPerò, visto che nessuno ti ha\navvisato, stavolta pago io.\pMa non sarà così appena\nmetterai piede fuori di qui.\pEcco perché devi rinforzare i\nPOKéMON lottando coi selvatici.\p");
 static const u8 sText_InflictingDamageIsKey[] = _("OAK: Infliggere danni al nemico\nè la chiave di ogni lotta.\p");
 static const u8 sText_KeepAnEyeOnHP[] = _("OAK: Tieni d'occhio i PS\ndei tuoi POKéMON.\pSviene se i PS scendono a\n“0.”\p");
 static const u8 sText_LoweringStats[] = _("OAK: Calare le statistiche\nnemiche ti dà vantaggio.\p");

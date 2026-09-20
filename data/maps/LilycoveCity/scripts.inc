@@ -480,37 +480,37 @@ LilycoveCity_Text_MayYouGoingToBattleFrontier:
 	.string "Ci vediamo!$"
 
 LilycoveCity_Text_BrendanShoppingLetsBattle:
-	.string "BRENDAN: Oh, {PLAYER}.\p"
-	.string "Una commissione.\n"
-	.string "Non compro PUPATTE.\p"
-	.string "È da un po'.\p"
-	.string "Chi alleva meglio\n"
-	.string "i POKéMON?$"
+	.string "BRENDAN: Oh, hey, it's {PLAYER}.\p"
+	.string "I'm running an errand for my dad.\n"
+	.string "No, I'm not buying any DOLLS.\p"
+	.string "Anyways, it's been a while.\p"
+	.string "Want to have a battle to see who's been\n"
+	.string "raising POKéMON better?$"
 
 LilycoveCity_Text_BrendanNoConfidence:
-	.string "BRENDAN: Che c'è?\n"
-	.string "Non te la senti?$"
+	.string "BRENDAN: Oh, what's the matter?\n"
+	.string "Don't have the confidence?$"
 
 LilycoveCity_Text_BrendanBattleMe:
-	.string "BRENDAN: Chi alleva\n"
-	.string "meglio i POKéMON?$"
+	.string "BRENDAN: Want to battle to see who's\n"
+	.string "been raising POKéMON better?$"
 
 LilycoveCity_Text_BrendanWontBeBeaten:
-	.string "BRENDAN: Non\n"
-	.string "perderò, {PLAYER}.$"
+	.string "BRENDAN: Aww, but you know I'm not\n"
+	.string "going to lose to no {PLAYER}.$"
 
 LilycoveCity_Text_BrendanDefeat:
-	.string "Uhm…\n"
-	.string "Ti sei allenato.\p"
-	.string "Mi brucia: ero\n"
-	.string "in vantaggio…$"
+	.string "Humph…\n"
+	.string "You've done a lot of raising.\p"
+	.string "That stings a bit--I had a head start\n"
+	.string "on you as a TRAINER…$"
 
 LilycoveCity_Text_BrendanGoingBackToLittleroot:
-	.string "BRENDAN: Io…\n"
-	.string "Torno a LITTLEROOT.\p"
-	.string "Aiuto papà\n"
-	.string "col POKéDEX.\l"
-	.string "Voglio farglielo vedere.$"
+	.string "BRENDAN: I…\n"
+	.string "I plan on going home to LITTLEROOT.\p"
+	.string "You know I'm helping out my dad on his\n"
+	.string "POKéDEX. It's coming together pretty\l"
+	.string "decently, so I should go show him.$"
 
 LilycoveCity_Text_BrendanYouGoingToCollectBadges:
 	.string "{PLAYER}, cosa farai?\p"
@@ -520,13 +520,13 @@ LilycoveCity_Text_BrendanYouGoingToCollectBadges:
 	.string "Beh, comunque, non mollare!$"
 
 LilycoveCity_Text_BrendanYouGoingToPokemonLeague:
-	.string "{PLAYER}, cosa farai?\p"
-	.string "Dato che sei forte, sfiderai\n"
-	.string "la LEGA POKéMON?\p"
-	.string "Eh, anch'io, se allenassi un po'\n"
-	.string "i POKéMON, sarei più forte di\l"
-	.string "te, {PLAYER}.\p"
-	.string "Beh, comunque, non mollare!$"
+	.string "{PLAYER}, what are you going to do?\p"
+	.string "Since you're that strong, are you\n"
+	.string "taking the POKéMON LEAGUE challenge?\p"
+	.string "Heh, even me--if I trained my POKéMON\n"
+	.string "a bit more, I should be stronger than\l"
+	.string "you, {PLAYER}.\p"
+	.string "Well, anyway, hang in there!$"
 
 LilycoveCity_Text_BrendanYouGoingToBattleFrontier:
 	.string "{PLAYER}, cosa farai?\p"
@@ -550,18 +550,18 @@ LilycoveCity_Text_MovedLootIntoHideoutToday:
 	.string "Parlavo da sola!$"
 
 LilycoveCity_Text_ChanceToDoBigThings:
-	.string "Sono un RECLUTA, non so\n"
-	.string "cosa pensa il CAPO…\p"
-	.string "Ma nel TEAM AQUA\n"
-	.string "farò grandi cose!\p"
-	.string "E tu chi sei?!\n"
-	.string "Parlavo da solo!$"
+	.string "I'm just a GRUNT, so I don't know what\n"
+	.string "the BOSS is thinking…\p"
+	.string "But being on TEAM AQUA, I know I'll get\n"
+	.string "the chance to do big things!\p"
+	.string "Wh-who are you?!\n"
+	.string "I was just talking to myself!$"
 
 LilycoveCity_Text_DontGoNearCaveInCove:
-	.string "Ehi, tu!\p"
-	.string "Stai via dalla grotta!\p"
-	.string "Non serve un perché!\n"
-	.string "Ubbidisci e basta!$"
+	.string "Hey, you!\p"
+	.string "Don't go near the cave in the cove!\p"
+	.string "Why? You don't need a reason why!\n"
+	.string "I'm an adult, so you just listen to me!$"
 
 LilycoveCity_Text_IfWorldBecomesOurs:
 	.string "Se tutto il mondo diventa nostro,\n"
@@ -573,26 +573,26 @@ LilycoveCity_Text_WailmerLeapOutOfWater:
 	.string "Salta fuori dall'acqua!$"
 
 LilycoveCity_Text_GetLostMessingUpTraining:
-	.string "Eh? Che vuoi?\p"
-	.string "Ci disturbi,\n"
-	.string "quindi sparisci?$"
+	.string "Hunh? What do you want?\p"
+	.string "You're messing up our training,\n"
+	.string "so can you, like, get lost?$"
 
 LilycoveCity_Text_ContestHallInTown:
-	.string "C'è una SALA GARE\n"
-	.string "proprio qui.\p"
-	.string "POKéMON allevati bene\n"
-	.string "da tutto il paese.\p"
-	.string "Che emozione!$"
+	.string "There's a POKéMON CONTEST HALL\n"
+	.string "right in this here town. \p"
+	.string "That means well-raised POKéMON will\n"
+	.string "come from all over the country.\p"
+	.string "My heart swells with excitement!$"
 
 LilycoveCity_Text_StrangeCaveInCove:
 	.string "Hai visto quella grotta strana\n"
 	.string "nella cala ai margini del paese?$"
 
 LilycoveCity_Text_GoingToMoveDeleterForHMs:
-	.string "Mosse nuove ai POKéMON\n"
-	.string "per una GARA.\p"
-	.string "Vado dal DIMENTICAMOSSE\n"
-	.string "a togliere le MN.$"
+	.string "I'm going to teach my POKéMON some new\n"
+	.string "moves for entering a CONTEST.\p"
+	.string "So, I'm going to see the MOVE DELETER\n"
+	.string "and make it forget HM moves.$"
 
 LilycoveCity_Text_ImFromKanto:
 	.string "Vengo da KANTO.\p"
@@ -646,15 +646,15 @@ LilycoveCity_Text_SixtyYearsAgoHusbandProposed:
 	.string "Mufufufu mufufufufufu…$"
 
 LilycoveCity_Text_TeamAquaRenovatedCavern:
-	.string "Mh, conosci la caverna strana\n"
-	.string "di questa cala?\p"
-	.string "Era una formazione naturale,\n"
-	.string "ma poi è arrivato il TEAM AQUA\l"
-	.string "e l'ha ristrutturata.\p"
-	.string "Si fanno chiamare\n"
-	.string "il “TEAM AQUA amante della natura”!\p"
-	.string "Ma fanno e dicono\n"
-	.string "cose del tutto diverse!$"
+	.string "Hm, you know of the peculiar cavern\n"
+	.string "in this cove?\p"
+	.string "That had been a natural formation,\n"
+	.string "but then that TEAM AQUA lot came\l"
+	.string "along and made their renovations.\p"
+	.string "They call themselves\n"
+	.string "the “nature-loving TEAM AQUA”!\p"
+	.string "But what they do and what they say\n"
+	.string "don't match at all!$"
 
 LilycoveCity_Text_TeamAquaLotGoneForGood:
 	.string "Quella grotta nella cala…\p"
@@ -664,9 +664,9 @@ LilycoveCity_Text_TeamAquaLotGoneForGood:
 	.string "sono andati per sempre.$"
 
 LilycoveCity_Text_CitySign:
-	.string "PORTO ALGHEPOLI\p"
-	.string "“Dove finisce\n"
-	.string "la terra.”$"
+	.string "LILYCOVE CITY\p"
+	.string "“Where the land ends and the\n"
+	.string "sea begins.”$"
 
 LilycoveCity_Text_ContestHallSign:
 	.string "SALA GARE POKéMON\n"
@@ -705,11 +705,11 @@ LilycoveCity_Text_TrainerFanClubSign:
 	.string "scritti su tutto il cartello…$"
 
 LilycoveCity_Text_DepartmentStoreSign:
-	.string "GRANDI MAGAZZINI\p"
-	.string "“Pieni di merce\n"
-	.string "ed emozioni!\p"
-	.string "“Trovi ciò che\n"
-	.string "ti serve!”$"
+	.string "LILYCOVE DEPARTMENT STORE\p"
+	.string "“Overflowing with great merchandise\n"
+	.string "and excitement!\p"
+	.string "“A great place to find that something\n"
+	.string "you need!”$"
 
 LilycoveCity_Text_MoveDeletersHouseSign:
 	.string "CASA ELIMINAMOSSE\p"
@@ -720,16 +720,16 @@ LilycoveCity_Text_DoYouKnowAboutBerryBlender:
 	.string "FRULLABACCHE?$"
 
 LilycoveCity_Text_FasterSpinBetterPokeblocks:
-	.string "Bisogna collaborare\n"
-	.string "per girarlo veloce.\p"
-	.string "Più gira veloce,\n"
-	.string "migliori {POKEBLOCK} ottieni.$"
+	.string "People have to work together to get it\n"
+	.string "to spin faster.\p"
+	.string "The faster you can make it spin, the\n"
+	.string "better {POKEBLOCK}S you can get, I've heard.$"
 
 LilycoveCity_Text_ExplainBerryBlender:
-	.string "Fa caramelle\n"
-	.string "chiamate {POKEBLOCK}.\p"
-	.string "Dai un {POKEBLOCK} buono a un POKéMON,\n"
-	.string "e migliora molto.$"
+	.string "It's used for making a kind of candy\n"
+	.string "called a {POKEBLOCK}.\p"
+	.string "If you give a good {POKEBLOCK} to a POKéMON,\n"
+	.string "its condition will improve by a lot.$"
 
 LilycoveCity_Text_HeardTowerCalledSkyPillar:
 	.string "Ho sentito che c'è una torre\n"
@@ -737,9 +737,9 @@ LilycoveCity_Text_HeardTowerCalledSkyPillar:
 	.string "Si chiama SKY PILLAR, dicono.$"
 
 LilycoveCity_Text_SawTallTowerOnRoute131:
-	.string "Ho visto questa torre alta\n"
-	.string "dalle parti del PERCORSO 131.\p"
-	.string "Che sia…?$"
+	.string "I saw this tall tower somewhere\n"
+	.string "around ROUTE 131.\p"
+	.string "Could that possibly be…?$"
 
 LilycoveCity_Text_JustArrivedAndSawRarePokemon:
 	.string "Siamo appena arrivati per il\n"

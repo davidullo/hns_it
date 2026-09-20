@@ -49,9 +49,9 @@ RS_MysteryEventsHouse_Text_DoorIsLocked:
 	.string "La porta sembra chiusa a chiave.$"
 
 RS_MysteryEventsHouse_Text_ChallengeVisitingTrainer:
-	.string "Un ALLENATORE di nome {STR_VAR_1}\n"
-	.string "è ospite a casa mia.\p"
-	.string "Vuoi sfidare\n"
+	.string "A TRAINER named {STR_VAR_1} is\n"
+	.string "visiting my home.\p"
+	.string "Would you like to challenge\n"
 	.string "{STR_VAR_1}?$"
 
 RS_MysteryEventsHouse_Text_YouWontBattle:
@@ -59,10 +59,10 @@ RS_MysteryEventsHouse_Text_YouWontBattle:
 	.string "non potrò vedervi lottare…$"
 
 RS_MysteryEventsHouse_Text_KeepItToA3On3:
-	.string "Oh, bene, bene!\p"
-	.string "Ma casa mia non è molto solida.\p"
-	.string "Potreste limitarvi\n"
-	.string "a una lotta 3 contro 3?$"
+	.string "Oh, good, good!\p"
+	.string "But my house isn't all that sturdy.\p"
+	.string "Could I ask you to keep it down to\n"
+	.string "a 3-on-3 match?$"
 
 RS_MysteryEventsHouse_Text_SaveYourProgress:
 	.string "Prima di lottare, dovreste\n"

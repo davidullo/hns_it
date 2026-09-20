@@ -207,12 +207,12 @@ Gate_NationalPark_Movement_Player_EnterParkBotB:
 	step_end
 
 Route35NationalParkGate_Text_OfficerAskToParticipate:
-	.string "Ciao Allenatore! Oggi c'è il\n"
-	.string "Concorso Cattura Coleotteri.\p"
-	.string "Le regole son semplici.\p"
-	.string "Con un tuo POKéMON cattura un\n"
-	.string "coleottero da giudicare.\p"
-	.string "Vuoi provare?$"
+	.string "Hello Trainer! The Bug-Catching\n"
+	.string "Contest is on today.\p"
+	.string "The rules are simple.\p"
+	.string "Using one of your POKéMON, catch a\n"
+	.string "bug POKéMON to be judged.\p"
+	.string "Would you like to give it a try?$"
 
 Route35NationalParkGate_Text_OfficerGiveSportBalls:
 	.string "Gli EXP che i POKéMON prendono\n"
@@ -225,21 +225,21 @@ Route35NationalParkGate_Text_ReceivedSportBalls:
 	.string "{PLAYER} riceve delle SPORT BALL.$"
 
 Route35NationalParkGate_Text_OfficerExplainRules:
-	.string "Chi prende il coleottero più forte\n"
-	.string "vince.\p"
-	.string "Se finisci le SPORT BALL,\n"
-	.string "hai finito.\p"
-	.string "Puoi prendere fino a 5 POKéMON.\n"
-	.string "Tieni solo l'ultimo preso, quello\l"
-	.string "che entra nel concorso.\p"
-	.string "Va' e prendi il coleottero più\n"
-	.string "forte che trovi!$"
+	.string "The person who gets the strongest\n"
+	.string "bug POKéMON is the winner.\p"
+	.string "If you run out of SPORT BALLS,\n"
+	.string "you're done.\p"
+	.string "You can catch up to 5 POKéMON. The\n"
+	.string "last one caught will be the only\l"
+	.string "one kept and placed in the contest.\p"
+	.string "Go out and catch the strongest bug\n"
+	.string "POKéMON you can find!$"
 
 Route35NationalParkGate_Text_OfficerAskToUseFirstMon:
-	.string "Se hai più di un POKéMON,\n"
-	.string "dovrai usare il\l"
-	.string "primo della squadra.\p"
-	.string "Va bene?$"
+	.string "If you have more than one POKéMON,\n"
+	.string "you'll have to use the\l"
+	.string "first POKéMON in your party.\p"
+	.string "Is that OK with you?$"
 
 Route35NationalParkGate_Text_OfficerHoldYourMon:
 	.string "Va bene, teniamo noi gli altri\n"

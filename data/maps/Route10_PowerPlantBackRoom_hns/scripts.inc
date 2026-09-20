@@ -85,11 +85,11 @@ Route10_PowerPlantBackRoom_Text_ManagerTakeThisTM:
 	.string "Tieni! Prendi questa MT come premio!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTM07IsZapCannon:
-	.string "MANAGER: Quella MT è TUONO.\p"
-	.string "È una mossa potente!\p"
-	.string "Non è certo precisa,\n"
-	.string "ma colpisce\l"
-	.string "duro!$"
+	.string "MANAGER: That TM is THUNDER.\p"
+	.string "It's a powerful technique!\p"
+	.string "It's not what anyone would\n"
+	.string "consider accurate, but it packs a\l"
+	.string "wallop!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerMyBelovedGenerator:
 	.string "MANAGER: Generatore mio adorato!\p"

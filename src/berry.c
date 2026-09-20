@@ -64,7 +64,7 @@ const struct Berry gBerries[] =
 {
     [ITEM_CHERI_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Ciliegia"),
+        .name = _("Cheri"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_RED,
         .size = 20,
@@ -1060,7 +1060,7 @@ const struct Berry gBerries[] =
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
         .description1 = COMPOUND_STRING("La polpa dolce ha solo un accenno di"),
-        .description2 = COMPOUND_STRING("duro e fragrante."),
+        .description2 = COMPOUND_STRING("ha un morso duro e fragrante."),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 10,
         .dry = 0,
@@ -1359,7 +1359,7 @@ const struct Berry gBerries[] =
         .maxYield = YIELD_RATE(6, 5, 10, 13),
         .minYield = YIELD_RATE(5, 1, 1, 2),
         .description1 = COMPOUND_STRING("Una Bacca misteriosa. Si dice che"),
-        .description2 = COMPOUND_STRING("contain the power of all living things."),
+        .description2 = COMPOUND_STRING("racchiude il potere di ogni vivente."),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 96, 48, 72),
         .spicy = 40,
         .dry = 0,
@@ -1582,7 +1582,7 @@ const struct Berry gBerries[] =
 
     [ITEM_MARANGA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Maranga"), // "Maranga" is too long
+        .name = _("Marnga"), // "Maranga" is too long
         .firmness = BERRY_FIRMNESS_UNKNOWN,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_BLUE : BERRY_COLOR_YELLOW,
         .size = 0,

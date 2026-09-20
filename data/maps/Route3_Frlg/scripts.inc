@@ -49,8 +49,8 @@ Route3_Text_JaniceDefeat::
 	.string "Che cattivo!$"
 
 Route3_Text_JanicePostBattle::
-	.string "Non fissare se non vuoi\n"
-	.string "lottare!$"
+	.string "You shouldn't be staring if you\n"
+	.string "don't want to battle!$"
 
 Route3_Text_GregIntro::
 	.string "Sei un ALLENATORE?\n"

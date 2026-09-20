@@ -248,10 +248,10 @@ LakeOfRage_Text_LanceForcedToEvolve:
     .string "a evolversi…$"
 
 LakeOfRage_Text_LanceIntro1:
-    .string "Sei qui per via\n"
-    .string "delle voci?\p"
-    .string "Tu sei {PLAYER}? Io sono\n"
-    .string "LANCE, un allenatore come te.$"
+    .string "Did you come here because of\n"
+    .string "the rumors?\p"
+    .string "You're {PLAYER}? I'm LANCE, a\n"
+    .string "trainer like you.$"
 
 LakeOfRage_Text_LanceIntro2:
     .string "Quest'uomo mi ha parlato\n"
@@ -259,12 +259,12 @@ LakeOfRage_Text_LanceIntro2:
     .string "Siamo venuti a indagare…$"
 
 LakeOfRage_Text_LanceIntro3:
-    .string "Ho visto come hai lottato\n"
-    .string "prima, {PLAYER}.\p"
-    .string "Sei un allenatore\n"
-    .string "davvero abile.\p"
-    .string "Se ti va, ci aiuti a\n"
-    .string "indagare?$"
+    .string "I saw the way you battled\n"
+    .string "earlier, {PLAYER}.\p"
+    .string "I can tell that you're a trainer\n"
+    .string "with considerable skill.\p"
+    .string "If you don't mind, could you help\n"
+    .string "us investigate?$"
 
 LakeOfRage_Text_LanceRadioSignal:
     .string "LANCE: Perfetto!\p"
@@ -276,8 +276,8 @@ LakeOfRage_Text_LanceRadioSignal:
     .string "{PLAYER}.$"
 
 LakeOfRage_Text_LanceRefused:
-    .string "Oh… Se cambi idea,\n"
-    .string "aiutaci.$"
+    .string "Oh… Well, if you change your mind,\n"
+    .string "please help us.$"
 
 LakeOfRage_Text_LanceAskHelp:
     .string "LANCE: Eh? Ci aiuti\n"
@@ -294,11 +294,11 @@ LakeOfRage_Text_GrampsCleared:
     .string "Ahah! I MAGIKARP abboccano!$"
 
 LakeOfRage_Text_SuperNerd:
-    .string "Dicono che questo lago\n"
-    .string "l'abbiano creato dei GYARADOS\p"
-    .string "in furore.\n"
-    .string "Chissà se c'entra la loro\l"
-    .string "comparsa in massa?$"
+    .string "I heard this lake was made by\n"
+    .string "rampaging GYARADOS.\p"
+    .string "I wonder if there is any\n"
+    .string "connection to their mass outbreak\l"
+    .string "now?$"
 
 LakeOfRage_Text_CooltrainerF:
     .string "Vedo male o c'era un\n"
@@ -332,9 +332,9 @@ LakeOfRage_Text_FisherRaymondAfter:
     .string "POKéMON forti?$"
 
 LakeOfRage_Text_CooltrainermAaronSeen:
-    .string "Se un allenatore ne vede un altro,\n"
-    .string "deve sfidarlo.\p"
-    .string "È il nostro destino.$"
+    .string "If a trainer spots another trainer,\n"
+    .string "he has to make a challenge.\p"
+    .string "That is our destiny.$"
 
 LakeOfRage_Text_CooltrainermAaronBeaten:
     .string "Uff… Bella lotta.$"
@@ -410,18 +410,18 @@ LakeOfRage_Text_MeetWesley:
 	.string "Indovini il mio giorno preferito?$"
 
 LakeOfRage_Text_WesleyGivesGift:
-    .string "Piacere! Prendi un\n"
-    .string "ricordo.$"
+    .string "Pleased to meet you. Please take a\n"
+    .string "souvenir.$"
 
 LakeOfRage_Text_WesleyGaveGift:
     .string "WESLEY: La CINTURA NERA\n"
     .string "aumenta la forza delle mosse di Lotta.$"
 
 LakeOfRage_Text_WesleyWednesday:
-    .string "WESLEY: Se mi hai trovato,\n"
-    .string "hai visto i miei fratelli.\l"
-    .string "O sei stato solo\p"
-    .string "fortunato?$"
+    .string "WESLEY: Since you found me, you\n"
+    .string "must have met my brothers and\l"
+    .string "sisters.\p"
+    .string "Or did you just get lucky?$"
 
 LakeOfRage_Text_WesleyNotWednesday:
     .string "WESLEY: Non proprio…$"

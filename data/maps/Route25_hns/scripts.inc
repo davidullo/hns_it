@@ -202,11 +202,11 @@ Route25_Text_Eusine1:
 	.string "te.$"
 
 Route25_Text_Eusine2:
-	.string "Guardalo!\p"
-	.string "SUICUNE ti sta aspettando!\n"
-	.string "Attende una lotta con un\l"
-	.string "allenatore degno a cui\l"
-	.string "affidarsi.$"
+	.string "Take a look at it!\p"
+	.string "SUICUNE is waiting for you!\n"
+	.string "It has been waiting for a battle\l"
+	.string "with a worthy trainer to whom it\l"
+	.string "can entrust itself.$"
 
 Route25_Text_Eusine3:
 	.string "{PLAYER}...\n"
@@ -402,9 +402,9 @@ Route25_Text_MistyDate:
 	.string "CERULEAN.$"
 
 Route25_Text_SchoolboyDudleySeen:
-	.string "Batti noi sei allenatori e\n"
-	.string "vinci un premio favoloso!\p"
-	.string "Credi di farcela?$"
+	.string "Beat the six of us trainers to\n"
+	.string "win a fabulous prize!\p"
+	.string "Think you've got what it takes?$"
 
 Route25_Text_SchoolboyDudleyBeaten:
 	.string "Uao! Roba buona.$"

@@ -3649,7 +3649,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "Un fertilizzante che\n"
+            "Fertilizzante che\n"
             "aumenta le BACche\n"
             "raccolte."),
     #else
@@ -10224,9 +10224,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_FOCUS_SASH,
         .description = COMPOUND_STRING(
-            "Con PS pieni, chi lo\n"
-            "tiene resiste agli KO\n"
-            "con 1 PS."),
+            "Se chi lo tiene ha\n"
+            "i PS pieni, resiste\n"
+            "ai KO con 1 PS."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -12747,7 +12747,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("TM37"),
         .price = 2000,
         .description = COMPOUND_STRING(
-            "Crea una\n"
+            "Scatena una\n"
             "terrempesta che\n"
             "colpisce per turni."),
         .importance = I_REUSABLE_TMS,

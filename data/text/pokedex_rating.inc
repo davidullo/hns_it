@@ -252,13 +252,13 @@ gElmDexRatingText_Robbery::
 
 gElmDexRatingText_AreYouCurious::
 	.string "PROF. ELM: Ah, {PLAYER}{KUN}!\p"
-	.string "Vuoi sapere come procede il tuo\n"
-	.string "POKéDEX?$"
+	.string "Are you curious about how your\n"
+	.string "POKéDEX is coming along?$"
 
 gElmDexRatingText_AreYouCuriousNational::
 	.string "PROF. ELM: Ah, {PLAYER}{KUN}!\p"
-	.string "Vuoi sapere come procede il tuo\n"
-	.string "POKéDEX Nazionale?$"
+	.string "Are you curious about how your\n"
+	.string "National POKéDEX is coming along?$"
 
 gJohtoDexRatingText_LessThan10::
 	.string "Cerca POKéMON nell'erba alta!$"
@@ -318,8 +318,8 @@ gJohtoDexRatingText_LessThan185::
 	.string "possono aiutarti davvero!$"
 
 gJohtoDexRatingText_LessThan200::
-	.string "Stai scambiando i tuoi POKéMON?\n"
-	.string "Da soli è dura!$"
+	.string "Are you trading your POKéMON?\n"
+	.string "It's tough to do this alone!$"
 
 gJohtoDexRatingText_LessThan215::
 	.string "Wow! Hai raggiunto 200!\n"
@@ -384,9 +384,9 @@ gNationalDexRatingText_LessThan300::
 	.string "a volte un POKéMON cade giù!$"
 
 gNationalDexRatingText_LessThan350::
-	.string "Molti POKéMON che non vivono a\n"
-	.string "Johto si radunano\p"
-	.string "alla Zona Safari$"
+	.string "A lot of POKéMON not found in the\n"
+	.string "Johto region like to congregate\p"
+	.string "at the Safari Zone$"
 
 gNationalDexRatingText_LessThan400::
 @	.string "Music on the radio might also\n"

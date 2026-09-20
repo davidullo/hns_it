@@ -145,12 +145,12 @@ PokemonFanClub_Text_ClefairyGuy_MakingDo:
 	.string "POKé DOLL che ho trovato.$"
 
 PokemonFanClub_Text_ClefairyGuy_ReturnDoll:
-	.string "Ah, capisco. La ragazza che ha\n"
-	.string "perso questo POKé DOLL è triste…\p"
-	.string "OK. Puoi riportare questo POKé DOLL\n"
-	.string "alla povera ragazzina?\p"
-	.string "Un giorno avrò un vero CLEFAIRY.\n"
-	.string "Tranquillo!$"
+	.string "Oh, I see now. The girl who lost\n"
+	.string "this POKé DOLL is sad…\p"
+	.string "OK. Could you take this POKé DOLL\n"
+	.string "back to that poor little girl?\p"
+	.string "I'll befriend a real CLEFAIRY on\n"
+	.string "my own one day. No worries!$"
 
 PokemonFanClub_Text_ClefairyGuy_GoingToGetOne:
 	.string "Vedrai. Diventerò amico di\n"

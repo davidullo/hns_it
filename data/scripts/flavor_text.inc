@@ -171,8 +171,8 @@ Text_Blueprints::
 	.string "Pieno di schemi e scritte.$"
 
 Text_Painting::
-	.string "È un bel quadro di un POKéMON.\n"
-	.string "Sembra stia bene.$"
+	.string "It's a pretty picture of a POKéMON.\n"
+	.string "It looks like it's feeling good.$"
 
 Text_PowerPlantMachine::
 	.string "Che macchina sarà mai?\n"

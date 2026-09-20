@@ -816,10 +816,10 @@ Route110_Text_HairStreamsBehindMe:
 	.string "Li ho fatti crescere apposta.$"
 
 Route110_Text_YouGotBikeFromRydel:
-	.string "Oh, ciao, hai preso quella BICICLETTA\p"
-	.string "da RYDEL!\n"
-	.string "Oh, si vede benissimo.\p"
-	.string "C'è scritto sulla tua bici…\n"
+	.string "Oh, hey, you got that BIKE from RYDEL!\p"
+	.string "Oh, it's glaringly obvious.\n"
+	.string "It says right on your bike…\p"
+	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
@@ -828,9 +828,9 @@ Route110_Text_YouGotBikeFromRydel:
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL…\n"
-	.string "Quel nome è ovunque.\p"
-	.string "Dovresti portarla in giro\n"
-	.string "ovunque, è una bella pubblicità!$"
+	.string "That name's everywhere.\p"
+	.string "You should ride it around all over\n"
+	.string "the place--it's good advertising!$"
 
 Route110_Text_TwoRoads:
 	.string "Due strade, una sopra, una sotto…\p"
@@ -848,10 +848,10 @@ Route110_Text_BikeTechniques:
 	.string "raggiungere solo con una tecnica.$"
 
 Route110_Text_WhichShouldIChoose:
-	.string "Cosa scelgo?\p"
-	.string "Puntare dritto a CICLAMIPOLI sulla\n"
-	.string "PISTA CICLABILE, o prendere la strada\l"
-	.string "in basso e cercare POKéMON?$"
+	.string "Which should I choose?\p"
+	.string "Make a beeline for MAUVILLE on\n"
+	.string "CYCLING ROAD, or take the low road\l"
+	.string "and look for POKéMON?$"
 
 Route110_Text_CyclingChallengeResultSummary:
 	.string "Numero di collisioni:\n"
@@ -883,11 +883,11 @@ Route110_Text_ChallengeReactionBad:
 	.string "pratica.$"
 
 Route110_Text_ChallengeReactionWorst:
-	.string "…Sono sconcertato…\p"
-	.string "Forse questa faccenda della bici\n"
-	.string "non fa per te.\p"
-	.string "Dovresti pensare seriamente a\n"
-	.string "riportare la BICICLETTA a RYDEL.$"
+	.string "…I am aghast…\p"
+	.string "You're perhaps not cut out for this\n"
+	.string "unfortunate cycling business.\p"
+	.string "You ought to give serious thought to\n"
+	.string "returning that BIKE to RYDEL.$"
 
 Route110_Text_RatedForNumberOfCollisions:
 	.string "Questa è la PISTA CICLABILE.\p"
@@ -916,11 +916,11 @@ Route110_Text_CyclingRoadSign:
 	.string "PISTA CICLABILE DEL MARE$"
 
 Route110_Text_AquaWasHere:
-	.string "“Qui c'era il TEAM AQUA!”\p"
-	.string "Qualcuno l'ha scritto su questo cartello,\n"
-	.string "ma poi qualcun altro l'ha coperto.\p"
-	.string "Ora c'è scritto\n"
-	.string "“Comanda il TEAM MAGMA!”$"
+	.string "“TEAM AQUA was here!”\p"
+	.string "Someone painted that onto this sign,\n"
+	.string "but then someone else painted over it.\p"
+	.string "“TEAM MAGMA rules!” is what it\n"
+	.string "says now.$"
 
 Route110_Text_Route103Sign:
 	.string "PERCORSO 110\n"

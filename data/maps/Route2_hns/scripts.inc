@@ -60,7 +60,7 @@ Route2_Text_BugCatcherEd_AfterBattle:
 	.string "il bagno.$"
 
 Route2_Text_BugCatcherDoug_Seen:
-	.string "Come mai ai POKéMON coleottero?$"
+	.string "Why don't girls like bug POKéMON?$"
 
 Route2_Text_BugCatcherDoug_Beaten:
 	.string "Non va bene!$"

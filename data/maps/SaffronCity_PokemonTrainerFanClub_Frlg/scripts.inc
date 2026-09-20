@@ -575,12 +575,12 @@ SaffronCity_PokemonTrainerFanClub_Text_LoveWayTrainerTalks::
 	.string "di persona una volta.$"
 
 SaffronCity_PokemonTrainerFanClub_Text_ImLoneTrainerFan::
-	.string "Ci credi?\n"
-	.string "Tutti sono diventati tuoi fan.\p"
-	.string "Dopo tutto quel che abbiamo passato,\n"
-	.string "sono l'unico fan di {STR_VAR_1}?\p"
-	.string "Va beh, essere l'unico fan di\n"
-	.string "{STR_VAR_1} è il mio stile.$"
+	.string "Huh, can you believe it?\n"
+	.string "Everyone turned into your fans.\p"
+	.string "So after all we've been through,\n"
+	.string "I'm the lone {STR_VAR_1} fan?\p"
+	.string "Eh, being the one and only\n"
+	.string "{STR_VAR_1} fan's my style, anyway.$"
 
 SaffronCity_PokemonTrainerFanClub_Text_AdoreWayYouBattle::
 	.string "Oh, santo cielo!\n"

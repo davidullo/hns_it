@@ -650,14 +650,14 @@ IlexForest_Movement_Kurt2:
 	step_end
 
 IlexForest_Text_ApprenticeIntro:
-	.string "Oh, no… Il mio capo\n"
-	.string "starà fumando…\p"
-	.string "Il FARFETCH'D che taglia\n"
-	.string "per me la legna,\p"
-	.string "è scappato.\n"
-	.string "Non posso cercarlo qui\p"
-	.string "nella FORESTA DI ILES.\n"
-	.string "È troppo grande e buia per me…$"
+	.string "Oh, man… My boss is going to be\n"
+	.string "steaming…\p"
+	.string "The FARFETCH'D that CUTS trees\n"
+	.string "for charcoal took off on me.\p"
+	.string "I can't go looking for it here\n"
+	.string "in the ILEX FOREST.\p"
+	.string "It's too big, dark and scary\n"
+	.string "for me…$"
 
 IlexForest_Text_ApprenticeAfter:
 	.string "Wow! Grazie mille!\p"
@@ -758,9 +758,9 @@ IlexForest_Text_Kimono_Girl3:
 	.string "perso, vero?$"
 
 IlexForest_Text_Kimono_Girl4:
-	.string "Wow! Mi mostri come uscire?\n"
-	.string "Sei un POKéMON molto\p"
-	.string "intelligente!$"
+	.string "Wow! Are you going to show me how\n"
+	.string "to get out?\p"
+	.string "You are such a smart POKéMON!$"
 
 IlexForest_Text_Kimono_Girl5:
 	.string "Ci vediamo.$"

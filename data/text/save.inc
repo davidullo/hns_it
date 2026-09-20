@@ -24,9 +24,9 @@ gText_DifferentSaveFile::
 	.string "e sovrascrivere l'altro file?$"
 
 gText_SaveError::
-	.string "Errore di salvataggio.\p"
-	.string "Scambia la\n"
-	.string "memoria di backup.$"
+	.string "Save error.\p"
+	.string "Please exchange the\n"
+	.string "backup memory.$"
 
 gText_SavingDontTurnOffPower::
 	.string "SALVATAGGIO…\n"

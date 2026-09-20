@@ -48,7 +48,7 @@ static const u8 sText_EnsureGBAConnectionMatches[] = _("Verifica che il collegam
 static const u8 sText_TurnOffPowerHoldingStartSelect[] = _("Accendi il POKéMON\n"
                                                            "Rubino/Zaffiro tenendo premuti\n"
                                                            "START e SELECT insieme. Poi\n"
-                                                           "controlla che appaia l'immagine.");
+                                                           "verifica che appaia l'immagine.");
 static const u8 sText_TransmittingPleaseWait[] = _("Trasmissione. Attendere.\n"
                                                    "{COLOR RED}{SHADOW LIGHT_RED}Non spegnere la console e non\n"
                                                    "staccare il Cavo Game Link\ndel Game Boy Advance.");

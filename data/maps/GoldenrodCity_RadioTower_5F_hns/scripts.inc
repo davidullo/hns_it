@@ -100,27 +100,27 @@ GoldenrodCity_RadioTower_5F_Text_FakeDirector1:
 	.string "T-tu! Sei qui per salvarmi?$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirector2:
-	.string "Te lo aspettavi?\p"
-	.string "Sbagliato! Sono un impostore!\p"
-	.string "Mi sono finto quello vero per\n"
-	.string "preparare il nostro colpo.\p"
-	.string "Vuoi sapere dove abbiamo nascosto\n"
-	.string "il vero DIRETTORE?\p"
-	.string "Certo, te lo dico. Ma solo se\n"
-	.string "riesci a battermi!$"
+	.string "Is that what you were expecting?\p"
+	.string "Wrong! I'm an imposter!\p"
+	.string "I pretended to be the real thing to\n"
+	.string "prepare for our takeover.\p"
+	.string "Do you want to know where we hid\n"
+	.string "the real DIRECTOR?\p"
+	.string "Sure, I'll tell you. But only if you\n"
+	.string "can beat me!$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorWin:
 	.string "OK, OK. Ti dico dov'è.$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorAfter:
-	.string "Il capo ha rinchiuso il DIRETTORE\n"
-	.string "nel MAGAZZINO SOTTERRANEO.\p"
-	.string "È in fondo al SOTTER-\n"
-	.string "RANEO.\p"
-	.string "Sono buono, ti do\n"
-	.string "la CHIAVE SEMINTERRATO per\l"
-	.string "il MAGAZZINO SOTTERRANEO.\p"
-	.string "Ma dubito che arriverai fin lì.$"
+	.string "The boss stashed the DIRECTOR in\n"
+	.string "the UNDERGROUND WAREHOUSE.\p"
+	.string "It's at the far end of the UNDER-\n"
+	.string "GROUND.\p"
+	.string "I am a nice guy, I will give you\n"
+	.string "the BASEMENT KEY to get to the\l"
+	.string "UNDERGROUND WAREHOUSE.\p"
+	.string "But I doubt you'll get that far.$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorAfter2:
 	.string "Il capo ha rinchiuso il DIRETTORE\n"

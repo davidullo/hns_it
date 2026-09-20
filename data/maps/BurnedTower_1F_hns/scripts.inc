@@ -179,10 +179,10 @@ BurnedTowerSilver_LossText:
 	.string "coi debolucci. Tempo perso.$"
 
 BurnedTowerSilver_AfterText2:
-	.string "Umph!\p"
-	.string "Cadere in una buca?\n"
-	.string "Che genio!\p"
-	.string "Te la meriti!$"
+	.string "Humph!\p"
+	.string "What are you doing falling\n"
+	.string "into a hole? Some genius!\p"
+	.string "Serves you right!$"
 
 BurnedTower_1F_EventScript_Nard::
 	trainerbattle_single TRAINER_NARD_HNS, BurnedTower_Text_NardSeen, BurnedTower_Text_NardBeaten

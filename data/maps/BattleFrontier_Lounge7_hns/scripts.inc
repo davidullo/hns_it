@@ -431,10 +431,10 @@ BattleFrontier_Lounge7_Text_IllTakeBattlePoints_hns:
 	.string "I tuoi Punti Lotta sono miei, grazie!$"
 
 BattleFrontier_Lounge7_Text_YouDontWantTo_hns:
-	.string "Che c'è?\n"
-	.string "Non vuoi…\p"
-	.string "Se vuoi vedermi all'opera,\n"
-	.string "vieni a trovarmi!$"
+	.string "What's that?\n"
+	.string "You don't want to…\p"
+	.string "If you want to see how skilled I am,\n"
+	.string "you come see me anytime!$"
 
 BattleFrontier_Lounge7_Text_RightTutorIntro_hns:
 	.string "Ihihihi!\p"
@@ -519,9 +519,9 @@ BattleFrontier_Lounge7_Text_CounterDesc_hns::
 	.string "col doppio.$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc_hns::
-	.string "Scossa debole\n"
-	.string "che paralizza il\n"
-	.string "nemico.$"
+	.string "A weak jolt of\n"
+	.string "electricity that\n"
+	.string "paralyzes the foe.$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc_hns::
 	.string "Danza guerriera\n"

@@ -352,13 +352,13 @@ DewfordTown_Hall_Text_SawTrendCoolestThing:
 
 DewfordTown_Hall_Text_AllegedTrendNotAuthentic:
 	.string "Oh, no, no, no.\p"
-	.string "Il presunto\n"
+	.string "That alleged\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "di aver visto non è autentico.\p"
-	.string "Quello autentico è molto…\n"
-	.string "Come dire?\l"
-	.string "Più forte, ma più dolce!\p"
-	.string "Ah, non importa. Sconvolgente!$"
+	.string "you claim to have seen--it's not.\p"
+	.string "The authentic article is much…\n"
+	.string "How should I say it?\l"
+	.string "Sharper, yet more mellow!\p"
+	.string "Ah, no matter. It's astonishing!$"
 
 DewfordTown_Hall_Text_ComposedTrendThemeSong:
 	.string "Ehi, ho composto una sigla\n"

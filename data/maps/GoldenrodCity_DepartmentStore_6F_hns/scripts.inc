@@ -93,13 +93,13 @@ GoldenrodDeptStore6_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_6FLass:
-    .string "Ascolti il CANALE FORTUNA?\p"
-    .string "Dicono che per vincere\n"
-	.string "dovresti scambiare POKéMON con\l"
-    .string "piu' persone possibile per avere\l"
-    .string "ID diversi.\p"
-	.string "Pero' gli scambi non sono piu'\n"
-	.string "diffusi come una volta.$"
+    .string "Do you listen to LUCKY CHANNEL?\p"
+    .string "They say if you want to win,\n"
+	.string "you should trade POKéMON with as\l"
+    .string "many people as possible to get\l"
+    .string "different ID numbers.\p"
+	.string "However, trading isn't as widely\n"
+	.string "available as it once was.$"
 
 GoldenrodDeptStore_Text_6FSuperNerd:
     .string "Se sei stanco, prova le bibite\n"

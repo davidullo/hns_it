@@ -13,15 +13,15 @@ SeafloorCavern_Room3_EventScript_Grunt5::
 
 SeafloorCavern_Room3_Text_ShellyIntro:
 	.string "Ahahahaha!\p"
-	.string "Come hai fatto ad arrivare fin qui senza\n"
-	.string "un sottomarino?\l"
-	.string "Che bambino impressionante!\p"
-	.string "Ma… Non posso lasciarti\n"
-	.string "impicciare qui.\p"
-	.string "E voglio la rivincita per quello\n"
-	.string "che è successo all'ISTITUTO METEO…\p"
-	.string "Ti darò un assaggio\n"
-	.string "di dolore! Rassegnati!$"
+	.string "How did you manage to get here without\n"
+	.string "a submarine?\l"
+	.string "What an impressive child!\p"
+	.string "But… It won't do to have you\n"
+	.string "meddling about here.\p"
+	.string "And, I do want payback for what\n"
+	.string "happened at the WEATHER INSTITUTE…\p"
+	.string "I'm going to give you a little taste\n"
+	.string "of pain! Resign yourself to it!$"
 
 SeafloorCavern_Room3_Text_ShellyDefeat:
 	.string "Ahahahaha!\p"

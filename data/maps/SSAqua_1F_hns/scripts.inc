@@ -288,5 +288,5 @@ SSAqua_1F_Text_Sailor1_InVermilion:
 
 
 SSAqua_1F_Text_SailorDoorArrived:
-    .string "Siamo arrivati a VERMILION CITY.\n"
-    .string "Vuoi sbarcare?$"
+    .string "We have arrived in VERMILION CITY.\n"
+    .string "Would you like to disembark?$"

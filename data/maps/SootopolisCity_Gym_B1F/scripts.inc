@@ -140,9 +140,9 @@ SootopolisCity_Gym_B1F_Text_TiffanyDefeat:
 	.string "Ma come, scusa?!$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
-	.string "È ovvio, ma quanto sei forte\n"
-	.string "come ALLENATORE non c'entra nulla\l"
-	.string "con la tua età.$"
+	.string "This is really obvious, but how strong\n"
+	.string "you are as a TRAINER has nothing to do\l"
+	.string "with how young or old you are.$"
 
 SootopolisCity_Gym_B1F_Text_BethanyIntro:
 	.string "Con i miei POKéMON, il tempo\n"

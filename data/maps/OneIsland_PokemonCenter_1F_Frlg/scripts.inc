@@ -667,10 +667,10 @@ OneIsland_PokemonCenter_1F_Text_GotPCWorkingStrollAWhileMore::
 	.string "ancora per un po'?$"
 
 OneIsland_PokemonCenter_1F_Text_SorryForBeingPoorHost::
-	.string "Scusa se ti ho portato via tanto\n"
-	.string "tempo a BILL.\p"
-	.string "Scusa anche se sono stato un \n"
-	.string "pessimo ospite.$"
+	.string "I'm sorry for taking up so much of\n"
+	.string "BILL's time.\p"
+	.string "I'm also sorry for being such a \n"
+	.string "poor host on your visit here.$"
 
 OneIsland_PokemonCenter_1F_Text_UsualPCServicesUnavailable::
 	.string "I soliti servizi del PC non sono\n"

@@ -274,12 +274,12 @@ RocketHideout_B1F_Text_ScientistJedBeaten:
     .string "Ho capito…$"
 
 RocketHideout_B1F_Text_ScientistJedAfter:
-    .string "Va bene. Ti svelerò un segreto\n"
-    .string "sul nostro covo.\p"
-    .string "Quella cosa a terra più avanti\n"
-    .string "è un pannello di teletrasporto.\p"
-    .string "Se ci sali sopra, tornerai\n"
-    .string "all'ingresso.$"
+    .string "All right. I'll divulge a secret\n"
+    .string "about our hideout.\p"
+    .string "That thing on the floor up ahead\n"
+    .string "is a warp panel.\p"
+    .string "If you step on it, you'll be\n"
+    .string "warped back to the entrance.$"
 
 RocketHideout_B1F_Text_GruntM16Seen:
     .string "Heheh. Ti senti fortunato, Punk?$"

@@ -150,8 +150,8 @@ MoveTutor_Text_SubstituteTeach:
 
 MoveTutor_Text_SubstituteDeclined:
 	.string "Oh, no?\p"
-	.string "Un POKéMON può crearne una copia\n"
-	.string "di sé, sai.$"
+	.string "A POKéMON can make a copy of\n"
+	.string "itself using it, you know.$"
 
 MoveTutor_Text_SubstituteWhichMon:
 	.string "Eh eh…\n"

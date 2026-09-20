@@ -207,13 +207,13 @@ RustboroCity_PokemonSchool_Text_ReadWhichTopic:
 	.string "Quale argomento vuoi leggere?$"
 
 RustboroCity_PokemonSchool_Text_ExplainPoison:
-	.string "Se un POKéMON è avvelenato,\n"
-	.string "perde PS costantemente.\p"
-	.string "Gli effetti del veleno restano\n"
-	.string "dopo la lotta.\p"
-	.string "I PS calano anche mentre\n"
-	.string "si cammina.\p"
-	.string "Curalo con un ANTIDOTO.$"
+	.string "If a POKéMON is poisoned, it will\n"
+	.string "steadily lose HP.\p"
+	.string "The effects of poison remain after\n"
+	.string "a battle.\p"
+	.string "A poisoned POKéMON's HP will drop\n"
+	.string "while it is traveling.\p"
+	.string "Heal a poisoning using an ANTIDOTE.$"
 
 RustboroCity_PokemonSchool_Text_ExplainParalysis:
 	.string "Se un POKéMON è paralizzato,\n"
@@ -323,13 +323,13 @@ RustboroCity_PokemonSchool_Text_StudentTalentLevelUnknown:
 	.string "è ignoto. Ma il potenziale c'è.$"
 
 RustboroCity_PokemonSchool_Text_ScottStoneBadge:
-	.string "SCOTT: Oh, cos'è quello?\p"
-	.string "È una MEDAGLIA SASSO, vero?\n"
-	.string "Notevole, direi.\p"
-	.string "Ma sai, mi sarebbe piaciuto\n"
-	.string "vederti in lotta.\p"
-	.string "Difficile capire come sei\n"
-	.string "da una MEDAGLIA della LEGA.$"
+	.string "SCOTT: Oh, what's that?\p"
+	.string "It's a STONE BADGE, isn't it?\n"
+	.string "That's pretty impressive, I'd say.\p"
+	.string "But, you know, I would've loved to see\n"
+	.string "you in battle.\p"
+	.string "It's hard to tell what you're like as\n"
+	.string "a TRAINER from a LEAGUE BADGE.$"
 
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge:
 	.string "Ciao? Ci siamo già visti?\n"

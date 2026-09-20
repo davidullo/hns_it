@@ -438,9 +438,9 @@ LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy_hns:
 
 LilycoveCity_ContestHall_Text_GanderAtAllThosePrettyPokemon_hns:
 	.string "Wahahahah!\p"
-	.string "Guardate quanti bei\n"
-	.string "POKéMON!\l"
-	.string "Adoro tutto questo sfarzo!$"
+	.string "Will you take a gander at all those\n"
+	.string "pretty POKéMON!\l"
+	.string "I just love this sort of glitz!$"
 
 LilycoveCity_ContestHall_Text_CantWinOnBeautyAlone_hns:
 	.string "Non basta la bellezza da sola\n"
@@ -485,8 +485,8 @@ LilycoveCity_ContestHall_Text_MyChildIsInContest_hns:
 	.string "Mio figlio è in questa GARA.$"
 
 LilycoveCity_ContestHall_Text_ComeOnDear_hns:
-	.string "Dai, forza!\n"
-	.string "Il tuo POKéMON è il migliore!$"
+	.string "Come on, dear. Go for it!\n"
+	.string "Your POKéMON is the best!$"
 
 LilycoveCity_ContestHall_Text_ThatGirlThereIsCutest_hns:
 	.string "Penso che quella ragazza là sia\n"

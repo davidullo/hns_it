@@ -185,10 +185,10 @@ Route31_Text_DeclinedToHandOverMail:
 	.string "niente?$"
 
 Route31_Text_CantTakeLastMon:
-	.string "Se ti prendo quel POKéMON,\n"
-	.string "cosa\p"
-	.string "useresti in\n"
-	.string "lotta?$"
+	.string "If I take that POKéMON from\n"
+	.string "you,\p"
+	.string "what are you going to use in\n"
+	.string "battle?$"
 
 Route31_Text_Youngster:
 	.string "Ho trovato un POKéMON forte nella\n"
@@ -224,11 +224,11 @@ Route31_Text_WadePostRematch:
 	.string "ti piaccia.$"
 
 Route31_Text_WadeHasItem:
-	.string "Ehi! Ti stavo\n"
-	.string "cercando!\p"
-	.string "Ho trovato una cosa mentre\n"
-	.string "ero nell'erba.\p"
-	.string "Tieni, prendila!$"
+	.string "Hey! I've been looking for\n"
+	.string "you!\p"
+	.string "I found something while I\n"
+	.string "was in the grass.\p"
+	.string "Here, you can have it!$"
 
 Route31_Text_WadeGaveItem:
 	.string "Ti farò sapere se trovo\n"

@@ -42,11 +42,11 @@ CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
 	.string "È il regalo di moda.$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
-	.string "Sentita una cosa utile.\p"
-	.string "Se appare un POKéMON selvatico,\n"
-	.string "puoi distrarlo con un\p"
-	.string "POKé DOLL e fuggire mentre\n"
-	.string "è distratto.$"
+	.string "I heard something useful.\p"
+	.string "If a wild POKéMON appears, you can\n"
+	.string "distract it with a POKé DOLL.\p"
+	.string "You can run away while the wild\n"
+	.string "POKéMON is distracted.$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
 	.string "Esprimiti con i regali!\n"

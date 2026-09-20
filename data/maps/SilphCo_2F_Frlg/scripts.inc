@@ -82,12 +82,12 @@ SilphCo_2F_Text_Grunt2PostBattle::
 	.string "TEAM ROCKET!$"
 
 Text_ThunderWaveTeach::
-	.string "Ih!\n"
-	.string "No! Fermo! Aiuto!\p"
-	.string "Oh, non sei del TEAM ROCKET.\n"
-	.string "Scusa, pensavo…\p"
-	.string "Mi perdoni se ti insegno\n"
-	.string "la tecnica TUONO?$"
+	.string "Eeek!\n"
+	.string "No! Stop! Help!\p"
+	.string "Oh, you're not with TEAM ROCKET.\n"
+	.string "I'm sorry, I thought…\p"
+	.string "Will you forgive me if I teach\n"
+	.string "you the THUNDER WAVE technique?$"
 
 Text_ThunderWaveDeclined::
 	.string "Oh…\n"
@@ -98,12 +98,12 @@ Text_ThunderWaveWhichMon::
 	.string "TUONO?$"
 
 Text_ThunderWaveTaught::
-	.string "TUONO paralizza\n"
-	.string "il POKéMON bersaglio.\p"
-	.string "Un POKéMON paralizzato può non\n"
-	.string "muoversi in lotta.\p"
-	.string "È una mossa di tipo ELETTRO, quindi\n"
-	.string "non funziona su alcuni POKéMON.$"
+	.string "THUNDER WAVE causes paralysis in\n"
+	.string "the target POKéMON.\p"
+	.string "A paralyzed POKéMON may be unable\n"
+	.string "to move in battle.\p"
+	.string "It's an ELECTRIC-type move, so it\n"
+	.string "won't work on some POKéMON.$"
 
 SilphCo_2F_Text_FloorSign::
 	.string "SILPH CO. SEDE CENTRALE\n"

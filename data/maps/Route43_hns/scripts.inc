@@ -121,10 +121,10 @@ Route43_Text_BrentPostRematch:
     .string "POKéMON raro.$"
 
 Route43_Text_PokemaniacRonSeen:
-    .string "Ci credi?\p"
-    .string "Un tale di nome {RIVAL} ha preso\n"
-    .string "in giro i miei POKéMON!\p"
-    .string "Dannazione! Sono fortissimi!$"
+    .string "Would you get this?\p"
+    .string "Some {RIVAL} guy made fun of my\n"
+    .string "POKéMON!\p"
+    .string "Darn it! My POKéMON's great!$"
 
 Route43_Text_PokemaniacRonBeaten:
     .string "Il mio NIDOKING se l'è cavata bene!$"

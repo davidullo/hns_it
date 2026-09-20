@@ -114,15 +114,15 @@ PokemonTower_2F_Text_RivalDefeat::
 	.string "E io che ti ho dato tregua!$"
 
 PokemonTower_2F_Text_RivalPostBattle::
-	.string "Come va il POKéDEX?\n"
-	.string "Ho appena preso un CUBONE!\p"
-	.string "Il MAROWAK più grande non lo trovo.\n"
-	.string "Dove sarà?\p"
-	.string "Scommetto che non ce n'è più!\p"
-	.string "Beh, io me ne vado.\n"
-	.string "Ho molto da fare,\l"
-	.string "a differenza tua.\p"
-	.string "Puzza più tardi!$"
+	.string "How's your POKéDEX coming?\n"
+	.string "I just caught a CUBONE!\p"
+	.string "I can't find the bigger MAROWAK.\n"
+	.string "Where could they be?\p"
+	.string "I bet there aren't any left!\p"
+	.string "Well, I better get going.\n"
+	.string "I've got a lot to accomplish,\l"
+	.string "unlike you.\p"
+	.string "Smell ya later!$"
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
 	.string "Nemmeno noi possiamo identificare\n"

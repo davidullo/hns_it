@@ -135,10 +135,10 @@ MeteorFalls_1F_2R_Text_JayPostBattle:
 	.string "con una lotta POKéMON…$"
 
 MeteorFalls_1F_2R_Text_JayNotEnoughMons:
-	.string "JAY: Bene, bene, ma non sei un\n"
-	.string "giovane ALLENATORE?\p"
-	.string "Se vuoi lottare con noi, torna\n"
-	.string "con altri POKéMON.$"
+	.string "JAY: Well, well, aren't you a young\n"
+	.string "TRAINER?\p"
+	.string "If you'd care to battle with us, you'll\n"
+	.string "have to come back with more POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchIntro:
 	.string "JOHN: Abbiamo sempre lottato\n"
@@ -176,8 +176,8 @@ MeteorFalls_1F_2R_Text_JayPostRematch:
 	.string "bei ricordi insieme.$"
 
 MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons:
-	.string "JAY: Bene, bene, ma non sei un\n"
-	.string "giovane ALLENATORE?\p"
-	.string "Se vuoi lottare con noi, torna\n"
-	.string "con altri POKéMON.$"
+	.string "JAY: Well, well, aren't you a young\n"
+	.string "TRAINER?\p"
+	.string "If you'd care to battle with us, you'll\n"
+	.string "have to come back with more POKéMON.$"
 

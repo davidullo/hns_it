@@ -127,7 +127,7 @@ AquaHideout_B1F_Text_Grunt3Intro:
 	.string "impiccione!$"
 
 AquaHideout_B1F_Text_Grunt3Defeat:
-	.string "Che batosta!$"
+	.string "I took a serious licking!$"
 
 AquaHideout_B1F_Text_Grunt3PostBattle:
 	.string "Umh!\n"
@@ -147,10 +147,10 @@ AquaHideout_B1F_Text_Grunt5PostBattle:
 	.string "del TEAM AQUA ti prenderanno.$"
 
 AquaHideout_B1F_Text_Grunt7Intro:
-	.string "Ehi!\n"
-	.string "Tu, là!\p"
-	.string "Chi è più fico?\n"
-	.string "TEAM AQUA o TEAM MAGMA?$"
+	.string "Hey!\n"
+	.string "You there!\p"
+	.string "Which do you think is cooler?\n"
+	.string "TEAM AQUA's uniform or TEAM MAGMA's?$"
 
 AquaHideout_B1F_Text_Grunt7Defeat:
 	.string "Ho perso con stile…$"

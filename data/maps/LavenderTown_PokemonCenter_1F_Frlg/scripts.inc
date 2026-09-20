@@ -38,7 +38,7 @@ LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRockets::
 	.string "È morta mentre fuggiva…$"
 
 LavenderTown_PokemonCenter_1F_Text_PeoplePayForCuboneSkulls::
-	.string "Sai che i CUBONE\n"
-	.string "indossano teschi, vero?\p"
-	.string "La gente paga molto per averne uno.$"
+	.string "You know how the CUBONE species\n"
+	.string "wears skulls, right?\p"
+	.string "People will pay a lot for one.$"
 

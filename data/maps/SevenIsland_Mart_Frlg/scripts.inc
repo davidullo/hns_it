@@ -49,9 +49,9 @@ SevenIsland_Mart_Text_PreparationsCompleteForRuins::
 	.string "per esplorare le ROVINE.$"
 
 SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
-	.string "Devo pescare a SETTE ISOLA.\p"
-	.string "Così completerò il mio giro di pesca\n"
-	.string "nelle ISOLE SETTIMANE.\p"
-	.string "Ma prima farò scorta di\n"
-	.string "POKé BALL.$"
+	.string "I need to fish on SEVEN ISLAND.\p"
+	.string "That will complete my fishing tour\n"
+	.string "of the SEVII ISLANDS.\p"
+	.string "I'd better stock up on some\n"
+	.string "POKé BALLS first, though.$"
 

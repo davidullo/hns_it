@@ -155,11 +155,11 @@ OlivineCity_Gym_EventScript_MoveRight4::
 	return
 
 OlivineCity_Gym_Text_Lass:
-	.string "Eheh...\n"
-	.string "So quanto sei bravo,\l"
-	.string "dal FARO.\p"
-	.string "È ora che mostri questo lato\n"
-	.string "a JASMINE! Buona fortuna!$"
+	.string "Giggle...\n"
+	.string "I know how capable you are\l"
+	.string "from the LIGHTHOUSE.\p"
+	.string "It's time you showed that side of\n"
+	.string "yourself to JASMINE! Good luck!$"
 
 OlivineCity_Gym_Text_Lass2:
 	.string "Sei fantastico...\n"

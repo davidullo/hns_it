@@ -45,10 +45,10 @@ LavaridgeTown_HerbShop_Text_WelcomeToHerbShop:
 	.string "di medicine efficaci ed economiche!$"
 
 LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
-	.string "Sei venuto a LAVARIDGE per le\n"
-	.string "medicine erbacee?\p"
-	.string "Notevole.\p"
-	.string "Mi piaci! Tieni!$"
+	.string "You've come to look at herbal medicine\n"
+	.string "in LAVARIDGE?\p"
+	.string "That's rather commendable.\p"
+	.string "I like you! Take this!$"
 
 LavaridgeTown_HerbShop_Text_ExplainCharcoal:
 	.string "Il CARBONELLA che ti ho dato serve\n"

@@ -271,10 +271,10 @@ SafariZone_North_Text_Man:
 	.string "qui e li scambierò con gli amici!$"
 
 SafariZone_South_Text_Youngster:
-	.string "Ho messo un {POKEBLOCK} sul {POKEBLOCK} FEEDER.\n"
-	.string "Ma sembra sparito.\p"
-	.string "Immagino che qualche POKéMON l'abbia\n"
-	.string "mangiato senza che me ne accorgessi.$"
+	.string "I put a {POKEBLOCK} on the {POKEBLOCK} FEEDER.\n"
+	.string "But it seems to have disappeared.\p"
+	.string "I guess POKéMON must have eaten it\n"
+	.string "without me noticing.$"
 
 Route121_SafariZoneEntrance_Text_TrainerTip:
 	.string "CONSIGLIO ZONA SAFARI!\p"

@@ -10026,7 +10026,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("ASSO"),
         .description = COMPOUND_STRING(
-            "Meno PS ha la mossa,\n"
+            "Meno PP ha la mossa,\n"
             "più danni fa."),
         .effect = EFFECT_TRUMP_CARD,
         .power = 1,
@@ -13125,8 +13125,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("IDROVAMPATA"),
         .description = COMPOUND_STRING(
-            "Lancia acqua bollente.\n"
-            "Può scottare."),
+            "Lancia acqua bollente sul\n"
+            "nemico. Può scottare."),
         .effect = EFFECT_HIT,
         .power = 80,
         .type = TYPE_WATER,

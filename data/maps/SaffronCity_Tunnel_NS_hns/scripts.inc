@@ -29,14 +29,14 @@ SaffronCity_Tunnel_NS_EventScript_BaldingManAfter::
 	end
 
 SaffronCity_Tunnel_NS_Text_BaldingManIntro:
-	.string "Don't be afraid, I'm not a bad\n"
-	.string "person.\p"
-	.string "A place like this...\n"
-	.string "attracts mean people.\p"
-	.string "They would eventually cause\n"
-	.string "trouble...\p"
-	.string "It makes me mad just thinking about\n"
-	.string "it.$"
+	.string "Non temere, non sono una brutta\n"
+	.string "persona.\p"
+	.string "Un posto così...\n"
+	.string "attira gente meschina.\p"
+	.string "Prima o poi creerebbero\n"
+	.string "problemi...\p"
+	.string "Mi arrabbio solo a pensarci.\n"
+	.string "Già.$"
 
 SaffronCity_Tunnel_NS_Text_BaldingManCandybarDetected:
 	.string "Aha!\n"

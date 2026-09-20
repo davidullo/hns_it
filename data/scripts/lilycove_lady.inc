@@ -676,12 +676,12 @@ LilycoveCity_PokemonCenter_1F_Text_MaybeNextTime:
 	.string "Beh, sarà per la prossima!$"
 
 LilycoveCity_PokemonCenter_1F_Text_PickYourPrize:
-	.string "Okay, la prima cosa da fare\n"
-	.string "è scegliere il premio per chi\l"
-	.string "risponde correttamente al quiz.\p"
-	.string "Ma attento, se chi fa il quiz\n"
-	.string "sbaglia, il premio\l"
-	.string "lo tengo io!$"
+	.string "Okay, the first thing you have to do\n"
+	.string "is pick the prize for the person that\l"
+	.string "answers your quiz correctly.\p"
+	.string "But beware, if the person taking\n"
+	.string "the quiz can't get it right, I get to\l"
+	.string "keep the prize!$"
 
 LilycoveCity_PokemonCenter_1F_Text_QuitChoosingPrize:
 	.string "Se non scegli un premio,\n"

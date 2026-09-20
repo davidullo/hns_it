@@ -263,8 +263,8 @@ BlackthornGym_Text_ClairText_GoToDragonsDen:
     .string "una MEDAGLIA!$"
 
 BlackthornGym_Text_ClairText_TooMuchToExpect:
-    .string "Che c'è?\p"
-    .string "Ti chiedo troppo?$"
+    .string "What's the matter?\p"
+    .string "Is it too much to expect of you?$"
 
 BlackthornGym_Text_ClairText_YouKeptMeWaiting:
     .string "Mi hai fatto aspettare!\p"
@@ -275,18 +275,18 @@ BlackthornGym_Text_ClairText_DescribeTM:
     .string "Cosa fa, lo capirai da solo.$"
 
 BlackthornGym_Text_ClairText_League:
-    .string "Che succede?\p"
-    .string "Non vai alla LEGA\n"
-    .string "POKéMON\p"
-    .string "Non sai dove sia?\p"
-    .string "Da qui vai a NEW BARK TOWN.\p"
-    .string "Poi SURF a est. La strada è\n"
-    .string "durissima.\p"
-    .string "Non osare perdere alla LEGA\n"
-    .string "POKéMON\p"
-    .string "Se lo fai, mi sentirò peggio\n"
-    .string "per aver perso con te!\p"
-    .string "Dai tutto te stesso.$"
+    .string "What's the matter?\p"
+    .string "Aren't you headed to the POKéMON\n"
+    .string "LEAGUE?\p"
+    .string "Don't you know where it is?\p"
+    .string "From here, go to NEW BARK TOWN.\p"
+    .string "Then SURF east. The route there is\n"
+    .string "very tough.\p"
+    .string "Don't you dare lose at the POKéMON\n"
+    .string "LEAGUE!\p"
+    .string "If you do, I'll feel even worse\n"
+    .string "about having lost to you!\p"
+    .string "Give it everything you've got.$"
 
 BlackthornGym_Text_ClairAfterLeague:
     .string "Ce l'hai fatta, eh?\p"
@@ -344,8 +344,8 @@ BlackthornGym_Text_CooltrainermPaulAfterBattleText:
     .string "Impossibile!$"
 
 BlackthornGym_Text_CooltrainermMikeSeenText:
-    .string "Io perdere? Mai,\n"
-    .string "nemmeno l'1%!$"
+    .string "My chance of losing? Not even one\n"
+    .string "percent!$"
 
 BlackthornGym_Text_CooltrainermMikeBeatenText:
     .string "Che strano.$"
@@ -404,11 +404,11 @@ BlackthornGym_Text_GuideText:
     .string "Ce la fai!$"
 
 BlackthornGym_Text_GuideGotoDragonsDen:
-	.string "Complimenti, hai battuto CLAIR!\p"
-    .string "Però quando perde è un po'\n"
-	.string "scorbutica\p"
-    .string "Per la TARGA, vai all'ANTRO\n"
-    .string "DEL DRAGO!$"
+	.string "You were great to beat CLAIR!\p"
+    .string "She can be a bit of a sore loser,\n"
+	.string "though\p"
+    .string "Sounds like you need to head to the\n"
+    .string "DRAGON'S DEN if you want that GYM BADGE!$"
 
 BlackthornGym_Text_GuideWinText:
     .string "Complimenti, hai battuto CLAIR!\p"

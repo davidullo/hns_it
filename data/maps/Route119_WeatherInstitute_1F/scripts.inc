@@ -69,10 +69,10 @@ Route119_WeatherInstitute_1F_EventScript_Grunt4::
 	end
 
 Route119_WeatherInstitute_1F_Text_Grunt1Intro:
-	.string "Al CAPO interessava la ricerca\n"
-	.string "che fanno qui,\l"
-	.string "così ci ha mandati.\p"
-	.string "Smettila d'impicciarti!$"
+	.string "The BOSS got interested in\n"
+	.string "the research they have going here,\l"
+	.string "so he sent us out.\p"
+	.string "You quit meddling!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1Defeat:
 	.string "Accidenti…\n"
@@ -122,10 +122,10 @@ Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
 	.string "forti piogge…$"
 
 Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
-	.string "Ciao!\n"
-	.string "Ci hai salvati!\p"
-	.string "Quello che non capisco è cosa diavolo\n"
-	.string "volessero gli AQUA.$"
+	.string "Hello!\n"
+	.string "We've been saved by your actions!\p"
+	.string "What I don't understand is what on\n"
+	.string "earth the AQUAS were up to.$"
 
 Route119_WeatherInstitute_1F_Text_TakeRestInBed:
 	.string "C'è un letto…\n"

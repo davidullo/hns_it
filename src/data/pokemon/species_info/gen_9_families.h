@@ -1263,7 +1263,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .height = 3,
         .weight = 18,
         .description = COMPOUND_STRING(
-            "Con grande Giocosquadra,\n"
+            "Con grande gioco di squadra,\n"
             "usano gli incisivi per tagliare pezzi\n"
             "di materiale utile\n"
             "per il nido, poi li portano via."),
@@ -2309,7 +2309,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .speciesName = _("ARMAROUGE"),
         .cryId = CRY_ARMAROUGE,
         .natDexNum = NATIONAL_DEX_ARMAROUGE,
-        .categoryName = _("Fire Warrior"),
+        .categoryName = _("Guerrefuoco"),
         .height = 15,
         .weight = 850,
         .description = COMPOUND_STRING(
@@ -2898,8 +2898,8 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 272,
         .description = COMPOUND_STRING(
             "Ogni Grafaiai dipinge il proprio\n"
-            "disegno personale, e lo\n"
-            "ripeterà sempre uguale\n"
+            "disegno, e lo ripeterà\n"
+            "sempre uguale\n"
             "per tutta la vita."),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3288,7 +3288,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .speciesName = _("CAPSAKID"),
         .cryId = CRY_CAPSAKID,
         .natDexNum = NATIONAL_DEX_CAPSAKID,
-        .categoryName = _("Spicy Pepper"),
+        .categoryName = _("Pepepiccante"),
         .height = 3,
         .weight = 30,
         .description = COMPOUND_STRING(
@@ -3353,7 +3353,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .speciesName = _("SCOVILLAIN"),
         .cryId = CRY_SCOVILLAIN,
         .natDexNum = NATIONAL_DEX_SCOVILLAIN,
-        .categoryName = _("Spicy Pepper"),
+        .categoryName = _("Pepepiccante"),
         .height = 9,
         .weight = 150,
         .description = COMPOUND_STRING(
@@ -3423,7 +3423,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .cryId = CRY_SCOVILLAIN,
     #endif // P_MODIFIED_MEGA_CRIES
         .natDexNum = NATIONAL_DEX_SCOVILLAIN,
-        .categoryName = _("Spicy Pepper"),
+        .categoryName = _("Pepepiccante"),
         .height = 12,
         .weight = 220,
         .description = COMPOUND_STRING(

@@ -48,9 +48,9 @@ GoldenrodCity_UndergroundStorage_EventScript_Item_MaxEther::
     end
 
 RadioTowerBasement_Text_GruntM24Seen:
-    .string "Come sei arrivato qui?\p"
-    .string "Pazienza. Ti\n"
-    .string "elimino io.$"
+    .string "How did you get this far?\p"
+    .string "I guess it can't be helped. I'll\n"
+    .string "dispose of you.$"
 
 RadioTowerBasement_Text_GruntM24Beaten:
     .string "Mi hanno eliminato…$"
@@ -101,11 +101,11 @@ RadioTowerBasement_Text_DirectorCardKey:
     .string "serrande del 3F.$"
 
 RadioTowerBasement_Text_DirectorAfter:
-    .string "Ti prego, aiutami.\p"
-    .string "Chissà cosa faranno se\n"
-    .string "controllano il trasmettitore.\p"
-    .string "Potrebbero perfino controllare\n"
-    .string "i POKéMON con un segnale!\p"
-    .string "Sei l'unico su cui conto.\p"
-    .string "Salva la RADIO…\p"
-    .string "E tutti i POKéMON del paese!$"
+    .string "I'm begging you to help.\p"
+    .string "There's no telling what they'll do if\n"
+    .string "they control the transmitter.\p"
+    .string "They may even be able to control\n"
+    .string "POKéMON using a special signal!\p"
+    .string "You're the only one I can call on.\p"
+    .string "Please save the RADIO TOWER…\p"
+    .string "And all the POKéMON nationwide!$"

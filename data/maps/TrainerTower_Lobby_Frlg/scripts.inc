@@ -239,8 +239,8 @@ TrainerTower_Lobby_Text_TrainersUpEighthFloor::
 	.string "sfida fino all'ottavo piano.$"
 
 TrainerTower_Lobby_Text_LikeToChallengeTrainers::
-	.string "Vuoi sfidare gli\n"
-	.string "ALLENATORI in attesa?$"
+	.string "Would you like to challenge the\n"
+	.string "waiting TRAINERS?$"
 
 TrainerTower_Lobby_Text_StartClockGetSetGo::
 	.string "Ok, farò partire il cronometro,\n"

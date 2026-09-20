@@ -222,20 +222,20 @@ LilycoveCity_LilycoveMuseum_2F_Text_ThisIsExhibitHall:
 	.string "Questa è la nostra sala mostra.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ExplainExhibitHall:
-	.string "Come vedi, non c'è\n"
-	.string "un solo quadro in mostra.\p"
-	.string "Qui non voglio esporre opere di\n"
-	.string "cosiddetta arte classica.\p"
-	.string "Quelle le puoi vedere al\n"
-	.string "piano terra.\p"
-	.string "Voglio esporre opere molto\n"
-	.string "diverse dai classici.\p"
-	.string "L'arte non si limita a vecchie\n"
-	.string "opere famose!\p"
-	.string "Questa sala voglio riempirla con…\p"
-	.string "opere moderne e vivaci di\n"
-	.string "POKéMON pronti a balzare\l"
-	.string "verso una vita gloriosa!$"
+	.string "As you can plainly see, there is not\n"
+	.string "a single painting on exhibit.\p"
+	.string "Here, I don't wish to exhibit works of\n"
+	.string "so-called classical art.\p"
+	.string "Such classical works you can see on\n"
+	.string "our ground floor.\p"
+	.string "I wish to exhibit work that is far\n"
+	.string "different from the classics.\p"
+	.string "Art, after all, is not restricted to old,\n"
+	.string "famous works!\p"
+	.string "This exhibit hall, I wish to fill it with…\p"
+	.string "Modern and vibrant artworks of\n"
+	.string "POKéMON seemingly ready to spring\l"
+	.string "forth into glorious life!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit:
 	.string "Chiedo scusa. Non volevo\n"
@@ -290,8 +290,8 @@ LilycoveCity_LilycoveMuseum_2F_Text_HonorToHaveYouVisit:
 	.string "visita da noi.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPinkPictureFrame:
-	.string "È una cornice con\n"
-	.string "decorazioni rosa.$"
+	.string "It's a picture frame with pink-colored\n"
+	.string "adornments.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsYellowPictureFrame:
 	.string "È una cornice con\n"

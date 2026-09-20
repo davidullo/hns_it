@@ -417,9 +417,9 @@ BattleFrontier_BattlePalaceLobby_Text_ReturnWhenFortified_hns:
 	.string "e i POKéMON, devi tornare.$"
 
 BattleFrontier_BattlePalaceLobby_Text_WhichChallenge_hns:
-	.string "Ci sono due SALE LOTTA,\n"
-	.string "Livello 50 e Livello Aperto.\l"
-	.string "Quale sfida scegli?$"
+	.string "There are two BATTLE HALLS,\n"
+	.string "Level 50 and Open Level.\l"
+	.string "Which is your choice of a challenge?$"
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "Ahimè…\p"
@@ -476,8 +476,8 @@ BattleFrontier_BattlePalaceLobby_Text_FeatWillBeRecorded_hns:
 
 @ Unused
 BattleFrontier_BattlePalaceLobby_Text_BattlePointsFor7WinStreak_hns:
-	.string "Per la tua serie di 7 vittorie,\n"
-	.string "ricevi Punti Lotta.$"
+	.string "For the feat of your 7-win streak,\n"
+	.string "we present you with Battle Point(s).$"
 
 BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize_hns:
 	.string "Sembra che tu non abbia spazio\n"
@@ -486,7 +486,7 @@ BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize_hns:
 	.string "sistemato lo ZAINO.$"
 
 BattleFrontier_BattlePalaceLobby_Text_WeHaveBeenWaiting_hns:
-	.string "Ti aspettavamo…$"
+	.string "We have been waiting for you…$"
 
 BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge_hns:
 	.string "Devo salvare prima di portarti\n"
@@ -534,12 +534,12 @@ BattleFrontier_BattlePalaceLobby_Text_NatureAndMovesKeyHere_hns:
 	.string "le mosse gli si addicono.$"
 
 BattleFrontier_BattlePalaceLobby_Text_MonDocileButTransforms_hns:
-	.string "Il mio POKéMON è docile.\p"
-	.string "Ma in una SALA LOTTA\n"
-	.string "a volte sembra trasformarsi\l"
-	.string "in qualcosa di Burbero!\p"
-	.string "Fa davvero paura.\n"
-	.string "È sconvolgente.$"
+	.string "My POKéMON is usually very docile.\p"
+	.string "But when it's in a BATTLE HALL,\n"
+	.string "it sometimes seems to become\l"
+	.string "transformed into something wicked!\p"
+	.string "It becomes totally intimidating.\n"
+	.string "It's shocking, even.$"
 
 BattleFrontier_BattlePalaceLobby_Text_WhatNatureFavorsChippingAway_hns:
 	.string "Che natura avrà un POKéMON\n"
@@ -636,14 +636,14 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves_hns:
 	.string "queste tre categorie.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesUnderpowered_hns:
-	.string "Senza gli ordini del suo\n"
-	.string "ALLENATORE, un POKéMON può\l"
-	.string "non usare bene certe mosse.\p"
-	.string "Un POKéMON non riesce mai\n"
-	.string "con una mossa che odia.\p"
-	.string "Se ha solo mosse diverse\n"
-	.string "dalla sua natura, spesso\l"
-	.string "non dà il massimo.$"
+	.string "When not under command by its TRAINER,\n"
+	.string "a POKéMON may be unable to effectively\l"
+	.string "use certain moves.\p"
+	.string "A POKéMON is not good at using any\n"
+	.string "move that it dislikes.\p"
+	.string "If a POKéMON only knows moves that\n"
+	.string "do not match its nature, it will often\l"
+	.string "be unable to live up to its potential.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesWhenInDanger_hns:
 	.string "In base alla natura, un POKéMON\n"

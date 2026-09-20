@@ -140,8 +140,8 @@ OlivineLighthouse_Text_BirdKeeperTheoSeen:
 	.string "curiosare? Ti consiglio di andartene!$"
 
 OlivineLighthouse_Text_BirdKeeperTheoBeaten:
-	.string "Tieni davvero al\n"
-	.string "POKéMON malato…$"
+	.string "You really are concerned about\n"
+	.string "the sick POKéMON…$"
 
 OlivineLighthouse_Text_BirdKeeperTheoAfter:
 	.string "Come diavolo si sale?\p"
@@ -294,14 +294,14 @@ OlivineLighthouse_EventScript_AmpharosSick::
 	end
 
 OlivineLighthouse_Text_JasmineCianwoodPharmacy:
-	.string "JASMINE: …Questo POKéMON teneva\n"
-	.string "sempre illuminato il mare di notte.\p"
-	.string "…Ma si è ammalato di colpo… È\n"
-	.string "senza fiato…\p"
-	.string "…So che c'è una\n"
-	.string "FARMACIA meravigliosa a CIANWOOD…\p"
-	.string "Ma è dall'altra parte del mare…\n"
-	.string "E non posso lasciare AMPHY solo…$"
+	.string "JASMINE: …This POKéMON always kept\n"
+	.string "the sea lit at night.\p"
+	.string "…But it suddenly got sick… It's\n"
+	.string "gasping for air…\p"
+	.string "…I understand that there is a\n"
+	.string "wonderful PHARMACY in CIANWOOD…\p"
+	.string "But that's across the sea…\n"
+	.string "And I can't leave AMPHY unattended…$"
 
 OlivineLighthouse_Text_JasmineGetMedicine:
 	.string "…Potresti prendermi una medicina?\n"

@@ -102,12 +102,12 @@ Route46_Text_ErinPostRematch:
 	.string "È piena di bei fiori!$"
 
 Route46_Text_PicnickerErin2Beaten:
-	.string "Uff… perdo sempre!\p"
-	.string "Dovrò solo impegnarmi di più!\n"
-	.string "Comunque grazie per aver lottato\n"
-	.string "con me ancora e ancora.\p"
-	.string "Ecco il regalo\n"
-	.string "dell'altra volta.$"
+	.string "Aww… I keep losing all the time!\p"
+	.string "I'll just have to try harder!\n"
+	.string "Anyway, thanks for battling\n"
+	.string "me again and again.\p"
+	.string "Here's that present from the\n"
+	.string "other time.$"
 
 Route46_Text_Sign:
 	.string "PERCORSO 46\n"

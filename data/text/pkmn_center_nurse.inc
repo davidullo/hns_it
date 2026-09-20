@@ -18,11 +18,11 @@ gText_WeHopeToSeeYouAgain::
 	.string "Speriamo di rivederti!$"
 
 gText_WelcomeCutShort::
-	.string "Ciao, benvenuto al\n"
-	.string "CENTRO POKéMON.\p"
-	.string "Curiamo i tuoi POKéMON\n"
-	.string "stanchi.\p"
-	.string "Vuoi che…$"
+	.string "Hello, and welcome to\n"
+	.string "the POKéMON CENTER.\p"
+	.string "We restore your tired POKéMON\n"
+	.string "to full health.\p"
+	.string "Would you like to…$"
 
 gText_NoticesGoldCard::
 	.string "Qu-questa carta…\n"

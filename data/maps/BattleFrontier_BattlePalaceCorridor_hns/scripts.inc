@@ -127,11 +127,11 @@ BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame_hns:
 	.string "in altre.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes_hns:
-	.string "Più che forzare un POKéMON,\n"
-	.string "lascialo fare ciò che ama\l"
-	.string "e sa fare bene.\p"
-	.string "Mettiti nei suoi panni e\n"
-	.string "pensa alle mosse che gli piacciono.$"
+	.string "Rather than trying to make a POKéMON\n"
+	.string "do what it dislikes, try to let it do\l"
+	.string "what it likes and is good at doing.\p"
+	.string "Put yourself in the POKéMON's position\n"
+	.string "and consider what moves it would like.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered_hns:
 	.string "La natura dei POKéMON è una\n"
@@ -140,8 +140,8 @@ BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered_hns:
 	.string "quando sono alle strette.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature_hns:
-	.string "Stai capendo come la natura\n"
-	.string "guida il POKéMON?$"
+	.string "Are you beginning to understand how\n"
+	.string "a POKéMON's nature makes it behave?$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons_hns:
 	.string "Ah… vedo un legame profondo\n"

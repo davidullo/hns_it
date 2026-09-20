@@ -58,12 +58,12 @@ CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
 	.string "tutto alle slot.$"
 
 CeladonCity_Restaurant_Text_TakeThisImBusted::
-	.string "Dai, ridi pure!\n"
-	.string "Sono al verde!\p"
-	.string "Basta slot per me!\n"
-	.string "Divento onesto!\p"
-	.string "Tieni!\n"
-	.string "Non mi serve più!$"
+	.string "Go ahead! Laugh!\n"
+	.string "I'm flat-out busted!\p"
+	.string "No more slots for me!\n"
+	.string "I'm going straight!\p"
+	.string "Here!\n"
+	.string "I won't be needing this anymore!$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
 	.string "{PLAYER} ha ricevuto il\n"

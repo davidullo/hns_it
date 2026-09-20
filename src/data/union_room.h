@@ -402,7 +402,7 @@ static const u8 *const sChatReactionTexts[GENDER_COUNT][4] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_ShowedTrainerCardMale1[] = _("Ti mostro la mia SCHEDA ALLENATORE\ncome saluto.\p");
+ALIGNED(4) static const u8 sText_ShowedTrainerCardMale1[] = _("Ti mostro la SCHEDA ALLENATORE\ncome saluto.\p");
 ALIGNED(4) static const u8 sText_ShowedTrainerCardMale2[] = _("Spero di conoscerti meglio!\p");
 ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale1[] = _("Ci mostriamo le SCHEDE\nALLENATORE per conoscerci.\p");
 ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale2[] = _("Piacere di conoscerti.\nFatti vedere, mi raccomando!\p");
@@ -461,7 +461,7 @@ ALIGNED(4) static const u8 sText_ChooseTrainerToTradeWith2[] = _("Scegli l'ALLEN
 ALIGNED(4) static const u8 sText_AskTrainerToMakeTrade[] = _("Vuoi chiedere a {STR_VAR_1} di\nfare uno scambio?");
 ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer2[] = _("In attesa di una risposta\ndall'altro ALLENATORE…"); // unused
 ALIGNED(4) static const u8 sText_NotRegisteredAMonForTrade[] = _("Non hai registrato un POKéMON\nper lo scambio.\p"); // unused
-ALIGNED(4) static const u8 sText_DontHaveTypeTrainerWants[] = _("You don't have a {STR_VAR_2}-type\nPOKéMON that {STR_VAR_1} wants.\p");
+ALIGNED(4) static const u8 sText_DontHaveTypeTrainerWants[] = _("Non hai un POKéMON di tipo {STR_VAR_2}\nche {STR_VAR_1} vuole.\p");
 ALIGNED(4) static const u8 sText_DontHaveEggTrainerWants[] = _("Non hai un UOVO che\n{STR_VAR_1} vuole.\p");
 ALIGNED(4) static const u8 sText_PlayerCantTradeForYourMon[] = _("{STR_VAR_1} non può scambiare\nil tuo POKéMON adesso.\p");
 ALIGNED(4) static const u8 sText_CantTradeForPartnersMon[] = _("Non puoi scambiare il POKéMON\ndi {STR_VAR_1} adesso.\p");
@@ -472,7 +472,7 @@ static const u8 *const sCantTradeMonTexts[] = {
     sText_CantTradeForPartnersMon
 };
 
-ALIGNED(4) static const u8 sText_TradeOfferRejected[] = _("Your trade offer was rejected.\p");
+ALIGNED(4) static const u8 sText_TradeOfferRejected[] = _("Hai rifiutato lo scambio.\p");
 ALIGNED(4) static const u8 sText_EggTrade[] = _("SCAMBIO UOVA");
 ALIGNED(4) static const u8 sText_ChooseJoinCancel[] = _("{DPAD_UPDOWN}SCEGLI  {A_BUTTON}ENTRA  {B_BUTTON}ANNULLA");
 ALIGNED(4) static const u8 sText_ChooseTrainer[] = _("Scegli un ALLENATORE.");

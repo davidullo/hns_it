@@ -483,8 +483,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor6thOpponent_hns:
 	.string "Sei pronto?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent_hns:
-	.string "Ecco la 7ª lotta!\n"
-	.string "Sei pronto?$"
+	.string "Finally, the 7th match is next!\n"
+	.string "Are you ready?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame_hns:
 	.string "Vuoi salvare e uscire\n"
@@ -638,12 +638,12 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo_hns:
 	.string "Benissimo, signore!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow_hns:
-	.string "Oh, mio…\n"
-	.string "Scusa il ritardo!\p"
-	.string "Ho un messaggio del\n"
-	.string "CAPO FABBRICA.\p"
-	.string "Dice: “Ce la faremo!\n"
-	.string "Vieni subito qui!”$"
+	.string "Oh, my…\n"
+	.string "Sorry to keep you waiting!\p"
+	.string "I have a message from this facility's\n"
+	.string "boss, the FACTORY HEAD.\p"
+	.string "He says, “We're going to do it!\n"
+	.string "Come here right now!”$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead_hns:
 	.string "Il CAPO FABBRICA ti chiama.\n"

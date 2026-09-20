@@ -483,10 +483,10 @@ DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
 	.string "STERN e consegnerai la MERCE DEVON?$"
 
 Route109_Text_BrineySailToDewfordQuestion:
-	.string "SIG. BRINEY: Credevo dovessi\n"
-	.string "consegnare la MERCE DEVON.\p"
-	.string "Vuoi tornare a\n"
-	.string "DEWFORD, allora?$"
+	.string "MR. BRINEY: I thought you're supposed\n"
+	.string "to deliver the DEVON GOODS.\p"
+	.string "Would you like to sail back to\n"
+	.string "DEWFORD, then?$"
 
 Route109_Text_BrineyDewfordItIs:
 	.string "SIG. BRINEY: DEWFORD, allora!\p"
@@ -498,10 +498,10 @@ Route109_Text_BrineyDeliverDevonGoods:
 	.string "la MERCE DEVON. Io ti aspetto.$"
 
 DewfordTown_Text_BrineyLandedInSlateport:
-	.string "SIG. BRINEY: Ehi! Siamo approdati a\n"
+	.string "MR. BRINEY: Ahoy! We've made land in\n"
 	.string "SLATEPORT!\p"
-	.string "Dimmi quando vuoi salpare di nuovo e\n"
-	.string "si parte!$"
+	.string "You just go on and tell me whenever\n"
+	.string "you want to set sail again!$"
 
 Route109_Text_BrineyWhereAreWeBound:
 	.string "MR. BRINEY: Ahoy!\n"

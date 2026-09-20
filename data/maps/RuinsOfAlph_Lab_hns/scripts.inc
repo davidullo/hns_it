@@ -623,15 +623,15 @@ RuinsOfAlph_Lab_Text_DevelopingNewBalls:
 	.string "Ma non ho fatto molti progressi…$"
 
 RuinsOfAlph_Lab_Text_WeFinallyMadeNewBalls:
-	.string "Abbiamo finalmente creato nuovi tipi di\n"
-	.string "POKé BALL!\p"
-	.string "La REPEAT BALL facilita la cattura dei\n"
-	.string "POKéMON già catturati.\p"
-	.string "La TIMER BALL cattura meglio i POKéMON\n"
-	.string "più a lungo dura la lotta.\p"
-	.string "Entrambe sono sviluppate con orgoglio\n"
-	.string "dalla DEVON CORPORATION.\p"
-	.string "Prova le!$"
+	.string "We finally made new kinds of\n"
+	.string "POKé BALLS!\p"
+	.string "The REPEAT BALL makes it easier to\n"
+	.string "catch POKéMON you've caught before.\p"
+	.string "The TIMER BALL gets better at catching\n"
+	.string "POKéMON the longer a battle runs.\p"
+	.string "Both are proudly developed by\n"
+	.string "the DEVON CORPORATION.\p"
+	.string "Please give them a try!$"
 
 RuinsOfAlph_Lab_Text_IMadePokenav:
 	.string "Ho creato io il POKéNAV!\p"

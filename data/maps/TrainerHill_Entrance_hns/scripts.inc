@@ -325,8 +325,8 @@ TrainerHill_Entrance_hns_Text_TrainersInEveryRoom:
 	.string "in ogni stanza.$"
 
 TrainerHill_Entrance_hns_Text_LikeToChallengeTrainers:
-	.string "Vuoi sfidare gli\n"
-	.string "ALLENATORI in attesa?$"
+	.string "Would you like to challenge the\n"
+	.string "waiting TRAINERS?$"
 
 TrainerHill_Entrance_hns_Text_TimeProgessGetSetGo:
 	.string "Cronometrerò il tuo tempo.\n"

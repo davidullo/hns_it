@@ -251,10 +251,10 @@ PalletTown_RivalsHouse_Text_MayISeeFirstMon::
 	.string "il tuo primo POKéMON?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
-	.string "Non potrebbe volerti più\n"
-	.string "bene di così.\p"
-	.string "Il tuo POKéMON è felice oltre\n"
-	.string "ogni parola.$"
+	.string "It couldn't possibly love you\n"
+	.string "any more than it does now.\p"
+	.string "Your POKéMON is happy beyond\n"
+	.string "words.$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
 	.string "Sembra molto felice.\p"
@@ -270,10 +270,10 @@ PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
 	.string "La fiducia cresce tra voi.$"
 
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
-	.string "Non ha ancora confidenza\n"
-	.string "con te.\p"
-	.string "I POKéMON sono diffidenti appena\n"
-	.string "li prendi.$"
+	.string "It's not quite familiar with you\n"
+	.string "yet.\p"
+	.string "POKéMON are all quite wary when\n"
+	.string "you first get them.$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
 	.string "{PLAYER}, non mi piace come ti\n"

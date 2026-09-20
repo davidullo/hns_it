@@ -133,22 +133,22 @@ Route42_Movement_Eusine2:
 
 Route42_Text_EusineAdmireSuicune:
 	.string "EUSINE: SUICUNE...\n"
-	.string "Che audace!\p"
-	.string "Che rinfrescante!\n"
-	.string "Che bello!\p"
-	.string "E che velocità!$"
+	.string "How brave it is!\p"
+	.string "How refreshing it is!\n"
+	.string "How beautiful it is!\p"
+	.string "And how quickly it moves!$"
 
 Route42_Text_EusineJealous:
 	.string "{PLAYER}!\p"
-	.string "Sembri trovarti dove\n"
-	.string "apparirebbe SUICUNE.\p"
-	.string "Beh, va bene.\l"
-	.string "Il mio desiderio di cercare\n"
-	.string "SUICUNE è più forte del tuo...\p"
-	.string "Mio nonno era... appassionato\n"
-	.string "di miti.\p"
-	.string "Mi ha raccontato tante storie\n"
-	.string "su SUICUNE.$"
+	.string "You seem to be around where\n"
+	.string "SUICUNE would appear.\p"
+	.string "Well, that's OK.\l"
+	.string "My desire to search for\n"
+	.string "SUICUNE is far beyond yours...\p"
+	.string "My grandpa was... quite into\n"
+	.string "myths.\p"
+	.string "I've heard so many stories\n"
+	.string "about SUICUNE from him.$"
 
 Route42_Text_EusineWontGiveUp:
 	.string "SUICUNE...\n"
@@ -301,8 +301,8 @@ Route42_Text_TullyHasItem:
 	.string "Tieni, te lo do!$"
 
 Route42_Text_TullyGaveItem:
-	.string "Ti avviso se\n"
-	.string "prendo altro!$"
+	.string "I'll let you know if I\n"
+	.string "reel in anything else!$"
 
 Route42_Text_TullyNoRoom:
 	.string "Hmm, la tua BORSA è piena.\p"

@@ -83,13 +83,13 @@ BerryBlender_Text_LetsBerryBlender2:
 	.string "Diamo il via al BERRY BLENDER!$"
 
 BerryBlender_Text_ExplainBerryBlending2:
-	.string "Va bene!\n"
-	.string "Lascia che ti spieghi!\p"
-	.string "Quando la freccia del BLENDER che gira\n"
-	.string "raggiunge il tuo segno, premi\l"
-	.string "il tasto A.\p"
-	.string "Tutto qui.\n"
-	.string "Abbastanza facile, non credi?$"
+	.string "Okay!\n"
+	.string "Let me explain it to you!\p"
+	.string "When the spinning BLENDER's arrow\n"
+	.string "reaches your marker, just press\l"
+	.string "the A Button.\p"
+	.string "That's all it takes.\n"
+	.string "Pretty easy, don't you think?$"
 
 BerryBlender_Text_DontHaveAnyBerries2:
 	.string "Oh, ma aspetta un attimo…\n"
@@ -128,17 +128,17 @@ BerryBlender_Text_KnowHowToMakePokeblocks3:
 	.string "{POKEBLOCK}, vero?$"
 
 BerryBlender_Text_LetsBerryBlender3:
-	.string "Va bene, caro!\n"
-	.string "Iniziamo!\p"
-	.string "Diamo il via al BERRY BLENDER!$"
+	.string "Okay, dear!\n"
+	.string "Let's get started!\p"
+	.string "Let's BERRY BLENDER!$"
 
 BerryBlender_Text_ExplainBerryBlending3:
-	.string "Oh, cielo!\p"
-	.string "Allora te lo spiego per bene.\p"
-	.string "Quando la freccia del BLENDER gira\n"
-	.string "sul tuo segno, premi il tasto A.\p"
-	.string "Tutto qui.\n"
-	.string "Non è semplice?$"
+	.string "Oh, dear!\p"
+	.string "Then, I'll explain it to you nicely.\p"
+	.string "When the BLENDER's arrow spins to\n"
+	.string "your marker, press the A Button.\p"
+	.string "That's all it takes.\n"
+	.string "Isn't it simple?$"
 
 BerryBlender_Text_DontHaveAnyBerries3:
 	.string "Non hai nessuna BACCA,\n"

@@ -130,9 +130,9 @@ Route34_Text_YoungsterSamuel_Beaten:
 	.string "Battuto da un passante!$"
 
 Route34_Text_YoungsterSamuel_After:
-	.string "Mi allenerò ancora di più.\p"
-	.string "Voglio diventare\n"
-	.string "un CAPOPALESTRA.$"
+	.string "I'm going to train even harder.\p"
+	.string "After all, I'm trying to become\n"
+	.string "a GYM LEADER.$"
 
 Route34_Text_YoungsterIan_Seen:
 	.string "Sono il migliore della classe\n"

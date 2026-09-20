@@ -195,8 +195,8 @@ Route13_Text_HikerKennyAfterBattle:
 	.string "alla volta.$"
 
 Route13_Text_KennyRegister:
-	.string "Maybe POKéMON change over time too.\n"
-	.string "Let's battle again sometime!$"
+	.string "Forse anche i POKéMON cambiano.\n"
+	.string "Lottiamo di nuovo, prima o poi!$"
 
 Route13_Text_KennyRematchIntro:
 	.string "Ho imparato dalla geologia!\n"

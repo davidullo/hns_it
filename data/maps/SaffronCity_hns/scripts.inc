@@ -119,11 +119,11 @@ SaffronCity_Text_PokefanM_ReturnedPart:
 	.string "sul MAGNETOTRENO.$"
 
 SaffronCity_Text_CooltrainerM:
-	.string "Sono andato in PALESTRA, pronto\n"
-	.string "a sfidare gli allenatori…\p"
-	.string "Invece sono finito nella\n"
-	.string "PALESTRA in disuso accanto.\p"
-	.string "Che figuraccia.$"
+	.string "I went to the GYM, raring for\n"
+	.string "battles against trainers…\p"
+	.string "It turns out, I stumbled into the\n"
+	.string "unused GYM next door.\p"
+	.string "Boy, I was pretty embarrassed.$"
 
 SaffronCity_Text_CooltrainerF:
 	.string "Questa è la SILPH CO., famosa per\n"

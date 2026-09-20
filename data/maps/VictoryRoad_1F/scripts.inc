@@ -150,10 +150,10 @@ VictoryRoad_1F_Text_WallyDefeat:
 	.string "{PLAYER}, sei forte davvero!$"
 
 VictoryRoad_1F_Text_WallyPostBattle:
-	.string "WALLY: Stavolta non ti ho battuto,\n"
-	.string "neanche… Ma un giorno, {PLAYER},\l"
-	.string "ti raggiungerò…\p"
-	.string "E sfiderò la POKéMON LEAGUE!$"
+	.string "WALLY: I couldn't beat you this time,\n"
+	.string "too… But one of these days, {PLAYER},\l"
+	.string "I'm going to catch up to you…\p"
+	.string "And challenge the POKéMON LEAGUE!$"
 
 VictoryRoad_1F_Text_EdgarIntro:
 	.string "Sono arrivato fin qui un paio di volte,\n"

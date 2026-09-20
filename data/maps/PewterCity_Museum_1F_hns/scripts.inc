@@ -48,12 +48,12 @@ PewterCity_Museum_1F_Text_Recptionist:
 	.string "Prego, accomodati.$"
 
 PewterCity_Museum_1F_Text_FossilWoman:
-	.string "Devi essere un allenatore forte.\p"
-	.string "Non ci servono molto i fossili\n"
-	.string "sul bancone là.\p"
-	.string "Un uomo strano dai capelli argento\n"
-	.string "ne ha lasciati un sacco qui.\p"
-	.string "Prendili pure, se ti va.$"
+	.string "You must be a strong trainer.\p"
+	.string "We don't have much use for the\n"
+	.string "fossils on the counter over there.\p"
+	.string "A strange man with silver hair\n"
+	.string "dropped a ton of them off here.\p"
+	.string "Go ahead and take them if you like.$"
 
 PewterCity_Museum_1F_Text_FossilWomanAfter:
 	.string "Spesso condividiamo le ricerche\n"

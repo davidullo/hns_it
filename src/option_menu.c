@@ -308,8 +308,8 @@ static const u8 *const sDesc_FasterJoy[] = {
     COMPOUND_STRING("INFERMIERA JOY ti cura con la\nsolita animazione."),
 };
 static const u8 *const sDesc_UnitType[] = {
-    COMPOUND_STRING("Display BERRY and {PKMN} weight\nand size in kilograms and meters."),
-    COMPOUND_STRING("Display BERRY and {PKMN} weight\nand size in pounds and inches."),
+    COMPOUND_STRING("Peso e dimensioni di BACCHE e {PKMN}\nin chili e metri."),
+    COMPOUND_STRING("Peso e dimensioni di BACCHE e {PKMN}\nin libbre e pollici."),
 };
 static const u8 *const sDesc_MatchCall[] = {
     COMPOUND_STRING("Gli ALLENATORI ti chiameranno per\nrivertenze e info."),

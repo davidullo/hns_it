@@ -307,8 +307,8 @@ BattleFrontier_BattlePikeThreePathRoom_Text_AwaitingReturnSaveBeforeResume:
 	.string "di Lotta, salvo il gioco…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PleaseEnjoyChallenge:
-	.string "Buona Sfida della\n"
-	.string "Scelta di Lotta…$"
+	.string "Please do enjoy your Battle Choice\n"
+	.string "challenge…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SavingYourData:
 	.string "Salvo i tuoi dati…\n"

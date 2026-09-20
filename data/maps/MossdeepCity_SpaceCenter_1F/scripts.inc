@@ -394,10 +394,10 @@ MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat:
 	.string "Anche una tazzina misera va bene!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4PostBattle:
-	.string "Cosa faremo col\n"
-	.string "carburante?\p"
-	.string "Che ne so?\n"
-	.string "Chiedilo al capo di sopra!$"
+	.string "What are we going to do with\n"
+	.string "the rocket fuel?\p"
+	.string "How would I know?\n"
+	.string "Ask our leader upstairs!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Intro:
 	.string "Il capo ha detto che nessuno,\n"

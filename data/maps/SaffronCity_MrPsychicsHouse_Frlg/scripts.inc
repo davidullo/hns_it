@@ -33,10 +33,10 @@ SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
 	.string "dal SIG. PSICHICO.$"
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
-	.string "Lo sai già, no?\n"
-	.string "La MT29 è PSICHICO.\p"
-	.string "È un attacco che può anche ridurre\n"
-	.string "le statistiche speciali del bersaglio.$"
+	.string "You already know, don't you?\n"
+	.string "TM29 is PSYCHIC.\p"
+	.string "It's an attack that may also lower\n"
+	.string "the target's special stats.$"
 
 SaffronCity_MrPsychicsHouse_Text_YouveNoRoom::
 	.string "Dove pensi di metterlo?\n"

@@ -70,10 +70,10 @@ SixIsland_OutcastIsland_Text_AvaPostBattle::
 	.string "mare a qualsiasi piscina.$"
 
 SixIsland_OutcastIsland_Text_AvaNotEnoughMons::
-	.string "AVA: Ci sfidi\n"
-	.string "in lotta?\p"
-	.string "Ti servono almeno due POKéMON\n"
-	.string "se vuoi farlo.$"
+	.string "AVA: You're challenging us to\n"
+	.string "a battle?\p"
+	.string "You'll need at least two POKéMON\n"
+	.string "if you want to do that.$"
 
 SixIsland_OutcastIsland_Text_GebIntro::
 	.string "GEB: Sorellona, aiuto!\n"

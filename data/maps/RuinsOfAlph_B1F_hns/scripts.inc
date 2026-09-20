@@ -60,10 +60,10 @@ RuinsOfAlph_B1F_Text_Hiker:
 	.string "niente qui.$"
 
 RuinsOfAlph_B1F_Text_Teacher:
-	.string "Questo posto ha un che di\n"
-	.string "mistico.\p"
-	.string "Sembra quasi\n"
-	.string "etereo.$"
+	.string "This place has a mystical\n"
+	.string "quality to it.\p"
+	.string "It feels sort of ethereal\n"
+	.string "even.$"
 
 RuinsOfAlph_B1F_Text_Gramps:
 	.string "Gli edifici antichi sono spesso\n"

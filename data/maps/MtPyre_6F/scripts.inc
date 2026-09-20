@@ -39,10 +39,10 @@ MtPyre_6F_Text_ValeriePostBattle:
 	.string "dei POKéMON che dormono qui…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Fufufu… Ho perso, ma…\n"
-	.string "Ho questa piccola abilità…\p"
-	.string "Senza toccare il\n"
-	.string "tuo POKéNAV… Hiyah!$"
+	.string "Fufufu… I lost the match, but…\n"
+	.string "I have this little ability…\p"
+	.string "Without ever laying my hands on\n"
+	.string "your POKéNAV… Hiyah!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
 	.string "Dietro di te…\n"

@@ -63,10 +63,10 @@ OlivineCity_Text_CafeSailorStrength:
 	.string "FORZA!$"
 
 OlivineCity_Text_CafeSailorGotStrength:
-	.string "In mare puoi contare solo\n"
-	.string "su te stesso!\p"
-	.string "Sono fiero dei miei muscoli!\n"
-	.string "Dovresti allenarti come me!$"
+	.string "On the sea, the only thing you\n"
+	.string "can count on is your own self!\p"
+	.string "I'm so proud of my buff bod!\n"
+	.string "You should train like me!$"
 
 OlivineCity_Text_CafeFishingGuru:
 	.string "Il menù dell'OLIVINE CAFE è pieno\n"

@@ -38,7 +38,7 @@ const u8 gText_MatchCallAromaLady_Rose_Intro2[] = _("corpo e mente in salute.");
 
 const u8 gText_MatchCallRuinManiac_Andres_Strategy[] = _("Non sono molto bravo.");
 const u8 gText_MatchCallRuinManiac_Andres_Pokemon[] = _("Compagni di esplorazione.");
-const u8 gText_MatchCallRuinManiac_Andres_Intro1[] = _("Cerco rovine");
+const u8 gText_MatchCallRuinManiac_Andres_Intro1[] = _("Cerco rovine sottomarine");
 const u8 gText_MatchCallRuinManiac_Andres_Intro2[] = _("e reliquie sottomarine.");
 
 const u8 gText_MatchCallRuinManiac_Dusty_Strategy[] = _("Travolgi con la forza!");
@@ -109,7 +109,7 @@ const u8 gText_MatchCallPokeManiac_Steve_Intro2[] = _("i POKéMON sono il top…
 const u8 gText_MatchCallSwimmer_Tony_Strategy[] = _("Sperona a tutta velocità!");
 const u8 gText_MatchCallSwimmer_Tony_Pokemon[] = _("Tipo ACQUA strambo!");
 const u8 gText_MatchCallSwimmer_Tony_Intro1[] = _("Se non posso nuotare,");
-const u8 gText_MatchCallSwimmer_Tony_Intro2[] = _("sollevo pesi.");
+const u8 gText_MatchCallSwimmer_Tony_Intro2[] = _("Sollevo pesi.");
 
 const u8 gText_MatchCallBlackBelt_Nob_Strategy[] = _("Mazzate da gran finale!");
 const u8 gText_MatchCallBlackBelt_Nob_Pokemon[] = _("Tipo LOTTA.");
@@ -413,7 +413,7 @@ const u8 gText_MatchCallEliteFour_Glacia_Intro2[] = _("meglio in questa terra ca
 
 const u8 gText_MatchCallEliteFour_Drake_Strategy[] = _("Sfrutta abilità potenti.");
 const u8 gText_MatchCallEliteFour_Drake_Pokemon[] = _("La forza pura dei DRAGHI!");
-const u8 gText_MatchCallEliteFour_Drake_Intro1[] = _("Mi dedico ai");
+const u8 gText_MatchCallEliteFour_Drake_Intro1[] = _("Mi dedico ai draghi");
 const u8 gText_MatchCallEliteFour_Drake_Intro2[] = _("POKéMON che mi salvarono.");
 
 const u8 gText_MatchCallChampion_Wallace_Strategy[] = _("Dignità e rispetto.");

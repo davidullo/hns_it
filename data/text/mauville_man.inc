@@ -35,8 +35,8 @@ GiddyText_ISoWantToGoOnAVacation::
 	.string "Conosci un bel posto?$"
 
 GiddyText_IBoughtCrayonsWith120Colors::
-	.string "Ho comprato pastelli con 120 colori!\n"
-	.string "Non è bello?$"
+	.string "I bought crayons with 120 colors!\n"
+	.string "Don't you think that's nice?$"
 
 GiddyText_WouldntItBeNiceIfWeCouldFloat::
 	.string "Sarebbe bello fluttuare\n"

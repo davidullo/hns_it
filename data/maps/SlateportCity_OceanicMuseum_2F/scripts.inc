@@ -298,8 +298,8 @@ SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious:
 	.string "Il CAPO sarà furioso…$"
 
 SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
-	.string "Umpf, coniglio piagnucoloso!\n"
-	.string "Ci penso io!$"
+	.string "Humph, sniveling wimp!\n"
+	.string "Let me take care of this!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat:
 	.string "Cosa?!\n"
@@ -404,10 +404,10 @@ SlateportCity_OceanicMuseum_2F_Text_HoennModel:
 	.string "Dov'è LITTLEROOT TOWN qui?$"
 
 SlateportCity_OceanicMuseum_2F_Text_DeepSeawaterDisplay:
-	.string "È un pannello sul flusso dell'acqua.\p"
-	.string "“Sul fondo del mare, l'acqua\n"
-	.string "scorre per differenze di temperatura\l"
-	.string "e salinità.”$"
+	.string "It's a display on the flow of seawater.\p"
+	.string "“Near the bottom of the sea, water\n"
+	.string "flows due to differences in such\l"
+	.string "factors as temperature and salinity.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SurfaceSeawaterDisplay:
 	.string "È un pannello sul flusso dell'acqua.\p"

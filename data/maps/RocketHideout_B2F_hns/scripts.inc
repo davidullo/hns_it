@@ -630,16 +630,16 @@ RocketHideout_B2F_Text_LanceSide:
     .string "LANCE: Lascia questo lato a me.$"
 
 RocketHideout_B2F_Text_LanceElectrodeDone:
-    .string "LANCE: Quello strano segnale\n"
-    .string "si è finalmente fermato.\p"
-    .string "Il LAGO dovrebbe essere tornato\n"
-    .string "alla normalità.\p"
-    .string "Sei un eroe! Lascia che ti ringrazi\n"
-    .string "a nome di tutti i\l"
+    .string "LANCE: That odd signal has\n"
+    .string "finally stopped.\p"
+    .string "The LAKE should be back to\n"
+    .string "normal.\p"
+    .string "You're the hero! Let me thank\n"
+    .string "you on behalf of all the\l"
     .string "POKéMON.\p"
-    .string "Oh, già. Dovresti prendere questo.\n"
-    .string "L'ho trovato qui, ma non\l"
-    .string "mi serve.$"
+    .string "Oh, yes. You should take this.\n"
+    .string "I found it here, but I don't\l"
+    .string "have any need for it.$"
 
 RocketHideout_B2F_Text_LanceWhirlpool:
     .string "Quello è MULINELLO. Insegnalo a un\n"

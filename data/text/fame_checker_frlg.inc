@@ -16,9 +16,9 @@ gFameCheckerFlavorText_ProfOak2:: @ 0x81AD1BB
 	.string "grande considerazione.$"
 
 gFameCheckerFlavorText_ProfOak3:: @ 0x81AD258
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Famiglia e amici?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Il PROF. OAK vive coi nipoti,\n"
-	.string "DAISY e {RIVAL}.$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK reportedly lives with his\n"
+	.string "grandchildren, DAISY and {RIVAL}.$"
 
 gFameCheckerFlavorText_ProfOak4:: @ 0x81AD2B9
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Famiglia e amici?\p"
@@ -56,9 +56,9 @@ gFameCheckerFlavorText_Daisy2:: @ 0x81AD516
 	.string "Mi pare fosse DAISY.$"
 
 gFameCheckerFlavorText_Daisy3:: @ 0x81AD5A7
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Famiglia e amici?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Il PROF. OAK vive coi nipoti,\n"
-	.string "DAISY e {RIVAL}.$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK reportedly lives with his\n"
+	.string "grandchildren, DAISY and {RIVAL}.$"
 
 gFameCheckerFlavorText_Daisy4:: @ 0x81AD608
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Che tipo è?\p"
@@ -790,12 +790,12 @@ gFameCheckerPersonName_Giovanni:: @ 0x81B0BA6
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}GIOVANNI$"
 
 gFameCheckerPersonQuote_Giovanni:: @ 0x81B0BB5
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: GIOVANNI\n"
-	.string "To: {PLAYER}\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}There is nothing that I wish to say\n"
-	.string "to you.\p"
-	.string "I will concentrate solely on\n"
-	.string "bettering myself, and none other.$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Da: GIOVANNI\n"
+	.string "A: {PLAYER}\p"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Non ho niente da\n"
+	.string "dirti.\p"
+	.string "Mi concentrerò solo sul\n"
+	.string "migliorare me stesso, e nessun altro.$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak0:: @ 0x81B0C45
 	.string "BIANCAVILLA$"

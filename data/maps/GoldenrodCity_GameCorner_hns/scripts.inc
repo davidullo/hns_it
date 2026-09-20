@@ -515,7 +515,7 @@ GoldenrodCity_GameCorner_PrizeRoom_Text_SoYourChoiceIsTM:
 	.string "{STR_VAR_1} {STR_VAR_2}?$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_YouAlreadyHaveThis:
-	.string "Ce l'hai già.$"
+	.string "You already have that item.$"
 
 GoldenrodCity_GameCorner_EventScript_PokefanM::
 	lock

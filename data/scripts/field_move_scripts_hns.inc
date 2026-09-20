@@ -368,16 +368,16 @@ EventScript_CancelStrength::
 	end
 
 Text_WantToStrength:
-	.string "È un masso enorme, ma un POKéMON\n"
-	.string "può spostarlo.\p"
-	.string "Vuoi usare FORZA?$"
+	.string "It's a big boulder, but a POKéMON\n"
+	.string "may be able to push it aside.\p"
+	.string "Would you like to use STRENGTH?$"
 
 Text_MonUsedStrength:
 	.string "{STR_VAR_1} usa FORZA!$"
 
 Text_CantStrength:
-	.string "È un masso enorme, ma un POKéMON\n"
-	.string "può spostarlo.$"
+	.string "It's a big boulder, but a POKéMON\n"
+	.string "may be able to push it aside.$"
 
 Text_StrengthActivated:
 	.string "FORZA permette di spostare\n"

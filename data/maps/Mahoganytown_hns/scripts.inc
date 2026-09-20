@@ -248,12 +248,12 @@ MahoganyTown_Movement_PlayerMerchant2:
 	step_end
 
 MahoganyTown_Text_RageCandyBarMerchantTryOne:
-	.string "Ciao, ragazzo!\p"
-	.string "Vedo che sei nuovo di MAHOGANY.\p"
-	.string "Dato che sei nuovo, prova una\n"
-	.string "RAGECANDYBAR!\p"
-	.string "Ora è tua per soli\n"
-	.string "¥300! Ne vuoi una?$"
+	.string "Hiya, kid!\p"
+	.string "I see you're new in MAHOGANY TOWN.\p"
+	.string "Since you're new, you should try a\n"
+	.string "yummy RAGECANDYBAR!\p"
+	.string "Right now, it can be yours for just\n"
+	.string "¥300! Want one?$"
 
 MahoganyTown_Text_RageCandyBarMerchantSavorIt:
     .string "Bene! Gustalo!$"
@@ -303,17 +303,17 @@ MahoganyTown_Text_GymSign:
     .string "Il Maestro del Rigido Inverno$"
 
 ElmPhoneRadioTowerRocketTakeoverText:
-	.string "PROF.ELM: {PLAYER}, come\n"
-	.string "va?\p"
-	.string "Ti chiamo perché succede\n"
-	.string "qualcosa di strano con le\l"
-	.string "trasmissioni radio.\p"
-	.string "Parlavano del TEAM\n"
+	.string "PROF.ELM: {PLAYER}, how are\n"
+	.string "things going?\p"
+	.string "I called because something weird\n"
+	.string "is happening with the radio\l"
+	.string "broadcasts.\p"
+	.string "They were talking about TEAM\n"
 	.string "ROCKET.\p"
-	.string "{PLAYER}, ne sai\n"
-	.string "qualcosa?\p"
-	.string "Forse il TEAM ROCKET è tornato.\n"
-	.string "No, non può essere vero.\p"
-	.string "Scusa il disturbo.\n"
-	.string "Stammi bene!$"
+	.string "{PLAYER}, do you know anything\n"
+	.string "about it?\p"
+	.string "Maybe TEAM ROCKET has returned.\n"
+	.string "No, that just can't be true.\p"
+	.string "Sorry to bug you.\n"
+	.string "Take care!$"
 

@@ -211,15 +211,15 @@ LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon:
 	.string "l'immaginazione.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
-	.string "È un quadro di POKéMON ERBA\n"
-	.string "al vento.\p"
-	.string "Sembrano godersi la brezza\n"
-	.string "gentile.$"
+	.string "It's a painting of GRASS POKéMON\n"
+	.string "swaying in a breeze.\p"
+	.string "They appear to be enjoying the wind's\n"
+	.string "gentle caress.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries:
-	.string "È un quadro goloso\n"
-	.string "di BACche.\p"
-	.string "Ti fa venire fame!$"
+	.string "It's a delicious-looking painting\n"
+	.string "of BERRIES.\p"
+	.string "This painting could make you hungry!$"
 
 LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
 	.string "È la copia di una scultura nota.\p"
@@ -276,10 +276,10 @@ LilycoveCity_LilycoveMuseum_1F_Text_CuratorHasBeenCheerful:
 	.string "Sicuro.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings:
-	.string "Voglio vedere tanti bei quadri\n"
-	.string "qui e imparare da loro.\p"
-	.string "Sogno che un giorno\n"
-	.string "espongano qui le mie opere.$"
+	.string "I aim to see many great paintings\n"
+	.string "here and learn from them.\p"
+	.string "I have this dream of one day having\n"
+	.string "my artwork exhibited here.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination:
 	.string "Il MUSEO D'ARTE è una meta\n"

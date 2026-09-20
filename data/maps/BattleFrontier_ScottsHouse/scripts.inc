@@ -252,16 +252,16 @@ BattleFrontier_ScottsHouse_Text_ExpectingGreatThings:
 	.string "Da te mi aspetto cose grandi!$"
 
 BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers:
-	.string "SCOTT: Ogni ALLENATORE è unico.\n"
-	.string "Ognuno fa la propria vita.\p"
-	.string "Ma quando lottano non conta\n"
-	.string "più chi sono.\p"
-	.string "Sono tutti uguali!\p"
-	.string "Amo la purezza della lotta,\n"
-	.string "dove tutti sono uguali.\p"
-	.string "Ecco perché giro ovunque a\n"
-	.string "cercare ALLENATORI seri,\l"
-	.string "e li invito qui.$"
+	.string "SCOTT: Every TRAINER is an individual.\n"
+	.string "They all lead lives of their own.\p"
+	.string "But when they're in a battle,\n"
+	.string "it doesn't matter who they are.\p"
+	.string "They're all the same!\p"
+	.string "I love the purity of battle,\n"
+	.string "where everyone is equal.\p"
+	.string "That's why I go everywhere seeking\n"
+	.string "TRAINERS who are serious about\l"
+	.string "battling, and invite them here.$"
 
 BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain:
 	.string "SCOTT: Hai conosciuto qualcuno\n"

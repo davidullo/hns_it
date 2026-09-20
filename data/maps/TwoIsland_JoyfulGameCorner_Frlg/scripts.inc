@@ -265,12 +265,12 @@ TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy::
 	.string "Sono diventata amica di {PLAYER}!$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
-	.string "Oh, che cos'è?\n"
-	.string "Dici che è per me?\p"
-	.string "Come sapevi che amo rocce\n"
-	.string "e gemme rare?\p"
-	.string "Sai proprio come rendere felice\n"
-	.string "un uomo.$"
+	.string "Oh, what's that?\n"
+	.string "You're saying that this is for me?\p"
+	.string "How did you know that I love rare\n"
+	.string "rocks and gems?\p"
+	.string "You sure know how to make a guy\n"
+	.string "happy.$"
 
 TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
 	.string "{PLAYER} ha dato il METEORITE\n"
@@ -291,10 +291,10 @@ TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
 	.string "più nulla…$"
 
 TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::
-	.string "Va bene, farò partire la SALA GIOCHI\n"
-	.string "subito.\p"
-	.string "Devi venire a trovarmi con\n"
-	.string "un amico.$"
+	.string "All right, I'll get the GAME CORNER\n"
+	.string "running right away.\p"
+	.string "You have to come visit with a\n"
+	.string "friend.$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCool::
 	.string "Ascolta, ascolta!\p"

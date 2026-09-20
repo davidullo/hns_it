@@ -87,7 +87,7 @@ SevenIsland_SevaultCanyon_House_Text_ChanseyDanceJoinIn::
 	.string "Balla, balla!$"
 
 SevenIsland_SevaultCanyon_House_Text_WouldYouLikeToDance::
-	.string "Vuoi ballare?$"
+	.string "Would you like to dance?$"
 
 SevenIsland_SevaultCanyon_House_Text_ComeOnDance::
 	.string "Dai, balla!$"

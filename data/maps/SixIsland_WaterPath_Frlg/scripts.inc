@@ -31,13 +31,13 @@ SixIsland_WaterPath_Text_EdwardDefeat::
 	.string "Nessuno mi ha visto perdere, vero?$"
 
 SixIsland_WaterPath_Text_EdwardPostBattle::
-	.string "Da artista, non voglio che si sappia\n"
-	.string "quanto mi impegno.$"
+	.string "As a performer, I don't want people\n"
+	.string "to know about the effort I put in.$"
 
 SixIsland_WaterPath_Text_SamirIntro::
-	.string "Come, dici che sei\n"
-	.string "stufo di vedere NUOTATORI come me?\p"
-	.string "Ehi, non fare così!$"
+	.string "What, you're suggesting that you're\n"
+	.string "sick of seeing SWIMMERS like me?\p"
+	.string "Aww, don't be hatin'!$"
 
 SixIsland_WaterPath_Text_SamirDefeat::
 	.string "Oh, no, no, no.$"
