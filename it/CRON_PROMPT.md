@@ -13,8 +13,8 @@ riporti un riassunto breve. Tu lanci i comandi e leggi le ultime 5 righe.
 
 ```
 cd /Users/crosta/Developer/hns_it && source ~/.hermes/scripts/hns_env.sh && cd it
-timeout 1500 python3 -m hnsit translate --kind inc --size 40 --workers 16 --rounds 20
-timeout 1500 python3 -m hnsit translate --kind cstr --size 40 --workers 16 --rounds 20
+timeout 1500 python3 -m hnsit translate --kind auto --size 40 --workers 16 --rounds 20
+timeout 1500 python3 -m hnsit translate --kind auto --size 40 --workers 16 --rounds 20
 ```
 
 Se stampa `SKIPPED_LOCKED` un altro giro sta traducendo: **non lanciare

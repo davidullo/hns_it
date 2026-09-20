@@ -153,7 +153,7 @@ def validate(out_path: Path, units: dict) -> tuple[int, int]:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--kind", choices=["inc", "cstr"], required=True)
+    ap.add_argument("--kind", choices=["inc", "cstr", "auto"], required=True)
     ap.add_argument("--size", type=int, default=20)
     ap.add_argument("--workers", type=int, default=6)
     ap.add_argument("--rounds", type=int, default=10, help="giri di <workers> lotti")
@@ -168,6 +168,19 @@ def main() -> int:
     if "glm" in args.model.lower() or args.provider == "zai":
         print(json.dumps({"status": "MODELLO_VIETATO", "provider": args.provider, "model": args.model}))
         return 2
+
+    if args.kind == "auto":
+        # si lavora dove c'e' piu' coda: i lock sono per tipo ma il provider e'
+        # lo stesso, e restare a girare su un pool vuoto brucia il turno
+        conta = {"inc": 0, "cstr": 0}
+        for u in store.load_all().values():
+            if u.status == "pending":
+                conta[u.kind] = conta.get(u.kind, 0) + 1
+        args.kind = max(conta, key=lambda k: conta[k])
+        print(
+            f"kind auto -> {args.kind} (inc {conta['inc']} / cstr {conta['cstr']} pending)",
+            flush=True,
+        )
 
     if not acquire_lock(args.kind):
         print(json.dumps({"status": "SKIPPED_LOCKED"}))

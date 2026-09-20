@@ -36,6 +36,9 @@
  "src/data/battle_frontier/trainer_hill.h": {
   "name": 4
  },
+ "src/data/decoration/header.h": {
+  "name": 8
+ },
  "src/data/types_info.h": {
   "generic": 10
  }
