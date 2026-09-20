@@ -32,7 +32,7 @@ WORK = ROOT / "work"
 LOG_DIR = WORK / "logs"
 BATCH_DIR = WORK / "batches"
 RESULT_DIR = WORK / "results"
-LOCK = WORK / ".translate.lock"
+LOCK = WORK / ".translate.lock"  # sostituito a runtime con un lock per tipo (inc/cstr)
 PROMPT_TEMPLATE = WORK / "prompt_worker.txt"
 
 PROMPT = """Applica le regole di {rules_path} al lotto {batch_path}.
@@ -43,8 +43,14 @@ Rispondi solo con: ok <numero di righe scritte>
 """
 
 
-def acquire_lock() -> bool:
+def lock_path(kind: str) -> Path:
+    """Un lock per tipo: inc e cstr possono girare in parallelo."""
+    return WORK / f".translate-{kind}.lock"
+
+
+def acquire_lock(kind: str = "inc") -> bool:
     WORK.mkdir(parents=True, exist_ok=True)
+    LOCK = lock_path(kind)
     if LOCK.exists():
         try:
             pid = int(LOCK.read_text().split()[0])
@@ -56,9 +62,9 @@ def acquire_lock() -> bool:
     return True
 
 
-def release_lock() -> None:
+def release_lock(kind: str = "inc") -> None:
     try:
-        LOCK.unlink()
+        lock_path(kind).unlink()
     except FileNotFoundError:
         pass
 
@@ -137,7 +143,7 @@ def main() -> int:
     ap.add_argument("--model-label", default="")
     args = ap.parse_args()
 
-    if not acquire_lock():
+    if not acquire_lock(args.kind):
         print(json.dumps({"status": "SKIPPED_LOCKED"}))
         return 0
 
@@ -202,7 +208,7 @@ def main() -> int:
         summary["pending_left"] = st["per_stato"].get("pending", 0)
         summary["stato"] = st["per_stato"]
     finally:
-        release_lock()
+        release_lock(args.kind)
 
     print(json.dumps(summary, ensure_ascii=False))
     return 0
