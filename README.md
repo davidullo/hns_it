@@ -17,6 +17,65 @@ Unfortunately, saves from before 2.0 will not be compatible moving forward.
 
 2.0.1 will be the last "official" release of Pokémon Heart and Soul, after which any bug fixes, content updates, or any propogated updates from **`pokeemerald`** or **`pokeemerald-expansion`** will only be available via community forks of the project.
 
+# 🇮🇹 Versione italiana (traduzione non ufficiale)
+
+Questo fork contiene la **traduzione italiana** dei testi di Pokémon Heart and Soul 2.0.
+Lo stato e le cose ancora da fare stanno in [`it/MANCANTI.md`](it/MANCANTI.md).
+
+## Come si ottiene la ROM italiana
+
+La traduzione è **dentro il gioco**: si compila una ROM completa. Non serve applicare nessuna patch a una ROM di Smeraldo.
+
+### Compilare da sorgente (consigliato)
+
+1. Installa devkitARM di devkitPro seguendo le [istruzioni per il tuo sistema](INSTALL.md).
+2. Poi:
+
+```bash
+git clone https://github.com/davidullo/hns_it
+cd hns_it
+make hns -j8
+```
+
+Alla fine trovi **`pokehns.gba`** nella cartella del progetto: è la ROM italiana, pronta da aprire in un emulatore.
+
+### Se hai già la ROM compilata
+
+Se qualcuno ti ha passato `pokehns.gba` compilato da questo repository, è già la versione italiana: aprila e gioca. Non serve altro.
+
+## Come si gioca
+
+- Desktop: **mGBA** (consigliato) o VBA-M
+- Android: Pizza Boy, MyBoy
+- iOS: Provenance o simili
+- Serve il file **BIOS di GBA** per alcuni emulatori; mGBA non lo richiede
+
+## Cosa è tradotto
+
+- **dialoghi, menu, descrizioni, nomi di oggetti, mosse, abilità e luoghi**: i nomi di oggetti e luoghi usano quelli ufficiali italiani dei giochi (da PokeAPI e dal wiki italiano), non traduzioni inventate
+- le unità di misura sono quelle metriche
+- **non tradotta**: la grafica. Font, title screen, schermate di battaglia e menu grafici sono ancora in inglese (167 file immagine). È il prossimo lavoro, vedi [`it/MANCANTI.md`](it/MANCANTI.md)
+
+## Segnalare un errore
+
+Apri una issue su GitHub e scrivi:
+
+1. la frase sbagliata, copiata dal gioco
+2. dove si vede (città, schermata, menu, momento della storia)
+3. cosa dovrebbe dire secondo te
+
+Se è una parola sola (per esempio un nome di oggetto), basta anche solo quella.
+
+## Come funziona la traduzione
+
+I testi tradotti non si modificano a mano nel codice: vivono in file dati e vengono scritti nei sorgenti da una pipeline, descritta in [`it/README.md`](it/README.md).
+
+## Crediti
+
+- **Pokémon Heart and Soul 2.0** e **pokeemerald-expansion**: autori originali, vedi [`CREDITS.md`](CREDITS.md)
+- **traduzione italiana**: fork [`davidullo/hns_it`](https://github.com/davidullo/hns_it)
+- **nomi ufficiali italiani**: [PokeAPI](https://pokeapi.co) (localizzazioni dei giochi) e [Pokémon Central Wiki](https://wiki.pokemoncentral.it)
+
 # [Features](FEATURES.md)
 
 **`pokemonHnS-expansion`** includes a mix of vanilla Emerald/FRLG features, re/de-made implementations of GSC/HGSS features, custom **`Modern Emerald`** features, and both features from [core series Pokémon games](https://bulbapedia.bulbagarden.net/wiki/Core_series) and popular QOL enhancements made available by **`pokeemerald-expansion`**.  

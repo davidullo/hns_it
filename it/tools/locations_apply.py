@@ -51,9 +51,12 @@ def accorcia(nome: str, tetto: int) -> str:
 
 
 def carica_mappa() -> dict[str, str]:
-    if MAPPA_IT.exists():
-        return json.loads(MAPPA_IT.read_text(encoding="utf-8"))
-    return {}
+    if not MAPPA_IT.exists():
+        return {}
+    mappa = json.loads(MAPPA_IT.read_text(encoding="utf-8"))
+    # "Percorso 101 (Hoenn)" -> "Percorso 101": la disambiguazione del wiki
+    # non serve dentro il gioco
+    return {k: re.sub(r"\s*\([^)]*\)\s*$", "", v).strip() for k, v in mappa.items()}
 
 
 def cerca_tutti(nomi: list[str], mappa: dict[str, str]) -> dict[str, str]:
