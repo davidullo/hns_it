@@ -70,11 +70,24 @@ def release_lock(kind: str = "inc") -> None:
 
 
 def run_worker(args, batch_path: Path, out_path: Path, log_path: Path) -> bool:
-    prompt = PROMPT.format(
-        rules_path=WORK / "PROMPT_TRANSLATOR.md",
-        batch_path=batch_path,
-        out_path=out_path,
+    """Un solo giro di modello per lotto, senza tool.
+
+    Prima il worker aveva il toolset `file` e doveva leggere le regole, leggere
+    il lotto e scrivere il risultato: 4-6 chiamate di modello per lotto, ognuna
+    che ripagava in input le regole piu' il lotto intero. Ora regole e lotto
+    vanno dentro il prompt e il risultato torna su stdout: una chiamata sola.
+    """
+    rules = (WORK / "PROMPT_TRANSLATOR.md").read_text(encoding="utf-8")
+    payload = batch_path.read_text(encoding="utf-8")
+    prompt = (
+        rules
+        + "\n\nLOTTO DA TRADURRE (JSON):\n"
+        + payload
+        + "\n\nRispondi SOLO con le righe JSON del risultato, una per unita', nel formato"
+        ' esatto {"id":"...","it":["riga 1","riga 2"]}. Nessuna spiegazione, nessun markdown.'
     )
+    qfile = WORK / f"prompt_inline_{batch_path.stem}.txt"
+    qfile.write_text(prompt, encoding="utf-8")
     cmd = [
         "hermes",
         "chat",
@@ -88,20 +101,28 @@ def run_worker(args, batch_path: Path, out_path: Path, log_path: Path) -> bool:
         "--reasoning",
         args.reasoning,
         "--toolsets",
-        "file",
+        "none",
         "--run-budget",
         str(args.budget_per_batch),
-        "-q",
-        prompt,
+        "--query-file",
+        str(qfile),
     ]
-    with log_path.open("w", encoding="utf-8") as log:
-        try:
-            proc = subprocess.run(cmd, stdout=log, stderr=subprocess.STDOUT, timeout=args.budget_per_batch + 60)
-        except subprocess.TimeoutExpired:
-            return False
-    if proc.returncode != 0:
+    try:
+        proc = subprocess.run(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            timeout=args.budget_per_batch + 60,
+        )
+    except subprocess.TimeoutExpired:
         return False
-    return out_path.exists() and out_path.stat().st_size > 0
+    log_path.write_text(proc.stdout or "", encoding="utf-8")
+    rows = [line.strip() for line in (proc.stdout or "").splitlines() if line.strip().startswith("{")]
+    if not rows:
+        return False
+    out_path.write_text("\n".join(rows) + "\n", encoding="utf-8")
+    return True
 
 
 def validate(out_path: Path, units: dict) -> tuple[int, int]:
@@ -193,7 +214,18 @@ def main() -> int:
                     summary["batches_failed"] += 1
                     print(f"  KO {name}: nessuna riga valida", flush=True)
                     continue
-                rows = [json.loads(l) for l in rpath.read_text(encoding="utf-8").splitlines() if l.strip() and l.strip().startswith("{")]
+                rows = []
+                bad_json = 0
+                for l in rpath.read_text(encoding="utf-8").splitlines():
+                    l = l.strip()
+                    if not l.startswith("{"):
+                        continue
+                    try:
+                        rows.append(json.loads(l))
+                    except json.JSONDecodeError:
+                        # il modello ogni tanto sbaglia una virgola: quella riga
+                        # si scarta, le altre del lotto valgono
+                        bad_json += 1
                 applied, failed = batchmod.apply_rows(all_units, rows, "translated")
                 stamp = f"batch:{name}"
                 for row in rows:
@@ -202,7 +234,7 @@ def main() -> int:
                         u.note = stamp
                 summary["applied"] += applied
                 summary["batches_ok"] += 1
-                print(f"  OK {name}: {applied} applicate, {bad} righe scartate", flush=True)
+                print(f"  OK {name}: {applied} applicate, {bad + bad_json} righe scartate", flush=True)
             fanned = batchmod.fan_out(all_units)
             batchmod.save_all(all_units)
             print(f"  round {round_no}: {round(elapsed)}s, tm +{fanned}", flush=True)
