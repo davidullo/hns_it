@@ -3,7 +3,7 @@
 valida e applica i risultati.
 
     python3 it/tools/translate_run.py --kind inc --size 20 --workers 6 \\
-        --rounds 20 --provider deepseek --model deepseek-v4-flash
+        --rounds 20 --provider opencode-go --model deepseek-v4.1-flash
 
 Ogni lotto diventa un processo `hermes chat` separato (nessun tool in comune,
 nessun contesto ereditato): cosi' il costo per lotto e' solo quello del lotto.
@@ -136,9 +136,9 @@ def main() -> int:
     ap.add_argument("--size", type=int, default=20)
     ap.add_argument("--workers", type=int, default=6)
     ap.add_argument("--rounds", type=int, default=10, help="giri di <workers> lotti")
-    ap.add_argument("--provider", default="deepseek")
-    ap.add_argument("--model", default="deepseek-v4-flash")
-    ap.add_argument("--reasoning", default="low")
+    ap.add_argument("--provider", default="opencode-go")
+    ap.add_argument("--model", default="deepseek-v4.1-flash")
+    ap.add_argument("--reasoning", default="none")  # OFF: meno token possibile
     ap.add_argument("--budget-per-batch", type=int, default=420)
     ap.add_argument("--model-label", default="")
     args = ap.parse_args()

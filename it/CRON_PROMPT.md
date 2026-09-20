@@ -13,8 +13,8 @@ riporti un riassunto breve. Tu lanci i comandi e leggi le ultime 5 righe.
 
 ```
 cd /Users/crosta/Developer/hns_it && source ~/.hermes/scripts/hns_env.sh && cd it
-timeout 900 python3 -m hnsit translate --kind inc --size 20 --workers 6 --rounds 12
-timeout 600 python3 -m hnsit translate --kind cstr --size 20 --workers 6 --rounds 8
+timeout 1500 python3 -m hnsit translate --kind inc --size 40 --workers 2 --rounds 25
+timeout 1500 python3 -m hnsit translate --kind cstr --size 40 --workers 2 --rounds 25
 ```
 
 Se stampa `SKIPPED_LOCKED` va bene (un altro giro è già in corso): passa al 2.
