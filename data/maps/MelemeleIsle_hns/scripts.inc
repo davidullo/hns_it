@@ -703,7 +703,7 @@ Alola_Melemele_BattleSandygast_Text_0:
 	.string "Coorr!$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_0:
-	.string "ALOLA!$"
+	.string "ALOLA$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_1:
 	.string "Welcome to the ALOLA ISLES!$"

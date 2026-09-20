@@ -817,7 +817,7 @@ GoldenrodCity_GameCorner_Text_VF_OptAboutNotes:
 	.string "ABOUT NOTES$"
 
 GoldenrodCity_GameCorner_Text_VF_OptReturn:
-	.string "RETURN$"
+	.string "RITORNO$"
 
 @ Voltorb Flip Dialogue Strings
 GoldenrodCity_GameCorner_Text_VF_Welcome:

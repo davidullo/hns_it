@@ -452,5 +452,5 @@ Alola_Poni_NPC_girl_Text_0:
 	.string "The wilderness just speaks for itself!$"
 
 Alola_Poni_Bench_Heal_Text_0:
-	.string "Would you like to take a rest on this\n"
-	.string "bench?$"
+	.string "Vuoi riposarti su questa\n"
+	.string "panchina?$"

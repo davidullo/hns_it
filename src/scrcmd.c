@@ -1762,7 +1762,7 @@ static const u8 sOddEggShinyNameList[][PLAYER_NAME_LENGTH + 1] = {
     _("FERRO"),
     _("Kris"),
     _("Chad"),
-    _("Bacon"),
+    _("Pancetta rosolata"),
     _("Excl"),
     _("Liquid"),
     _("Dyn"),

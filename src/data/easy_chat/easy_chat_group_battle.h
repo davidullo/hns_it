@@ -91,7 +91,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Battle[] = {
     },
     [EC_INDEX(EC_WORD_TRUMP_CARD)] =
     {
-        .text = COMPOUND_STRING("TRUMP CARD"),
+        .text = COMPOUND_STRING("ASSO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GENIUS),
         .enabled = TRUE,
     },
@@ -109,7 +109,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Battle[] = {
     },
     [EC_INDEX(EC_WORD_ATTACK)] =
     {
-        .text = COMPOUND_STRING("ATTACK"),
+        .text = COMPOUND_STRING("ATTACCO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GO_EASY),
         .enabled = TRUE,
     },
@@ -265,7 +265,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Battle[] = {
     },
     [EC_INDEX(EC_WORD_SERIOUS)] =
     {
-        .text = COMPOUND_STRING("SERIOUS"),
+        .text = COMPOUND_STRING("SERIA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SENSE),
         .enabled = TRUE,
     },

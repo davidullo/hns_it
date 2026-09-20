@@ -1,0 +1,29 @@
+{
+  "cstr": {
+    "character_inglesi": 533723,
+    "duplicati": 4842,
+    "per_stato": {
+      "pending": 20000
+    },
+    "per_tipo": {
+      "cstr": 20000
+    },
+    "righe_visibili": 28413,
+    "unita": 20000,
+    "unita_uniche_per_testo": 15158
+  },
+  "inc": {
+    "character_inglesi": 1471001,
+    "duplicati": 2480,
+    "per_stato": {
+      "pending": 17473
+    },
+    "per_tipo": {
+      "inc": 17473
+    },
+    "righe_visibili": 58519,
+    "unita": 17473,
+    "unita_uniche_per_testo": 14993
+  },
+  "repo": "/Users/crosta/Developer/hns_it"
+}

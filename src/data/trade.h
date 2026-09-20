@@ -1134,7 +1134,7 @@ static const struct InGameTrade sIngameTrades[] =
     },
     [INGAME_TRADE_BELDUM] =
     {
-        .nickname = _("IRON"),
+        .nickname = _("FERRO"),
         .species = SPECIES_BELDUM,
         .ivs = {4, 4, 4, 5, 5, 4},
         .abilityNum = 0,

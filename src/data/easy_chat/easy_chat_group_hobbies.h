@@ -127,7 +127,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Hobbies[] = {
     },
     [EC_INDEX(EC_WORD_BIKE)] =
     {
-        .text = COMPOUND_STRING("BIKE"),
+        .text = COMPOUND_STRING("BICICLETTA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FLOWERS),
         .enabled = TRUE,
     },

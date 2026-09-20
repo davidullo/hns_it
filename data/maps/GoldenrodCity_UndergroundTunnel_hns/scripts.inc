@@ -438,7 +438,7 @@ GoldenrodUnderground_Text_DoorsLocked:
     .string "The door's locked…$"
 
 GoldenrodUnderground_Text_DoorIsOpen:
-    .string "The door is open.$"
+    .string "La porta è aperta.$"
 
 GoldenrodUnderground_Text_KeyOpenedDoor:
     .string "The BASEMENT KEY opened the door.$"

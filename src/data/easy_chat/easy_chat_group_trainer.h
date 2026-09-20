@@ -19,7 +19,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_SAPPHIRE)] =
     {
-        .text = COMPOUND_STRING("SAPPHIRE"),
+        .text = COMPOUND_STRING("ZAFFIRO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_EMERALD),
         .enabled = TRUE,
     },
@@ -49,7 +49,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_EGG)] =
     {
-        .text = COMPOUND_STRING("EGG"),
+        .text = COMPOUND_STRING("UOVO BOLLITO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GOLD),
         .enabled = TRUE,
     },
@@ -103,7 +103,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_RUBY)] =
     {
-        .text = COMPOUND_STRING("RUBY"),
+        .text = COMPOUND_STRING("RUBINO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_POKEMON),
         .enabled = TRUE,
     },

@@ -1,0 +1,6 @@
+# dati grezzi di PokeAPI: si riscaricano con it/tools/build_glossary.py
+data/pokeapi/
+work/
+.venv/
+__pycache__/
+*.pyc

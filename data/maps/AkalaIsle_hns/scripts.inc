@@ -497,18 +497,18 @@ Alola_Akala_Sign_Text_0:
 	.string "AKALA ISLE$"
 
 Alola_Akala_House_Sign_Text_0:
-	.string "AKALA VILLA\p"
-	.string "A place for visitors to stay while\n"
-	.string "on AKALA ISLE.$"
+	.string "VILLA AKALA\p"
+	.string "Alloggio per i visitatori di\n"
+	.string "ISOLA AKALA.$"
 
 Alola_Akala_Natu_Text_0:
 	.string "NATU: TUUUUU!$"
 
 Alola_Akala_OldManOnBench_Text_0:
-	.string "Ah the weather is so nice today,\n"
-	.string "isn't it?\p"
-	.string "I was just feeding the NATU and this\n"
-	.string "one decided to join me on my bench!$"
+	.string "Ah, che bel tempo oggi,\n"
+	.string "vero?\p"
+	.string "Stavo dando da mangiare ai NATU\n"
+	.string "e questo è salito sulla panchina!$"
 
 Alola_Akala_TotemBattle_Text_0:
 	.string "Mortaar!$"
@@ -611,5 +611,5 @@ Alola_Akala_TrainerBattleSwimmerWaterM_Text_2:
 	.string "migrate all the way out to the ISLES!$"
 
 Alola_Akala_Bench_Heal_Text_0:
-	.string "Would you like to take a rest on this\n"
-	.string "bench?$"
+	.string "Vuoi riposarti su questa\n"
+	.string "panchina?$"

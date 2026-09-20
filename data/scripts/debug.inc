@@ -698,7 +698,7 @@ Debug_EventScript_InflictStatus1_Text_Close:
 	.string "Close$"
 
 Debug_EventScript_InflictStatus1_Text_Poison:
-	.string "Poison$"
+	.string "Veleno$"
 
 Debug_EventScript_InflictStatus1_Text_Paralysis:
 	.string "Paralysis$"
@@ -719,55 +719,55 @@ Debug_EventScript_InflictStatus1_Text_KO:
 	.string "KO$"
 
 Debug_EventScript_ChangeNature_Text_Hardy:
-	.string "Hardy$"
+	.string "Ardita$"
 Debug_EventScript_ChangeNature_Text_Lonely:
-	.string "Lonely$"
+	.string "Schiva$"
 Debug_EventScript_ChangeNature_Text_Brave:
-	.string "Brave$"
+	.string "Audace$"
 Debug_EventScript_ChangeNature_Text_Adamant:
-	.string "Adamant$"
+	.string "Decisa$"
 Debug_EventScript_ChangeNature_Text_Naughty:
-	.string "Naughty$"
+	.string "Birbona$"
 Debug_EventScript_ChangeNature_Text_Bold:
-	.string "Bold$"
+	.string "Sicura$"
 Debug_EventScript_ChangeNature_Text_Docile:
 	.string "Docile$"
 Debug_EventScript_ChangeNature_Text_Relaxed:
-	.string "Relaxed$"
+	.string "Placida$"
 Debug_EventScript_ChangeNature_Text_Impish:
-	.string "Impish$"
+	.string "Scaltra$"
 Debug_EventScript_ChangeNature_Text_Lax:
-	.string "Lax$"
+	.string "Fiacca$"
 Debug_EventScript_ChangeNature_Text_Timid:
-	.string "Timid$"
+	.string "Timida$"
 Debug_EventScript_ChangeNature_Text_Hasty:
-	.string "Hasty$"
+	.string "Lesta$"
 Debug_EventScript_ChangeNature_Text_Serious:
-	.string "Serious$"
+	.string "Seria$"
 Debug_EventScript_ChangeNature_Text_Jolly:
-	.string "Jolly$"
+	.string "Allegra$"
 Debug_EventScript_ChangeNature_Text_Naive:
-	.string "Naive$"
+	.string "Ingenua$"
 Debug_EventScript_ChangeNature_Text_Modest:
-	.string "Modest$"
+	.string "Modesta$"
 Debug_EventScript_ChangeNature_Text_Mild:
-	.string "Mild$"
+	.string "Mite$"
 Debug_EventScript_ChangeNature_Text_Quiet:
-	.string "Quiet$"
+	.string "Quieta$"
 Debug_EventScript_ChangeNature_Text_Bashful:
-	.string "Bashful$"
+	.string "Ritrosa$"
 Debug_EventScript_ChangeNature_Text_Rash:
-	.string "Rash$"
+	.string "Ardente$"
 Debug_EventScript_ChangeNature_Text_Calm:
-	.string "Calm$"
+	.string "Calma$"
 Debug_EventScript_ChangeNature_Text_Gentle:
-	.string "Gentle$"
+	.string "Gentile$"
 Debug_EventScript_ChangeNature_Text_Sassy:
-	.string "Sassy$"
+	.string "Vivace$"
 Debug_EventScript_ChangeNature_Text_Careful:
-	.string "Careful$"
+	.string "Cauta$"
 Debug_EventScript_ChangeNature_Text_Quirky:
-	.string "Quirky$"
+	.string "Furba$"
 
 Debug_EventScript_EWRAMCounters::
 	callnative CheckEWRAMCounters

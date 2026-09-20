@@ -211,7 +211,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Adjectives[] = {
     },
     [EC_INDEX(EC_WORD_ANTICIPATION)] =
     {
-        .text = COMPOUND_STRING("ANTICIPATION"),
+        .text = COMPOUND_STRING("PRESAGIO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_YET),
         .enabled = TRUE,
     },

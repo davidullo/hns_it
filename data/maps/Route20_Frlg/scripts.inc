@@ -36,7 +36,7 @@ Route20_Text_BarryIntro::
 	.string "There are many people swimming.$"
 
 Route20_Text_BarryDefeat::
-	.string "Splash!$"
+	.string "Splash$"
 
 Route20_Text_BarryPostBattle::
 	.string "I wish I could ride my POKéMON.\n"

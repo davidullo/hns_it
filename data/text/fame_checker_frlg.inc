@@ -810,7 +810,7 @@ gFameCheckerFlavorTextOriginLocation_ProfOak3::
 	.string "VIRIDIAN CITY$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak4::
-	.string "POKéMON LEAGUE$"
+	.string "Lega Pokémon$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak5::
 	.string "RESEARCH LAB$"
@@ -843,7 +843,7 @@ gFameCheckerFlavorTextOriginLocation_Brock2::
 	.string "PEWTER CITY$"
 
 gFameCheckerFlavorTextOriginLocation_Brock3::
-	.string "ROUTE 4$"
+	.string "PERCORSO 4$"
 
 gFameCheckerFlavorTextOriginLocation_Brock4::
 	.string "MT. MOON$"
@@ -921,7 +921,7 @@ gFameCheckerFlavorTextOriginLocation_Koga4::
 	.string "FUCHSIA CITY$"
 
 gFameCheckerFlavorTextOriginLocation_Koga5::
-	.string "SAFARI ZONE$"
+	.string "ZONA SAFARI$"
 
 gFameCheckerFlavorTextOriginLocation_Sabrina0::
 	.string "SAFFRON CITY$"
@@ -960,10 +960,10 @@ gFameCheckerFlavorTextOriginLocation_Blaine5::
 	.string "RESORT GORGEOUS$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei0::
-	.string "POKéMON LEAGUE$"
+	.string "Lega Pokémon$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei1::
-	.string "POKéMON LEAGUE$"
+	.string "Lega Pokémon$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei2::
 	.string "FOUR ISLAND$"
@@ -978,10 +978,10 @@ gFameCheckerFlavorTextOriginLocation_Lorelei5::
 	.string "FOUR ISLAND$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno0::
-	.string "POKéMON LEAGUE$"
+	.string "Lega Pokémon$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno1::
-	.string "POKéMON LEAGUE$"
+	.string "Lega Pokémon$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno2::
 	.string "SAFFRON CITY$"
@@ -996,7 +996,7 @@ gFameCheckerFlavorTextOriginLocation_Bruno5::
 	.string "SEVAULT CANYON$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha0::
-	.string "POKéMON LEAGUE$"
+	.string "Lega Pokémon$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha1::
 	.string "INDIGO PLATEAU$"
@@ -1008,16 +1008,16 @@ gFameCheckerFlavorTextOriginLocation_Agatha3::
 	.string "SEVEN ISLAND$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha4::
-	.string "POKéMON LEAGUE$"
+	.string "Lega Pokémon$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha5::
 	.string "SIX ISLAND$"
 
 gFameCheckerFlavorTextOriginLocation_Lance0::
-	.string "POKéMON LEAGUE$"
+	.string "Lega Pokémon$"
 
 gFameCheckerFlavorTextOriginLocation_Lance1::
-	.string "POKéMON LEAGUE$"
+	.string "Lega Pokémon$"
 
 gFameCheckerFlavorTextOriginLocation_Lance2::
 	.string "SAFFRON CITY$"

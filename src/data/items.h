@@ -3748,9 +3748,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("RED APRICORN"),
         .price = APRICORN_PRICE,
         .description = COMPOUND_STRING(
-            "A red apricorn.\n"
-            "It assails your\n"
-            "nostrils."),
+            "Una Ghicocca di colore\n"
+            "rosso. Emana un odore\n"
+            "molto forte."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_GROWTH,
         .type = ITEM_USE_BAG_MENU,
@@ -3764,9 +3764,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("BLUE APRICORN"),
         .price = APRICORN_PRICE,
         .description = COMPOUND_STRING(
-            "A blue apricorn.\n"
-            "It smells a bit\n"
-            "like grass."),
+            "Una Ghicocca di colore\n"
+            "blu. Emana un odore\n"
+            "un po’ acre."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_GROWTH,
         .type = ITEM_USE_BAG_MENU,
@@ -3812,9 +3812,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("PINK APRICORN"),
         .price = APRICORN_PRICE,
         .description = COMPOUND_STRING(
-            "A pink apricorn.\n"
-            "It has a nice,\n"
-            "sweet scent."),
+            "Una Ghicocca di\n"
+            "colore rosa. Emana\n"
+            "un profumo dolce."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_GROWTH,
         .type = ITEM_USE_BAG_MENU,
@@ -3828,9 +3828,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("WHITE APRICORN"),
         .price = APRICORN_PRICE,
         .description = COMPOUND_STRING(
-            "A white apricorn.\n"
-            "It doesn't smell\n"
-            "like anything."),
+            "Una Ghicocca di\n"
+            "colore bianco. Non\n"
+            "emana alcun odore."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_GROWTH,
         .type = ITEM_USE_BAG_MENU,
@@ -14312,9 +14312,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("SOOT SACK"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "A sack used to\n"
-            "gather and hold\n"
-            "volcanic ash."),
+            "Sacco per\n"
+            "raccogliere la\n"
+            "cenere vulcanica."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,

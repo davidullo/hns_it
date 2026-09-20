@@ -854,7 +854,7 @@ Text_DreamEaterTeach::
 	.string "I can forget about it!$"
 
 Text_DreamEaterDeclined::
-	.string "…Snore…$"
+	.string "Russare$"
 
 Text_DreamEaterWhichMon::
 	.string "Which POKéMON wants to learn\n"

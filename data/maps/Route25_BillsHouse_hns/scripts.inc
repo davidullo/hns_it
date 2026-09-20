@@ -334,7 +334,7 @@ Route25_BillsHouse_hns_Text_Slowking:
 	.string "SLOWKING$"
 
 Route25_BillsHouse_hns_Text_Farfetchd:
-	.string "FARFETCH'D$"
+	.string "FARFETCH’D$"
 
 Route25_BillsHouse_hns_Text_Weezing:
 	.string "WEEZING$"

@@ -126,7 +126,7 @@ UnionCave_1F_Text_FirebreatherRaySeen:
 	.string "scary.$"
 
 UnionCave_1F_Text_FirebreatherRayBeaten:
-	.string "FLASH!$"
+	.string "FLASH$"
 
 UnionCave_1F_Text_FirebreatherRayAfter:
 	.string "It's my POKéMON's fire that lights\n"

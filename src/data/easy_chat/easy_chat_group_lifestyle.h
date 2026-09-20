@@ -133,7 +133,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Lifestyle[] = {
     },
     [EC_INDEX(EC_WORD_LETTER)] =
     {
-        .text = COMPOUND_STRING("LETTER"),
+        .text = COMPOUND_STRING("LETTERA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MESSAGE),
         .enabled = TRUE,
     },

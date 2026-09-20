@@ -381,8 +381,8 @@ Alola_Ulaula_LassNPC_Text_0:
 	.string "watch the waves.$"
 
 Alola_Ulaula_Bench_Heal_Text_0:
-	.string "Would you like to take a rest on this\n"
-	.string "bench?$"
+	.string "Vuoi riposarti su questa\n"
+	.string "panchina?$"
 
 Alola_Ulaula_EventScript_MoveTutor::
 	lock
@@ -633,82 +633,82 @@ Alola_Ulaula_Text_MoveTutorComeBack:
 	.string "Come back anytime.$"
 
 Alola_Ulaula_Text_TutorMove_Acrobatics:
-	.string "ACROBATICS$"
+	.string "ACROBAZIA$"
 
 Alola_Ulaula_Text_TutorMove_AuroraVeil:
-	.string "AURORA VEIL$"
+	.string "VELAURORA$"
 
 Alola_Ulaula_Text_TutorMove_BrutalSwing:
-	.string "BRUTAL SWING$"
+	.string "VORTICOLPO$"
 
 Alola_Ulaula_Text_TutorMove_Bulldoze:
-	.string "BULLDOZE$"
+	.string "BATTITERRA$"
 
 Alola_Ulaula_Text_TutorMove_Confide:
-	.string "CONFIDE$"
+	.string "CONFIDENZA$"
 
 Alola_Ulaula_Text_TutorMove_DazzlingGleam:
-	.string "DAZZLING GLEAM$"
+	.string "MAGIBRILLIO$"
 
 Alola_Ulaula_Text_TutorMove_DragonTail:
-	.string "DRAGON TAIL$"
+	.string "CODADRAGO$"
 
 Alola_Ulaula_Text_TutorMove_EchoedVoice:
-	.string "ECHOED VOICE$"
+	.string "ECHEGGIAVOCE$"
 
 Alola_Ulaula_Text_TutorMove_FlameCharge:
-	.string "FLAME CHARGE$"
+	.string "NITROCARICA$"
 
 Alola_Ulaula_Text_TutorMove_FrostBreath:
-	.string "FROST BREATH$"
+	.string "ALITOGELIDO$"
 
 Alola_Ulaula_Text_TutorMove_Infestation:
-	.string "INFESTATION$"
+	.string "ASSILLO$"
 
 Alola_Ulaula_Text_TutorMove_LeechLife:
-	.string "LEECH LIFE$"
+	.string "SANGUISUGA$"
 
 Alola_Ulaula_Text_TutorMove_LowSweep:
-	.string "LOW SWEEP$"
+	.string "CALCIOBASSO$"
 
 Alola_Ulaula_Text_TutorMove_Psyshock:
-	.string "PSYSHOCK$"
+	.string "PSICOSHOCK$"
 
 Alola_Ulaula_Text_TutorMove_Quash:
-	.string "QUASH$"
+	.string "SPINTONE$"
 
 Alola_Ulaula_Text_TutorMove_Round:
-	.string "ROUND$"
+	.string "CORO$"
 
 Alola_Ulaula_Text_TutorMove_Scald:
-	.string "SCALD$"
+	.string "IDROVAMPATA$"
 
 Alola_Ulaula_Text_TutorMove_SkyDrop:
-	.string "SKY DROP$"
+	.string "CADUTALIBERA$"
 
 Alola_Ulaula_Text_TutorMove_SludgeWave:
-	.string "SLUDGE WAVE$"
+	.string "FANGONDA$"
 
 Alola_Ulaula_Text_TutorMove_SmackDown:
-	.string "SMACK DOWN$"
+	.string "ABBATTIMENTO$"
 
 Alola_Ulaula_Text_TutorMove_SmartStrike:
-	.string "SMART STRIKE$"
+	.string "SOTTILCORNO$"
 
 Alola_Ulaula_Text_TutorMove_Snarl:
-	.string "SNARL$"
+	.string "URLORABBIA$"
 
 Alola_Ulaula_Text_TutorMove_Venoshock:
-	.string "VENOSHOCK$"
+	.string "VELENOSHOCK$"
 
 Alola_Ulaula_Text_TutorMove_VoltSwitch:
-	.string "VOLT SWITCH$"
+	.string "INVERTIVOLT$"
 
 Alola_Ulaula_Text_TutorMove_WildCharge:
-	.string "WILD CHARGE$"
+	.string "SPRIZZALAMPO$"
 
 Alola_Ulaula_Text_TutorMove_WorkUp:
-	.string "WORK UP$"
+	.string "CUORDILEONE$"
 
 Alola_Ulaula_Text_TutorMove_Cancel:
 	.string "CANCEL$"
