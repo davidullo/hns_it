@@ -224,12 +224,12 @@ static const u8 *const sChoices_TextSpeed[] = {
     COMPOUND_STRING("LENTO"),
     COMPOUND_STRING("MED"),
     COMPOUND_STRING("VELOCE"),
-    COMPOUND_STRING("VELOCE"),
+    COMPOUND_STRING("SUPER"),
 };
 
 static const u8 *const sChoices_MetricImperial[] = {
-    COMPOUND_STRING("METRICO"),
-    COMPOUND_STRING("IMPERIALE"),
+    COMPOUND_STRING("METR."),
+    COMPOUND_STRING("IMPER."),
 };
 
 static const u8 *const sChoices_OldModern[] = {
@@ -425,7 +425,7 @@ static const struct OptionMenuItem sTabItems_Main[] = {
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_FASTER_JOY] = {
-        .name         = COMPOUND_STRING("GIOIA RAPIDA"),
+        .name         = COMPOUND_STRING("JOY RAPIDA"),
         .descriptions = sDesc_FasterJoy,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
