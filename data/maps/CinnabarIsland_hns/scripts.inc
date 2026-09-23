@@ -100,7 +100,7 @@ CinnabarIsland_Text_Blue:
 	.string "Se vedo un avversario forte,\n"
 	.string "mi prudono le mani.\p"
 	.string "Se vuoi sfidarmi, vieni a\n"
-	.string "VIRIDIAN!\p"
+	.string "SMERALDOPOLI!\p"
 	.string "Allora ti sfiderò.$"
 
 CinnabarIsland_EventScript_Sign::
@@ -113,11 +113,11 @@ CinnabarIsland_EventScript_GymSign::
 
 CinnabarIsland_Text_GymSign:
 	.string "C'è un avviso…\p"
-	.string "PALESTRA di CINNABAR è alle\n"
+	.string "PALESTRA di ISOLA CANNELLA è alle\n"
 	.string "ISOLE SPUMARINE.\p"
 	.string "BLAINE$"
 
 CinnabarIsland_Text_Sign:
-	.string "ISOLA CINNABAR\p"
+	.string "ISOLA CANNELLA\p"
 	.string "La città ardente di desiderio$"
 

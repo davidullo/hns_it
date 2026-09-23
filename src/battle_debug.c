@@ -351,7 +351,7 @@ static const struct ListMenuItem sStatus1ListItems[] =
     {COMPOUND_STRING("Paralisi"),     LIST_STATUS1_PARALYSIS},
     {COMPOUND_STRING("Tossina"),  LIST_STATUS1_TOXIC_POISON},
     {COMPOUND_STRING("Contrattacco"), LIST_STATUS1_TOXIC_COUNTER},
-    {COMPOUND_STRING("Gelodolore"),     LIST_STATUS1_FROSTBITE},
+    {COMPOUND_STRING("Assideram."),     LIST_STATUS1_FROSTBITE},
 };
 
 static const struct ListMenuItem sVolatileStatusListItems[] =

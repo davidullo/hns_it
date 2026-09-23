@@ -156,7 +156,7 @@ Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
 	.string "Il TEAM ROCKET attacca i cittadini\n"
-	.string "di CERULEAN…\p"
+	.string "di CELESTOPOLI…\p"
 	.string "Non passa giorno senza che il TEAM\n"
 	.string "ROCKET finisca sulle notizie.$"
 

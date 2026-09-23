@@ -704,7 +704,7 @@ struct
     [MENU_ITEM]            = {COMPOUND_STRING("OGGETTO"),            CursorCb_Item},
     [MENU_GIVE]            = {gMenuText_Give,                     CursorCb_Give},
     [MENU_TAKE_ITEM]       = {COMPOUND_STRING("PRENDI"),            CursorCb_TakeItem},
-    [MENU_MOVE_ITEM]       = {COMPOUND_STRING("MOSSA"),            CursorCb_MoveItem},
+    [MENU_MOVE_ITEM]       = {COMPOUND_STRING("SPOSTA"),            CursorCb_MoveItem},
     [MENU_MAIL]            = {COMPOUND_STRING("POSTA"),            CursorCb_Mail},
     [MENU_TAKE_MAIL]       = {COMPOUND_STRING("PRENDI"),            CursorCb_TakeMail},
     [MENU_READ]            = {COMPOUND_STRING("LEGGI"),            CursorCb_Read},

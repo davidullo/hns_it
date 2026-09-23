@@ -60,7 +60,7 @@ Route8_Text_LesliePostBattle::
 	.string "Volevo prendere un po'\n"
 	.string "d'aria per cambiare, ma…\p"
 	.string "Siamo bloccati qui per i\n"
-	.string "cancelli di SAFFRON.$"
+	.string "cancelli di ZAFFERANOPOLI.$"
 
 Route8_Text_AndreaIntro::
 	.string "MEOWTH è così tenero, miao, miao,\n"
@@ -82,7 +82,7 @@ Route8_Text_MeganDefeat::
 	.string "povero POKéMON carino!$"
 
 Route8_Text_MeganPostBattle::
-	.string "Il guardiano di SAFFRON non ci\n"
+	.string "Il guardiano di ZAFFERANOPOLI non ci\n"
 	.string "fa passare.\p"
 	.string "So che fa il suo lavoro, ma\n"
 	.string "per me è stronzo.$"

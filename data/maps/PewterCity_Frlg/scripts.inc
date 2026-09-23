@@ -875,8 +875,8 @@ PewterCity_Text_BrockOnlySeriousTrainerHere::
 	.string "seri.\p"
 	.string "Sono tutti come PIGLIAMOSCHE,\n"
 	.string "sai, semplici dilettanti.\p"
-	.string "Ma BROCK della PALESTRA di PLUMBEOPOLI\n"
-	.string "non è così, neanche un po'.$"
+	.string "Ma BROCK della PALESTRA di\n"
+	.string "PLUMBEOPOLI non è così, sai.$"
 
 PewterCity_Text_DidYouCheckOutMuseum::
 	.string "Hai visitato il MUSEO?$"
@@ -924,8 +924,8 @@ PewterCity_Text_CallPoliceIfInfoOnThieves::
 	.string "AVVISO!\p"
 	.string "Dei ladri rubano POKéMON\n"
 	.string "fossili dal MONTE LUNA.\p"
-	.string "Chiamate la POLIZIA di PLUMBEOPOLI se\n"
-	.string "avete informazioni.$"
+	.string "Chiamate la POLIZIA di\n"
+	.string "PLUMBEOPOLI se avete informazioni.$"
 
 PewterCity_Text_MuseumOfScience::
 	.string "MUSEO DELLA SCIENZA di PLUMBEOPOLI$"

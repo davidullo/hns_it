@@ -297,7 +297,7 @@ EcruteakCity_Text_UnusedMissingDaughter:
 	.string "Oh, che faccio…?$"
 
 EcruteakCity_Text_Gramps1:
-	.string "ECRUTEAK aveva due torri:\n"
+	.string "AMARANTOPOLI aveva due torri:\n"
 	.string "una a est e una a ovest.$"
 
 EcruteakCity_Text_Gramps2:
@@ -322,14 +322,14 @@ EcruteakCity_Text_Lass2_ReleasedBeasts:
 	.string "direzioni diverse. Chi erano?$"
 
 EcruteakCity_Text_Fisher:
-	.string "Ho sentito una voce su OLIVINE\n"
+	.string "Ho sentito una voce su OLIVINOPOLI\n"
 	.string "FARO.\p"
 	.string "Il POKéMON che fa da\n"
 	.string "faro si è ammalato. Sembra che\l"
 	.string "siano nei guai.$"
 
 EcruteakCity_Text_Fisher_JasmineReturned:
-	.string "Il POKéMON del FARO DI OLIVINE\n"
+	.string "Il POKéMON del FARO DI OLIVINOPOLI\n"
 	.string "è guarito.\p"
 	.string "Le navi escono di nuovo in mare\n"
 	.string "di notte.$"
@@ -345,18 +345,18 @@ EcruteakCity_Text_Gramps3:
 	.string "Un POKéMON arcobaleno discese\n"
 	.string "dal cielo e li riportò in vita…\p"
 	.string "È una leggenda tramandata\n"
-	.string "dai CAPIPALESTRA di ECRUTEAK.\p"
+	.string "dai CAPIPALESTRA di AMARANTOPOLI.\p"
 	.string "Io?\p"
 	.string "Allenavo, tanto tempo fa.\n"
 	.string "Ahahah!$"
 
 EcruteakCity_Text_SageGym:
-	.string "Il Capopalestra MORTY non è qui\n"
+	.string "Il Capopalestra ANGELO non è qui\n"
 	.string "adesso. Forse lo trovi alla\l"
 	.string "TORRE BRUCIATA.$"
 
 EcruteakCity_Text_Sign:
-	.string "ECRUTEAK\n"
+	.string "AMARANTOPOLI\n"
 	.string "Città storica\p"
 	.string "Il passato incontra il presente$"
 
@@ -370,12 +370,12 @@ EcruteakCity_Text_OfficeSign:
 	.string "Vietato l'accesso agli indegni.$"
 
 EcruteakCity_Text_GymSign:
-	.string "PALESTRA POKéMON DI ECRUTEAK\n"
-	.string "CAPO: MORTY\p"
+	.string "PALESTRA POKéMON DI AMARANTOPOLI\n"
+	.string "CAPO: ANGELO\p"
 	.string "Il Magico Veggente del Futuro$"
 
 EcruteakCity_Text_DanceTheaterSign:
-	.string "TEATRO DI DANZA ECRUTEAK$"
+	.string "TEATRO DI DANZA AMARANTOPOLI$"
 
 EcruteakCity_Text_BurnedTowerSign:
 	.string "TORRE BRUCIATA\p"

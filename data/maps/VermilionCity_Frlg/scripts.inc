@@ -274,7 +274,7 @@ VermilionCity_Text_DidYouSeeSSAnneInHarbor::
 
 VermilionCity_Text_SSAnneHasDepartedForYear::
 	.string "Quindi la MOTONAVE ANNA è partita?\p"
-	.string "Tornerà a VERMILION più o meno\n"
+	.string "Tornerà ad ARANCIOPOLI più o meno\n"
 	.string "a quest'ora l'anno prossimo.$"
 
 VermilionCity_Text_BuildingOnThisLand::
@@ -292,7 +292,7 @@ VermilionCity_Text_MachopStompingLandFlat::
 VermilionCity_Text_SSAnneVisitsOnceAYear::
 	.string "La MOTONAVE ANNA è una famosa nave\n"
 	.string "da crociera di lusso.\p"
-	.string "Visita VERMILION una volta l'anno.$"
+	.string "Visita ARANCIOPOLI\nuna volta l'anno.$"
 
 VermilionCity_Text_CitySign::
 	.string "ARANCIOPOLI\n"
@@ -304,7 +304,7 @@ VermilionCity_Text_SnorlaxBlockingRoute12::
 	.string "POKéMON che dorme.\p"
 	.string "Passate dal TUNNEL ROCCIOSO verso\n"
 	.string "LAVANDONIA.\p"
-	.string "POLIZIA DI VERMILION$"
+	.string "POLIZIA DI ARANCIOPOLI$"
 
 VermilionCity_Text_PokemonFanClubSign::
 	.string "POKéMON FAN CLUB\n"
@@ -316,7 +316,7 @@ VermilionCity_Text_GymSign::
 	.string "Lo statunitense dei fulmini!$"
 
 VermilionCity_Text_VermilionHarbor::
-	.string "PORTO DI VERMILION$"
+	.string "PORTO DI ARANCIOPOLI$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
 	.string "Benvenuto sulla MOTONAVE ANNA!$"

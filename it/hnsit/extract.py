@@ -65,6 +65,22 @@ def extract_cstr(repo: Path) -> list[Unit]:
     return units
 
 
+def _stessa_traduzione(unit: Unit, prev: Unit) -> bool:
+    """Il sorgente contiene gia' la traduzione che avevamo in archivio?
+
+    Dopo un `inject` l'inglese non e' piu' nel file (c'e' l'italiano), quindi lo
+    sha1 dell'inglese registrato non torna piu': senza questo controllo un
+    `extract` dopo un `inject` azzera TUTTE le unita' tradotte (visto sul campo:
+    13.373 unita' cstr rimesse in coda in un colpo).
+    """
+    if not prev.it:
+        return False
+    try:
+        return unit.segments == prev.rebuild(prev.it)
+    except ValueError:
+        return False
+
+
 def merge_units(new_units: list, old_path: Path) -> list:
     """Fonde le unita' nuove con l'archivio precedente.
 
@@ -77,10 +93,20 @@ def merge_units(new_units: list, old_path: Path) -> list:
         prev = old.get(unit.key)
         if prev is None:
             continue
+        if prev.sha1 != unit.sha1 and _stessa_traduzione(unit, prev):
+            # nel file c'e' la nostra traduzione: il lato inglese resta quello
+            # registrato, non quello che si legge adesso nel sorgente
+            unit.segments = list(prev.segments)
+            unit.sha1 = prev.sha1
         if prev.sha1 == unit.sha1:
             unit.it = prev.it
             unit.status = prev.status
             unit.note = prev.note
+            # anche i tentativi e l'ultima versione scartata: senza questi la
+            # modalita' creativa riparte da zero e le unita' difficili
+            # bruciano di nuovo sei giri letterali
+            unit.attempts = prev.attempts
+            unit.prev_it = prev.prev_it
             kept += 1
         else:
             changed += 1

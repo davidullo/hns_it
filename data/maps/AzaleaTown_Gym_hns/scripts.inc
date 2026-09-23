@@ -659,15 +659,15 @@ AzaleaTown_Gym_EventScript_Statue2::
 	end
 
 AzaleaTown_Gym_Text_GymStatue:
-	.string "PALESTRA POKéMON DI Fiorlipopoli$"
+	.string "PALESTRA POKéMON DI Azalina$"
 
 AzaleaTown_Gym_Text_GymStatueCertified:
-	.string "PALESTRA POKéMON DI Fiorlipopoli\p"
-	.string "ALLENATORI CERTIFICATI DA BUGSY:\n"
+	.string "PALESTRA POKéMON DI Azalina\p"
+	.string "CERTIFICATI DA RAFFAELLO:\n"
 	.string "{PLAYER}$"
 
 AzaleaTown_Gym_Text_BugsyIntro:
-	.string "Sono ARECCHI!\p"
+	.string "Sono RAFFAELLO!\p"
 	.string "Sui POKéMON Coleottero\n"
 	.string "non perdo mai.\p"
 	.string "La mia ricerca mi renderà la\n"
@@ -768,14 +768,14 @@ AzaleaTown_Gym_Text_TwinsAmyMay1Beaten:
 
 AzaleaTown_Gym_Text_TwinsAmyMay1After:
 	.string "AMY: Sei fortissimo!\p"
-	.string "Ma BUGSY lo è di più!\n"
+	.string "Ma RAFFAELLO lo è di più!\n"
 	.string "Il TAGLIO del suo SCYTHER\l"
 	.string "fa sempre colpi critici!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay2Seen:
 	.string "MAY: Vuoi vedere il\n"
 	.string "CAPOPALESTRA? In bocca al lupo!\p"
-	.string "BUGSY è fortissimo!\n"
+	.string "RAFFAELLO è fortissimo!\n"
 	.string "Il TAGLIO del suo SCYTHER\l"
 	.string "fa sempre critico!$"
 
@@ -786,17 +786,17 @@ AzaleaTown_Gym_Text_TwinsAmyMay2Beaten:
 AzaleaTown_Gym_Text_TwinsAmyMay2After:
 	.string "MAY: Il nostro POKéMON ha perso!\n"
 	.string "Che vergogna.\p"
-	.string "Ma BUGSY non perde!\p"
+	.string "Ma RAFFAELLO non perde!\p"
 	.string "Il suo PINECO fa presto\n"
 	.string "via ai POKéMON ROCCIA!$"
 
 AzaleaTown_Gym_Text_GymGuide:
 	.string "Ehi, sfidante!\p"
-	.string "BUGSY è giovane, ma sui\n"
+	.string "RAFFAELLO è giovane, ma sui\n"
 	.string "POKéMON coleottero è forte.\p"
 	.string "Sarà dura\n"
 	.string "senza i miei consigli.\p"
-	.string "Vediamo… il POKéMON di BUGSY\n"
+	.string "Vediamo… il POKéMON di RAFFAELLO\n"
 	.string "conosce una mossa che copre\l"
 	.string "la debolezza ROCCIA.\p"
 	.string "E attento ai brutti\n"

@@ -186,7 +186,7 @@ MoveTutor_Text_DynamicPunchWhichMon:
 
 MoveTutor_Text_DynamicPunchTaught:
 	.string "Voglio che vinca alla PALESTRA di\n"
-	.string "CERULEAN con quel DYNAMICPUNCH!$"
+	.string "CELESTOPOLI con quel DYNAMICPUNCH!$"
 
 MoveTutor_Text_DoubleEdgeTeach:
 	.string "Sigh…\p"

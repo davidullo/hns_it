@@ -24,7 +24,7 @@ PLACEHOLDER_RE = re.compile(r"\{[^}]*\}")
 LABEL_RE = re.compile(r"^([A-Za-z_][A-Za-z0-9_]*)::?(?:\s*@.*)?$")
 DIRECTIVE_RE = re.compile(r"^\s*#\s*(if|ifdef|ifndef|elif|else|endif)\b(.*)$")
 
-INC_GLOBS = ("data/text/*.inc", "data/maps/**/*.inc", "data/scripts/*.inc")
+INC_GLOBS = ("data/text/*.inc", "data/maps/**/*.inc", "data/scripts/*.inc", "data/event_scripts.s")
 C_GLOBS = ("src/**/*.c", "src/**/*.h", "include/**/*.h")
 
 # Macro della build HNS (include/constants/global.h, include/config/general.h)

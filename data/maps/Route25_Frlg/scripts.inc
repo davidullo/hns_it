@@ -125,6 +125,6 @@ Route25_Text_MistyHighHopesAboutThisPlace::
 
 Route25_Text_AreYouHereAlone::
 	.string "Ciao, sei qui da solo?\p"
-	.string "Se sei al promontorio di CELESTOPOLI…\n"
-	.string "Beh, dovresti stare in coppia.$"
+	.string "Se sei al promontorio di\n"
+	.string "CELESTOPOLI… stai in coppia.$"
 

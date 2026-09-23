@@ -224,13 +224,13 @@ CeladonCity_Gym_Text_MaryPostBattle::
 	.string "più forti, aspetta!$"
 
 CeladonCity_Gym_Text_GymStatue::
-	.string "PALESTRA AZZURROPOLI\n"
+	.string "PALESTRA DI AZZURROPOLI\n"
 	.string "CAPO: ERIKA\p"
 	.string "VINCITORI:\n"
 	.string "{RIVAL}$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-	.string "PALESTRA AZZURROPOLI\n"
+	.string "PALESTRA DI AZZURROPOLI\n"
 	.string "CAPO: ERIKA\p"
 	.string "VINCITORI:\n"
 	.string "{RIVAL}, {PLAYER}$"

@@ -14709,7 +14709,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "La chiave per\n"
             "l'entrata della\n"
-            "Palestra di CINNABAR."),
+            "Palestra di ISOLA CANNELLA."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,

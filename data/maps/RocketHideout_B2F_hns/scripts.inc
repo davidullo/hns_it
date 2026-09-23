@@ -647,7 +647,7 @@ RocketHideout_B2F_Text_LanceWhirlpool:
     .string "Ma ricorda una cosa.\p"
     .string "Puoi usarlo fuori dalla lotta\n"
     .string "solo con la MEDAGLIA della\l"
-    .string "PALESTRA di MAHOGANY.$"
+    .string "PALESTRA di MOGANIA.$"
 
 RocketHideout_B2F_Text_LanceMonMaster:
     .string "{PLAYER}…\p"

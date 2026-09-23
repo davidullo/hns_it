@@ -289,15 +289,15 @@ GoldenrodCity_EventScript_Beauty::
 	end
 
 GoldenrodCity_Text_Beauty:
-	.string "Questa è la PALESTRA di GOLDENROD!\p"
-	.string "La nostra capo WHITNEY non c'è\n"
+	.string "Questa è la PALESTRA\ndi FIORDOROPOLI!\p"
+	.string "La nostra capo CHIARA non c'è\n"
 	.string "ora. Forse è alla\l"
 	.string "TORRE RADIO.$"
 
 GoldenrodCity_Text_Woman:
-	.string "Mi allenavo nella PALESTRA di CHIARA,\n"
-	.string "ma il suo piagnucolare mi dava\l"
-	.string "mal di testa.$"
+	.string "Mi allenavo nella PALESTRA di\n"
+	.string "CHIARA, ma il suo piagnucolare mi\l"
+	.string "dava mal di testa.$"
 
 GoldenrodCity_Text_HikerDay:
 	.string "Quando sono entrato in SALA GIOCHI\n"
@@ -406,11 +406,11 @@ GoldenrodCity_Text_RadioTowerSign:
 
 GoldenrodCity_Text_DeptStoreSign:
 	.string "Tutta la scelta di articoli POKéMON!\p"
-	.string "CENTRO COMMERCIALE di GOLDENROD$"
+	.string "CENTRO COMMERCIALE di FIORDOROPOLI$"
 
 GoldenrodCity_Text_GymSign:
-	.string "PALESTRA POKéMON di GOLDENROD\n"
-	.string "CAPO: WHITNEY\p"
+	.string "PALESTRA POKéMON di FIORDOROPOLI\n"
+	.string "CAPO: CHIARA\p"
 	.string "La ragazza bellissima!$"
 
 GoldenrodCity_Text_CitySign:

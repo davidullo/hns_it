@@ -324,7 +324,7 @@ GoldenrodCity_RadioTower_5F_Movement_Leave2:
 
 GoldenrodCity_RadioTower_5F_Text_ExecutiveF1Seen:
 	.string "Ti ricordi del NASCONDIGLIO di\n"
-	.string "MAHOGANY?\p"
+	.string "MOGANIA?\p"
 	.string "Il capo mi ha sgridato, ma sono\p"
 	.string "più forte. Allora persi, ora no.$"
 
@@ -379,10 +379,10 @@ GoldenrodCity_RadioTower_5F_Text_DirectorClearWingExplanation:
 	.string "Abbiamo trovato quell'ala durante\n"
 	.string "i lavori.\p"
 	.string "Ho sentito che ogni tipo di POKéMON\n"
-	.string "viveva a GOLDENROD in passato.\p"
+	.string "viveva a FIORDOROPOLI in passato.\p"
 	.string "Forse…\p"
 	.string "Quell'ala ha un legame con la\n"
-	.string "TORRE CAMPANA di ECRUTEAK…\p"
+	.string "TORRE CAMPANA di AMARANTOPOLI…\p"
 	.string "OK, meglio che vada in UFFICIO.$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorTidalWingExplanation:
@@ -394,10 +394,10 @@ GoldenrodCity_RadioTower_5F_Text_DirectorTidalWingExplanation:
 	.string "Abbiamo trovato quell'ala durante\n"
 	.string "i lavori.\p"
 	.string "Ho sentito che ogni tipo di POKéMON\n"
-	.string "viveva a GOLDENROD in passato.\p"
+	.string "viveva a FIORDOROPOLI in passato.\p"
 	.string "Forse…\p"
-	.string "Quell'ala ha un legame con le\n"
-	.string "ISOLE VORTICOSE vicino a CIANWOOD…\p"
+	.string "Quell'ala ha un legame con le ISOLE\n"
+	.string "VORTICOSE vicino a FIORLISOPOLI…\p"
 	.string "OK, meglio che vada in UFFICIO.$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorLegendary:

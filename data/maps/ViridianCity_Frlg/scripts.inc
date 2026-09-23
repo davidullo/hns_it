@@ -243,7 +243,7 @@ ViridianCity_Text_GymClosedWonderWhoLeaderIs::
 	.string "Chissà chi è il LEADER?$"
 
 ViridianCity_Text_ViridiansGymLeaderReturned::
-	.string "Il CAPOPALESTRA di VIRIDIAN è tornato!$"
+	.string "Il CAPOPALESTRA di SMERALDOPOLI\nè tornato!$"
 
 ViridianCity_Text_WantToKnowAboutCaterpillarMons::
 	.string "Vuoi sapere dei due\n"
@@ -355,5 +355,5 @@ ViridianCity_Text_GymSign::
 	.string "PALESTRA POKéMON DI SMERALDOPOLI$"
 
 ViridianCity_Text_GymDoorsAreLocked::
-	.string "Le porte della VIRIDIAN GYM sono chiuse…$"
+	.string "Le porte della PALESTRA\ndi SMERALDOPOLI sono chiuse…$"
 

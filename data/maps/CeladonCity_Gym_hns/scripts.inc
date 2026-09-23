@@ -35,7 +35,7 @@ CeladonCity_Gym_Text_ErikaBeforeBattle:
 	.string "vero? Che piacevole…\p"
 	.string "…Rischio di appisolarmi…\p"
 	.string "Sono ERIKA, la CAPOPALESTRA\n"
-	.string "di CELADON.\p"
+	.string "di AZZURROPOLI.\p"
 	.string "…Oh? Arrivi da JOHTO,\n"
 	.string "dici? Bello…\p"
 	.string "Oh, scusa, non avevo capito\n"
@@ -175,13 +175,13 @@ CeladonCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeladonCity_Gym_Text_GymStatue::
-    .string "PALESTRA DI CELADON\n"
+    .string "PALESTRA DI AZZURROPOLI\n"
     .string "CAPO: ERIKA\p"
 	.string "VINCITORI:\n"
 	.string "BLU,ROSSO$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-    .string "PALESTRA DI CELADON\n"
+    .string "PALESTRA DI AZZURROPOLI\n"
     .string "CAPO: ERIKA\p"
     .string "VINCITORI:\n"
 	.string "BLU,ROSSO,{PLAYER}$"

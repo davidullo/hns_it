@@ -33,7 +33,7 @@ ViridianCity_House_Text_MyDaddyLovesMonsToo::
 	.string "Anche il mio papà adora i POKéMON.$"
 
 ViridianCity_House_Text_Speary::
-	.string "SPEARY: Tetweet!$"
+	.string "SPEARY: Tetuit!$"
 
 ViridianCity_House_Text_SpearowNameSpeary::
 	.string "SPEAROW\n"

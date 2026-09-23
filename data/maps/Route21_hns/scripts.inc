@@ -30,7 +30,7 @@ Route21_Text_SwimmermSethBeaten:
 
 Route21_Text_SwimmermSethAfterBattle:
 	.string "C'era un tipo arrogante al\n"
-	.string "vulcano di CINNABAR.$"
+	.string "vulcano di ISOLA CANNELLA.$"
 
 Route21_Text_SwimmerfNikkiSeen:
 	.string "Se vinco, mi aiuti con la\n"

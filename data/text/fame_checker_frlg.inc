@@ -137,8 +137,8 @@ gFameCheckerFlavorText_Misty3:: @ 0x81ADBD9
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Gira una voce…\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ALLENATORI forti e POKéMON\n"
 	.string "d'ACQUA sono comuni da queste parti.\p"
-	.string "Dicono che MISTY della\n"
-	.string "PALESTRA di CELESTOPOLI si alleni qui.$"
+	.string "Dicono che MISTY della PALESTRA\n"
+	.string "di CELESTOPOLI si alleni qui.$"
 
 gFameCheckerFlavorText_Misty4:: @ 0x81ADC72
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Corre voce…\p"
@@ -257,7 +257,7 @@ gFameCheckerFlavorText_Koga5:: @ 0x81AE51B
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Cosa fa questa persona?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}La ZONA SAFARI è enorme, non\n"
 	.string "credi?\p"
-	.string "KOGA, CAPOPALESTRA di FUCHSIA, \n"
+	.string "KOGA, CAPOPALESTRA di FUCSIAPOLI, \n"
 	.string "patrolla la zona ogni tanto.\p"
 	.string "Grazie a lui, possiamo giocare qui\n"
 	.string "sapendo di essere al sicuro.$"
@@ -300,7 +300,7 @@ gFameCheckerFlavorText_Sabrina5:: @ 0x81AE841
 
 gFameCheckerFlavorText_Blaine0:: @ 0x81AE89E
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Cosa fa questa persona?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PALESTRA POKéMON ISOLA CINNABAR\n"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PALESTRA POKéMON DI ISOLA CANNELLA\n"
 	.string "CAPO: BLAINE\l"
 	.string "Il Maestro dei Quiz Impetuoso!$"
 
@@ -321,8 +321,8 @@ gFameCheckerFlavorText_Blaine2:: @ 0x81AE990
 
 gFameCheckerFlavorText_Blaine3:: @ 0x81AEA59
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Che persona è?\p"
-	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BLAINE della PALESTRA di CINNABAR\n"
-	.string "è un tipo davvero strano.\p"
+	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BLAINE della PALESTRA di ISOLA\n"
+	.string "CANNELLA è un tipo davvero strano.\p"
 	.string "Vive sull'isola da molto\n"
 	.string "prima che costruissero il LAB.$"
 
@@ -828,7 +828,7 @@ gFameCheckerFlavorTextOriginLocation_Daisy3::
 	.string "SMERALDOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Daisy4::
-	.string "VILLA CELADON$"
+	.string "VILLA AZZURROPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Daisy5::
 	.string "QUARTA ISOLA$"
@@ -855,10 +855,10 @@ gFameCheckerFlavorTextOriginLocation_Misty0::
 	.string "CELESTOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Misty1::
-	.string "PALESTRA CELESTOPOLI$"
+	.string "PALESTRA DI CELESTOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Misty2::
-	.string "PALESTRA CELESTOPOLI$"
+	.string "PALESTRA DI CELESTOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Misty3::
 	.string "ISOLE SEAFOAM$"
@@ -873,16 +873,16 @@ gFameCheckerFlavorTextOriginLocation_LtSurge0::
 	.string "ARANCIOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge1::
-	.string "PALESTRA ARANCIOPOLI$"
+	.string "PALESTRA DI ARANCIOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge2::
-	.string "PALESTRA ARANCIOPOLI$"
+	.string "PALESTRA DI ARANCIOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge3::
-	.string "PALESTRA ARANCIOPOLI$"
+	.string "PALESTRA DI ARANCIOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge4::
-	.string "PALESTRA ARANCIOPOLI$"
+	.string "PALESTRA DI ARANCIOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge5::
 	.string "ARANCIOPOLI$"
@@ -903,16 +903,16 @@ gFameCheckerFlavorTextOriginLocation_Erika4::
 	.string "PALESTRA DI AZZURROPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Erika5::
-	.string "VILLA CELADON$"
+	.string "VILLA AZZURROPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Koga0::
 	.string "FUCSIAPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Koga1::
-	.string "PALESTRA FUCSIAPOLI$"
+	.string "PALESTRA DI FUCSIAPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Koga2::
-	.string "PALESTRA FUCSIAPOLI$"
+	.string "PALESTRA DI FUCSIAPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Koga3::
 	.string "FUCSIAPOLI$"
@@ -942,19 +942,19 @@ gFameCheckerFlavorTextOriginLocation_Sabrina5::
 	.string "PALESTRA ZAFFIROPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine0::
-	.string "ISOLA CINNABAR$"
+	.string "ISOLA CANNELLA$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine1::
-	.string "PALESTRA CINNABAR$"
+	.string "PALESTRA DI ISOLA CANNELLA$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine2::
-	.string "PALESTRA CINNABAR$"
+	.string "PALESTRA DI ISOLA CANNELLA$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine3::
-	.string "ISOLA CINNABAR$"
+	.string "ISOLA CANNELLA$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine4::
-	.string "PALESTRA CINNABAR$"
+	.string "PALESTRA DI ISOLA CANNELLA$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine5::
 	.string "RESORT BELLISSIMO$"
@@ -1062,10 +1062,10 @@ gFameCheckerFlavorTextOriginLocation_MrFuji3::
 	.string "LAVANDONIA$"
 
 gFameCheckerFlavorTextOriginLocation_MrFuji4::
-	.string "PALESTRA CINNABAR$"
+	.string "PALESTRA DI ISOLA CANNELLA$"
 
 gFameCheckerFlavorTextOriginLocation_MrFuji5::
-	.string "ISOLA CINNABAR$"
+	.string "ISOLA CANNELLA$"
 
 gFameCheckerFlavorTextOriginLocation_Giovanni0::
 	.string "NASCONDIGLIO ROCKET$"
@@ -1077,10 +1077,10 @@ gFameCheckerFlavorTextOriginLocation_Giovanni2::
 	.string "SILPH SPA$"
 
 gFameCheckerFlavorTextOriginLocation_Giovanni3::
-	.string "PALESTRA SMERALDOPOLI$"
+	.string "PALESTRA DI SMERALDOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Giovanni4::
-	.string "PALESTRA SMERALDOPOLI$"
+	.string "PALESTRA DI SMERALDOPOLI$"
 
 gFameCheckerFlavorTextOriginLocation_Giovanni5::
 	.string "MAGAZZINO ROCKET$"
@@ -1423,7 +1423,7 @@ PokemonJournal_Text_SpecialFeatureSabrina::
 
 PokemonJournal_Text_SpecialFeatureBlaine::
 	.string "AGENDA POKéMON\p"
-	.string "Speciale: PALESTRA di CINNABAR\n"
+	.string "Speciale: PALESTRA di ISOLA CANNELLA\n"
 	.string "CAPOPALESTRA BLAINE!\p"
 	.string "Si dice che BLAINE tolga gli occhiali\n"
 	.string "scuri solo quando pensa a nuove\l"

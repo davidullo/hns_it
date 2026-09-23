@@ -429,8 +429,8 @@ VioletCity_Text_Boy:
 	.string "potresti imparare qualcosa!$"
 
 VioletCity_Text_Gramps:
-	.string "FALKNER, della PALESTRA\n"
-	.string "POKéMON di VIOLET, è un bravo allenatore!\p"
+	.string "VALERIO, della PALESTRA POKéMON\n"
+	.string "di VIOLAPOLI, è un bravo allenatore!\p"
 	.string "Ha ereditato la palestra di suo padre\n"
 	.string "e ha fatto un ottimo lavoro con\l"
 	.string "essa.$"
@@ -446,7 +446,7 @@ VioletCity_Text_Sign:
 
 VioletCity_Text_GymSign:
 	.string "PALESTRA POKéMON DI VIOLETTO\p"
-	.string "CAPO: FALKNER, l'Elegante\n"
+	.string "CAPO: VALERIO, l'Elegante\n"
 	.string "Maestro di POKéMON Volante$"
 
 VioletCity_Text_SproutTowerSign:

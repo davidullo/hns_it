@@ -12,12 +12,12 @@ Route3_EventScript_RouteSign::
 Route3_Text_TunnelFromCeruleanTiring::
 	.string "Fiu… Meglio riposare…\n"
 	.string "Uff…\p"
-	.string "Quel tunnel da CERULEAN ti\n"
+	.string "Quel tunnel da CELESTOPOLI ti\n"
 	.string "sfianca!$"
 
 Route3_Text_ColtonIntro::
 	.string "Ehi!\n"
-	.string "Ti ho visto nella FORESTA VIRIDIAN!$"
+	.string "Ti ho visto nel BOSCO SMERALDO!$"
 
 Route3_Text_ColtonDefeat::
 	.string "Mi hai battuto di nuovo!$"

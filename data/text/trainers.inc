@@ -2379,8 +2379,8 @@ Route117_Text_LydiaPostBattle:
 	.string "più peso ai tratti del carattere.$"
 
 Route117_Text_LydiaRegister:
-	.string "I'm glad I met a superb TRAINER in you.\n"
-	.string "I hope to see you again.$"
+	.string "Che bravo ALLENATORE che sei!\n"
+	.string "Spero di rivederti.$"
 
 Route117_Text_LydiaRematchIntro:
 	.string "Fammi rivalutare se hai\n"
@@ -3546,7 +3546,7 @@ Route123_Text_AlbertoIntro:
 	.string "Sono i migliori!$"
 
 Route123_Text_AlbertoDefeat:
-	.string "Even in defeat, BIRD POKéMON are cool!$"
+	.string "Anche persi, gli Uccello son forti!$"
 
 Route123_Text_AlbertoPostBattle:
 	.string "Raccolgo le piume dei POKéMON UCCELLO\n"

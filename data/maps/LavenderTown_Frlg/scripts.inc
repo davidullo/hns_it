@@ -70,7 +70,7 @@ LavenderTown_Text_GhostsAppearedInTower::
 	.string "POKéMON uccisi dai ROCKET.$"
 
 LavenderTown_Text_TownSign::
-	.string "LAVENDER\n"
+	.string "LAVANDONIA\n"
 	.string "La nobile città viola$"
 
 LavenderTown_Text_SilphScopeNotice::

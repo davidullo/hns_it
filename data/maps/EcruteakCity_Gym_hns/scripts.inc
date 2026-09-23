@@ -77,16 +77,16 @@ EcruteakCity_Gym_EventScript_Statue2::
 	end
 
 EcruteakCity_Gym_Text_GymStatue:
-	.string "PALESTRA POKéMON ECRUTEAK$"
+	.string "PALESTRA POKéMON DI AMARANTOPOLI$"
 
 EcruteakCity_Gym_Text_GymStatueCertified:
-	.string "PALESTRA POKéMON ECRUTEAK\p"
-	.string "CERTIFICATI DA MORTY:\n"
+	.string "PALESTRA POKéMON DI AMARANTOPOLI\p"
+	.string "CERTIFICATI DA ANGELO:\n"
 	.string "{PLAYER}$"
 
 MortyIntroText:
 	.string "Che bello vederti qui.\p"
-	.string "Qui a ECRUTEAK, i POKéMON\n"
+	.string "Qui ad AMARANTOPOLI, i POKéMON\n"
 	.string "son sempre venerati.\p"
 	.string "Si dice che un POKéMON\n"
 	.string "arcobaleno apparirà\l"
@@ -107,11 +107,11 @@ MortyWinLossText:
 	.string "Va bene. La MEDAGLIA è tua.$"
 
 Text_ReceivedFogBadge:
-	.string "{PLAYER} riceve la FOGBADGE.$"
+	.string "{PLAYER} riceve la MEDAGLIA NEBBIA.$"
 
 MortyText_FogBadgeSpeech:
-	.string "La FOGBADGE rende obbedienti\n"
-	.string "i POKéMON fino al liv. 50.\p"
+	.string "La MEDAGLIA NEBBIA rende\n"
+	.string "obbedienti fino al liv. 50.\p"
 	.string "Inoltre, ogni POKéMON che\n"
 	.string "conosce SURF potrà usarla\l"
 	.string "sempre.\p"
@@ -203,7 +203,7 @@ EcruteakCity_GymGuideText:
 	.string "a metà strada!\p"
 	.string "Qui usano POKéMON di tipo\n"
 	.string "SPETTRO e BUIO.\p"
-	.string "MORTY è un esperto di tipo\n"
+	.string "ANGELO è un esperto di tipo\n"
 	.string "SPETTRO, attento al suo cervo\l"
 	.string "magico.\p"
 	.string "Si dice che causi strani\n"
@@ -215,7 +215,7 @@ EcruteakCity_GymGuideWinText:
 	.string "dal terrore!$"
 
 EcruteakCity_GymClosedText:
-	.string "MORTY, il CAPOPALESTRA, è\n"
+	.string "ANGELO, il CAPOPALESTRA, è\n"
 	.string "assente.\p"
 	.string "Scusa, ma devi uscire\n"
 	.string "ora.\p"

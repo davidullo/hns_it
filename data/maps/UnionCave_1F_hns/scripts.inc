@@ -71,7 +71,7 @@ UnionCave_1F_EventScript_Item_Awakening::
 	end
 
 UnionCave_1F_Text_HikerRussellSeen:
-	.string "Vai ad AZALEA, eh?\p"
+	.string "Vai ad AZALINA, eh?\p"
 	.string "Fai vedere ai miei POKéMON se sei\n"
 	.string "all'altezza di lottare.$"
 

@@ -145,13 +145,13 @@ MatchCall_HNS_Liz_General2::
 MatchCall_HNS_Liz_General3::
 	.string "Ciao, {PLAYER}!\n"
 	.string "Ascolta, ascolta!\p"
-	.string "Non trovi che FALKNER della\n"
+	.string "Non trovi che VALERIO della\n"
 	.string "PALESTRA di VIOLETTO sia forte e\l"
 	.string "bello?\p"
 	.string "Ma dicono che suo papà, che si\n"
 	.string "allena in giro,\l"
 	.string "sia ancora più forte e\l"
-	.string "bello di FALKNER.\p"
+	.string "bello di VALERIO.\p"
 	.string "Vorrei tanto conoscerlo!$"
 
 MatchCall_HNS_Liz_Battle::
@@ -221,7 +221,7 @@ MatchCall_HNS_Todd_General3::
 	.string "Ora mettiamo KO {STR_VAR_3}\n"
 	.string "facilmente.\p"
 	.string "Dovrei sfidare la\n"
-	.string "PALESTRA di GOLDENROD.$"
+	.string "PALESTRA di FIORDOROPOLI.$"
 
 MatchCall_HNS_Todd_Battle::
 	.string "Ehi, {PLAYER}!\p"
@@ -1170,7 +1170,7 @@ MatchCall_HNS_Hillary_Battle::
 MatchCall_HNS_Rob_General1::
 	.string "Ehi, {PLAYER}!\n"
 	.string "Sono ROB!\p"
-	.string "La FORESTA di VIRIDIAN è piena\n"
+	.string "La FORESTA di SMERALDOPOLI è piena\n"
 	.string "di Coleotteri forti!$"
 
 MatchCall_HNS_Rob_General2::
@@ -1240,7 +1240,7 @@ MatchCall_HNS_Kenny_General1::
 MatchCall_HNS_Kenny_General2::
 	.string "Ehi, {PLAYER}!\p"
 	.string "Sono KENNY.\n"
-	.string "Ho visitato il museo di PEWTER!\p"
+	.string "Ho visitato il museo di PLUMBEOPOLI!\p"
 	.string "Sapevi che tutta la regione di KANTO\n"
 	.string "era un tempo sott'acqua?$"
 

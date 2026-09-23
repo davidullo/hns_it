@@ -149,7 +149,7 @@ Route15_Text_SchoolboyTommyAfterBattle:
 
 Route15_Text_SchoolboyJohnnySeen:
 	.string "Siamo in gita alla TORRE RADIO\n"
-	.string "di LAVANDIA per geografia.$"
+	.string "di LAVANDONIA per geografia.$"
 
 Route15_Text_SchoolboyJohnnyBeaten:
 	.string "Sei davvero forte!$"
@@ -185,5 +185,5 @@ Route15_Text_BillyPostRematch:
 
 Route15_Text_Sign:
 	.string "PERCORSO 15\p"
-	.string "FUCHSIA - LAVANDIA$"
+	.string "FUCSIAPOLI - LAVANDONIA$"
 

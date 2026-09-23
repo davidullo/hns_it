@@ -1552,17 +1552,17 @@ gTVSecretBaseVisitText10::
 	.string "Certainly, it was quite a lesson!$"
 
 gTVSecretBaseVisitText11::
-	.string "Wheeew!\n"
-	.string "I've got to hand it to {STR_VAR_1}.\p"
-	.string "The TRAINER's POKéMON were clearly\n"
-	.string "raised in a well-balanced manner.\p"
-	.string "They gave ample proof of {STR_VAR_1}'s\n"
-	.string "thoughtfulness as a TRAINER.\p"
-	.string "That the {STR_VAR_2} knew the move\n"
-	.string "{STR_VAR_3}…\p"
-	.string "It shows you what sort of a TRAINER\n"
-	.string "{STR_VAR_1} is.\p"
-	.string "Certainly, it was quite a lesson!$"
+	.string "Uau!\n"
+	.string "Devo ammetterlo, {STR_VAR_1}.\p"
+	.string "I POKéMON del TRAINER erano\n"
+	.string "cresciuti in modo equilibrato.\p"
+	.string "Provano quanto {STR_VAR_1}\n"
+	.string "sia un TRAINER attento.\p"
+	.string "Che il {STR_VAR_2} conosca\n"
+	.string "la mossa {STR_VAR_3}…\p"
+	.string "Dice molto sul TRAINER\n"
+	.string "che è {STR_VAR_1}.\p"
+	.string "Certo, che lezione!$"
 
 gTVSecretBaseVisitText12::
 	.string "Well, well!\n"

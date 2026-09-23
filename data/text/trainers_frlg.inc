@@ -1,6 +1,6 @@
 Route3_Text_ColtonRematchIntro::
 	.string "Ehi!\n"
-	.string "Ti ho visto nella FORESTA VIRIDIAN!$"
+	.string "Ti ho visto nel BOSCO SMERALDO!$"
 
 Route3_Text_BenRematchIntro::
 	.string "Ciao! Mi piacciono i pantaloncini!\n"
@@ -576,12 +576,12 @@ Route20_Text_NoraRematchIntro::
 	.string "E sono cresciute ancora di più!$"
 
 Route20_Text_MissyRematchIntro::
-	.string "Ho nuotato fin qui da ISOLA CINNABAR.\n"
-	.string "Non è stato facile, come dicevo.$"
+	.string "Ho nuotato fin qui da ISOLA\n"
+	.string "CANNELLA. Non è stato facile, sai.$"
 
 Route20_Text_MelissaRematchIntro::
-	.string "A ovest, a CINNABAR c'è un LAB\n"
-	.string "per i POKéMON.\p"
+	.string "A ovest, all'ISOLA CANNELLA\n"
+	.string "c'è un LAB per i POKéMON.\p"
 	.string "Ci lavora il mio papà.$"
 
 Route21_North_Text_RonaldRematchIntro::

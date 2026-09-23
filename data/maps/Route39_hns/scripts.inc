@@ -146,13 +146,13 @@ Route39_Text_BaobaIntro::
 	.string "Non ne vedevo uno da secoli.\p"
 	.string "Mi chiamo BAOBA!\n"
 	.string "Gestivo una ZONA SAFARI a\l"
-	.string "FUCHSIA, ma stava diventando\l"
+	.string "FUCSIAPOLI, ma stava diventando\l"
 	.string "obsoleta con le nuove forme di\l"
 	.string "intrattenimento.\p"
 	.string "Ho deciso di andare all'estero a studiare\n"
 	.string "le nuove tecnologie e aprire una\l"
 	.string "ZONA SAFARI all'avanguardia\l"
-	.string "a CIANWOOD.\p"
+	.string "a FIORLISOPOLI.\p"
 	.string "Forse non è un caso\n"
 	.string "che stiamo parlando.\p"
 	.string "Perché non ci scambiamo i numeri\n"
@@ -240,7 +240,7 @@ Route39_EventScript_Eugene::
 	end
 
 Route39_Text_SailorEugeneSeen:
-	.string "Sono appena tornato a OLIVINE.\p"
+	.string "Sono appena tornato ad OLIVINOPOLI.\p"
 	.string "Che ne dici di una lotta POKéMON?$"
 
 Route39_Text_SailorEugeneBeaten:

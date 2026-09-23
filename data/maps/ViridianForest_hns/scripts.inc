@@ -68,10 +68,10 @@ ViridianForest_EventScript_Bugsy::
 	end
 
 ViridianForest_Text_Bugsy:
-	.string "BUGSY: Sono venuto a KANTO a cercare\n"
-	.string "POKéMON di tipo COLEOTTERO, per\l"
-	.string "diventare un ALLENATORE di\l"
-	.string "COLEOTTERO più forte!\p"
+	.string "RAFFAELLO: Sono venuto a\n"
+	.string "KANTO a cercare POKéMON di\l"
+	.string "tipo COLEOTTERO, per diventare\l"
+	.string "un ALLENATORE più forte!\p"
     .string "Se vuoi un'altra sfida,\n"
     .string "mi trovi al DOJO di ZAFFERANOPOLI!$"
 

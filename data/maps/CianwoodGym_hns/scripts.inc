@@ -17,11 +17,11 @@ CianwoodGym_EventScript_Statue2::
 	end
 
 CianwoodGym_Text_GymStatue:
-	.string "PALESTRA POKéMON CIANWOOD$"
+	.string "PALESTRA POKéMON DI FIORLISOPOLI$"
 
 CianwoodGym_Text_GymStatueCertified:
-	.string "PALESTRA POKéMON CIANWOOD\p"
-	.string "CERTIFICATI DA CHUCK:\n"
+	.string "PALESTRA POKéMON DI FIORLISOPOLI\p"
+	.string "CERTIFICATI DA FURIO:\n"
 	.string "{PLAYER}$"
 
 CianwoodGym_EventScript_Chuck::
@@ -137,7 +137,7 @@ CianwoodGym_Text_ChuckIntro1:
 	.string "Guarda qua!$"
 
 CianwoodGym_Text_ChuckIntro2:
-	.string "CHUCK: Urggh!\n"
+	.string "FURIO: Urggh!\n"
 	.string "…\p"
 	.string "Oooarrgh!$"
 

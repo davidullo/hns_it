@@ -16,7 +16,7 @@ BellchimeTrail_EventScript_Morty::
 	end
 
 BellchimeTrail_Text_Morty:
-	.string "MORTY: Il POKéMON leggendario\n"
+	.string "ANGELO: Il POKéMON leggendario\n"
 	.string "non ha scelto me…\p"
 	.string "Ma questo non significa che\n"
 	.string "ho perso il mio futuro.\p"

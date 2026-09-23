@@ -389,13 +389,13 @@ VermilionCity_Gym_Text_GymGuyPostVictory::
 	.string "Che lotta elettrizzante!$"
 
 VermilionCity_Gym_Text_GymStatue::
-	.string "PALESTRA POKéMON DI VERMILION\n"
+	.string "PALESTRA POKéMON DI ARANCIOPOLI\n"
 	.string "CAPO: LT. SURGE\p"
 	.string "ALLENATORI VINCENTI:\n"
 	.string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-	.string "PALESTRA POKéMON DI VERMILION\n"
+	.string "PALESTRA POKéMON DI ARANCIOPOLI\n"
 	.string "CAPO: LT. SURGE\p"
 	.string "ALLENATORI VINCENTI:\n"
 	.string "{RIVAL}, {PLAYER}$"

@@ -24,7 +24,7 @@ CeruleanCity_EventScript_Guard::
 	end
 
 CeruleanCity_Text_ThisIsCeruleanCave::
-    .string "È la GROTTA CERULEAN.\p"
+    .string "È la GROTTA CELESTOPOLI.\p"
     .string "Dentro vivono POKéMON\n"
     .string "spaventosi.\p"
     .string "Ci vuole un ALLENATORE\n"
@@ -164,7 +164,7 @@ CeruleanCity_Text_PoliceSign:
 	.string "POLIZIA LOCALE$"
 
 CeruleanCity_Text_CapeSign:
-	.string "CAPO CERULEAN\n"
+	.string "CAPO CELESTOPOLI\n"
 	.string "AVANTI$"
 
 CeruleanCity_Text_LockedDoor:

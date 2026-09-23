@@ -396,10 +396,10 @@ Route25_Text_MistyDate:
 	.string "Sono MEDAGLIE della PALESTRA di JOHTO?\p"
 	.string "Se ne hai otto, devi essere\n"
 	.string "bravo.\p"
-	.string "Va bene. Vieni alla PALESTRA di CERULEAN.\p"
+	.string "Va bene. Vieni alla PALESTRA\ndi CELESTOPOLI.\p"
 	.string "Sarò felice di affrontarti.\p"
 	.string "Sono MISTY, la CAPOPALESTRA di\n"
-	.string "CERULEAN.$"
+	.string "CELESTOPOLI.$"
 
 Route25_Text_SchoolboyDudleySeen:
 	.string "Batti noi sei allenatori e\n"

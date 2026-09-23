@@ -160,13 +160,13 @@ CeruleanCity_Gym_EventScript_GymGuyAfter::
 	end
 
 CeruleanCity_Gym_Text_GymStatue::
-    .string "PALESTRA CERULEAN\n"
+    .string "PALESTRA DI CELESTOPOLI\n"
     .string "CAPO: MISTY\p"
 	.string "VINCITORI:\n"
 	.string "BLU,ROSSO$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-    .string "PALESTRA CERULEAN\n"
+    .string "PALESTRA DI CELESTOPOLI\n"
     .string "CAPO: MISTY\p"
     .string "VINCITORI:\n"
 	.string "BLU,ROSSO,{PLAYER}$"

@@ -29,7 +29,7 @@ Route14_Text_MitchPostBattle::
 
 Route14_Text_BeckIntro::
 	.string "Vendono MT al\n"
-	.string "CENTRO COMMERCIALE di CELADON.\p"
+	.string "CENTRO COMMERCIALE di AZZURROPOLI.\p"
 	.string "Le MT non sono rare, ma pochi\n"
 	.string "hanno le MN.$"
 

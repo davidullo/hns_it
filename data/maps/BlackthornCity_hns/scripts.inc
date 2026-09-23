@@ -179,19 +179,19 @@ BlackthornCity_EventScript_SantosCompleted::
 
 
 BlackthornCity_Text_ClairNotReady:
-	.string "CLAIR, la nostra CAPOPALESTRA,\n"
+	.string "SANDRA, la nostra CAPOPALESTRA,\n"
 	.string "segue i tuoi progressi.\p"
 	.string "Però affronta solo chi ha\n"
 	.string "già 7 medaglie.$"
 
 BlackthornCity_Text_ClairIsIn:
-	.string "CLAIR, la nostra CAPOPALESTRA ti\n"
+	.string "SANDRA, la nostra CAPOPALESTRA ti\n"
 	.string "aspetta.\p"
 	.string "Ma per un allenatore qualunque\n"
 	.string "vincere è impossibile.$"
 
 BlackthornCity_Text_ClairIsBeaten:
-	.string "Hai battuto CLAIR?\p"
+	.string "Hai battuto SANDRA?\p"
 	.string "È incredibile!\p"
 	.string "Non ho mai sentito che perdesse\n"
 	.string "con altri tranne LANCE.$"
@@ -202,7 +202,7 @@ BlackthornGrampsRefusesEntryText:
 	.string "Esci.$"
 
 BlackthornGrampsGrantsEntryText:
-	.string "Se CLAIR acconsente, anche\n"
+	.string "Se SANDRA acconsente, anche\n"
 	.string "nostro MAESTRO lo permetterà.\p"
 	.string "Puoi entrare.$"
 
@@ -250,7 +250,7 @@ BlackthornCitySignText:
 
 BlackthornGymSignText:
 	.string "PALESTRA POKéMON DI FIORDORATO\n"
-	.string "CAPO: CLAIR\p"
+	.string "CAPO: SANDRA\p"
 	.string "Donna prescelta dai POKéMON DRAGO$"
 
 BlackthornCity_Text_MoveDeletersHouseSign:

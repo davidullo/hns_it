@@ -271,7 +271,7 @@ LakeOfRage_Text_LanceRadioSignal:
     .string "Sembra che i MAGIKARP del lago\n"
     .string "vengano costretti a evolversi.\p"
     .string "La causa è una radio\n"
-    .string "misteriosa da MAHOGANY.\p"
+    .string "misteriosa da MOGANIA.\p"
     .string "Ti aspettiamo,\n"
     .string "{PLAYER}.$"
 

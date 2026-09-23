@@ -99,8 +99,8 @@ SSAqua_B1F_Text_PicnickerDebraBeaten:
 	.string "Ahia! Sei troppo forte!$"
 
 SSAqua_B1F_Text_PicnickerDebraAfter:
-	.string "SAFFRON, CELADON… dicono che\n"
-	.string "a KANTO ci siano grandi città.$"
+	.string "ZAFFERANOPOLI, AZZURROPOLI… dicono\n"
+	.string "che a KANTO ci siano grandi città.$"
 
 SSAqua_B1F_EventScript_Fritz::
 	trainerbattle_single TRAINER_FRITZ_HNS, SSAqua_B1F_Text_JugglerFritzSeen, SSAqua_B1F_Text_JugglerFritzBeaten
@@ -149,7 +149,7 @@ SSAqua_B1F_Text_FisherJonahBeaten:
 
 SSAqua_B1F_Text_FisherJonahAfter:
 	.string "Penso di pescare dal\n"
-	.string "molo di VERMILION.$"
+	.string "molo di ARANCIOPOLI.$"
 
 SSAqua_B1F_EventScript_Wai::
 	trainerbattle_single TRAINER_WAI_HNS, SSAqua_B1F_Text_BlackbeltWaiSeen, SSAqua_B1F_Text_BlackbeltWaiBeaten
@@ -203,7 +203,7 @@ SSAqua_B1F_Text_TeacherShirleyBeaten:
 
 SSAqua_B1F_Text_TeacherShirleyAfter:
 	.string "Siamo in gita verso le\n"
-	.string "ROVINE fuori da VIOLET.$"
+	.string "ROVINE fuori da VIOLAPOLI.$"
 
 SSAqua_B1F_EventScript_Nate::
 	trainerbattle_single TRAINER_NATE_HNS, SSAqua_B1F_Text_SchoolboyNateSeen, SSAqua_B1F_Text_SchoolboyNateBeaten

@@ -34,7 +34,14 @@ BATCH_DIR = WORK / "batches"
 RESULT_DIR = WORK / "results"
 
 LIMIT_PX = 216
-TARGET_PX = 200
+# il modello (deepseek-v4.1-flash, reasoning off) sfora di circa il 30% il tetto
+# in caratteri che gli si da': contare i caratteri non e' il suo forte. Per le
+# righe lunghe il tetto si ricava quindi da 170px invece che da 200, cosi' la
+# riga che scrive finisce dentro i 216px invece di stare 3-10px fuori (era il
+# motivo per cui quelle unita' restavano "arresa" con 6 tentativi).
+TARGET_PX = 170
+# per la verifica resta il target comodo di riferimento
+TARGET_PX_VERIFY = 200
 
 
 def load_metrics():
@@ -50,11 +57,28 @@ MAX_ATTEMPTS = 6
 
 
 def glossary_map() -> dict[str, str]:
+    """Termini ufficiali + termini scelti a mano.
+
+    `glossary_manual.csv` era scritto da nessuno: il file lo creava
+    `hnsit glossary` e lo leggeva solo la rigenerazione del glossario, quindi un
+    termine messo li' a mano non arrivava mai ai lotti (serve a fissare le
+    scelte che PokeAPI non ha, tipo frostbite -> assideramento). Ora i due file
+    si leggono entrambi e il manuale vince.
+    """
     out: dict[str, str] = {}
-    path = ROOT / "data" / "glossary.csv"
-    with path.open(encoding="utf-8", newline="") as fh:
-        for row in csv.DictReader(fh):
-            out.setdefault(row["en"], row["it"])
+    for name in ("glossary.csv", "glossary_manual.csv"):
+        path = ROOT / "data" / name
+        if not path.exists():
+            continue
+        manuale = name.endswith("_manual.csv")
+        with path.open(encoding="utf-8", newline="") as fh:
+            for row in csv.DictReader(fh):
+                if not row.get("en") or not row.get("it"):
+                    continue
+                if manuale:
+                    out[row["en"]] = row["it"]
+                else:
+                    out.setdefault(row["en"], row["it"])
     return out
 
 
@@ -100,6 +124,27 @@ def _motivo_rifiuto(unit, metrics, limits) -> str:
     return "rifiutata: " + p
 
 
+def _max_car(text: str, width: int) -> int:
+    """Tetto di caratteri per una riga, mai piu' largo di quanto entra nella finestra.
+
+    Con la riga inglese entro i 216px il tetto e' la lunghezza inglese piu' un
+    margine. Con la riga inglese OLTRE i 216px (le stringhe di battaglia lunghe,
+    che il motore manda a capo da solo) quel margine non ha senso: il modello
+    contava 66-108 caratteri concessi, scriveva 250-330px e la verifica
+    rifiutava ogni giro (era il motivo per cui 42 unita' di battle_message.c
+    finivano "arresa"). Qui il tetto si ricava dai pixel medi di quella riga,
+    sul target di 200px.
+    """
+    if width <= LIMIT_PX:
+        return len(text) + min(12, max(0, (LIMIT_PX - width) // 5))
+    # i codici {…} non occupano pixel: i pixel/riga si stimano sul testo nudo,
+    # ma il conto dei caratteri che si da' al modello include anche i codici
+    plain = CONTROL_RE.sub("", text)
+    codes = len(text) - len(plain)
+    per_char = width / max(1, len(plain))
+    return max(8, codes + int(TARGET_PX / per_char))
+
+
 def unit_record(unit, metrics, limits=None) -> dict:
     lines = unit.visible_lines
     widths = []
@@ -111,11 +156,16 @@ def unit_record(unit, metrics, limits=None) -> dict:
         "hint": unit.label + (" " + unit.hint if unit.hint else ""),
         "lines": lines,
         "width_px": widths,
-        "max_px": max(LIMIT_PX, max(widths) if widths else LIMIT_PX),
+        # il tetto e' quello della finestra di gioco, non la larghezza
+        # dell'inglese: molte stringhe di battaglia inglesi sforano i 216px e
+        # vengono mandate a capo dal motore, ma l'italiano deve starci
+        "max_px": LIMIT_PX,
         # tetto di caratteri per riga: il modello non sa misurare i pixel ma sa
         # contare, e le righe inglesi ci stanno. E' il vincolo che rispetta.
         "max_car": [len(t) + min(12, max(0, (LIMIT_PX - w) // 5)) for t, w in zip(lines, widths)],
     }
+    if any(w > LIMIT_PX for w in widths):
+        rec["max_car"] = [_max_car(t, w) for t, w in zip(lines, widths)]
     if unit.prev_it:
         # il giro prima ha provato e non e' passata: al modello va detto
         # esattamente perche', altrimenti riprova la stessa cosa

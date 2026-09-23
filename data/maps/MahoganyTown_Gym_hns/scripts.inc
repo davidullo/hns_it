@@ -17,11 +17,11 @@ MahoganyTown_Gym_EventScript_Statue2::
 	end
 
 MahoganyTown_Gym_Text_GymStatue:
-	.string "PALESTRA POKéMON DI MAHOGANY$"
+	.string "PALESTRA POKéMON DI MOGANIA$"
 
 MahoganyTown_Gym_Text_GymStatueCertified:
-	.string "PALESTRA POKéMON DI MAHOGANY\p"
-	.string "ALLENATORI CERTIFICATI DA PRYCE:\n"
+	.string "PALESTRA POKéMON DI MOGANIA\p"
+	.string "ALLENATORI CERTIFICATI DA ALFREDO:\n"
 	.string "{PLAYER}$"
 
 
@@ -132,7 +132,7 @@ MahoganyTown_Gym_Text_PryceIntro:
     .string "Sto con i POKéMON da\n"
     .string "prima che tu nascessi.\p"
     .string "Non perdo facilmente.\p"
-    .string "Io, PRYCE, allenatore d'inverno,\n"
+    .string "Io, ALFREDO, allenatore d'inverno,\n"
     .string "ti mostrerò la mia forza!$"
 
 MahoganyTown_Gym_Text_PryceImpressed:
@@ -143,7 +143,7 @@ MahoganyTown_Gym_Text_PryceImpressed:
     .string "Meriti questa MEDAGLIA!$"
 
 MahoganyTown_Gym_Text_ReceivedBadge:
-    .string "{PLAYER} riceve la GLACIERBADGE.$"
+    .string "{PLAYER} riceve la MEDAGLIA GELO.$"
 
 MahoganyTown_Gym_Text_GlacierBadgeSpeech:
     .string "Quella MEDAGLIA alza l'ATTACCO\n"
@@ -174,7 +174,7 @@ MahoganyTown_Gym_Text_PryceRematch:
     .string "Sono colpito.\p"
     .string "Ma c'è ancora molto da\n"
     .string "imparare l'uno dall'altro.\p"
-    .string "Io, PRYCE, allenatore d'inverno,\n"
+    .string "Io, ALFREDO, allenatore d'inverno,\n"
     .string "ho ancora qualche trucco.\p"
     .string "Vuoi una rivincita con me?$"
 
@@ -185,7 +185,7 @@ MahoganyTown_Gym_Text_PryceRematchDefeat:
     .string "supererai ogni ostacolo.$"
 
 MahoganyTown_Gym_Text_Guide:
-    .string "PRYCE è un veterano che allena\n"
+    .string "ALFREDO è un veterano che allena\n"
     .string "POKéMON da 50 anni.\p"
     .string "Ha una squadra solida di\n"
     .string "POKéMON per coprire qualsiasi\l"
@@ -194,7 +194,7 @@ MahoganyTown_Gym_Text_Guide:
     .string "ma attento alla pioggia!$"
 
 MahoganyTown_Gym_Text_GuideWin:
-    .string "PRYCE è forte, ma tu sei\n"
+    .string "ALFREDO è forte, ma tu sei\n"
     .string "un'altra cosa!\p"
     .string "È stata una bella lotta che\n"
     .string "ha unito le generazioni!$"
@@ -226,19 +226,19 @@ MahoganyTown_Gym_Text_BoarderBradAfter:
     .string "POKéMON!$"
 
 MahoganyTown_Gym_Text_BoarderDouglasSeen:
-    .string "So il segreto di PRYCE.$"
+    .string "So il segreto di ALFREDO.$"
 
 MahoganyTown_Gym_Text_BoarderDouglasBeaten:
-    .string "OK. Ti dico il segreto di PRYCE.$"
+    .string "OK. Ti dico il segreto di ALFREDO.$"
 
 MahoganyTown_Gym_Text_BoarderDouglasAfter:
-    .string "Il segreto di PRYCE…\p"
+    .string "Il segreto di ALFREDO…\p"
     .string "Medita sotto una cascata\n"
     .string "ogni giorno per temprare mente\l"
     .string "e corpo.$"
 
 MahoganyTown_Gym_Text_SkierRoxanneSeen:
-    .string "Per arrivare a PRYCE, il nostro\n"
+    .string "Per arrivare a ALFREDO, il nostro\n"
     .string "CAPOPALESTRA, pensa prima di scendere.$"
 
 MahoganyTown_Gym_Text_SkierRoxanneBeaten:

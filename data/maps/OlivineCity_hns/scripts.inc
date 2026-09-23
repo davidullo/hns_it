@@ -39,7 +39,7 @@ OlivineCity_Text_Baoba:
 	.string "la ZONA SAFARI!\p"
 	.string "Sai dov'è?\p"
 	.string "Conosci il CANCELLO nella caverna\n"
-	.string "di CIANWOOD?\p"
+	.string "di FIORLISOPOLI?\p"
 	.string "Se lo attraversi e cammini\n"
 	.string "un po', vedrai subito\l"
 	.string "la ZONA SAFARI!\p"
@@ -261,7 +261,7 @@ OlivineCity_EventScript_EonTicketWomanAfter::
 	end
 
 OlivineCity_Text_CafeSign:
-	.string "OLIVINE CAFE\n"
+	.string "CAFFÈ DI OLIVINOPOLI\n"
 	.string "DOVE I FORTI MARINAI GUSTANO\l"
 	.string "PASTI ROBUSTI E FORTI$"
 
@@ -305,7 +305,7 @@ OlivineCity_Text_Sailor2:
 	.string "la sesta\l"
 	.string "CAPOPALESTRA più forte!\p"
 	.string "Ah! Che sciocchezza.\p"
-	.string "PRYCE non potrebbe mai\n"
+	.string "ALFREDO non potrebbe mai\n"
 	.string "ferire i POKéMON di tipo\l"
 	.string "ACCIAIO di JASMINE!\p"
 	.string "Burocrazia, dico io.\p"
@@ -313,20 +313,20 @@ OlivineCity_Text_Sailor2:
 	.string "certo!$"
 
 OlivineCity_Text_Sign:
-	.string "OLIVINE\p"
+	.string "OLIVINOPOLI\p"
 	.string "Il porto più vicino alle terre lontane$"
 
 OlivineCity_Text_PortSign:
-	.string "PORTO DI OLIVINE\n"
+	.string "PORTO DI OLIVINOPOLI\n"
 	.string "MOLO DEL FAST SHIP$"
 
 OlivineCity_Text_GymSign:
-	.string "PALESTRA POKéMON DI OLIVINE\n"
+	.string "PALESTRA POKéMON DI OLIVINOPOLI\n"
 	.string "CAPO: JASMINE\p"
 	.string "La ragazza dalla difesa d'ACCIAIO$"
 
 OlivineCity_Text_LighthouseSign:
-	.string "FARO DI OLIVINE\n"
+	.string "FARO DI OLIVINOPOLI\n"
 	.string "Detto anche il FARO\l"
 	.string "SCINTILLANTE$"
 

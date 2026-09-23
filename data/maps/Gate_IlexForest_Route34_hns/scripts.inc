@@ -20,8 +20,8 @@ Route34IlexForestGate_EventScript_Butterfree::
 	end
 
 Route34IlexForestGate_Text_Lass:
-	.string "Hai visto il santuario dedi\n"
-	.string "cato al protettore?\p"
+	.string "Hai visto il santuario\n"
+	.string "dedicato al protettore?\p"
 	.string "Veglia sulla FORESTA da\n"
 	.string "ogni tempo.\p"
 	.string "Penso che sia un POKéMON\n"

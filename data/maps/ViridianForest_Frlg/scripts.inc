@@ -165,6 +165,6 @@ ViridianForest_Text_WeakenMonsBeforeCapture::
 	.string "Se in salute, possono scappare!$"
 
 ViridianForest_Text_LeavingViridianForest::
-	.string "USCITA DALLA FORESTA DI VIRIDIAN\n"
+	.string "USCITA DALLA FORESTA DI SMERALDOPOLI\n"
 	.string "PROSSIMA TAPPA PLUMBEOPOLI$"
 

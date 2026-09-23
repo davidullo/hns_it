@@ -179,8 +179,8 @@ FuchsiaCity_Gym_Text_NatePostBattle::
 
 FuchsiaCity_Gym_Text_PhilIntro::
 	.string "Fermati lì!\p"
-	.string "I muri invisibili della\n"
-	.string "PALESTRA FUCHSIA ti ingannano?$"
+	.string "I muri invisibili della PALESTRA\n"
+	.string "DI FUCSIAPOLI ti ingannano?$"
 
 FuchsiaCity_Gym_Text_PhilDefeat::
 	.string "Uau!\n"
@@ -222,7 +222,7 @@ FuchsiaCity_Gym_Text_ShawnPostBattle::
 FuchsiaCity_Gym_Text_GymGuyAdvice::
 	.string "Ehi!\n"
 	.string "Campione in erba!\p"
-	.string "La PALESTRA di FUCHSIA è un\n"
+	.string "La PALESTRA di FUCSIAPOLI è un\n"
 	.string "posto pieno di muri invisibili!\p"
 	.string "KOGA può sembrare vicino, ma è\n"
 	.string "bloccato.\p"

@@ -236,8 +236,8 @@ ViridianCity_Gym_Text_ColePostBattle::
 	.string "Sono stato solo distratto!$"
 
 ViridianCity_Gym_Text_SamuelIntro::
-	.string "La PALESTRA di VIRIDIAN è rimasta\n"
-	.string "chiusa a lungo.\p"
+	.string "La PALESTRA di SMERALDOPOLI è\n"
+	.string "rimasta chiusa a lungo.\p"
 	.string "Ma ora il nostro CAPO è tornato!$"
 
 ViridianCity_Gym_Text_SamuelDefeat::
@@ -252,7 +252,7 @@ ViridianCity_Gym_Text_GymGuyAdvice::
 	.string "Yo!\n"
 	.string "Campione in erba!\p"
 	.string "Neppure io conosco l'identità del\n"
-	.string "CAPO di VIRIDIAN.\p"
+	.string "CAPO di SMERALDOPOLI.\p"
 	.string "Ma una cosa è certa.\n"
 	.string "Sarà il più forte di tutti\l"
 	.string "i CAPOPALESTRA.\p"
@@ -261,16 +261,16 @@ ViridianCity_Gym_Text_GymGuyAdvice::
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
 	.string "Ma dai! GIOVANNI era il\n"
-	.string "CAPO della PALESTRA di VIRIDIAN?$"
+	.string "CAPO della PALESTRA\ndi SMERALDOPOLI?$"
 
 ViridianCity_Gym_Text_GymStatue::
-	.string "PALESTRA POKéMON DI VIRIDIAN\n"
+	.string "PALESTRA POKéMON DI SMERALDOPOLI\n"
 	.string "CAPO: ?\p"
 	.string "ALLENATORI VINCENTI:\n"
 	.string "{RIVAL}$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-	.string "PALESTRA POKéMON DI VIRIDIAN\n"
+	.string "PALESTRA POKéMON DI SMERALDOPOLI\n"
 	.string "CAPO: GIOVANNI\p"
 	.string "ALLENATORI VINCENTI:\n"
 	.string "{RIVAL}, {PLAYER}$"

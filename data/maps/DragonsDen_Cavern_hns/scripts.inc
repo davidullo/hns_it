@@ -142,7 +142,7 @@ DragonsDen_Cavern_Movement_ClairLeaveRight:
 	step_end
 
 DragonsDen_Cavern_Text_Clair_GiveTM:
-    .string "CLAIR: ASPETTA!\p"
+    .string "SANDRA: ASPETTA!\p"
 	.string "Scusa per questo.\n"
     .string "Tieni, questo è per scusarmi.$"
 

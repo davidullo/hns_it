@@ -18,7 +18,7 @@ OlivineCity_EventScript_PunisherBoy::
 	end
 
 OlivineCity_Text_PunishmentBro:
-	.string "Verso CIANWOOD\n"
+	.string "Verso FIORLISOPOLI\n"
 	.string "ci sono quattro isole deserte.\p"
 	.string "I bimbi cattivi vengono portati lì\n"
 	.string "come punizione!$"

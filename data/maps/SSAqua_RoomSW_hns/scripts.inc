@@ -26,7 +26,7 @@ SSAqua_RoomSW_Text_BeautyCassieAfterBattle:
 
 SSAqua_RoomSW_Text_GuitaristClydeSeen:
     .string "Vado a far sentire le mie canzoni\n"
-    .string "alla RADIO di GOLDENROD.$"
+    .string "alla RADIO di FIORDOROPOLI.$"
 
 SSAqua_RoomSW_Text_GuitaristClydeBeaten:
     .string "Uau! Distorsione totale!$"
@@ -34,7 +34,7 @@ SSAqua_RoomSW_Text_GuitaristClydeBeaten:
 SSAqua_RoomSW_Text_GuitaristClydeAfterBattleMobile:
     .string "Dovevo debuttare alla\n"
     .string "TORRE LOTTA…\p"
-    .string "Meglio tornare a VERMILION e\n"
+    .string "Meglio tornare ad ARANCIOPOLI e\n"
     .string "riprendere l'allenamento…$"
 
 SSAqua_RoomSW_Text_GuitaristClydeAfterBattle:

@@ -37,7 +37,7 @@ SaffronCity_PokemonCenter1F_Text_Fisher:
 	.string "CENTRALE ELETTRICA.$"
 
 SaffronCity_PokemonCenter1F_Text_Fisher_ReturnedPart:
-	.string "C'è una grotta strana a CERULEAN.\p"
+	.string "C'è una grotta strana a CELESTOPOLI.\p"
 	.string "Da HIKER esperto dovrei esplorarla,\n"
 	.string "ma quel posto spaventa anche me.$"
 

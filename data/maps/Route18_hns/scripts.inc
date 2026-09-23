@@ -46,7 +46,7 @@ Route18_Text_BirdKeeperBorisAfterBattle:
 
 Route18_Text_BirdKeeperBobSeen:
 	.string "La PISTA CICLABILE è una scorciatoia\n"
-	.string "per CELADON.$"
+	.string "per AZZURROPOLI.$"
 
 Route18_Text_BirdKeeperBobBeaten:
 	.string "…Fiuu!$"

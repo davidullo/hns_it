@@ -233,7 +233,7 @@ BlackthornGym_EventScript_ClairAfterLeague::
 	end
 
 BlackthornGym_Text_ClairIntroText:
-    .string "Sono CLAIR.\p"
+    .string "Sono SANDRA.\p"
     .string "La miglior maestra di Draghi.\p"
     .string "Reggo bene persino contro l'ALTO\n"
     .string "COMANDO della LEGGA POKéMON.\p"
@@ -323,13 +323,13 @@ BlackthornGym_Text_CooltrainermCodyAfterBattleText:
 BlackthornGym_Text_CooltrainerfFranSeenText:
     .string "Non posso lasciar passare\n"
     .string "un allenatore anonimo!\p"
-    .string "CLAIR si arrabbierebbe!$"
+    .string "SANDRA si arrabbierebbe!$"
 
 BlackthornGym_Text_CooltrainerfFranBeatenText:
     .string "Oh no… Ho perso…$"
 
 BlackthornGym_Text_CooltrainerfFranAfterBattleText:
-    .string "Uh oh… CLAIR sarà furiosa…$"
+    .string "Uh oh… SANDRA sarà furiosa…$"
 
 BlackthornGym_Text_CooltrainermPaulSeenText:
     .string "Prima volta contro i Draghi?\p"
@@ -391,7 +391,7 @@ BlackthornGym_Text_GuideText:
     .string "Ehi! Futuro CAMPIONE\p"
     .string "È stato un lungo viaggio, ma\n"
     .string "quasi finito! Conta su di me!\p"
-    .string "Mentre CLAIR ammira il Maestro\n"
+    .string "Mentre SANDRA ammira il Maestro\n"
     .string "dei Draghi, LANCE, è riuscita a\l"
     .string "crearsi una sua identità con\l"
     .string "una squadra di draghi del\l"
@@ -404,14 +404,14 @@ BlackthornGym_Text_GuideText:
     .string "Ce la fai!$"
 
 BlackthornGym_Text_GuideGotoDragonsDen:
-	.string "Grande, hai battuto CLAIR!\p"
+	.string "Grande, hai battuto SANDRA!\p"
     .string "Però quando perde è un po'\n"
 	.string "permale\p"
     .string "Per la TARGA devi andare\n"
     .string "all'ANTRO DEL DRAGO!$"
 
 BlackthornGym_Text_GuideWinText:
-    .string "Complimenti, hai battuto CLAIR!\p"
+    .string "Complimenti, hai battuto SANDRA!\p"
     .string "Manca solo la LEGA\n"
     .string "POKéMON.\p"
     .string "Stai per diventare il\n"
@@ -437,5 +437,5 @@ BlackthornGym_Text_GymStatue:
 
 BlackthornGym_Text_GymStatueCertified:
 	.string "PALESTRA DI FIOCCONIGLIA\p"
-	.string "ALLENATORI DI CLAIR:\n"
+	.string "ALLENATORI DI SANDRA:\n"
 	.string "{PLAYER}$"

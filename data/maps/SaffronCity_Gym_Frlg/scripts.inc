@@ -216,8 +216,8 @@ SaffronCity_Gym_Text_CameronPostBattle::
 	.string "deciso di tenerne una sola.$"
 
 SaffronCity_Gym_Text_PrestonIntro::
-	.string "La PALESTRA di ZAFFERANOPOLI è famosa\n"
-	.string "per gli allenatori psichici.\p"
+	.string "La PALESTRA di ZAFFERANOPOLI è\n"
+	.string "famosa per gli allenatori psichici.\p"
 	.string "Vuoi vedere SABRINA, vero?\n"
 	.string "Si vede!$"
 

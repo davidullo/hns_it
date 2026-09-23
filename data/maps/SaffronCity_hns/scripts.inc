@@ -149,7 +149,7 @@ SaffronCity_Text_Youngster1:
 
 SaffronCity_Text_Youngster2:
 	.string "C'è un posto chiamato SALA\n"
-	.string "CONCORSI a VIRIDIAN, dove gli\l"
+	.string "CONCORSI a SMERALDOPOLI, dove gli\l"
 	.string "allenatori arrivano da ovunque.$"
 
 SaffronCity_Text_Lass2:

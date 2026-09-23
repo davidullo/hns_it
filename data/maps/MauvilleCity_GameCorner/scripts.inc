@@ -974,7 +974,7 @@ MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
 MauvilleCity_GameCorner_Text_NoRoomFor50Coins:
 	.string "Oh! Il tuo PORTAGETTONI è troppo pieno\n"
 	.string "per altri GETTONI!\p"
-	.string "Goditi il GOLDENROD GAME CORNER o\n"
+	.string "Goditi il CASINÒ DI FIORDOROPOLI o\n"
 	.string "scambia i GETTONI con dei premi,\l"
 	.string "poi torna!$"
 

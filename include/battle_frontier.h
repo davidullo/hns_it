@@ -8,7 +8,7 @@ struct BattleFrontierTrainer
 {
     u8 facilityClass;
     u8 filler1[3];
-    u8 trainerName[PLAYER_NAME_LENGTH + 1];
+    u8 trainerName[TRAINER_NAME_LENGTH + 1]; // eccezione IT: i nomi dei capipalestra tradotti superano i 7 caratteri
     u16 speechBefore[EASY_CHAT_BATTLE_WORDS_COUNT];
     u16 speechWin[EASY_CHAT_BATTLE_WORDS_COUNT];
     u16 speechLose[EASY_CHAT_BATTLE_WORDS_COUNT];

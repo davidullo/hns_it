@@ -166,5 +166,5 @@ Route20_Text_SwimmermCameronAfterBattle:
 
 Route20_Text_CinnabarIsland_GymUnusedSign:
 	.string "Cosa dice questo cartello?\p"
-	.string "CAPOPALESTRA DI CINNABAR: BLAINE$"
+	.string "CAPOPALESTRA DI ISOLA\nCANNELLA: BLAINE$"
 

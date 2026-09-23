@@ -58,7 +58,7 @@ PewterCity_EventScript_Cooltrainer::
 	end
 
 PewterCity_Text_CooltrainerF:
-	.string "Hai visitato la PALESTRA di PEWTER?\p"
+	.string "Hai visitato la PALESTRA\ndi PLUMBEOPOLI?\p"
 	.string "Il CAPO usa POKéMON di tipo ROCCIA.$"
 
 PewterCity_Text_BugCatcher:
@@ -106,19 +106,19 @@ PewterCity_Text_Sign:
 	.string "Una città grigio pietra$"
 
 PewterCity_Text_GymSign:
-	.string "PALESTRA POKéMON DI PEWTER\n"
+	.string "PALESTRA POKéMON DI PLUMBEOPOLI\n"
 	.string "CAPO: BROCK\p"
 	.string "L'Allenatore dalle rocce solide$"
 
 PewterCity_Text_MuseumSign:
 	.string "C'è un avviso…\p"
-	.string "Il MUSEO DELLA SCIENZA di PEWTER è\n"
-	.string "chiuso per lavori…$"
+	.string "Il MUSEO DELLA SCIENZA\n"
+	.string "di PLUMBEOPOLI è chiuso per lavori…$"
 
 PewterCity_Text_MtMoonGiftShopSign:
 	.string "C'è un avviso qui…\p"
 	.string "IL NEGOZIO DI MT.MOON È APERTO!$"
 
 PewterCity_Text_WelcomeSign:
-	.string "BENVENUTI A PEWTER!$"
+	.string "BENVENUTI A PLUMBEOPOLI!$"
 

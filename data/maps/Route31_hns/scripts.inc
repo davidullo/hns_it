@@ -194,13 +194,13 @@ Route31_Text_Youngster:
 	.string "Ho trovato un POKéMON forte nella\n"
 	.string "GROTTA BUIO.\p"
 	.string "Lo alleverò per sfidare\n"
-	.string "FALKNER.\p"
+	.string "VALERIO.\p"
 	.string "È il capo della PALESTRA di\n"
 	.string "VIOLETTO.$"
 
 Route31_Text_Sign:
 	.string "PERCORSO 31\p"
-	.string "VIOLETTO - CHERRYGROVE$"
+	.string "VIOLETTO - FIORPESCOPOLI$"
 
 Route31_Text_WadeRegister:
 	.string "Sei fantastico! Mi piaci!\p"

@@ -293,7 +293,7 @@ OlivineCity_Gym_Text_JasmineBetterTrainer:
 	.string "ti conferisco questa MEDAGLIA.$"
 
 OlivineCity_Gym_Text_ReceivedMineralBadge:
-	.string "{PLAYER} riceve la MINERALBADGE.$"
+	.string "{PLAYER} riceve la MEDAGLIA MINERALE.$"
 
 OlivineCity_Gym_Text_JasmineBadgeSpeech:
 	.string "La MEDAGLIA MINERALE aumenta la \n"
@@ -334,10 +334,10 @@ OlivineCity_Gym_EventScript_Statue2::
 	end
 
 OlivineCity_Gym_Text_GymStatue:
-	.string "PALESTRA POKéMON DI OLIVINE$"
+	.string "PALESTRA POKéMON DI OLIVINOPOLI$"
 
 OlivineCity_Gym_Text_GymStatueCertified:
-	.string "PALESTRA POKéMON DI OLIVINE\p"
+	.string "PALESTRA POKéMON DI OLIVINOPOLI\p"
 	.string "ALLENATORI CERTIFICATI DI JASMINE:\n"
 	.string "{PLAYER}$"
 

@@ -378,4 +378,4 @@ FuchsiaCity_SafariZoneEntrance_Text_StevenTradeCompleted:
 FuchsiaCity_SafariZoneEntrance_Text_MaxLevel:
 	.string "Ciao {PLAYER}, grazie per\n"
 	.string "essere ancora un membro premium\l"
-	.string "alla ZONA SAFARI FUCHSIA.$"
+	.string "alla ZONA SAFARI FUCSIAPOLI.$"

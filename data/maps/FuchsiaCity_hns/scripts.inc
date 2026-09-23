@@ -25,7 +25,7 @@ FuchsiaCity_Text_Baoba:
 	.string "Sono il GUARDIANO BAOBA.\p"
 	.string "È successo qualcosa di grave!\n"
 	.string "La mia vecchia ZONA SAFARI di\l"
-	.string "FUCHSIA è stata comprata e\p"
+	.string "FUCSIAPOLI è stata comprata e\p"
 	.string "riaperta! Pare che abbia POKéMON\n"
 	.string "esotici!\p"
 	.string "Danneggia i miei affari!\p"
@@ -98,7 +98,7 @@ FuchsiaCity_EventScript_SafariZone::
 
 FuchsiaCity_Text_Youngster:
 	.string "Uno dei SUPERQUATTRO era\n"
-	.string "il CAPOPALESTRA di FUCHSIA.$"
+	.string "il CAPOPALESTRA di FUCSIAPOLI.$"
 
 FuchsiaCity_Text_PokefanM:
 	.string "La figlia di KOGA gli è succeduta\n"
@@ -115,7 +115,7 @@ FuchsiaCity_Text_Sign:
 	.string "Ammira! Il Rosa Passione!$"
 
 FuchsiaCity_Text_GymSign:
-	.string "PALESTRA DI FUCHSIA\n"
+	.string "PALESTRA DI FUCSIAPOLI\n"
 	.string "CAPO: JANINE\p"
 	.string "La Maestra Ninja del Veleno$"
 

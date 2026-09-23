@@ -33,7 +33,7 @@ CeladonCity_PokemonCenter_1F_Text_PokeFluteAwakensSleepingMons::
 	.string "loro sentono.$"
 
 CeladonCity_PokemonCenter_1F_Text_RodeHereFromFuchsia::
-	.string "Ho pedalato da FUCHSIA.\p"
+	.string "Ho pedalato da FUCSIAPOLI.\p"
 	.string "È tutta in salita sulla PISTA\n"
 	.string "CICLABILE: che fatica!$"
 

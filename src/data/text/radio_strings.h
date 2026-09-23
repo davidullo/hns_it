@@ -229,7 +229,7 @@ static const u8 sRadioText_Buena3[] = _("Vediamo… È");
 // "{password}!" built dynamically with STR_VAR_1
 static const u8 sRadioText_Buena4[] = _("{STR_VAR_1}!");
 static const u8 sRadioText_Buena5[] = _("Non scordarla! Sono alla");
-static const u8 sRadioText_Buena6[] = _("TORRE RADIO di GOLDENROD!");
+static const u8 sRadioText_Buena6[] = _("TORRE RADIO di FIORDOROPOLI!");
 
 
 // ==========================================================
@@ -238,7 +238,7 @@ static const u8 sRadioText_Buena6[] = _("TORRE RADIO di GOLDENROD!");
 
 static const u8 sRadioBuenaPassword_NewBarkTown[]     = _("FIORNETO");
 static const u8 sRadioBuenaPassword_CherrygroveCity[]  = _("CILIANWOOD");
-static const u8 sRadioBuenaPassword_AzaleaTown[]      = _("AZALEA");
+static const u8 sRadioBuenaPassword_AzaleaTown[]      = _("AZALINA");
 static const u8 sRadioBuenaPassword_Flying[]          = _("VOLANTE");
 static const u8 sRadioBuenaPassword_Bug[]             = _("COLEOTTERO");
 static const u8 sRadioBuenaPassword_Grass[]           = _("ERBA");

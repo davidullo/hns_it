@@ -112,7 +112,7 @@ Route10_PowerPlantEntrance_Text_Officer1AThiefBrokeIn:
 	.string "Dove andremo a finire?$"
 
 Route10_PowerPlantEntrance_Text_Officer1CeruleanShadyCharacter:
-	.string "Ho appena saputo da CERULEAN.\p"
+	.string "Ho appena saputo da CELESTOPOLI.\p"
 	.string "Sembra che un tipo losco\n"
 	.string "si aggiri\l"
 	.string "nei paraggi.$"

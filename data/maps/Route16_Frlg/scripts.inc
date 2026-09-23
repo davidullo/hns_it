@@ -112,8 +112,8 @@ Route16_Text_HideoDefeat::
 Route16_Text_HideoPostBattle::
 	.string "Restiamo sempre qui in giro,\n"
 	.string "che ti piaccia o no.\p"
-	.string "Puoi passare da VERMILION\n"
-	.string "seguendo la costa da FUCHSIA.$"
+	.string "Puoi passare da ARANCIOPOLI\n"
+	.string "seguendo la costa da FUCSIAPOLI.$"
 
 Route16_Text_CamronIntro::
 	.string "Ho fame e sono nervoso!\n"
@@ -151,7 +151,7 @@ Route16_Text_CyclingRoadSign::
 
 Route16_Text_RouteSign::
 	.string "PERCORSO 16\n"
-	.string "CELESTOPOLI - FUCHSIA$"
+	.string "CELESTOPOLI - FUCSIAPOLI$"
 
 Route16_Text_JedIntro::
 	.string "JED: Il nostro amore è infinito.\n"

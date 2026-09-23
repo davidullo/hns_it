@@ -7,5 +7,5 @@ UndergroundPath_WestEntrance_EventScript_BaldingMan::
 
 UndergroundPath_WestEntrance_Text_SleepyMonNearCeladon::
 	.string "Ho sentito che è apparso un POKéMON\n"
-	.string "assonnato vicino a CELADON, pure.$"
+	.string "assonnato vicino ad AZZURROPOLI.$"
 

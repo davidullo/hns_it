@@ -90,7 +90,7 @@ BurnedTower_1FEusineText:
 	.string "Ma dove può stare esattamente?$"
 
 BurnedTower_1FMortyText:
-	.string "MORTY: Il CAPOPALESTRA di\n"
+	.string "ANGELO: Il CAPOPALESTRA di\n"
 	.string "FIORDORISO deve studiare i\l"
 	.string "POKéMON leggendari, ossia\l"
 	.string "SUICUNE, ENTEI e RAIKOU.\p"

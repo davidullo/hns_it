@@ -216,25 +216,25 @@ SafariZoneGate_SafariZoneEntrance_Text_BaobaBeach:
 	.string "Ah, {PLAYER}!\p"
 	.string "Hai portato un POKéMON esotico\n"
 	.string "dalla zona SPIAGGIA della ZONA\l"
-	.string "SAFARI di FUCHSIA per mostrarmelo?$"
+	.string "SAFARI di FUCSIAPOLI da mostrarmi?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBrush:
 	.string "Ah, {PLAYER}!\p"
 	.string "Hai portato un POKéMON esotico\n"
 	.string "dalla zona SIEPI della ZONA\l"
-	.string "SAFARI di FUCHSIA per mostrarmelo?$"
+	.string "SAFARI di FUCSIAPOLI da mostrarmi?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaMountain:
 	.string "Ah, {PLAYER}!\p"
 	.string "Hai portato un POKéMON esotico\n"
-	.string "dalla zona MONTAGNA della\l"
-	.string "ZONA SAFARI di FUCHSIA per mostrarmelo?$"
+	.string "dalla zona MONTAGNA della ZONA\l"
+	.string "SAFARI di FUCSIAPOLI da mostrarmi?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaCave:
 	.string "Ah, {PLAYER}!\p"
 	.string "Hai portato un POKéMON esotico\n"
 	.string "dalla zona GROTTA della ZONA\l"
-	.string "SAFARI di FUCHSIA per mostrarmelo?$"
+	.string "SAFARI di FUCSIAPOLI da mostrarmi?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaDeclined:
 	.string "E ora che faccio?\n"

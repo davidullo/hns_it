@@ -625,7 +625,7 @@ GoldenrodCity_GameCorner_Text_Woman:
 GoldenrodCity_GameCorner_Text_PokefanM1:
     .string "Adoro questa nuova slot.\p"
     .string "È più impegnativa di quelle\n"
-    .string "di CELADON.$"
+    .string "di AZZURROPOLI.$"
 
 GoldenrodCity_GameCorner_Text_CooltrainerM:
     .string "La vita è un azzardo. Tiro\n"

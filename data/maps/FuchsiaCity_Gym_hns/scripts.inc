@@ -90,7 +90,7 @@ FuchsiaCity_Gym_Text_Janine_DisappointYou:
 	.string "Mi spiace deluderti…\p"
 	.string "Sto scherzando!\p"
 	.string "Sono quella vera!\p"
-	.string "JANINE della PALESTRA FUCHSIA!$"
+	.string "JANINE della PALESTRA\nDI FUCSIAPOLI!$"
 
 FuchsiaCity_Gym_Text_Janine_ToughOne:
 	.string "JANINE: Sei forte davvero. Hai\n"
@@ -276,13 +276,13 @@ FuchsiaCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 FuchsiaCity_Gym_Text_GymStatue::
-    .string "PALESTRA FUCHSIA\n"
+    .string "PALESTRA DI FUCSIAPOLI\n"
     .string "CAPO: JANINE\p"
 	.string "VINCITORI:\n"
 	.string "BLU, ROSSO$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-    .string "PALESTRA FUCHSIA\n"
+    .string "PALESTRA DI FUCSIAPOLI\n"
     .string "CAPO: JANINE\p"
     .string "VINCITORI:\n"
     .string "BLU, ROSSO, {PLAYER}$"

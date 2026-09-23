@@ -24,8 +24,8 @@ VermilionCity_House3_EventScript_Letter::
 	end
 
 VermilionCity_House3_Text_PidgeyFlyLetterToSaffron::
-	.string "Sto facendo volare il mio PIDGEY\n"
-	.string "con una lettera a ZAFFERANOPOLI, a nord.$"
+	.string "Sto facendo volare il mio PIDGEY con\n"
+	.string "una lettera per ZAFFERANOPOLI.$"
 
 VermilionCity_House3_Text_Pidgey::
 	.string "PIDGEY: Kurukkoo!$"

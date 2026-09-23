@@ -111,7 +111,7 @@ GoldenrodCity_FlowerShop_EventScript_Floria3::
 GoldenrodCity_FlowerShop_Text_Floria:
 	.string "Quando ho detto a mia sorella\n"
 	.string "dell'albero, ha detto che e' pericoloso.\p"
-	.string "Se batto WHITNEY, chissa' se\n"
+	.string "Se batto CHIARA, chissa' se\n"
 	.string "mi presta la bottiglia d'acqua…$"
 
 GoldenrodCity_FlowerShop_Text_Owner1:
@@ -125,7 +125,7 @@ GoldenrodCity_FlowerShop_Text_Owner1:
 .string "Ma non posso dartene uno!\n"
 .string "È pericoloso!\p"
 .string "Beh, forse se riesci a\n"
-.string "battere WHITNEY, forse\l"
+.string "battere CHIARA, forse\l"
 .string "va bene.$"
 
 GoldenrodCity_FlowerShop_Text_Owner2:
@@ -133,9 +133,9 @@ GoldenrodCity_FlowerShop_Text_Owner2:
 .string "sul PERCORSO 36.\p"
 .string "Dicono che balli se lo innaffi\n"
 .string "...\p"
-.string "Oh, è una PLAINBADGE della\n"
-.string "PALESTRA di GOLDENROD!\p"
-.string "Hai battuto WHITNEY?!\p"
+.string "Oh, è una MEDAGLIA PIANA\n"
+.string "PALESTRA di FIORDOROPOLI!\p"
+.string "Hai battuto CHIARA?!\p"
 .string "Beh, allora non c'è da\n"
 .string "preoccuparsi, no?\p"
 .string "Ti presto questa\n"
@@ -152,7 +152,7 @@ GoldenrodCity_FlowerShop_Text_Owner4:
     .string "acqua, tesoro!$"
 
 GoldenrodCity_FlowerShop_Text_FloriaYouBeatWhitney:
-    .string "Wow, hai battuto WHITNEY? Che forte!$"
+    .string "Wow, hai battuto CHIARA? Che forte!$"
 
 GoldenrodCity_FlowerShop_Text_FloriaItWasAMon:
     .string "Quindi era davvero un POKéMON!$"

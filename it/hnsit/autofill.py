@@ -49,6 +49,9 @@ NAME_KINDS = {
     "location",
     "region",
     "genus",
+    # stati alterati (assideramento): servono ai testi di servizio e alle
+    # stringhe di battaglia, non a un array di nomi di specie/mosse
+    "status",
 }
 # ordine di preferenza quando piu' tipi combaciano
 KIND_ORDER = [

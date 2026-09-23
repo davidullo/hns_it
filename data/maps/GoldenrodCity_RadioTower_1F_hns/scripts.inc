@@ -46,15 +46,15 @@ RadioTower1F_EventScript_Whitney::
 	end
 
 RadioTower1F_Text_Whitney1::
-	.string "WHITNEY: Ciao!\p"
-	.string "Mi chiamo WHITNEY!\p"
+	.string "CHIARA: Ciao!\p"
+	.string "Mi chiamo CHIARA!\p"
 	.string "Ho saputo del QUIZ per la\n"
 	.string "RADIO CARD, così sono venuta a\l"
 	.string "prenderne una...\p"
 	.string "Ma è difficilissimo!$"
 
 RadioTower1F_Text_Whitney2::
-	.string "WHITNEY: Wow, ce l'hai fatta!\p"
+	.string "CHIARA: Wow, ce l'hai fatta!\p"
 	.string "Credevo che la risposta alla terza\n"
 	.string "fosse di certo le ghicocche!\l"
 	.string "Ops!\p"
@@ -199,14 +199,14 @@ RadioTower1F_Text_QuizQuestion3:
 RadioTower1F_Text_QuizQuestion4:
     .string "Fin qui tutto bene!\n"
     .string "Domanda 4:\p"
-    .string "FALKNER è il CAPOPALESTRA di\n"
+    .string "VALERIO è il CAPOPALESTRA di\n"
     .string "VIOLETTO che usa POKéMON uccello?$"
 
 RadioTower1F_Text_QuizQuestion5:
     .string "Wow! Ancora giusto!\n"
     .string "Ecco l'ultima domanda:\p"
     .string "Le slot della SALA GIOCHI di\n"
-    .string "GOLDENROD hanno CHARMANDER?$"
+    .string "FIORDOROPOLI hanno CHARMANDER?$"
 
 RadioTower1F_Text_QuizWin:
     .string "Bingo! Hai indovinato!\n"

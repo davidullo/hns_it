@@ -20,8 +20,8 @@ Ecruteak_Text_ItemfinderExplanation:
 	.string "c'è uno strumento vicino a te.\p"
 	.string "Non mostra il punto esatto,\n"
 	.string "quindi cerca tu da solo.\p"
-	.string "Ah sì, ci sono degli oggetti\n"
-	.string "nella TORRE BRUCIATA di ECRUTEAK.$"
+	.string "Ah sì, ci sono degli oggetti nella\n"
+	.string "TORRE BRUCIATA di AMARANTOPOLI.$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
 	.string "Oh… Ognuno ha i suoi gusti…$"
@@ -69,16 +69,16 @@ EcruteakCity_House2_EventScript_Book3::
 	end
 
 Ecruteak_Text_ItemFinderMan::
-	.string "ECRUTEAK è molto antica.\n"
+	.string "AMARANTOPOLI è molto antica.\n"
 	.string "Generazioni tramandano\l"
 	.string "la loro storia in libri così.$"
 
 Ecruteak_Text_HistoryBook:
-	.string "STORIA DI ECRUTEAK\p"
+	.string "STORIA DI AMARANTOPOLI\p"
 	.string "Vuoi leggerlo?$"
 
 Ecruteak_Text_TwoTowers:
-	.string "A ECRUTEAK c'erano due torri.\p"
+	.string "Ad AMARANTOPOLI c'erano due torri.\p"
 	.string "Ognuna era il trespolo di\n"
 	.string "potenti POKéMON volanti.\p"
 	.string "Ma una torre bruciò fino al\n"
@@ -88,7 +88,7 @@ Ecruteak_Text_TwoTowers:
 	.string "Continuo?$"
 
 Ecruteak_Text_ThreeMon:
-	.string "ECRUTEAK ospitava anche tre\n"
+	.string "AMARANTOPOLI ospitava anche tre\n"
 	.string "POKéMON che correvano in città.\p"
 	.string "Si dice che siano nati\n"
 	.string "da acqua, fulmini e fuoco.\p"

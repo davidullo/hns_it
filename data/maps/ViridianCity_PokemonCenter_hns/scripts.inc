@@ -25,17 +25,17 @@ ViridianCity_PokemonCenter_EventScript_BugCatcher::
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM:
 	.string "Dov'è finito il CAPOPALESTRA di\n"
-	.string "VIRIDIAN? Volevo sfidarlo.$"
+	.string "SMERALDOPOLI? Volevo sfidarlo.$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM_BlueReturned:
 	.string "Non ci sono ALLENATORI alla\n"
-	.string "PALESTRA di VIRIDIAN.\p"
+	.string "PALESTRA di SMERALDOPOLI.\p"
 	.string "Il CAPO dice che la sua politica è\n"
 	.string "vincere senza sottoposti.$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerF:
 	.string "Ho sentito che la PALESTRA di\n"
-	.string "CINNABAR non c'è più.\p"
+	.string "ISOLA CANNELLA non c'è più.\p"
 	.string "Chissà che fine ha fatto BLAINE,\n"
 	.string "il CAPOPALESTRA.$"
 

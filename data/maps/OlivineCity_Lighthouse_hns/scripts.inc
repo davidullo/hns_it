@@ -43,8 +43,8 @@ OlivineLighthouse_Text_1FSailor:
 	.string "gli allenatori che ci sono dentro.$"
 
 OlivineLighthouse_Text_1FPokefanF:
-	.string "In passato, i POKéMON illuminavano\n"
-	.string "il mare intorno a OLIVINE di notte.\p"
+	.string "Di notte, i POKéMON illuminavano\n"
+	.string "il mare intorno ad OLIVINOPOLI.\p"
 	.string "Il FARO fu costruito in onore\n"
 	.string "di quei nobili POKéMON.$"
 
@@ -156,7 +156,7 @@ OlivineLighthouse_Text_SailorTerrellBeaten:
 	.string "Sei gentile e forte…$"
 
 OlivineLighthouse_Text_SailorTerrellAfter:
-	.string "Ogni volta che torno a OLIVINE,\n"
+	.string "Ogni volta che torno ad OLIVINOPOLI,\n"
 	.string "visito la PALESTRA.\p"
 	.string "Il tipo dei POKéMON del CAPOPALESTRA\n"
 	.string "è cambiato senza che me ne accorgessi.$"
@@ -195,7 +195,7 @@ OlivineLighthouse_Text_SailorKentBeaten:
 
 OlivineLighthouse_Text_SailorKentAfter:
 	.string "A proposito di malati, ho sentito che\n"
-	.string "c'è una buona FARMACIA a CIANWOOD.$"
+	.string "c'è una FARMACIA a FIORLISOPOLI.$"
 
 OlivineLighthouse_Text_LassConnieSeen:
 	.string "JASMINE è la CAPOPALESTRA di qui.\p"
@@ -246,7 +246,7 @@ OlivineLighthouse_Text_BirdKeeperDenisBeaten:
 
 OlivineLighthouse_Text_BirdKeeperDenisAfter:
 	.string "I miei POKéMON hanno imparato VOLO a\n"
-	.string "CIANWOOD.\p"
+	.string "FIORLISOPOLI.\p"
 	.string "Beh, dato che ho perso, userò VOLO\n"
 	.string "per attraversare il mare…$"
 
@@ -299,7 +299,7 @@ OlivineLighthouse_Text_JasmineCianwoodPharmacy:
 	.string "…Ma si è ammalato… È\n"
 	.string "senza fiato…\p"
 	.string "…So che c'è una\n"
-	.string "FARMACIA a CIANWOOD…\p"
+	.string "FARMACIA a FIORLISOPOLI…\p"
 	.string "Ma è oltre il mare…\n"
 	.string "E non posso lasciare AMPHY…$"
 
@@ -309,7 +309,7 @@ OlivineLighthouse_Text_JasmineGetMedicine:
 
 OlivineLighthouse_Text_JasmineGetMedicine2:
 	.string "C'è una FARMACIA fantastica\n"
-	.string "a CIANWOOD…\p"
+	.string "a FIORLISOPOLI…\p"
 	.string "Ma è oltre il mare…\n"
 	.string "E non posso lasciare AMPHY da solo…\p"
 	.string "…Potresti prendermi una medicina?\n"

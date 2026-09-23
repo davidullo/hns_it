@@ -796,7 +796,7 @@ SaffronCity_FightingDojoVIP_Text_Pryce_Rematch:
 	.string "Sono impressionato.\p"
 	.string "Ma c'è sempre molto da\n"
 	.string "imparare l'uno dall'altro.\p"
-	.string "Io, PRYCE, allenatore d'inverno,\p"
+	.string "Io, ALFREDO, allenatore d'inverno,\p"
 	.string "ho ancora qualche trucco.\p"
 	.string "Vuoi una rivincita con me?$"
 

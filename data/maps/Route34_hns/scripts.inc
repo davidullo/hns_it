@@ -212,8 +212,8 @@ Route34_Text_PokefanBrandon_Beaten:
 	.string "Perché finisce sempre così?$"
 
 Route34_Text_PokefanBrandon_After:
-	.string "My POKéMON came back with new moves.\p"
-	.string "That confounded me to no end!$"
+	.string "Il mio POKéMON ha nuove mosse.\p"
+	.string "Che confusione!$"
 
 Route34_Text_Sign_IlexForest:
 	.string "FORESTA DI ILEX\n"

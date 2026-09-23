@@ -99,7 +99,7 @@ Route7_EastEntrance_Text_ThanksIllShareTeaWithGuards::
 	.string "Glug, glug…\l"
 	.string "… …\l"
 	.string "Gulp…\l"
-	.string "Se vuoi andare a SAFFRON\l"
+	.string "Se vuoi andare a ZAFFERANOPOLI\l"
 	.string "CITY…\l"
 	.string "… …\l"
 	.string "Puoi passare.\p"

@@ -95,9 +95,9 @@ EcruteakTinTowerEntrance_Text_SageNoBadge:
 
 EcruteakTinTowerEntrance_Text_SageWithBadge:
 	.string "La TORRE CAMPANA è vietata a chi\n"
-	.string "non ha la MEDAGLIA ECRUTEAK.\p"
+	.string "non ha la MEDAGLIA AMARANTOPOLI.\p"
 	.string "Ah!\p"
-	.string "La MEDAGLIA di ECRUTEAK! Prego,\n"
+	.string "La MEDAGLIA di AMARANTOPOLI! Prego,\n"
 	.string "accomodati.$"
 
 EcruteakTinTowerEntrance_Text_SageNoClearBell:

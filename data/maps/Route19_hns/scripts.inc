@@ -80,14 +80,14 @@ Route19_Text_SwimmermHaroldAfterBattle:
 
 Route19_Text_SwimmermTuckerSeen:
 	.string "Pant, pant… Ancora un… po'…\p"
-	.string "di strada… fino a… FUCHSIA…$"
+	.string "di strada… fino a… FUCSIAPOLI…$"
 
 Route19_Text_SwimmermTuckerBeaten:
 	.string "Sto affogando!$"
 
 Route19_Text_SwimmermTuckerAfterBattle:
 	.string "Ho… chiesto alla mia ragazza di\n"
-	.string "nuotare fino a FUCHSIA… Ansimo…$"
+	.string "nuotare fino a FUCSIAPOLI… Ansimo…$"
 
 Route19_Text_SwimmerfDawnSeen:
 	.string "I fifoni mi fanno schifo!$"
@@ -96,7 +96,7 @@ Route19_Text_SwimmerfDawnBeaten:
 	.string "Ti batterei a nuoto…$"
 
 Route19_Text_SwimmerfDawnAfterBattle:
-	.string "Da FUCHSIA alle ISOLE SPUMA\n"
+	.string "Da FUCSIAPOLI alle ISOLE SPUMA\n"
 	.string "è una nuotata breve…\p"
 	.string "Cavoli, che ometto il mio ragazzo!\n"
 	.string "Che fifone!$"
@@ -116,8 +116,8 @@ Route19_Text_SwimmermJeromeAfterBattle:
 Route19_Text_Fisher1:
 	.string "Scusa. Questa strada è chiusa\n"
 	.string "per lavori.\p"
-	.string "Se vuoi arrivare a CINNABAR,\n"
-	.string "meglio passare a sud da PALLET\n"
+	.string "Se vuoi arrivare all'ISOLA CANNELLA,\n"
+	.string "meglio passare a sud da BIANCAVILLA\n"
 	.string "TOWN.$"
 
 Route19_Text_Kingler:
@@ -145,5 +145,5 @@ Route19_Text_Sign:
 Route19_Text_CarefulSwimmingSign:
 	.string "Fate attenzione se nuotate\n"
 	.string "fino alle ISOLE SPUMA.\p"
-	.string "POLIZIA DI FUCHSIA$"
+	.string "POLIZIA DI FUCSIAPOLI$"
 

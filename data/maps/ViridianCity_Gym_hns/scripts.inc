@@ -55,7 +55,7 @@ ViridianCity_Gym_EventScript_BlueAtDojo::
 
 ViridianCity_Gym_Text_LeaderBlue_Before:
 	.string "BLU: Ehi! Finalmente sei qui?\p"
-	.string "A CINNABAR non ne avevo voglia,\p"
+	.string "All'ISOLA CANNELLA non ne\navevo voglia,\p"
 	.string "ma ora sono pronto a lottare.\p"
 	.string "…\p"
 	.string "Dici di aver conquistato tutte\n"
@@ -136,13 +136,13 @@ ViridianCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 ViridianCity_Gym_Text_GymStatue::
-    .string "PALESTRA POKéMON VIRIDIAN\n"
+    .string "PALESTRA POKéMON DI SMERALDOPOLI\n"
     .string "CAPO: BLU\p"
 	.string "ALLENATORI VINCENTI:\n"
 	.string "BLU, ROSSO$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-    .string "PALESTRA POKéMON VIRIDIAN\n"
+    .string "PALESTRA POKéMON DI SMERALDOPOLI\n"
     .string "CAPO: BLU\p"
     .string "ALLENATORI VINCENTI:\n"
 	.string "BLU, ROSSO, {PLAYER}$"

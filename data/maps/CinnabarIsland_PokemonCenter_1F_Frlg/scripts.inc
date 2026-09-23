@@ -141,7 +141,7 @@ CinnabarIsland_PokemonCenter_1F_Movement_PlayerExitWest::
 
 CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLocked::
 	.string "Volevo visitare la PALESTRA di\n"
-	.string "CINNABAR, ma è chiusa e basta.\p"
+	.string "ISOLA CANNELLA, ma è chiusa e basta.\p"
 	.string "Dovrebbe esserci una chiave\n"
 	.string "in giro.\p"
 	.string "In quella villa bruciata,\n"

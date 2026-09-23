@@ -25,7 +25,7 @@ CeladonCity_Hotel_Text_ThisHotelIsForPeople::
 CeladonCity_Hotel_Text_OnVacationWithBrotherAndBoyfriend::
 	.string "In vacanza col mio fratello e il\n"
 	.string "mio ragazzo.\p"
-	.string "CELADON è una bella città!$"
+	.string "AZZURROPOLI è una bella città!$"
 
 CeladonCity_Hotel_Text_WhyDidSheBringBrother::
 	.string "Perché?\n"

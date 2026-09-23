@@ -35,7 +35,7 @@ FarawayIsland_Entrance_Text_SailorReturn:
 	.string "CAP. BRINEY può essere irritante\n"
 	.string "volubile…\p"
 #if IS_HNS
-	.string "Vuoi tornare a OLIVINE?$"
+	.string "Vuoi tornare ad OLIVINOPOLI?$"
 #else
 	.string "Do you want to return to LILYCOVE?$"
 #endif
@@ -43,7 +43,7 @@ FarawayIsland_Entrance_Text_SailorReturn:
 BirthIsland_Harbor_Text_SailorReturn:
 	.string "Che isola dalla forma strana, eh?\n"
 #if IS_HNS
-	.string "Vuoi tornare a OLIVINE?$"
+	.string "Vuoi tornare ad OLIVINOPOLI?$"
 #else
 	.string "Do you want to return to LILYCOVE?$"
 #endif

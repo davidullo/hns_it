@@ -16,7 +16,7 @@ SafariZone_West_RestHouse_EventScript_CooltrainerF::
 SafariZone_West_Text_KogaPatrolsSafariEverySoOften::
 	.string "La ZONA SAFARI è enorme, non\n"
 	.string "trovi?\p"
-	.string "KOGA, CAPOPALESTRA di FUCHSIA, \n"
+	.string "KOGA, CAPOPALESTRA di FUCSIAPOLI, \n"
 	.string "patrolla il terreno ogni tanto.\p"
 	.string "Grazie a lui, possiamo giocare qui\n"
 	.string "sapendo di essere al sicuro.$"

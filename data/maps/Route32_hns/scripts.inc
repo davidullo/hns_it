@@ -528,7 +528,7 @@ Route32_Text_LizPostRematch:
 
 Route32_Text_BirdKeeperPeter_Seen:
 	.string "Quella MEDAGLIA! È di VIOLETTO!\n"
-	.string "Hai battuto FALKNER?$"
+	.string "Hai battuto VALERIO?$"
 
 Route32_Text_BirdKeeperPeter_Beaten:
 	.string "Conosco le mie debolezze.$"

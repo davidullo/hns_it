@@ -10,7 +10,7 @@ Route2_ViridianForest_SouthEntrance_EventScript_Woman2::
 	end
 
 Route2_ViridianForest_SouthEntrance_Text_ForestIsMaze::
-	.string "Vai nella FORESTA DI VIRIDIAN?\n"
+	.string "Vai nella FORESTA DI SMERALDOPOLI?\n"
 	.string "Là dentro è un labirinto naturale.\l"
 	.string "Attento a non perderti.$"
 

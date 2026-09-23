@@ -111,7 +111,7 @@ EcruteakCity_PokemonCenter1F_Text_Bill2:
 	.string "il mio PC è attivo nei\l"
 	.string "POKéMON CENTER di JOHTO e KANTO.\p"
 	.string "Devo tornare di corsa a\n"
-	.string "GOLDENROD a trovare i miei. Se\l"
+	.string "FIORDOROPOLI a trovare i miei. Se\l"
 	.string "passa quando vuoi!\p"
 	.string "Ciao!$"
 
@@ -130,7 +130,7 @@ EcruteakCity_PokemonCenter1F_Text_PokefanM_Mobile:
 	.string "È poco oltre OLIVINOPOLI.$"
 
 EcruteakCity_PokemonCenter1F_Text_CooltrainerF:
-	.string "MORTY, il CAPOPALESTRA, è un\n"
+	.string "ANGELO, il CAPOPALESTRA, è un\n"
 	.string "mito.\p"
 	.string "Anche i suoi POKéMON sono tosti.$"
 

@@ -37,7 +37,7 @@ Route6_Text_KeigoDefeat::
 
 Route6_Text_KeigoPostBattle::
 	.string "Mi piacciono gli insetti, torno alla\n"
-	.string "FORESTA DI VIRIDIAN.$"
+	.string "FORESTA DI SMERALDOPOLI.$"
 
 Route6_Text_JeffIntro::
 	.string "Eh?\n"

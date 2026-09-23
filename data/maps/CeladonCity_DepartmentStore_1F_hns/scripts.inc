@@ -20,7 +20,7 @@ CeladonDept1_EventScript_Directory::
 
 CeladonDeptStore_Text_1FReceptionist:
     .string "Ciao! Benvenuto al GR.\n"
-    .string "MAGAZZINI CELADON!\p"
+    .string "MAGAZZINI AZZURROPOLI!\p"
     .string "L'insegna è sul muro.$"
 
 CeladonDeptStore_Text_1FGentleman:

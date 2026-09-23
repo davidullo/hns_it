@@ -61,7 +61,7 @@ Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
 Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
 	.string "Vediamo cosa mostrano\n"
 	.string "i binocoli…\p"
-	.string "È il CENTRO COMMERCIALE di AZZURROPOLI!$"
+	.string "È il CENTRO COMMERCIALE\ndi AZZURROPOLI!$"
 
 Route16_NorthEntrance_2F_Text_LongPathOverWater::
 	.string "Vediamo cosa mostrano\n"

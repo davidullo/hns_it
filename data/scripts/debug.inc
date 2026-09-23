@@ -713,7 +713,7 @@ Debug_EventScript_InflictStatus1_Text_Freeze:
 	.string "Gelo$"
 
 Debug_EventScript_InflictStatus1_Text_Frostbite:
-	.string "Congelamento$"
+	.string "Assideramento$"
 
 Debug_EventScript_InflictStatus1_Text_KO:
 	.string "KO$"

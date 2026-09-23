@@ -48,7 +48,7 @@ CianwoodCity_Text_OldManIntro:
 
 CianwoodCity_Text_BellTowerStory:
 	.string "Hai sentito della TORRE CAMPANA\n"
-	.string "di ECRUTEAK?\p"
+	.string "di AMARANTOPOLI?\p"
 	.string "In cima alla torre ci sono le\n"
 	.string "CAMPANE CHIARE.\p"
 	.string "Non fanno alcun rumore\n"

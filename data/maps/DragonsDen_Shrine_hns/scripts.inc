@@ -178,7 +178,7 @@ DragonsDen_Shrine_EventScript_ElderQuizFinish::
 DragonsDen_Shrine_Text_ElderGreeting:
     .string "Hm… Che bello vederti.\p"
     .string "So già perché sei qui.\n"
-    .string "Ti ha mandato CLAIR, vero?\p"
+    .string "Ti ha mandato SANDRA, vero?\p"
     .string "Che ragazza difficile…\n"
     .string "Mi spiace, ma devo provarti.\p"
     .string "Non temere, dovrai rispondere\n"
@@ -350,33 +350,33 @@ DragonsDen_Shrine_Text_ClairYoureLying:
     .string "Neppure io l'ho ricevuta!$"
 
 DragonsDen_Shrine_Text_MustIInformLance:
-    .string "CLAIR!\p"
+    .string "SANDRA!\p"
     .string "Impeccabile, davvero!\n"
     .string "abilità e spirito!\p"
     .string "Arrenditi e consegna la\n"
-    .string "RISINGBADGE!\p"
+    .string "MEDAGLIA LEVANTE!\p"
     .string "…O devo informare LANCE?$"
 
 DragonsDen_Shrine_Text_IUnderstand:
     .string "H-ho capito…$"
 
 DragonsDen_Shrine_Text_HereRisingBadge:
-    .string "Ecco, questa è la RISINGBADGE…\p"
+    .string "Ecco, è la MEDAGLIA LEVANTE…\p"
     .string "Presto! Prendila!$"
 
 DragonsDen_Shrine_Text_PlayerReceivedRisingBadge:
-    .string "{PLAYER} riceve RISINGBADGE.$"
+    .string "{PLAYER} riceve la MEDAGLIA LEVANTE.$"
 
 DragonsDen_Shrine_Text_RisingBadgeExplanation:
-    .string "RISINGBADGE ti permetterà di\n"
-    .string "usare la mossa per\l"
-    .string "risalire le cascate.\p"
+    .string "La MEDAGLIA LEVANTE ti\n"
+    .string "permetterà di usare la mossa\l"
+    .string "per risalire le cascate.\p"
     .string "Inoltre, tutti i POKéMON ti\n"
     .string "vedranno come allenatore e\l"
     .string "obbediranno a ogni comando.$"
 
 DragonsDen_Shrine_Text_ElderScoldsClair:
-    .string "CLAIR…\p"
+    .string "SANDRA…\p"
     .string "Rifletti su ciò che tu\n"
     .string "non hai, e lei sì.$"
 
@@ -389,7 +389,7 @@ DragonsDen_Shrine_Text_ComeAgain:
 DragonsDen_Shrine_Text_SilverIsInTraining:
     .string "Un ragazzo della tua età si\n"
     .string "allena qui.\p"
-    .string "Somiglia molto a CLAIR da\n"
+    .string "Somiglia molto a SANDRA da\n"
     .string "giovane. Mi preoccupa un po'…$"
 
 DragonsDen_Shrine_EventScript_Elder2::
@@ -463,6 +463,6 @@ DragonsDen_Shrine_Text_SymbolicDragon:
     .string "affidarti un Drago.$"
 
 DragonsDen_Shrine_Text_ClairsGrandfather:
-    .string "Sembra che CLAIR abbia imparato\n"
+    .string "Sembra che SANDRA abbia imparato\n"
     .string "da te una lezione unica.\p"
     .string "Ti ringrazio come suo nonno.$"

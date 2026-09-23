@@ -103,7 +103,7 @@ CeladonCity_EventScript_GameCornerSign::
 	end
 
 CeladonCity_Text_GotMyKoffingInCinnabar::
-	.string "Presi KOFFING a ISOLA CANNELLA.\p"
+	.string "Presi KOFFING all'ISOLA CANNELLA.\p"
 	.string "Di solito è buono, ma da\n"
 	.string "arrabbiato sputa veleno.$"
 
@@ -112,7 +112,7 @@ CeladonCity_Text_GymIsGreatFullOfWomen::
 	.string "È piena di donne!$"
 
 CeladonCity_Text_GameCornerIsBadForCitysImage::
-	.string "CELADON si impegna con orgoglio\n"
+	.string "AZZURROPOLI si impegna con orgoglio\n"
 	.string "a tenere bella la città.\p"
 	.string "Perciò la nuova SALA GIOCHI è\n"
 	.string "dannosa per la città.$"
@@ -152,12 +152,12 @@ CeladonCity_Text_CitySign::
 	.string "Città dei sogni arcobaleno$"
 
 CeladonCity_Text_GymSign::
-	.string "PALESTRA POKéMON CELADON\n"
+	.string "PALESTRA POKéMON DI AZZURROPOLI\n"
 	.string "CAPO: ERIKA\l"
 	.string "Principessa della natura!$"
 
 CeladonCity_Text_MansionSign::
-	.string "VILLA CELADON$"
+	.string "VILLA AZZURROPOLI$"
 
 CeladonCity_Text_DeptStoreSign::
 	.string "Trovi ciò che ti serve al\n"

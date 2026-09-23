@@ -15,7 +15,7 @@ PewterCity_PokemonCenter_EventScript_BugCatcher::
 	end
 
 PewterCity_PokemonCenter1F_Text_Teacher:
-	.string "…Sì, e la PALESTRA di CINNABAR è sparita.\p"
+	.string "…Sì, e la PALESTRA di ISOLA\nCANNELLA è sparita.\p"
 	.string "Sono rimasto davvero stupito.\p"
 	.string "…Sì? Sono al telefono. Vattene!$"
 

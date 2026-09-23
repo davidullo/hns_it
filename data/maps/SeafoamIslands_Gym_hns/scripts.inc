@@ -56,13 +56,13 @@ SeafoamIslands_Gym_EventScript_GymStatuePostVictory::
 	end
 
 SeafoamIslands_Gym_Text_GymStatue::
-    .string "PALESTRA POKéMON di CINNABAR\n"
+    .string "PALESTRA POKéMON di ISOLA CANNELLA\n"
     .string "CAPOPALESTRA: BLAINE\p"
 	.string "ALLENATORI VINCENTI:\n"
 	.string "BLU, ROSSO$"
 
 SeafoamIslands_Gym_Text_GymStatuePlayerWon::
-    .string "PALESTRA POKéMON di CINNABAR\n"
+    .string "PALESTRA POKéMON di ISOLA CANNELLA\n"
     .string "CAPOPALESTRA: BLAINE\p"
     .string "ALLENATORI VINCENTI:\n"
 	.string "BLU, ROSSO, {PLAYER}$"
@@ -80,7 +80,7 @@ SeafoamIslands_Gym_Text_Blaine_ExplainTM:
 
 SeafoamIslands_Gym_Text_BlaineIntro:
 	.string "BLAINE: Waaah!\p"
-	.string "La mia PALESTRA di CINNABAR è bruciata.\p"
+	.string "La mia PALESTRA di ISOLA CANNELLA\nè bruciata.\p"
 	.string "Io e i miei POKéMON sputafuoco siamo\n"
 	.string "senza tetto per colpa del vulcano.\p"
 	.string "Waaah!\p"
@@ -101,7 +101,7 @@ SeafoamIslands_Gym_Text_BlaineAfterBattle:
 	.string "BLAINE: Questa volta ho perso, ma\n"
 	.string "la prossima vincerò.\p"
 	.string "Quando ricostruirò la mia PALESTRA\n"
-	.string "di CINNABAR, ci sfideremo di nuovo.$"
+	.string "di ISOLA CANNELLA, ci rivedremo.$"
 
 SeafoamIslands_Gym_Text_BlaineFightDone:
 	.string "BLAINE: I miei POKéMON di fuoco\n"
@@ -126,8 +126,8 @@ SeafoamIslands_Gym_Text_GymGuideWin:
 	.string "Ehi!\p"
 	.string "… Come? È già finita?\p"
 	.string "Scusa, scusa!\p"
-	.string "La PALESTRA di CINNABAR non c'era più,\n"
-	.string "non sapevo dove trovarti.\p"
+	.string "La PALESTRA di ISOLA CANNELLA non\n"
+	.string "c'era più, non sapevo dove fossi.\p"
 	.string "Ma sei forte anche senza i miei\n"
 	.string "consigli. Sapevo che avresti vinto!$"
 

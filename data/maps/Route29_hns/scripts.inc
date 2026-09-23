@@ -196,7 +196,7 @@ Route29_Text_Youngster:
 Route29_Text_Lass:
 	.string "Vedi quei dirupi?\n"
 	.string "Fa paura saltarci giù.\p"
-	.string "Ma puoi andare a NEW BARK\n"
+	.string "Ma puoi andare a BORGO FOGLIANOVA\n"
 	.string "senza passare nell'erba.$"
 
 Route29_Text_Girl:

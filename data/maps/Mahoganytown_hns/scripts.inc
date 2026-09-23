@@ -249,7 +249,7 @@ MahoganyTown_Movement_PlayerMerchant2:
 
 MahoganyTown_Text_RageCandyBarMerchantTryOne:
 	.string "Ciao, ragazzo!\p"
-	.string "Vedo che sei nuovo di MAHOGANY.\p"
+	.string "Vedo che sei nuovo di MOGANIA.\p"
 	.string "Dato che sei nuovo, prova una\n"
 	.string "RAGECANDYBAR!\p"
 	.string "Ora è tua per soli\n"
@@ -294,12 +294,12 @@ MahoganyTown_Text_Sign:
     .string "Benvenuti nella patria dei Ninja$"
 
 MahoganyTown_Text_RagecandybarSign:
-    .string "Visitando MAHOGANY, prova\n"
+    .string "Visitando MOGANIA, prova\n"
     .string "una RAGECANDYBAR!$"
 
 MahoganyTown_Text_GymSign:
-    .string "PALESTRA POKéMON DI MAHOGANY\p"
-    .string "CAPO: PRYCE\p"
+    .string "PALESTRA POKéMON DI MOGANIA\p"
+    .string "CAPO: ALFREDO\p"
     .string "Il Maestro del Rigido Inverno$"
 
 ElmPhoneRadioTowerRocketTakeoverText:

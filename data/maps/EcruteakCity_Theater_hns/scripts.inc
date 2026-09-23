@@ -1029,7 +1029,7 @@ EcruteakCity_Theater_Text_SayoSeen:
 EcruteakCity_Theater_Text_KuniSeen:
 	.string "Sono l'ultima.\p"
 	.string "Eri affidabile al\n"
-	.string "GOLDENROD TUNNEL.\p"
+	.string "TUNNEL DI FIORDOROPOLI.\p"
 	.string "Sono io che danzo anche\n"
 	.string "sottoterra, KUNI!\p"
 	.string "So che hai sventato il\n"

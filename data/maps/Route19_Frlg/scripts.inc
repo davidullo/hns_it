@@ -82,7 +82,7 @@ Route19_Text_AnyaDefeat::
 Route19_Text_AnyaPostBattle::
 	.string "Per ISOLE SPUMARINE\n"
 	.string "c'è ancora molta strada…\p"
-	.string "Voglio tornare a FUCHSIA…$"
+	.string "Voglio tornare a FUCSIAPOLI…$"
 
 Route19_Text_AliceIntro::
 	.string "Nuotare è bello!\n"

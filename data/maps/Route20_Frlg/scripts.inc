@@ -117,21 +117,21 @@ Route20_Text_NoraPostBattle::
 	.string "grosse dentro CLOYSTER?$"
 
 Route20_Text_MissyIntro::
-	.string "Ho nuotato fin qui da CINNABAR.\n"
-	.string "Non è stato facile, sai.$"
+	.string "Ho nuotato fin qui da ISOLA\n"
+	.string "CANNELLA. Non è stato facile, sai.$"
 
 Route20_Text_MissyDefeat::
 	.string "Che delusione!$"
 
 Route20_Text_MissyPostBattle::
-	.string "I POKéMON hanno occupato una\n"
-	.string "villa abbandonata a CINNABAR.\p"
+	.string "I POKéMON hanno occupato una villa\n"
+	.string "abbandonata all'ISOLA CANNELLA.\p"
 	.string "La chiamano VILLA POKéMON\n"
 	.string "ormai.$"
 
 Route20_Text_MelissaIntro::
-	.string "A ovest, a CINNABAR c'è un LAB\n"
-	.string "per i POKéMON.\p"
+	.string "A ovest, all'ISOLA CANNELLA\n"
+	.string "c'è un LAB per i POKéMON.\p"
 	.string "Ci lavora il mio papà.$"
 
 Route20_Text_MelissaDefeat::
@@ -139,7 +139,7 @@ Route20_Text_MelissaDefeat::
 	.string "Dovevi aspettare!$"
 
 Route20_Text_MelissaPostBattle::
-	.string "CINNABAR è un'isola vulcanica.\p"
+	.string "ISOLA CANNELLA è un'isola vulcanica.\p"
 	.string "Ho sentito che emerse dal mare\n"
 	.string "quando eruttò un vulcano.$"
 
@@ -149,5 +149,5 @@ Route20_Text_SeafoamIslands::
 Route20_Text_MistyTrainsHere::
 	.string "Qui si vedono spesso ALLENATORI\n"
 	.string "forti e POKéMON ACQUA.\p"
-	.string "Dicono che MISTY della\n"
-	.string "PALESTRA di CERULEAN si allena qui.$"
+	.string "Dicono che MISTY della PALESTRA\n"
+	.string "di CELESTOPOLI si allena qui.$"

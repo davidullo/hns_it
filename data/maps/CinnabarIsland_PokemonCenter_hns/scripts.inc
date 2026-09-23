@@ -16,7 +16,7 @@ CinnabarIsland_PokemonCenter_EventScript_Fisher::
 
 CinnabarIsland_PokemonCenter1F_Text_CooltrainerF:
 	.string "BLAINE della PALESTRA di\n"
-	.string "CINNABAR vive da solo in un\l"
+	.string "ISOLA CANNELLA vive da solo in un\l"
 	.string "antro…$"
 
 CinnabarIsland_PokemonCenter1F_Text_Fisher:

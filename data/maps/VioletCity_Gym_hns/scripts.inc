@@ -55,8 +55,8 @@ VioletCity_Gym_EventScript_Falkner_Defeated::
 	end
 
 VioletGym_Text_Falkner_Intro:
-	.string "Sono FALKNER, il capo della\n"
-	.string "PALESTRA di VIOLET!\p"
+	.string "Sono VALERIO, il capo della\n"
+	.string "PALESTRA di VIOLAPOLI!\p"
 	.string "Dicono che basti una scarica\n"
 	.string "elettrica per tarpare le ali\p"
 	.string "ai POKéMON di tipo VOLANTE…\n"
@@ -69,15 +69,15 @@ VioletGym_Text_Falkner_WinLoss:
 	.string "…Accidenti! I POKéMON uccello\n"
 	.string "cari a mio padre…\p"
 	.string "Va bene. Prendi questo.\p"
-	.string "È la ZEPHYRBADGE ufficiale\n"
+	.string "È la MEDAGLIA ZEFIRO ufficiale\n"
 	.string "della LEGA POKéMON.$"
 
 VioletGym_Text_ReceivedZephyrBadge:
-	.string "{PLAYER} riceve la ZEPHYRBADGE.$"
+	.string "{PLAYER} riceve la MEDAGLIA ZEFIRO.$"
 
 VioletGym_Text_Falkner_BadgeExplain:
-	.string "La ZEPHYRBADGE aumenta la POTENZA\n"
-	.string "d'attacco dei POKéMON.\p"
+	.string "La MEDAGLIA ZEFIRO aumenta la\n"
+	.string "POTENZA d'attacco dei POKéMON.\p"
 	.string "Permette anche ai POKéMON di usare\n"
 	.string "BALENO, se possono impararla,\l"
 	.string "in qualsiasi momento.\p"
@@ -123,13 +123,13 @@ VioletGym_Text_BirdKeeperRod_Beaten:
 	.string "Aaah!$"
 
 VioletGym_Text_BirdKeeperRod_After:
-	.string "FALKNER è davvero forte!\p"
+	.string "VALERIO è davvero forte!\p"
 	.string "Non montarti la testa\n"
 	.string "solo perché mi hai battuto!$"
 
 VioletGym_Text_BirdKeeperAbe_Seen:
 	.string "Vediamo se sei forte\n"
-	.string "abbastanza per FALKNER!$"
+	.string "abbastanza per VALERIO!$"
 
 VioletGym_Text_BirdKeeperAbe_Beaten:
 	.string "Non è possibile!$"
@@ -144,8 +144,8 @@ VioletGym_Text_GymGuide_Intro:
 	.string "Credimi! Se credi in te, il sogno\n"
 	.string "di diventare campione si avvera.\p"
 	.string "Ci credi? Allora ascolta.\p"
-	.string "Il pezzo forte di FALKNER è un grosso\n"
-	.string "gufo che adora mangiare le BACCHE.\p"
+	.string "Il pezzo forte di VALERIO è un\n"
+	.string "grosso gufo ghiotto di BACCHE.\p"
 	.string "Non è il più forte,\n"
 	.string "ma incassa molti colpi.\p"
 	.string "Puoi colpirlo con mosse Elettro\n"
@@ -176,9 +176,9 @@ VioletCity_Gym_EventScript_Statue2::
 	end
 
 VioletCity_Gym_Text_GymStatue:
-	.string "PALESTRA POKéMON DI VIOLET$"
+	.string "PALESTRA POKéMON DI VIOLAPOLI$"
 
 VioletCity_Gym_Text_GymStatueCertified:
-	.string "PALESTRA POKéMON DI VIOLET\p"
-	.string "ALLENATORI CERTIFICATI DA FALKNER:\n"
+	.string "PALESTRA POKéMON DI VIOLAPOLI\p"
+	.string "ALLENATORI CERTIFICATI DA VALERIO:\n"
 	.string "{PLAYER}$"

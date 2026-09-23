@@ -5131,3 +5131,5 @@ version,X,X,pokeapi:version_names.csv
 version,XD,XD,pokeapi:version_names.csv
 version,Y,Y,pokeapi:version_names.csv
 version,Yellow,Gialla,pokeapi:version_names.csv
+status,frostbite,assideramento,manual
+status,frostbitten,assiderato,manual

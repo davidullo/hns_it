@@ -204,7 +204,7 @@ Route38_Text_BeautyOliviaAfter:
 
 Route38_Text_Sign:
 	.string "PERCORSO 38\p"
-	.string "OLIVINE - AMANZIA$"
+	.string "OLIVINOPOLI - AMANZIA$"
 
 Route38_Text_TrainerTips:
 	.string "CONSIGLI PER ALLENATORI\p"

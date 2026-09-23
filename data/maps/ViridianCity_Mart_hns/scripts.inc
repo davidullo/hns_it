@@ -13,6 +13,6 @@ ViridianMart_Text_Lass:
 	.string "Il CAPOPALESTRA qui è davvero forte.$"
 
 ViridianMart_Text_CooltrainerM:
-	.string "Sei mai stato a CINNABAR?\p"
+	.string "Sei mai stato all'ISOLA CANNELLA?\p"
 	.string "È un'isola molto a sud di qui.$"
 

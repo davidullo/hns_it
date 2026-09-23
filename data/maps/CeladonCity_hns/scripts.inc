@@ -96,7 +96,7 @@ CeladonCity_Text_Gramps2:
 
 CeladonCity_Text_Youngster1:
 	.string "Vuoi sapere un segreto?\p"
-	.string "La VILLA CELADON ha una porta\n"
+	.string "La VILLA AZZURROPOLI ha una porta\n"
 	.string "sul retro.$"
 
 CeladonCity_Text_Youngster2:
@@ -106,7 +106,7 @@ CeladonCity_Text_Youngster2:
 	.string "già pieno…$"
 
 CeladonCity_Text_Teacher2:
-	.string "Il GR. MAGAZZINI CELADON ha\n"
+	.string "Il GR. MAGAZZINI AZZURROPOLI ha\n"
 	.string "la scelta più vasta che c'è.\p"
 	.string "Se non lo trovi lì, non lo\n"
 	.string "trovi da nessuna parte.\p"
@@ -151,14 +151,14 @@ CeladonGym_Text_Sign:
 
 CeladonCity_Text_DeptStoreSign:
 	.string "Trovi quel che cerchi al\n"
-	.string "GR. MAGAZZINI CELADON!$"
+	.string "GR. MAGAZZINI AZZURROPOLI!$"
 
 CeladonCity_Text_MansionSign:
-	.string "VILLA CELADON$"
+	.string "VILLA AZZURROPOLI$"
 
 CeladonCity_Text_GameCornerSign:
 	.string "Il parco giochi per tutti\n"
-	.string "SALA GIOCHI CELADON$"
+	.string "SALA GIOCHI AZZURROPOLI$"
 
 CeladonCity_Text_TrainerTips:
 	.string "CONSIGLI UTILI\p"
@@ -166,4 +166,4 @@ CeladonCity_Text_TrainerTips:
 	.string "dalle mosse speciali come\l"
 	.string "LANCIAFIAMME e SURF.\p"
 	.string "Trovi tutto al GR. MAGAZZINI\n"
-	.string "CELADON!$"
+	.string "AZZURROPOLI!$"

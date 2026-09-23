@@ -11,11 +11,11 @@ CeruleanCity_Mart_EventScript_CooltrainerF::
 
 CeruleanMart_Text_CooltrainerM:
 	.string "Incontrerai molti allenatori\n"
-	.string "sulla via del CAPO CERULEAN.\p"
+	.string "sulla via del CAPO CELESTOPOLI.\p"
 	.string "Vogliono vedere come se la\n"
 	.string "cavano con altri allenatori.$"
 
 CeruleanMart_Text_CooltrainerF:
 	.string "MISTY è quasi l'unica in\n"
 	.string "città a battere gli allenatori al\l"
-	.string "CAPO CERULEAN.$"
+	.string "CAPO CELESTOPOLI.$"

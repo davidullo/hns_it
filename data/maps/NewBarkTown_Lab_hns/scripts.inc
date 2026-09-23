@@ -749,7 +749,7 @@ NewBarkTown_Lab_Text_Nickname:
 
 NewBarkTown_Lab_Text_ElmDirections1:
 	.string "IL SIG. POKéMON vive poco\n"
-	.string "oltre CHERRYGROVE, la città\l"
+	.string "oltre FIORPESCOPOLI, la città\l"
 	.string "successiva.\p"
 	.string "È quasi una strada dritta,\n"
 	.string "non puoi sbagliare.\p"
@@ -759,7 +759,7 @@ NewBarkTown_Lab_Text_ElmDirections1:
 
 NewBarkTown_Lab_Text_ElmDirections1_Register:
 	.string "IL SIG. POKéMON vive poco\n"
-	.string "oltre CHERRYGROVE, la città\l"
+	.string "oltre FIORPESCOPOLI, la città\l"
 	.string "successiva.\p"
 	.string "È quasi una strada dritta,\n"
 	.string "non puoi sbagliare.\p"
@@ -919,7 +919,7 @@ NewBarkTown_Lab_Text_KimonoGirls:
 	.string "KIMONO ti sta cercando.\p"
 	.string "Mi hanno detto che ti\n"
 	.string "aspettano all'\l" 
-	.string "ECRUTEAK DANCE THEATER.\p"
+	.string "TEATRO DI DANZA DI AMARANTOPOLI.\p"
 	.string "So che hai passato molte\n"
 	.string "cose da quando quell'UOVO ti\l"
 	.string "ha coinvolto in tutto questo...\p"
@@ -928,7 +928,7 @@ NewBarkTown_Lab_Text_KimonoGirls:
 NewBarkTown_Lab_Text_KimonoWaiting:
 	.string "PROF.ELM: Le RAGAZZE\n"
 	.string "KIMONO ti aspettano all'\l"
-	.string "ECRUTEAK DANCE THEATER.$"
+	.string "TEATRO DI DANZA DI AMARANTOPOLI.$"
 
 NewBarkTown_Lab_Text_League:
 	.string "PROF.ELM: Ahahah...\n"
@@ -958,7 +958,7 @@ NewBarkTown_Lab_Text_ElmGiveTicket1:
 	.string "KANTO.$"
 
 NewBarkTown_Lab_Text_ElmGiveTicket2:
-	.string "La nave parte da OLIVINE\n"
+	.string "La nave parte da OLIVINOPOLI\n"
 	.string "CITY.\p"
 	.string "Ma lo sapevi già,\n"
 	.string "{PLAYER}.\p"

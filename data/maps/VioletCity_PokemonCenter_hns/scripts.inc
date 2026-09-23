@@ -155,7 +155,7 @@ VioletCity_PokeCenter_Text_BooksAreGreat:
 
 VioletCity_PokeCenter_Text_MobileAdapter:
 	.string "Ho appena lottato con un amico a\n"
-	.string "CIANWOOD via link.\p"
+	.string "FIORLISOPOLI via link.\p"
 	.string "Se colleghi un MOBILE ADAPTER,\n"
 	.string "puoi collegarti con un amico\l"
 	.string "lontano.$"

@@ -26,7 +26,7 @@ CianwoodHouse2_EventScript_Twin::
 	end
 	
 CianwoodCity_Text_LugiaHouseTeacher:
-	.string "Vieni da OLIVINE?\p"
+	.string "Vieni da OLIVINOPOLI?\p"
 	.string "Ti ricordi le quattro isole\n"
 	.string "del tragitto?\p"
 	.string "Ho sentito di una creatura\n"

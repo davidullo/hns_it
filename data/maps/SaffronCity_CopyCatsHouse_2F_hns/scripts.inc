@@ -224,7 +224,7 @@ Copycat_Text_Male_2:
 	.string "un SUPERPASS?\p"
 	.string "{PLAYER}: Vado a cercarlo per te.\p"
 	.string "Pensi di averlo perso quando\n"
-	.string "sei andata a ARANCIOPOLI?$"
+	.string "sei andata ad ARANCIOPOLI?$"
 
 Copycat_Text_Worried:
 	.string "COPIONA: Come?\p"

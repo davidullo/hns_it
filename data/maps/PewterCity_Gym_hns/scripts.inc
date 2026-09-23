@@ -41,7 +41,7 @@ PewterCity_Gym_EventScript_Brock_Defeated::
 PewterCity_Gym_Text_Brock_Intro:
 	.string "BROCK: Wow, non capita spesso che arrivi\n"
 	.string "una sfida da JOHTO.\p"
-	.string "Sono BROCK, il CAPOPALESTRA di PEWTER.\p"
+	.string "Sono BROCK, il CAPOPALESTRA\ndi PLUMBEOPOLI.\p"
 	.string "Sono esperto di POKéMON di tipo ROCIA.\p"
 	.string "I miei POKéMON sono immuni a quasi\n"
 	.string "tutti gli attacchi fisici. Farai\l"

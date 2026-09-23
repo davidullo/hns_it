@@ -15,7 +15,7 @@ CeladonCity_DepartmentStore_1F_EventScript_FloorSign::
 
 CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
 	.string "Ciao!\n"
-	.string "Benvenuto al GR. MAGAZZINI CELADON.\p"
+	.string "Benvenuto al GR. MAGAZZINI\ndi AZZURROPOLI.\p"
 	.string "Il pannello a destra descrive\n"
 	.string "la piantina del negozio.$"
 

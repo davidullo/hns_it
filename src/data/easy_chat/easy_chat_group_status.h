@@ -199,7 +199,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_GUTS)] =
     {
-        .text = COMPOUND_STRING("GUTS"),
+        .text = COMPOUND_STRING("DENTISTRETTI"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GHOST),
         .enabled = TRUE,
     },

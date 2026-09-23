@@ -323,7 +323,7 @@ VermilionCity_Text_Eusine2:
 	.string "Scusa {PLAYER}, devo andare!$"
 
 VermilionCity_Text_Teacher:
-	.string "Il PORTO DI VERMILION è la porta\n"
+	.string "Il PORTO DI ARANCIOPOLI è la porta\n"
 	.string "sul mare di KANTO.\p"
 	.string "Transatlantici di lusso da tutto\n"
 	.string "il mondo attraccano qui.$"
@@ -344,7 +344,7 @@ VermilionCity_Text_Machop2:
 VermilionCity_Text_SuperNerd:
 	.string "Ci sono otto PALESTRE a KANTO.\p"
 	.string "Quel grande edificio è la\n"
-	.string "PALESTRA POKéMON di VERMILION.$"
+	.string "PALESTRA POKéMON di ARANCIOPOLI.$"
 
 VermilionCity_Text_SnorlaxSleeping:
 	.string "SNORLAX dorme serenamente…$"
@@ -414,7 +414,7 @@ VermilionCity_Text_DiglettsCaveSign:
 	.string "GROTTA DIGLETT$"
 
 VermilionCity_Text_PortSign:
-	.string "PORTO DI VERMILION\n"
+	.string "PORTO DI ARANCIOPOLI\n"
 	.string "INGRESSO$"
 
 VermilionCity_EventScript_TriggerStevenLeft::

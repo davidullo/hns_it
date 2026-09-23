@@ -24,7 +24,7 @@ EventTicket_Text_ShowEonTicket:
 EventTicket_Text_SouthernIslandSailBack:
 	.string "Ehi, amico, non c'è niente da\n"
 	.string "vedere o fare su quest'isola dimenticata.\p"
-	.string "Che ne dici di tornare a OLIVINE?$"
+	.string "Che ne dici di tornare ad\nOLIVINOPOLI?$"
 #else
 EventTicket_Text_SouthernIslandSailBack:
 	.string "Aye, mate, there's nothing here to\n"

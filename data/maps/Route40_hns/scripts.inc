@@ -89,7 +89,7 @@ Route40_EventScript_Woman1::
 
 Route40_Text_Lass1:
 	.string "Anche se da qui non si vede,\n"
-	.string "CIANWOOD è oltre il mare.$"
+	.string "FIORLISOPOLI è oltre il mare.$"
 
 Route40_EventScript_Woman2::
 	lock
@@ -100,8 +100,8 @@ Route40_EventScript_Woman2::
 	end
 
 Route40_Text_Lass2:
-	.string "Sono arrivata a OLIVINE in nave per\n"
-	.string "vedere i posti e respirare\l"
+	.string "Sono arrivata ad OLIVINOPOLI in\n"
+	.string "nave per vedere i posti e respirare\l"
 	.string "l'atmosfera.\p"
 	.string "Essendo un porto, è molto\n"
 	.string "diverso da una grande città.$"

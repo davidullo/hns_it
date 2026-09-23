@@ -232,8 +232,8 @@ Route44_Text_CooltrainermAllenBeaten:
 Route44_Text_CooltrainermAllenAfter:
     .string "Wow. Hai un sacco di MEDAGLIE.\p"
     .string "Non c'è da stupirsi.\p"
-    .string "Chissà se MORTY della PALESTRA\n"
-    .string "DI ECRUTEAK si allena ancora?\p"
+    .string "Chissà se ANGELO della PALESTRA\n"
+    .string "DI AMARANTOPOLI si allena ancora?\p"
     .string "Mi ha battuto alla grande.$"
 
 Route44_Text_CooltrainerfCybilSeen:

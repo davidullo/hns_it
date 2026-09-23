@@ -208,8 +208,8 @@ SproutTower_Text_SageLi_TakeFlash:
 SproutTower_Text_SageLi_FlashExplain:
 	.string "BALENO illumina anche\n"
 	.string "i luoghi più bui.\p"
-	.string "Ma per usarlo fuori dalla lotta serve\n"
-	.string "la MEDAGLIA della PALESTRA di VIOLET.$"
+	.string "Ma per usarlo fuori dalla lotta\n"
+	.string "serve la MEDAGLIA di VIOLAPOLI.$"
 
 SproutTower_Text_SageLi_AfterBattle:
 	.string "Spero che il tuo viaggio ti insegni\n"

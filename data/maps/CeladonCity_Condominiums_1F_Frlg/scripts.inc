@@ -86,7 +86,7 @@ CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
 	.string "Una ragazza di BIANCAVILLA, DAISY,\n"
 	.string "beve Tè ogni giorno.\p"
 	.string "Va al CENTRO COMMERCIALE di\n"
-	.string "CELADON a comprare il Tè.$"
+	.string "AZZURROPOLI a comprare il Tè.$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
 	.string "CLEFAIRY: Pi pippippi!$"
@@ -95,6 +95,6 @@ CeladonCity_Condominiums_1F_Text_Nidoran::
 	.string "NIDORAN♀: Kya kyaoo!$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
-	.string "PALAZZINA CELADON\n"
+	.string "PALAZZINA AZZURROPOLI\n"
 	.string "Uso del Direttore$"
 

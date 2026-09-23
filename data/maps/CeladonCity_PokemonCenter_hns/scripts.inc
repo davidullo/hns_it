@@ -41,7 +41,7 @@ Celadon_Text_EusineLeaves:
 	.string "POKéMON arcobaleno che\n"
 	.string "appare alla TORRE CAMPANA.\p"
 	.string "Ho appena curato la squadra,\n"
-	.string "quindi ora vado a ECRUTEAK.\p"
+	.string "quindi ora vado ad AMARANTOPOLI.\p"
 	.string "Ci vediamo, {PLAYER}!$"
 
 Celadon_Text_NoBeasts:

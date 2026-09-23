@@ -102,7 +102,7 @@ CianwoodCity_Text_ChucksWifeBeatChuck:
 	.string "Avrò un bel regalo per te.$"
 
 CianwoodCity_Text_ChucksWifeGiveHM:
-	.string "È la MEDAGLIA di CIANWOOD!\p"
+	.string "È la MEDAGLIA di FIORLISOPOLI!\p"
 	.string "Allora prendi questa MN.$"
 
 CianwoodCity_Text_ChucksWifeFlySpeech:
@@ -126,7 +126,7 @@ CianwoodCity_EventScript_Youngster::
 
 CianwoodCity_Text_Youngster:
 	.string "Se usi VOLO, torni a\n"
-	.string "OLIVINE all'istante.$"
+	.string "OLIVINOPOLI all'istante.$"
 
 CianwoodCity_EventScript_PokefanM::
 	lock
@@ -152,7 +152,7 @@ CianwoodCity_EventScript_Lass::
 	end
 
 CianwoodCity_Text_Lass:
-	.string "CHUCK, CAPOPALESTRA, si allena\n"
+	.string "FURIO, CAPOPALESTRA, si allena\n"
 	.string "con i POKéMON Lotta.$"
 
 CianwoodCity_EventScript_SuicuneTrigger::
@@ -306,7 +306,7 @@ CianwoodCity_EventScript_CitySign::
 	end
 
 CianwoodCity_Text_Sign:
-	.string "CIANWOOD\p"
+	.string "FIORLISOPOLI\p"
 	.string "Un porto tra mari in burrasca$"
 
 CianwoodCity_EventScript_GymSign::
@@ -317,8 +317,8 @@ CianwoodCity_EventScript_GymSign::
 	end
 
 CianwoodCity_Text_GymSign:
-	.string "PALESTRA POKéMON CIANWOOD\p"
-	.string "CAPO: CHUCK\p"
+	.string "PALESTRA POKéMON DI FIORLISOPOLI\p"
+	.string "CAPO: FURIO\p"
 	.string "I suoi pugni parlano per lui$"
 
 CianwoodCity_EventScript_Pharmacy::
@@ -330,7 +330,7 @@ CianwoodCity_EventScript_Pharmacy::
 
 CianwoodCity_Text_PharmacySign:
 	.string "500 anni di tradizione\p"
-	.string "FARMACIA DI CIANWOOD\p"
+	.string "FARMACIA DI FIORLISOPOLI\p"
 	.string "Aspettiamo le vostre domande$"
 
 CianwoodCity_EventScript_CaveSign::

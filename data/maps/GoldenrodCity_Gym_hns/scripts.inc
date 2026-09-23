@@ -115,15 +115,15 @@ GoldenrodCity_Gym_EventScript_Statue2::
 	end
 
 GoldenrodCity_Gym_Text_GymStatue:
-	.string "PALESTRA POKéMON GOLDENROD$"
+	.string "PALESTRA POKéMON DI FIORDOROPOLI$"
 
 GoldenrodCity_Gym_Text_GymStatueCertified:
-	.string "PALESTRA POKéMON DI GOLDENROD\p"
-	.string "ALLENATORI CERTIFICATI DI WHITNEY:\n"
+	.string "PALESTRA POKéMON DI FIORDOROPOLI\p"
+	.string "ALLENATORI CERTIFICATI DI CHIARA:\n"
 	.string "{PLAYER}$"
 
 GoldenrodCity_Gym_Text_WhitneyBefore:
-    .string "Ciao! Sono WHITNEY!\p"
+    .string "Ciao! Sono CHIARA!\p"
     .string "Tutti amavano i POKéMON, così\n"
     .string "ho iniziato anch'io!\p"
     .string "I POKéMON sono troppo carini!\p"
@@ -145,20 +145,20 @@ GoldenrodCity_Gym_Text_WhitneyWhatDoYouWant:
     .string "…Sniff…\p"
     .string "Cosa? Cosa vuoi? Una MEDAGLIA?\p"
     .string "Ah, giusto. Me n'ero scordata.\n"
-    .string "Ecco la PLAINBADGE.$"
+    .string "Ecco la MEDAGLIA PIANA.$"
 
 GoldenrodCity_Gym_Text_PlayerReceivedPlainBadge:
-    .string "{PLAYER} riceve PLAINBADGE.$"
+    .string "{PLAYER} riceve la MEDAGLIA PIANA.$"
 
 GoldenrodCity_Gym_Text_WhitneyPlainBadge:
-    .string "PLAINBADGE fa usare FORZA\n"
-    .string "ai POKéMON fuori dalla lotta.\p"
+    .string "La MEDAGLIA PIANA fa usare\n"
+    .string "FORZA fuori dalla lotta.\p"
     .string "E aumenta anche la loro\n"
 	.string "DIFESA.\p"
     .string "Oh, prendi anche questo!$"
 
 GoldenrodCity_Gym_Text_WhitneyAttract:
-    .string "È ATTRACT! Sfrutta il\n"
+    .string "È ATTRAZIONE! Sfrutta il\n"
     .string "fascino dei POKéMON.\p"
     .string "Non è perfetto per una\n"
     .string "carina come me?$"
@@ -198,13 +198,13 @@ GoldenrodCity_Gym_Text_LassBridgetBeaten:
     .string "Oh, no, no, no!$"
 
 GoldenrodCity_Gym_Text_LassBridgetAfter:
-    .string "Provo a battere WHITNEY, ma…\n"
+    .string "Provo a battere CHIARA, ma…\n"
     .string "Che tristezza.\p"
     .string "Va bene! Se perdo, mi impegnerò\n"
     .string "di più la prossima volta!$"
 
 GoldenrodCity_Gym_Text_BridgetWhitneyCries:
-    .string "Oh, no. Hai fatto piangere WHITNEY.\p"
+    .string "Oh, no. Hai fatto piangere CHIARA.\p"
     .string "Va bene. Le passerà. Piange\n"
     .string "sempre quando perde.$"
 
@@ -232,7 +232,7 @@ GoldenrodCity_Gym_Text_BeautySamanthaAfter:
 
 GoldenrodCity_Gym_Text_GymGuide:
     .string "Ehi! Campione in erba!\p"
-    .string "Questa PALESTRA è di WHITNEY,\n"
+    .string "Questa PALESTRA è di CHIARA,\n"
     .string "esperta di POKéMON di tipo NORMALE.\p"
     .string "Attento al suo team carino.\p"
     .string "Alcuni POKéMON qui\n"

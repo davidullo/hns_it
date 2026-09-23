@@ -684,7 +684,7 @@ IlexForest_Text_CharcoalMasterOutro:
 	.string "Insegnagliela per tagliare\l"
 	.string "gli alberi piccoli.\p"
 	.string "Certo, ti serve la MEDAGLIA\n"
-	.string "PALESTRA di AZALEA per usarla.$"
+	.string "PALESTRA di AZALINA per usarla.$"
 
 IlexForest_Text_CharcoalMasterTalkAfter:
 	.string "Vuoi imparare a fare il\n"

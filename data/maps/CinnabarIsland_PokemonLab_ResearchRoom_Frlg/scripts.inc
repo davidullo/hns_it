@@ -30,7 +30,7 @@ CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
 	.string "MOLTRES.\p"
 	.string "Non si sa dove siano.\p"
 	.string "Esploreremo la caverna\n"
-	.string "vicino a CERULEAN.\p"
+	.string "vicino a CELESTOPOLI.\p"
 	.string "Da: SQUADRA RICERCA POKéMON…$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::

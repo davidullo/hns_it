@@ -104,8 +104,8 @@ ViridianCity_Text_CoffeeGramps_Doubted:
 ViridianCity_Text_GrampsNearGym:
 	.string "Questa PALESTRA non aveva un CAPO\n"
 	.string "fino a poco tempo fa.\p"
-	.string "Un giovane di PALLET è diventato\n"
-	.string "CAPO, ma è spesso via.$"
+	.string "Un giovane di BIANCAVILLA è\n"
+	.string "diventato CAPO, ma è spesso via.$"
 
 ViridianCity_Text_GrampsNearGym_BlueReturned:
 	.string "Sfiderai il\n"

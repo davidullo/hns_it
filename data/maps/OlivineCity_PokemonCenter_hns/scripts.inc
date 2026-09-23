@@ -23,14 +23,14 @@ OlivineCity_EventScript_Teacher::
 	end
 
 OlivineCity_Text_PokecenterFisher:
-	.string "Il MARINAIO del CAFFÈ di OLIVINE\n"
+	.string "Il MARINAIO del CAFFÈ di OLIVINOPOLI\n"
 	.string "qui accanto è generoso.\p"
 	.string "Ha insegnato FORZA al mio POKéMON.\p"
 	.string "Ora sposta i massi\n"
 	.string "senza sforzo.$"
 
 OlivineCity_Text_PokecenterTeacher:
-	.string "C'è una persona a CIANWOOD\n"
+	.string "C'è una persona a FIORLISOPOLI\n"
 	.string "oltre il mare.\p"
 	.string "L'ho sentito vantarsi del suo\n"
 	.string "raro POKéMON di continuo.$"

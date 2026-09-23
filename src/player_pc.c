@@ -228,7 +228,7 @@ static const u16 sNewGamePCItems[][2] =
 const struct MenuAction gMailboxMailOptions[] =
 {
     { COMPOUND_STRING("LEGGI"),        {Mailbox_DoMailRead} },
-    { COMPOUND_STRING("SPOSTA IN BORS"), {Mailbox_MoveToBag} },
+    { COMPOUND_STRING("METTI IN ZAINO"), {Mailbox_MoveToBag} },
     { COMPOUND_STRING("DAI"),        {Mailbox_Give} },
     { gText_Cancel2,                  {Mailbox_Cancel} }
 };

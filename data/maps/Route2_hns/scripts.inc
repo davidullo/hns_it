@@ -34,8 +34,8 @@ Route2_Text_RobRematchDefeat:
 	.string "Mi servono Coleotteri migliori!$"
 
 Route2_Text_RobPostRematch:
-	.string "Ho preso ogni coleottero di VIRIDIAN.\n"
-	.string "C'è una FORESTA migliore in giro?$"
+	.string "Ho preso ogni coleottero nel\n"
+	.string "BOSCO SMERALDO. C'è di meglio?$"
 
 Route2_Text_BugCatcherRob_Seen:
 	.string "I miei POKéMON Coleottero sono forti.\n"
