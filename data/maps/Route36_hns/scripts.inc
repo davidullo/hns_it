@@ -255,7 +255,7 @@ Route36_Text_RockSmashGuy2:
 	.string "Voglio darti questo.$"
 
 Route36_Text_RockSmashGuy3:
-	.string "Si tratta di ROCK SMASH.\p"
+	.string "Si tratta di SPACCAROCCIA.\p"
 	.string "Puoi frantumare le rocce con un\n"
 	.string "solo colpo ben mirato.\p"
 	.string "Se trovi rocce sul cammino,\n"

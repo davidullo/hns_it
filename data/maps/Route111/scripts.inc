@@ -709,7 +709,7 @@ Route111_Text_RootFossilDisappeared:
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
 	.string "Oh, no!\p"
 	.string "Mio zio a MAUVILLE mi ha detto di\n"
-	.string "portare ROCK SMASH se andavo\l"
+	.string "portare SPACCAROCCIA se andavo\l"
 	.string "sulla PERCORSO 111!\p"
 	.string "Mio zio? Abita di fronte\n"
 	.string "al negozio di bici a MAUVILLE.$"

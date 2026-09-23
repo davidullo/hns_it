@@ -27,5 +27,5 @@ CeladonDeptStore2F_Text_Youngster:
 
 CeladonDeptStore2F_Text_Directory:
 	.string "Articoli top allenatori!\p"
-	.string "2F: MERCATO$"
+	.string "2P: MERCATO$"
 

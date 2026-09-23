@@ -271,7 +271,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Hobbies[] = {
     },
     [EC_INDEX(EC_WORD_BALL)] =
     {
-        .text = COMPOUND_STRING("BALL"),
+        .text = COMPOUND_STRING("PALLA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SPORTS),
         .enabled = TRUE,
     },

@@ -20,13 +20,13 @@ CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
 	.string "la piantina del negozio.$"
 
 CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
-	.string "1F: BANCO ASSISTENZA\p"
-	.string "2F: MERCATO DELL'ALLENATORE\p"
-	.string "3F: NEGOZIO DI VIDEOGIOCHI\p"
-	.string "4F: REGALI PER SAGGI\p"
-	.string "5F: FARMACIA\p"
+	.string "1P: BANCO ASSISTENZA\p"
+	.string "2P: MERCATO DELL'ALLENATORE\p"
+	.string "3P: NEGOZIO DI VIDEOGIOCHI\p"
+	.string "4P: REGALI PER SAGGI\p"
+	.string "5P: FARMACIA\p"
 	.string "PIAZZALE TERRAZZA: DISTRIBUTORI$"
 
 CeladonCity_DepartmentStore_1F_Text_ServiceCounter::
-	.string "1F: BANCO ASSISTENZA$"
+	.string "1P: BANCO ASSISTENZA$"
 

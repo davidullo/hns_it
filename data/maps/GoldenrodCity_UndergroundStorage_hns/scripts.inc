@@ -98,7 +98,7 @@ RadioTowerBasement_Text_DirectorIntro:
 
 RadioTowerBasement_Text_DirectorCardKey:
     .string "DIRETTORE: Usala per aprire le\n"
-    .string "serrande del 3F.$"
+    .string "serrande del 3P.$"
 
 RadioTowerBasement_Text_DirectorAfter:
     .string "Ti prego, aiutami.\p"

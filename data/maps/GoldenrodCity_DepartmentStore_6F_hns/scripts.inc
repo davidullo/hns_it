@@ -108,4 +108,4 @@ GoldenrodDeptStore_Text_6FSuperNerd:
 
 GoldenrodDeptStore_Text_6FDirectory:
     .string "Pausa dallo shopping!\p"
-    .string "6F PIAZZA TRANQUILLA$"
+    .string "6P PIAZZA TRANQUILLA$"

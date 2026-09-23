@@ -434,4 +434,4 @@ GoldenrodCity_RadioTower_5F_Text_DirectorOfficeSign:
 	.string "UFFICIO DEL DIRETTORE 5P$"
 
 GoldenrodCity_RadioTower_5F_Text_Studio1Sign:
-	.string "5F STUDIO 1$"
+	.string "5P STUDIO 1$"

@@ -60,4 +60,4 @@ GoldenrodDeptStore3_Pokemart:
 
 GoldenrodDeptStore_Text_3FDirectory:
     .string "Per chi cerca la Vittoria\p"
-    .string "3F COLLEZIONE LOTTA$"
+    .string "3P COLLEZIONE LOTTA$"

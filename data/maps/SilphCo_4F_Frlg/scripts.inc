@@ -82,5 +82,5 @@ SilphCo_4F_Text_Grunt2PostBattle::
 
 SilphCo_4F_Text_FloorSign::
 	.string "SEDE SILPH CO.\n"
-	.string "4F$"
+	.string "4P$"
 

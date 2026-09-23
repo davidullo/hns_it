@@ -21,5 +21,5 @@ SilphCo_1F_Text_WelcomePresidentInBoardroom::
 
 SilphCo_1F_Text_FloorSign::
 	.string "SILPH CO. SEDE CENTRALE\n"
-	.string "1F$"
+	.string "1P$"
 

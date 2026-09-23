@@ -79,4 +79,4 @@ GoldenrodDeptStore4_Pokemart:
 
 GoldenrodDeptStore_Text_4FDirectory:
     .string "Rinforziamo i POKéMON!\p"
-    .string "4F MEDICINE BOX$"
+    .string "4P SCATOLA MEDICINE$"

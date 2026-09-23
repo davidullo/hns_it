@@ -66,5 +66,5 @@ SilphCo_3F_Text_JosePostBattle::
 
 SilphCo_3F_Text_FloorSign::
 	.string "SILPH CO. SEDE CENTRALE\n"
-	.string "3F$"
+	.string "3P$"
 

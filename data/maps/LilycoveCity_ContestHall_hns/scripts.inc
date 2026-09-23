@@ -353,7 +353,7 @@ LilycoveCity_ContestHall_Text_EnteredWrongContest_hns:
 	.string "Ho iscritto questo POKéMON forte\n"
 	.string "alla GARA DI INTELLIGENZA…\p"
 	.string "Forza, stupiscili con\n"
-	.string "ROCK SMASH.$"
+	.string "SPACCAROCCIA.$"
 
 LilycoveCity_ContestHall_Text_RaisedMonToBeSmart_hns:
 	.string "Ho passato anni, e tutta la mia\n"

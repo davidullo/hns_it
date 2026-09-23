@@ -94,4 +94,4 @@ CeladonDeptStore5F_Text_Teacher:
 	.string "Però odiano certi oggetti…$"
 
 CeladonDeptStore5F_Text_Directory:
-	.string "5F: FARMACIA$"
+	.string "5P: FARMACIA$"

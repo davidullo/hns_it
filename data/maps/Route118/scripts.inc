@@ -263,14 +263,14 @@ Route118_Text_StevenQuestions:
 
 Route118_Text_YouAgreeGoodRodIsGood:
 	.string "Hmm!\n"
-	.string "Una GOOD ROD è davvero ottima!\p"
+	.string "Un AMO BUONO è davvero ottimo!\p"
 	.string "Non sei d'accordo?$"
 
 Route118_Text_IdenticalMindsTakeThis:
 	.string "Hmm!\n"
 	.string "Siamo sulla stessa lunghezza d'onda!\p"
 	.string "Hmm!\n"
-	.string "Tieni questa GOOD ROD!$"
+	.string "Tieni questo AMO BUONO!$"
 
 Route118_Text_TryYourLuckFishing:
 	.string "Dove c'è acqua, tenta la fortuna\n"
@@ -281,7 +281,7 @@ Route118_Text_DontYouLikeToFish:
 
 Route118_Text_TryCatchingMonWithGoodRod:
 	.string "Prova a catturare POKéMON di ogni tipo\n"
-	.string "con la tua GOOD ROD.$"
+	.string "con il tuo AMO BUONO.$"
 
 Route118_Text_CanCrossRiversWithSurf:
 	.string "Anche senza barca, puoi\n"

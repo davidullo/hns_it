@@ -79,7 +79,7 @@ CeruleanCity_Gym_Text_MistyIntro::
 	.string "POKéMON di tipo ACQUA!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
-	.string "TM03 insegna PULSAR.\p"
+	.string "MT03 insegna PULSAR.\p"
 	.string "Usala su un POKéMON d'acqua!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
@@ -91,10 +91,10 @@ CeruleanCity_Gym_Text_ExplainCascadeBadge::
 	.string "TAGLIO sempre, fuori lotta.\p"
 	.string "Puoi TAGLIARE gli alberelli\n"
 	.string "e aprire nuove vie.\p"
-	.string "E ti do anche la mia TM preferita.$"
+	.string "E ti do anche la mia MT preferita.$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
-	.string "{PLAYER} riceve TM03\n"
+	.string "{PLAYER} riceve MT03\n"
 	.string "da MISTY.$"
 
 CeruleanCity_Gym_Text_BetterMakeRoomForThis::

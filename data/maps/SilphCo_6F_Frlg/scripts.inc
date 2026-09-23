@@ -166,5 +166,5 @@ SilphCo_6F_Text_Grunt2PostBattle::
 
 SilphCo_6F_Text_FloorSign::
 	.string "SEDE SILPH CO.\n"
-	.string "6F$"
+	.string "6P$"
 

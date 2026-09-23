@@ -50,6 +50,6 @@ CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
 	.string "Esprimiti con i regali!\n"
-	.string "4F: DAL SAGGIO\p"
+	.string "4P: DAL SAGGIO\p"
 	.string "Top evoluzione!\n"
 	.string "PIETRE ELEMENTALI scontate!$"

@@ -98,7 +98,7 @@ SilphCo_5F_Text_DaltonDefeat::
 	.string "Oh, santo cielo!$"
 
 SilphCo_5F_Text_DaltonPostBattle::
-	.string "Sei solo al 5F.\n"
+	.string "Sei solo al 5P.\n"
 	.string "Il mio CAPO è ancora lontano!$"
 
 SilphCo_5F_Text_Grunt2Intro::
@@ -129,7 +129,7 @@ SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
 
 SilphCo_5F_Text_FloorSign::
 	.string "SEDE SILPH CO.\n"
-	.string "5F$"
+	.string "5P$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
 	.string "Quei teppisti che hanno occupato il\n"

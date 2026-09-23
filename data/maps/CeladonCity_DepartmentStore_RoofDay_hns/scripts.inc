@@ -49,5 +49,5 @@ CeladonDeptStore6F_Text_Youngster:
 	.string "Volevo giocare…$"
 
 CeladonDeptStore6F_Text_Directory:
-	.string "6F: DISTRIBUTORI DELLA\n"
+	.string "6P: DISTRIBUTORI DELLA\n"
 	.string "TERRAZZA$"

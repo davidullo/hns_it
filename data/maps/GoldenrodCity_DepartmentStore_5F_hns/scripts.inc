@@ -121,4 +121,4 @@ GoldenrodDeptStore5_Pokemart:
 
 GoldenrodDeptStore_Text_5FDirectory:
     .string "Personalizza i POKéMON\p"
-    .string "5F TM CORNER$"
+    .string "5P ANGOLO MT$"

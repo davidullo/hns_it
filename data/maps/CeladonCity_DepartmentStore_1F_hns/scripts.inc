@@ -35,9 +35,9 @@ CeladonDeptStore_Text_1FTeacher:
     .string "Ho paura di perdermi.$"
 
 CeladonDeptStore_Text_1FDirectory:
-    .string "1F: BANCO ASSISTENZA\p"
-    .string "2F: MERCATO DELL'ALLENATORE\p"
-    .string "3F: NEGOZIO MT\p"
-    .string "4F: REGALI PER SAGGI\p"
-    .string "5F: FARMACIA\p"
-    .string "6F: PIAZZALE TERRAZZA$"
+    .string "1P: BANCO ASSISTENZA\p"
+    .string "2P: MERCATO DELL'ALLENATORE\p"
+    .string "3P: NEGOZIO MT\p"
+    .string "4P: REGALI PER SAGGI\p"
+    .string "5P: FARMACIA\p"
+    .string "6P: PIAZZALE TERRAZZA$"

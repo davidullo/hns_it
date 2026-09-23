@@ -63,6 +63,6 @@ CeladonDeptStore3F_Text_SuperNerd:
 	.string "Il NEGOZIO MT vende mosse rare.$"
 
 CeladonDeptStore3F_Text_Directory:
-	.string "3F: MT\p"
+	.string "3P: MT\p"
 	.string "Rendi più forti i POKéMON!$"
 

@@ -79,5 +79,5 @@ CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
 	.string "base.$"
 
 CeladonCity_DepartmentStore_5F_Text_Drugstore::
-	.string "5F: FARMACIA$"
+	.string "5P: FARMACIA$"
 

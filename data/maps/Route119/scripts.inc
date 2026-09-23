@@ -526,7 +526,7 @@ Route119_Text_BrendanIllGiveYouThis:
 	.string "Provalo.$"
 
 Route119_Text_BrendanExplainFly:
-	.string "BRENDAN: Usa FLY e il POKéMON ti\n"
+	.string "BRENDAN: Usa VOLO e il POKéMON ti\n"
 	.string "porta subito in qualsiasi città\l"
 	.string "hai già visitato.\p"
 	.string "Ma ti serve la MEDAGLIA PALESTRA\n"

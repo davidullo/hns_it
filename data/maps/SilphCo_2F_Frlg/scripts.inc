@@ -107,5 +107,5 @@ Text_ThunderWaveTaught::
 
 SilphCo_2F_Text_FloorSign::
 	.string "SILPH CO. SEDE CENTRALE\n"
-	.string "2F$"
+	.string "2P$"
 

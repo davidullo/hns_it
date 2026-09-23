@@ -52,7 +52,7 @@ MoveTutor_Text_FuryCutterTeach:
 	.string "se la usi di seguito.\p"
 	.string "È una mossa di tipo Coleottero,\n"
 	.string "ed è davvero forte.\p"
-	.string "Si chiama FURY CUTTER.\n"
+	.string "Si chiama TAGLIOFURIA.\n"
 	.string "La insegno a un POKéMON?$"
 
 MoveTutor_Text_FuryCutterDeclined:
