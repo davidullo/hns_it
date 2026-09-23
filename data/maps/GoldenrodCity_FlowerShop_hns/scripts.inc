@@ -139,7 +139,7 @@ GoldenrodCity_FlowerShop_Text_Owner2:
 .string "Beh, allora non c'è da\n"
 .string "preoccuparsi, no?\p"
 .string "Ti presto questa\n"
-.string "SQUIRTBOTTLE per un po'.\l"
+.string "ANNAFFIATOIO per un po'.\l"
 .string "...\p"
 .string "Oh, lascia perdere. Tienila!$"
 

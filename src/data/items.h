@@ -16336,7 +16336,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_SQUIRT_BOTTLE] =
     {
-        .name = ITEM_NAME("SPRUZZABOTTIGLIA"),
+        .name = ITEM_NAME("ANNAFFIATOIO"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Annaffiatoio per\n"

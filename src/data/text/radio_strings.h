@@ -290,7 +290,7 @@ static const u8 sOPT_Report_Sudowoodo_3[]  = _("albero, ma non lo è!");
 static const u8 sOPT_Report_Sudowoodo_4[]  = _("Blocca la strada e non si");
 static const u8 sOPT_Report_Sudowoodo_5[]  = _("muove senza acqua.");
 static const u8 sOPT_Report_Sudowoodo_6[]  = _("MARY: Reagisce solo a una");
-static const u8 sOPT_Report_Sudowoodo_7[]  = _("SQUIRTBOTTLE!");
+static const u8 sOPT_Report_Sudowoodo_7[]  = _("ANNAFFIATOIO!");
 static const u8 sOPT_Report_Sudowoodo_8[]  = _("OAK: Non è un cespuglio,");
 static const u8 sOPT_Report_Sudowoodo_9[]  = _("è un tipo ROCClA mascherato!");
 
