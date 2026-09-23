@@ -414,9 +414,8 @@ static void PrintAllBerryData(void)
 
 static void PrintBerryNumberAndName(void)
 {
-    const struct Berry *berry = GetBerryInfo(sBerryTag->berryId);
     ConvertIntToDecimalStringN(gStringVar1, sBerryTag->berryId, STR_CONV_MODE_LEADING_ZEROS, 2);
-    StringCopy(gStringVar2, berry->name);
+    GetBerryNameByBerryType(sBerryTag->berryId, gStringVar2);
     StringExpandPlaceholders(gStringVar4, sText_NumberVar1Var2);
     PrintTextInBerryTagScreen(WIN_BERRY_NAME, gStringVar4, 0, 1, 0, 0);
 }

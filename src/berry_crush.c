@@ -1619,7 +1619,7 @@ static void PrintResultsText(struct BerryCrushGame *game, u8 page, u8 sp14, u8 b
             j = game->players[i].berryId;
             if (j >= LAST_BERRY_INDEX - FIRST_BERRY_INDEX + 2)
                 j = 0;
-            StringCopy(gStringVar1, gBerries[j].name);
+            GetBerryNameByBerryType(j + 1, gStringVar1);
             StringExpandPlaceholders(gStringVar4, sResultsTexts[page]);
             break;
         }

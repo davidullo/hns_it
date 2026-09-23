@@ -2076,8 +2076,18 @@ static enum Item BerryTypeToItemId(u16 berry)
 
 void GetBerryNameByBerryType(u8 berry, u8 *string)
 {
-    memcpy(string, GetBerryInfo(berry)->name, BERRY_NAME_LENGTH);
-    string[BERRY_NAME_LENGTH] = EOS;
+    // Il nome mostrato e' quello dell'oggetto (BACCALIEGIA, BACCASTAGNA...).
+    // Il campo name[] della tabella e' da BERRY_NAME_LENGTH caratteri e la
+    // struct e' condivisa con i dati salvati: non si allarga, si legge l'oggetto.
+    if (berry >= 1 && berry <= ARRAY_COUNT(gBerries))
+    {
+        StringCopy(string, GetItemName(FIRST_BERRY_INDEX + berry - 1));
+    }
+    else
+    {
+        memcpy(string, GetBerryInfo(berry)->name, BERRY_NAME_LENGTH);
+        string[BERRY_NAME_LENGTH] = EOS;
+    }
 }
 
 void AllowBerryTreeGrowth(u8 id)
