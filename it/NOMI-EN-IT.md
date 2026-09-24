@@ -1,0 +1,934 @@
+# Nomi di gioco: inglese -> italiano
+
+Serve a tradurre guide, FAQ e wiki che usano i nomi inglesi: cerca il nome
+inglese nella tabella e usa il nome italiano, che e' quello che si legge in gioco.
+
+Versione per programmi: `it/data/nomi_en_it.json`.
+
+## Classi Allenatore
+
+Tabelle ufficiali dei decomp italiani (Smeraldo IT, Rosso Fuoco EU IT) e wiki per Johto.
+
+| Inglese | Italiano |
+| --- | --- |
+| AQUA ADMIN | IDROTENENTE |
+| AQUA LEADER | CAPO IDRO |
+| ARENA TYCOON | MAESTRA DOJO |
+| AROMA LADY | PROFUMINA |
+| BATTLE GIRL | COMBAT GIRL |
+| BEAUTY | BELLEZZA |
+| BIKER | CENTAURO |
+| BIRD KEEPER | AVICOLTORE |
+| BLACK BELT | CINTURANERA |
+| BOSS | CAPO |
+| BUG CATCHER | PIGLIAMOSCHE |
+| BUG MANIAC | INSETTOLOGO |
+| BURGLAR | SCASSINATORE |
+| CAMPER | CAMPEGGISTA |
+| CHAMPION | CAMPIONE |
+| CHANNELER | MEDIUM |
+| COLLECTOR | CERCA{PKMN} |
+| COOL COUPLE | COPPIAGIUSTA |
+| COOLTRAINER | FANTALLEN. |
+| CRUSH GIRL | FIGHT GIRL |
+| CRUSH KIN | DUO LOTTA |
+| CUE BALL | ZUCCAPELATA |
+| DEVELOPER | GAME FREAK |
+| DOME ACE | ASTRO CUPOLA |
+| DRAGON TAMER | DOMADRAGHI |
+| ELITE FOUR | SUPERQUATTRO |
+| ENGINEER | MECCANICO |
+| EXPERT | SPECIALISTA |
+| FACTORY HEAD | BOSS AZIENDA |
+| FIREBREATHER | MANGIAFUOCO |
+| FISHERMAN | PESCATORE |
+| GAMER | RISCHIATUTTO |
+| GENTLEMAN | GENTILUOMO |
+| GUITARIST | CHITARRISTA |
+| HEX MANIAC | STREGHETTA |
+| HIKER | AVVENTURIERO |
+| INTERVIEWER | REPORTER |
+| JUGGLER | GIOCOLIERE |
+| KIMONO GIRL | KIMONO GIRL |
+| KINDLER | BRANDIFUOCO |
+| LADY | LADY |
+| LASS | PUPA |
+| LEADER | CAPOPALESTRA |
+| MAGMA ADMIN | MAGMATENENTE |
+| MAGMA LEADER | CAPO MAGMA |
+| MYSTERY MAN | FANTALLEN. |
+| NINJA BOY | NINJA BOY |
+| OFFICER | GUARDIA |
+| OLD COUPLE | COPPIARZILLA |
+| PAINTER | PITTRICE |
+| PALACE MAVEN | SIRE PALAZZO |
+| PARASOL LADY | OMBRELLINA |
+| PICNICKER | PICNIC GIRL |
+| PIKE QUEEN | REGINA SERPE |
+| POKéFAN | POKéFAN |
+| POKéMANIAC | POKéFANATICO |
+| PSYCHIC | PSICHE |
+| PYRAMID KING | RE PIRAMIDE |
+| RICH BOY | ELEGANTONE |
+| RIVAL | RIVALE |
+| ROCKER | ROCKETTARO |
+| ROCKET | TEAM ROCKET |
+| ROCKET ADMIN | GEN. ROCKET |
+| RUIN MANIAC | SCOPRIROVINE |
+| SAGE | SAGGIO |
+| SAILOR | MARINAIO |
+| SALON MAIDEN | DAMA TORRE |
+| SCHOOL KID | SCOLARO |
+| SCIENTIST | SCIENZIATO |
+| SIS AND BRO | FRATELLINI |
+| SKIER | SCIATRICE |
+| SR. AND JR. | SENIOR & JR |
+| SUPER NERD | CERVELLONE |
+| SWIMMER♀ | NUOTATRICE |
+| SWIMMER♂ | NUOTATORE |
+| TAMER | DOMATORE |
+| TEAM AQUA | TEAM IDRO |
+| TEAM MAGMA | TEAM MAGMA |
+| TEAM ROCKET | TEAM ROCKET |
+| TRIATHLETE | TRIATLETA |
+| TUBER | CIAMBELLINA |
+| TWINS | GEMELLE |
+| WINSTRATE | FAM. VINCI |
+| YOUNG COUPLE | COPPIETTA |
+| YOUNGSTER | BULLO |
+| {PKMN} BREEDER | ALLEVA{PKMN} |
+| {PKMN} PROF. | PROF. {PKMN} |
+| {PKMN} RANGER | {PKMN} SCOUT |
+| {PKMN} TRAINER | ALLENATORE |
+
+## Allenatori
+
+Nomi ufficiali dal decomp di Smeraldo IT per Hoenn; gli altri localizzati in italiano.
+
+| Inglese | Italiano |
+| --- | --- |
+| AARON | GIACOMO |
+| ABIGAIL | LARA |
+| AIDAN | SIMONE |
+| AISHA | AISHA |
+| ALAN | ALAIN |
+| ALBERT | ALBERT |
+| ALBERTO | ALBERTINO |
+| ALEX | ALEX |
+| ALEXA | ALEXA |
+| ALEXIA | ALEXIA |
+| ALEXIS | RAMONA |
+| ALICE | MARIKA |
+| ALIX | ALINA |
+| ALLEN | ALLEN |
+| ALLISON | BRUNELLA |
+| ALVARO | ALVARO |
+| ALYSSA | ALYSSA |
+| AMY & LIV | AMY & LIV |
+| ANABEL | ALBERTA |
+| ANDREA | ANTONIETTA |
+| ANDRES | ANDRES |
+| ANDREW | MARCUS |
+| ANGELICA | NICOLETTA |
+| ANGELINA | ANGELINA |
+| ANGELO | ANGELO |
+| ANNA & MEG | ANNA & IDA |
+| ANNIKA | COLETTE |
+| ANTHONY | ANTHONY |
+| ARCHIE | IVAN |
+| ASHLEY | ASHLEY |
+| ATHENA | ATHENA |
+| ATSUSHI | ATSUSHI |
+| AURON | ONOFRIO |
+| AUSTINA | FELICITA |
+| AUTUMN | ERMINIA |
+| AXLE | UGO |
+| BARNY | GUGLIELMO |
+| BARRY | TOBIA |
+| BEAU | GIANFRANCO |
+| BECK | NANDO |
+| BECKY | BEATRICE |
+| BEN | BEN |
+| BENJAMIN | BENJAMIN |
+| BENNY | BENNY |
+| BERKE | ALDO |
+| BERNIE | GRAZIANO |
+| BETH | EMMA |
+| BETHANY | MARISA |
+| BEVERLY | DAMIANA |
+| BIANCA | GUADA |
+| BILLY | BILLY |
+| BLAKE | BLAKE |
+| BRANDEN | AGAMENNONE |
+| BRANDI | FIORELLA |
+| BRANDON | BALDO |
+| BRAWLY | RUDI |
+| BRAXTON | VITTORIO |
+| BRENDA | URSULA |
+| BRENDAN | BRENDON |
+| BRENDEN | ARCIBALDO |
+| BRENT | MARTINO |
+| BRIANNA | CRISTINA |
+| BRICE | MINO |
+| BRIDGET | STEFANIA |
+| BROOKE | GEMMA |
+| BRYAN | BRYAN |
+| BRYANT | SATURNINO |
+| CALE | FAUSTO |
+| CALLIE | APOLLONIA |
+| CALVIN | MATTEO |
+| CAMDEN | LALO |
+| CAMERON | MASSIMINO |
+| CAMRON | CAMRON |
+| CARLEE | MARILINA |
+| CAROL | CARMEN |
+| CAROLINA | CONNY |
+| CAROLINE | CATERINA |
+| CARTER | FRANCESCO |
+| CATHERINE | SONIA |
+| CEDRIC | GERLANDO |
+| CELIA | CELIA |
+| CELINA | CELINA |
+| CHAD | TOBIAS |
+| CHANDLER | AURELIANO |
+| CHARLIE | CHARLIE |
+| CHARLOTTE | CHARLOTTE |
+| CHASE | LIBERO |
+| CHESTER | PRIMO |
+| CHIP | BORIS |
+| CHRIS | IGOR |
+| CINDY | DALIA |
+| CLARENCE | GASPARE |
+| CLARISSA | CARLOTTA |
+| CLARK | NATHAN |
+| CLAUDE | CLAUDIO |
+| CLIFFORD | CLIFFORD |
+| COBY | COBY |
+| COLE | VALENTINO |
+| COLIN | OSVALDO |
+| COLTON | RENATO |
+| CONNIE | DANIELA |
+| CONOR | CONOR |
+| CORA | DOREEN |
+| CORY | CARONTE |
+| CRISSY | SUSANNA |
+| CRISTIAN | GERVASO |
+| CRISTIN | CRISTIN |
+| CYNDY | LORI |
+| DAISUKE | DAISUKE |
+| DAISY | MARGI |
+| DALE | RICCARDO |
+| DALTON | DALTON |
+| DANA | BEA |
+| DANIELLE | SABRINA |
+| DAPHNE | DUNIA |
+| DARCY | ILARIA |
+| DARIAN | DARIAN |
+| DARIUS | DARIUS |
+| DARRIN | FULVIO |
+| DAVID | DAVID |
+| DAVIS | DAVIS |
+| DAWSON | DAWSON |
+| DAYTON | DAYTON |
+| DEAN | UMBERTO |
+| DEANDRE | GELINDO |
+| DEBRA | DANILA |
+| DECLAN | DECLAN |
+| DEMETRIUS | DEMETRIUS |
+| DENISE | EMANUELA |
+| DEREK | LEOPOLDO |
+| DEVAN | DEVAN |
+| DEZ & LUKE | DESI & KEN |
+| DIANA | FEDERICA |
+| DIANNE | BRITTA |
+| DILLON | FLORIANO |
+| DOMINIK | MANUEL |
+| DONALD | PAOLINO |
+| DONNY | DONNY |
+| DOUG | SILVIO |
+| DOUGLAS | VALERIO |
+| DRAKE | DRAKE |
+| DREW | RINALDO |
+| DUDLEY | MIRCO |
+| DUNCAN | BENIAMINO |
+| DUSTY | ELIO |
+| DWAYNE | AURELIO |
+| DYLAN | NICOLA |
+| ED | ED |
+| EDDIE | EMANUELE |
+| EDGAR | EMILIANO |
+| EDMOND | ARRIGO |
+| EDWARD | FABIANO |
+| EDWARDO | MANRICO |
+| EDWIN | CESARE |
+| ELI | LANFRANCO |
+| ELIJAH | ADELMO |
+| ELLIOT | STEFANO |
+| ERIC | ERIC |
+| ERNEST | ERNEST |
+| ETHAN | MAURO |
+| EVERETT | METELLO |
+| FABIAN | FABIAN |
+| FELIX | EDMONDO |
+| FERNANDO | FERNANDO |
+| FLANNERY | FIAMMETTA |
+| FLINT | TIM |
+| FOSTER | ALESSANDRO |
+| FRANKLIN | MIMMO |
+| FREDRICK | FREDRICK |
+| GABBY & TY | TEA & TEO |
+| GABRIELLE | GABRY |
+| GARRET | GAETANO |
+| GARRISON | GARRISON |
+| GEORGE | GIORGINO |
+| GEORGIA | FLORIANA |
+| GERALD | GERALD |
+| GILBERT | GILBERT |
+| GINA & MIA | GINA & MIA |
+| GLACIA | FRIDA |
+| GRACE | NELLA |
+| GREG | GREG |
+| GRETA | VALENTINA |
+| GWEN | CHICCA |
+| HAILEY | HAILEY |
+| HALEY | ELISABETTA |
+| HALLE | AURA |
+| HANNAH | ANNINA |
+| HARRISON | HARRISON |
+| HAYDEN | GREGORIO |
+| HECTOR | ETTORE |
+| HEIDI | AMATA |
+| HELENE | HELENE |
+| HENRY | HENRY |
+| HERMAN | RAFFAELE |
+| HIDEO | HIDEO |
+| HITOSHI | HITOSHI |
+| HOPE | FLAVIA |
+| HUDSON | VIDIGULFO |
+| HUEY | ARMANDO |
+| HUGH | CRISTIANO |
+| HUMBERTO | CASIMIRO |
+| IMANI | DILETTA |
+| IRENE | IRENE |
+| ISAAC | ISAAC |
+| ISABEL | ISABELLA |
+| ISABELLA | CAROLA |
+| ISABELLE | BELLA |
+| ISAIAH | ISAIA |
+| ISOBEL | ISOBEL |
+| IVAN | FLAVIANO |
+| JACE | UBALDO |
+| JACK | MARINO |
+| JACKI | LIVIA |
+| JACKSON | GUIDO |
+| JACLYN | GRETA |
+| JACOB | JACOB |
+| JAIDEN | ALBERICO |
+| JAMES | JAMES |
+| JANI | MEGAN |
+| JANICE | ANTONELLA |
+| JARED | GEROLAMO |
+| JASMINE | JASMINE |
+| JAYLEN | EDGARDO |
+| JAZMYN | PALMIRA |
+| JEFF | FLAVIO |
+| JEFFREY | MAT |
+| JENNA | SILVIA |
+| JENNIFER | LUCIANA |
+| JENNY | MIRELLA |
+| JEROME | MASSIMO |
+| JERRY | JERRY |
+| JESSICA | MARILENA |
+| JOCELYN | MATILDE |
+| JODY | DELIA |
+| JOEY | JOEY |
+| JOHANNA | LILIANA |
+| JOHN & JAY | IVO & IVA |
+| JOHNSON | JOHNSON |
+| JONAH | JONAH |
+| JONAS | YANNIK |
+| JONATHAN | JONATHAN |
+| JOSE | JOSE |
+| JOSEPH | JOSEPH |
+| JOSH | ELIA |
+| JOSHUA | FORTUNATO |
+| JOSUE | ASTOLFO |
+| JUAN | RODOLFO |
+| JULIE | FRANCESCA |
+| JULIO | JULIO |
+| JUSTIN | MISHA |
+| KAI | KRISTOFER |
+| KALEB | KALEB |
+| KARA | ALLEGRA |
+| KAREN | KAREN |
+| KATE & JOY | KATE & JOY |
+| KATELYN | MARIELLA |
+| KATELYNN | KATELYNN |
+| KATHLEEN | KATHLEEN |
+| KATIE | VINCENZA |
+| KAYLA | LETIZIA |
+| KAYLEE | FABIOLA |
+| KAYLEY | KAYLEY |
+| KEEGAN | KEEGAN |
+| KEIGO | KEIGO |
+| KEIRA | KEIRA |
+| KELVIN | ALESSIO |
+| KENT | MIRO |
+| KEVIN | KEVIN |
+| KIM & IRIS | KIM & IRIS |
+| KINDRA | ELVIRA |
+| KIRA & DAN | CIRA & DAN |
+| KIRK | KIRK |
+| KIYO | KIYO |
+| KOICHI | KOICHI |
+| KOJI | KOJI |
+| KYLA | KYLA |
+| KYRA | KYRA |
+| LAO | LAO |
+| LARRY | LARRY |
+| LAURA | ANGIOLINA |
+| LAUREL | GABRIELLA |
+| LAWRENCE | LAWRENCE |
+| LEA & JED | LEA & JED |
+| LEAF | LEAF |
+| LEAH | LEAH |
+| LENNY | GIORDANO |
+| LEONARD | LEONARD |
+| LEONARDO | LEONARDO |
+| LEONEL | LEONEL |
+| LEROY | PINO |
+| LILA & ROY | LILA & ROY |
+| LILITH | GELINDA |
+| LINDA | EGLE |
+| LISA & RAY | LISA & RAY |
+| LOLA | ALESSANDRA |
+| LORENZO | LORENZO |
+| LUCAS | LUCAS |
+| LUCY | FORTUNATA |
+| LUIS | LUIS |
+| LUNG | LUNG |
+| LYDIA | LIDIA |
+| LYLE | RUGGERO |
+| MACEY | MACEY |
+| MADELINE | BEATA |
+| MAKAYLA | SIMONETTA |
+| MARC | MARC |
+| MARCEL | MARCEL |
+| MARCOS | MARCOS |
+| MARIA | MARIA |
+| MARIELA | MARZIA |
+| MARK | GILBERTO |
+| MARLENE | MARLENE |
+| MARLEY | MADDALENA |
+| MARTHA | ELEONORA |
+| MARY | MARY |
+| MATT | ALAN |
+| MATTHEW | MATTHEW |
+| MAURA | ANNALISA |
+| MAXIE | MAX |
+| MAY | VERA |
+| MEL & PAUL | EVA & PAUL |
+| MELINA | FIORENZA |
+| MELISSA | CARLETTA |
+| MICAH | PIERLUIGI |
+| MICHELLE | MICHELLE |
+| MIGUEL | MIGUEL |
+| MIKE | MIKE |
+| MISSY | LORELLA |
+| MITCHELL | MANFREDI |
+| MIU & YUKI | MIU & YUKI |
+| MOLLIE | MOLLY |
+| MYLES | MYLES |
+| NANCY | DOMENICA |
+| NAOMI | NAOMI |
+| NATE | ADI |
+| NED | NED |
+| NICHOLAS | NICHOLAS |
+| NICOLAS | DYLAN |
+| NIKKI | TANIA |
+| NOB | NOB |
+| NOLAN | CHRISTIAN |
+| NOLAND | SAVINO |
+| NOLEN | MATTIA |
+| NORMAN | NORMAN |
+| OLIVIA | MIRKA |
+| OWEN | MARCELLO |
+| PABLO | DINO |
+| PARKER | CARLO |
+| PAT | PATRIZIA |
+| PATRICIA | AMALIA |
+| PAUL | AGOSTINO |
+| PAULA | PAOLINA |
+| PAXTON | PAXTON |
+| PERRY | NICOLINO |
+| PETE | JAMOS |
+| PHIL | PHIL |
+| PHILLIP | PHILLIP |
+| PHOEBE | ESTER |
+| PRESLEY | PRESLEY |
+| PRESTON | ALEXANDER |
+| QUINCY | QUINCY |
+| RACHEL | RACHELE |
+| RANDALL | CARLETTO |
+| RECLUTA | RECLUTA |
+| RED | ROSSO |
+| REED | ORLANDO |
+| RELI & IAN | MELY & IAN |
+| REYNA | CELESTINA |
+| RHETT | LIVIO |
+| RICHARD | RICHARD |
+| RICK | RICK |
+| RICKY | RICKY |
+| RILEY | GIULIANO |
+| ROBERT | ROBERT |
+| ROBIN | DOMINIQUE |
+| RODNEY | AMEDEO |
+| ROGER | ROGER |
+| ROLAND | ROLAND |
+| RONALD | AMBROGIO |
+| ROSE | ROSITA |
+| ROXANNE | PETRA |
+| RUBEN | RUBEN |
+| SALLY | SERENA |
+| SAMANTHA | ERIKA |
+| SAMUEL | SAMUEL |
+| SANTIAGO | SANTIAGO |
+| SARAH | SARAH |
+| SAWYER | DOROTEO |
+| SEBASTIAN | SEBASTIANO |
+| SHANE | FRANCO |
+| SHANNON | CHIARA |
+| SHARON | SOFIA |
+| SHAWN | SHAWN |
+| SHAYLA | SHAYLA |
+| SHEILA | CLAUDIA |
+| SHELBY | LIA |
+| SHELLY | ADA |
+| SHIRLEY | DARIA |
+| SIDNEY | FOSCO |
+| SIENNA | CONCETTA |
+| SIMON | EDOARDO |
+| SOPHIA | KATIA |
+| SOPHIE | SOPHIE |
+| SPENCER | PATRIZIO |
+| SPENSER | SPARTACO |
+| STAN | TRISTAN |
+| STEVE | JACOPO |
+| STEVEN | ROCCO |
+| SUSIE | SUSIE |
+| SYLVIA | SYLVIA |
+| TABITHA | OTTAVIO |
+| TAKAO | TAKAO |
+| TAKASHI | TAKASHI |
+| TALIA | TALIA |
+| TAMMY | TAMARA |
+| TANYA | SILVANA |
+| TARA | LIANA |
+| TASHA | GISELDA |
+| TATE&LIZA | TELL & PAT |
+| TAYLOR | ERMANNO |
+| TED | TED |
+| TERRY | TERESIO |
+| THALIA | NEREA |
+| THOMAS | PIERLUCA |
+| TIANA | SIMONA |
+| TIFFANY | CLELIA |
+| TIMMY | TIMMY |
+| TIMOTHY | TIMOTHY |
+| TISHA | CAROLINA |
+| TOMMY | TOMMY |
+| TONY | TONY |
+| TORI & TIA | TINA & TIA |
+| TRAVIS | PHILIP |
+| TRENT | GIUSEPPE |
+| TUCKER | TOLOMEO |
+| TYRA & IVY | AVA & ADA |
+| TYRON | TYRON |
+| VALERIE | VANIA |
+| VANESSA | VANESSA |
+| VICKY | VICKY |
+| VICTOR | VINCENZO |
+| VICTORIA | VITTORIA |
+| VINCENT | VINCENT |
+| VIOLET | VIOLA |
+| VIRGIL | MAURIZIO |
+| VITO | ENRICO |
+| VIVI | VIVIANA |
+| VIVIAN | SELENE |
+| WADE | ERMES |
+| WALLACE | ADRIANO |
+| WALLY | LINO |
+| WALTER | GIANLUIGI |
+| WARREN | PIERO |
+| WATTSON | WALTER |
+| WAYNE | MANOLO |
+| WENDY | BIANCA |
+| WILLIAM | FIORENZO |
+| WILTON | EGIDIO |
+| WINONA | ALICE |
+| WINSTON | GABRIELE |
+| WYATT | OLIVIERO |
+| YASU | YASU |
+| YUJI | YUJI |
+| ZANDER | CRISTOFORO |
+
+## Bacche
+
+Nome della bacca -> nome dell'oggetto nello zaino.
+
+| Inglese | Italiano |
+| --- | --- |
+| Aguav | BACCAGUAVA |
+| Apicot | BACCACOCCA |
+| Aran | BACCARANCIA |
+| Aspear | BACCAPERINA |
+| Babiri | BACCABABIRI |
+| Belue | BACCARTILLO |
+| Bluk | BACCAMORA |
+| Cachi | BACCAKI |
+| Charti | BACCACIOFO |
+| Cheri | BACCALIEGIA |
+| Chesto | BACCASTAGNA |
+| Chilan | BACCACINLAN |
+| Chople | BACCAROSMEL |
+| Coba | BACCABABA |
+| Colbur | BACCAXAN |
+| Cornn | BACCAVENA |
+| Custap | BACCACRELA |
+| Durin | BACCADURIAN |
+| Enigma | BACCAENIGMA |
+| Figy | BACCAFICO |
+| Ganlon | BACCALONGAN |
+| Grepa | BACCAUVA |
+| Haban | BACCAHABAN |
+| Hondew | BACCAMELON |
+| Iapapa | BACCAPAIA |
+| Jaboca | BACCAJABA |
+| Kasib | BACCACITRUS |
+| Kebia | BACCAKEBIA |
+| Kee | BACCALIGHIA |
+| Kelpsy | BACCALGA |
+| Lansat | BACCALANGSA |
+| Leppa | BACCAMELA |
+| Liechi | BACCALICI |
+| Lum | BACCAPRUGNA |
+| Mago | BACCAMANGO |
+| Magost | BACCAGOSTAN |
+| Marnga | BACCAPANE |
+| Micle | BACCARACOLO |
+| Nanab | BACCABANA |
+| Nomel | BACCALEMON |
+| Occa | BACCACAO |
+| Pamtre | BACCAPALMA |
+| Passho | BACCAPASFLO |
+| Payapa | BACCAPAYAPA |
+| Pesca | BACCAPESCA |
+| Petaya | BACCAPITAYA |
+| Pinap | BACCANANAS |
+| Pomeg | BACCAGRANA |
+| Qualot | BACCALOQUAT |
+| Rabuta | BACCAMBUTAN |
+| Rawst | BACCAFRAGO |
+| Razz | BACCALAMPON |
+| Rindo | BACCARINDO |
+| Roseli | BACCARCADÈ |
+| Rowap | BACCAROAM |
+| Salac | BACCASALAK |
+| Shuca | BACCANACA |
+| Sitrus | BACCACEDRO |
+| Spelon | BACCAMELOS |
+| Starf | BACCAMBOLA |
+| Tamato | BACCAMODORO |
+| Tanga | BACCAITAN |
+| Wacan | BACCAPARMEN |
+| Watmel | BACCACOMERO |
+| Wepear | BACCAPERA |
+| Wiki | BACCAKIWI |
+| Yache | BACCAMOYA |
+
+## Luoghi
+
+Nomi delle zone della mappa.
+
+| Inglese | Italiano |
+| --- | --- |
+| ABANDONED SHIP | Vecchia Nave |
+| AKALA CAVE | Grotta di Akala |
+| AKALA FOREST | Foresta Akala |
+| AKALA ISLAND | Akala |
+| AKALA ISLE | Isola di Akala |
+| ALTERING CAVE | Grotta Mutevole |
+| ALTERING CAVE FRLG | Grotta Mutevole |
+| ANCIENT TOMB | Tomba Antica |
+| AQUA HIDEOUT | Rifugio Idro |
+| AQUA HIDEOUT OLD | Tentacool |
+| ARTISAN CAVE | Grotta Artistica |
+| AZALEA TOWN | Azalina |
+| BATTLE FRONTIER | Parco Lotta |
+| BERRY FOREST | Bosco Baccoso |
+| BIRTH ISLAND | Isola Materna |
+| BLACKTHORN CITY | Ebanopoli |
+| BOND BRIDGE | Ponte Abbraccio |
+| BURNED TOWER | Torre Arsa |
+| CANYON ENTRANCE | Ingresso Canyon |
+| CAPE BRINK | Capo Estremo |
+| CAVE OF ORIGIN | Grotta dei Tempi |
+| CELADON CITY | Azzurropoli |
+| CERULEAN CAVE | Grotta Celeste |
+| CERULEAN CITY | Celestopoli |
+| CHERRYGROVE CITY | Fiorpescopoli |
+| CIANWOOD CITY | Fiorlisopoli |
+| CINNABAR ISLAND | Isola Cannella |
+| CLIFF CAVE | Grotta Falesia |
+| DARK CAVE | Grotta Scura |
+| DESERT RUINS | Rovine Sabbiose |
+| DESERT UNDERPASS | Galleria Deserto |
+| DEWFORD TOWN | Bluruvia |
+| DIGLETT'S CAVE | Grotta Diglett |
+| DIGLETTS CAVE | Grotta Diglett |
+| DILFORD CHAMBER | Sale Florabeto |
+| DOTTED HOLE | Cripta dei Punti |
+| DRAGONS DEN | Tana del Drago |
+| DYNAMIC | Dinamipugno |
+| ECRUTEAK CITY | Amarantopoli |
+| EMBEDDED TOWER | Torre Occulta |
+| EMBER SPA | Via Vulcanica |
+| EVER GRANDE CITY | Iridopoli |
+| FALLARBOR TOWN | Brunifoglia |
+| FARAWAY ISLAND | Isola Suprema |
+| FIERY PATH | Cammino Ardente |
+| FIVE ISLAND | Quintisola |
+| FIVE ISLE MEADOW | Prato Quintisola |
+| FORTREE CITY | Forestopoli |
+| FOUR ISLAND | Quartisola |
+| FUCHSIA CITY | Fucsiapoli |
+| GOLDENROD CITY | Fiordoropoli |
+| GRANITE CAVE | Grotta Pietrosa |
+| GREEN PATH | Via Verde |
+| ICE PATH | Via Gelata |
+| ICEFALL CAVE | Grotta Gelata |
+| ILEX FOREST | Bosco di Lecci |
+| INDIGO PLATEAU | Altopiano Blu |
+| INSIDE OF TRUCK | Nel Camion |
+| ISLAND CAVE | Grotta Insulare |
+| JAGGED PASS | Passo Selvaggio |
+| KANTO SAFARI ZONE | Zona Safari |
+| KANTO VICTORY ROAD | Via Vittoria |
+| KINDLE ROAD | Via Vulcanica |
+| LAKE OF RAGE | Lago d'Ira |
+| LAVARIDGE TOWN | Cuordilava |
+| LAVENDER TOWN | Lavandonia |
+| LILYCOVE CITY | Porto Alghepoli |
+| LIPTOO CHAMBER | Sale Florabeto |
+| LITTLEROOT TOWN | Albanova |
+| LOST CAVE | Grotta Sperduta |
+| MAGMA HIDEOUT | Rifugio Magma |
+| MAHOGANY TOWN | Mogania |
+| MARINE CAVE | Grotta Mare |
+| MAUVILLE CITY | Ciclamipoli |
+| MELEMELE ISLAND | Mele Mele |
+| MELEMELE ISLE | Passimian |
+| MEMORIAL PILLAR | Colonna Rocciosa |
+| METEOR FALLS | Cascate Meteora |
+| MIRAGE ISLAND | Isola Miraggio |
+| MIRAGE TOWER | Torre Miraggio |
+| MONEAN CHAMBER | Sale Florabeto |
+| MOSSDEEP CITY | Verdeazzupoli |
+| MT. CHIMNEY | Monte Camino |
+| MT. EMBER | Monte Brace |
+| MT. MOON | Monte Luna |
+| MT. MORTAR | Monte Scodella |
+| MT. PYRE | Monte Pira |
+| MT. SILVER | Monte Argento |
+| NATIONAL PARK | Parco Nazionale |
+| NAVEL ROCK | Monte Cordone |
+| NAVEL ROCK FRLG | Verso |
+| NEW BARK TOWN | Borgo Foglianova |
+| NEW MAUVILLE | Ciclanova |
+| NEW SINJOH | Regione |
+| OLDALE TOWN | Solarosa |
+| OLIVINE CITY | Olivinopoli |
+| OLIVINE LIGHTHOUSE | Faro di Olivinopoli |
+| ONE ISLAND | Primisola |
+| OUTCAST ISLAND | Isola Solitaria |
+| PACIFIDLOG TOWN | Orocea |
+| PALLET TOWN | Biancavilla |
+| PATTERN BUSH | Bosco Disegnato |
+| PETALBURG CITY | Petalipoli |
+| PETALBURG WOODS | Bosco Petalo |
+| PEWTER CITY | Plumbeopoli |
+| POKEMON LEAGUE | Lega Pokémon |
+| POKEMON MANSION | Villa Pokémon |
+| POKEMON TOWER | Torre Pokémon |
+| POKéMON LEAGUE | Lega Pokémon |
+| POKéMON MANSION | Villa Pokémon |
+| POKéMON TOWER | Torre Pokémon |
+| PONI CAVE | Grotta di Poni |
+| PONI ISLAND | Poni |
+| PONI ISLE | Elenco di zone per nome |
+| POWER PLANT | Centrale Elettrica |
+| RESORT GORGEOUS | Perla dei Mari |
+| RIXY CHAMBER | Sale Florabeto |
+| ROCK TUNNEL | Tunnel Roccioso |
+| ROCKET HIDEOUT | Rifugio Rocket |
+| ROCKET WAREHOUSE | Magazzino Rocket |
+| ROUTE 1 | Percorso 1 |
+| ROUTE 10 | Percorso 10 |
+| ROUTE 10 POKECENTER | Centro Pokémon |
+| ROUTE 101 | Percorso 101 |
+| ROUTE 102 | Percorso 102 |
+| ROUTE 103 | Percorso 103 |
+| ROUTE 104 | Percorso 104 |
+| ROUTE 105 | Percorso 105 |
+| ROUTE 106 | Percorso 106 |
+| ROUTE 107 | Percorso 107 |
+| ROUTE 108 | Percorso 108 |
+| ROUTE 109 | Percorso 109 |
+| ROUTE 11 | Percorso 11 |
+| ROUTE 110 | Percorso 110 |
+| ROUTE 111 | Percorso 111 |
+| ROUTE 112 | Percorso 112 |
+| ROUTE 113 | Percorso 113 |
+| ROUTE 114 | Percorso 114 |
+| ROUTE 115 | Percorso 115 |
+| ROUTE 116 | Percorso 116 |
+| ROUTE 117 | Percorso 117 |
+| ROUTE 118 | Percorso 118 |
+| ROUTE 119 | Percorso 119 |
+| ROUTE 12 | Percorso 12 |
+| ROUTE 120 | Percorso 120 |
+| ROUTE 121 | Percorso 121 |
+| ROUTE 122 | Percorso 122 |
+| ROUTE 123 | Percorso 123 |
+| ROUTE 124 | Percorso 124 |
+| ROUTE 125 | Percorso 125 |
+| ROUTE 126 | Percorso 126 |
+| ROUTE 127 | Percorso 127 |
+| ROUTE 128 | Percorso 128 |
+| ROUTE 129 | Percorso 129 |
+| ROUTE 13 | Percorso 13 |
+| ROUTE 130 | Percorso 130 |
+| ROUTE 131 | Percorso 131 |
+| ROUTE 132 | Percorso 132 |
+| ROUTE 133 | Percorso 133 |
+| ROUTE 134 | Percorso 134 |
+| ROUTE 14 | Percorso 14 |
+| ROUTE 15 | Percorso 15 |
+| ROUTE 16 | Percorso 16 |
+| ROUTE 17 | Percorso 17 |
+| ROUTE 18 | Percorso 18 |
+| ROUTE 19 | Percorso 19 |
+| ROUTE 2 | Percorso 2 |
+| ROUTE 20 | Percorso 20 |
+| ROUTE 21 | Percorso 21 |
+| ROUTE 22 | Percorso 22 |
+| ROUTE 23 | Percorso 23 |
+| ROUTE 24 | Percorso 24 |
+| ROUTE 25 | Percorso 25 |
+| ROUTE 26 | Percorso 26 |
+| ROUTE 27 | Percorso 27 |
+| ROUTE 28 | Percorso 28 |
+| ROUTE 29 | Percorso 29 |
+| ROUTE 3 | Percorso 3 |
+| ROUTE 30 | Percorso 30 |
+| ROUTE 31 | Percorso 31 |
+| ROUTE 32 | Percorso 32 |
+| ROUTE 33 | Percorso 33 |
+| ROUTE 34 | Percorso 34 |
+| ROUTE 35 | Percorso 35 |
+| ROUTE 36 | Percorso 36 |
+| ROUTE 37 | Percorso 37 |
+| ROUTE 38 | Percorso 38 |
+| ROUTE 39 | Percorso 39 |
+| ROUTE 4 | Percorso 4 |
+| ROUTE 4 POKECENTER | Centro Pokémon |
+| ROUTE 40 | Percorso 40 |
+| ROUTE 41 | Percorso 41 |
+| ROUTE 42 | Percorso 42 |
+| ROUTE 43 | Percorso 43 |
+| ROUTE 44 | Percorso 44 |
+| ROUTE 45 | Percorso 45 |
+| ROUTE 46 | Percorso 46 |
+| ROUTE 47 | Percorso 47 |
+| ROUTE 48 | Percorso 48 |
+| ROUTE 5 | Percorso 5 |
+| ROUTE 50 | Comparse massicce |
+| ROUTE 6 | Percorso 6 |
+| ROUTE 7 | Percorso 7 |
+| ROUTE 8 | Percorso 8 |
+| ROUTE 9 | Percorso 9 |
+| RUIN VALLEY | Valle Antica |
+| RUINS OF ALPH | Rovine d'Alfa |
+| RUSTBORO CITY | Ferrugipoli |
+| RUSTURF TUNNEL | Tunnel Menferro |
+| S.S. ANNE | Motonave Anna |
+| SAFARI ZONE | Zone Safari |
+| SAFARI ZONE GATE | Ingresso Safari |
+| SAFFRON CITY | Zafferanopoli |
+| SCORCHED SLAB | Grottino Solare |
+| SCUFIB CHAMBER | Sale Florabeto |
+| SEAFLOOR CAVERN | Antro Abissale |
+| SEAFOAM ISLANDS | Isole Spumarine |
+| SEALED CHAMBER | Sala Incisa |
+| SECRET BASE | Base Segreta |
+| SEVAULT CANYON | Canyon Seption |
+| SEVEN ISLAND | Settimisola |
+| SEVII ISLE 22 | Settipelago |
+| SEVII ISLE 23 | Settipelago |
+| SEVII ISLE 24 | Settipelago |
+| SHOAL CAVE | Grotta Ondosa |
+| SILPH CO | Silph S.p.A. |
+| SILPH CO. | Silph S.p.A. |
+| SINJOH | Rovine Sinjoh |
+| SINJOH RUINS | Rovine Sinjoh |
+| SIX ISLAND | Sestisola |
+| SKY PILLAR | Torre dei Cieli |
+| SLATEPORT CITY | Porto Selcepoli |
+| SLOWPOKE WELL | Pozzo Slowpoke |
+| SNOWSWEPT CAVERN | Grotta Nevosa |
+| SOOTOPOLIS CITY | Ceneride |
+| SOUTHERN ISLAND | Isola Remota |
+| SPROUT TOWER | Torre Sprout |
+| SS AQUA | M/N Acqua |
+| TANOBY CHAMBERS | Sale Florabeto |
+| TANOBY KEY | Chiave Florabeto |
+| TANOBY RUINS | Rovine Florabeto |
+| TERRA CAVE | Grotta Terra |
+| THREE ISLAND | Terzisola |
+| THREE ISLE PATH | Via Terzisola |
+| THREE ISLE PORT | Porto Terzisola |
+| TIN TOWER | Torre Campana |
+| TOHJO FALLS | Cascate Tohjo |
+| TRAINER HILL | Monte Allenatori |
+| TRAINER TOWER | Torre Allenatori |
+| TRAINER TOWER 2 | Punti Salute |
+| TREASURE BEACH | Riva del Tesoro |
+| TWO ISLAND | Secondisola |
+| ULA'ULA CAVE | Grotta di Ula'ula |
+| ULA'ULA ISLE | Torkoal |
+| ULAULA CAVE | Ula Ula |
+| ULAULA CAVE 2 | Ula Ula |
+| ULAULA ISLAND | Ula Ula |
+| UNDERGROUND PATH | Via Sotterranea |
+| UNDERWATER | Sott'acqua |
+| UNDERWATER 124 | Coccio Giallo |
+| UNDERWATER 125 | Tesori#Grande Perla |
+| UNDERWATER 126 | Perla |
+| UNDERWATER 127 | Squama Cuore |
+| UNDERWATER 128 | Squama Cuore |
+| UNDERWATER 129 | Tesori#Grande Perla |
+| UNDERWATER SEALED CHAMBER | Sala Incisa |
+| UNDERWATER SOOTOPOLIS | Memory |
+| UNION CAVE | Grotta di mezzo |
+| VERDANTURF TOWN | Mentania |
+| VERMILION CITY | Aranciopoli |
+| VIAPOIS CHAMBER | Sale Florabeto |
+| VICTORY ROAD | Via Vittoria |
+| VIOLET CITY | Violapoli |
+| VIRIDIAN CITY | Smeraldopoli |
+| VIRIDIAN FOREST | Bosco Smeraldo |
+| WATER LABYRINTH | Labirinto Marino |
+| WATER PATH | Via Marina |
+| WEEPTH CHAMBER | Sale Florabeto |
+| WHIRL ISLANDS | Isole Vorticose |
+| {AQUA} HIDEOUT | Rifugio Idro |

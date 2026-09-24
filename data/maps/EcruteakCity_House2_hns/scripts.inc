@@ -21,7 +21,7 @@ Ecruteak_Text_ItemfinderExplanation:
 	.string "Non mostra il punto esatto,\n"
 	.string "quindi cerca tu da solo.\p"
 	.string "Ah sì, ci sono degli oggetti nella\n"
-	.string "TORRE BRUCIATA di AMARANTOPOLI.$"
+	.string "TORRE ARSA di AMARANTOPOLI.$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
 	.string "Oh… Ognuno ha i suoi gusti…$"

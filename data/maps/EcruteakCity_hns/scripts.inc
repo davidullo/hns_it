@@ -291,7 +291,7 @@ EcruteakCity_Text_UnusedMissingDaughter:
 	.string "Oddio, no…\p"
 	.string "Mia figlia è sparita.\p"
 	.string "No… Non può essere andata alla\n"
-	.string "TORRE BRUCIATA.\p"
+	.string "TORRE ARSA.\p"
 	.string "Le ho detto di non andarci…\p"
 	.string "Sembra che la gente sparisca…\p"
 	.string "Oh, che faccio…?$"
@@ -353,7 +353,7 @@ EcruteakCity_Text_Gramps3:
 EcruteakCity_Text_SageGym:
 	.string "Il Capopalestra ANGELO non è qui\n"
 	.string "adesso. Forse lo trovi alla\l"
-	.string "TORRE BRUCIATA.$"
+	.string "TORRE ARSA.$"
 
 EcruteakCity_Text_Sign:
 	.string "AMARANTOPOLI\n"
@@ -378,7 +378,7 @@ EcruteakCity_Text_DanceTheaterSign:
 	.string "TEATRO DI DANZA AMARANTOPOLI$"
 
 EcruteakCity_Text_BurnedTowerSign:
-	.string "TORRE BRUCIATA\p"
+	.string "TORRE ARSA\p"
 	.string "Distrutta da un misterioso\n"
 	.string "rogo.\p"
 	.string "Non avvicinarti: è pericoloso.$"
