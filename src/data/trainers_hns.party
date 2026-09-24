@@ -2147,7 +2147,7 @@ Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2168,7 +2168,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_2_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2189,7 +2189,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_3_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2206,7 +2206,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_4_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2227,7 +2227,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_5_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2244,7 +2244,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_6_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2265,7 +2265,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_7_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2282,7 +2282,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_8_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2299,7 +2299,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_9_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2320,7 +2320,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_10_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2337,7 +2337,7 @@ Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_11_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2354,7 +2354,7 @@ Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_12_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2375,7 +2375,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_13_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2388,7 +2388,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_14_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2401,7 +2401,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_15_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2422,7 +2422,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_16_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2435,7 +2435,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_17_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2452,7 +2452,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_18_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2473,7 +2473,7 @@ Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_19_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2486,7 +2486,7 @@ Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_20_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2503,7 +2503,7 @@ Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_21_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2520,7 +2520,7 @@ Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_22_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt F Hns
 Gender: Male
@@ -2537,7 +2537,7 @@ Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_23_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2558,7 +2558,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_24_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2587,7 +2587,7 @@ Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_25_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2604,7 +2604,7 @@ Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_26_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt F Hns
 Gender: Male
@@ -2621,7 +2621,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_27_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2646,7 +2646,7 @@ Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_28_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt F Hns
 Gender: Male
@@ -2671,7 +2671,7 @@ Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_29_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt F Hns
 Gender: Male
@@ -2688,7 +2688,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_30_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2702,7 +2702,7 @@ Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_31_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2716,7 +2716,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_32_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2730,7 +2730,7 @@ Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_33_HNS ===
-Name: GRUNT
+Name: RECLUTA
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
