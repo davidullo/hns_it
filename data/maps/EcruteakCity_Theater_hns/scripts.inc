@@ -969,7 +969,7 @@ EcruteakCity_Theater_Text_KimonoGirlBeaten:
 	.string "...$"
 
 EcruteakCity_Theater_Text_ZukiSeen:
-	.string "Salve. Sono ZUKI.\n"
+	.string "Salve. Sono TAMAO.\n"
 	.string "Ci siamo già visti a VIOLETTO\l"
 	.string "CITTÀ.\p"
 	.string "Per riportare {STR_VAR_1},\n"
@@ -996,7 +996,7 @@ EcruteakCity_Theater_Text_ZukiNo:
 EcruteakCity_Theater_Text_NaokoSeen:
 	.string "Sei forte. Mi hai dato una mano\n"
 	.string "nella FORESTA ILEX.\p"
-	.string "Sono NAOKO, non brava con\n"
+	.string "Sono YUKI, non brava con\n"
 	.string "la strada.\p"
 	.string "Hai battuto il Team Rocket\n"
 	.string "quando KURT era nei guai al\l"
@@ -1031,7 +1031,7 @@ EcruteakCity_Theater_Text_KuniSeen:
 	.string "Eri affidabile al\n"
 	.string "TUNNEL DI FIORDOROPOLI.\p"
 	.string "Sono io che danzo anche\n"
-	.string "sottoterra, KUNI!\p"
+	.string "sottoterra, KOMOMO!\p"
 	.string "So che hai sventato il\n"
 	.string "piano per la Torre Radio.\p"
 	.string "Ora mostrami la forza!\n"
@@ -1056,12 +1056,12 @@ EcruteakCity_Theater_Text_GirlLugia:
 	.string "Potrebbe…$"
 
 EcruteakCity_Theater_Text_ZukiHooh:
-	.string "ZUKI: {PLAYER}!\n"
+	.string "TAMAO: {PLAYER}!\n"
 	.string "Saremo alla TORRE CAMPANA.\n"
 	.string "Ci vediamo lì!$"
 
 EcruteakCity_Theater_Text_ZukiLugia:
-	.string "ZUKI: {PLAYER}!\n"
+	.string "TAMAO: {PLAYER}!\n"
 	.string "Saremo alle ISOLE TURBINE.\l"
 	.string "Ci vediamo lì!$"
 
@@ -1080,6 +1080,6 @@ EcruteakCity_Theater_Text_ZukiAfterAll:
 	.string "PROF.ELM…$"
 
 EcruteakCity_Theater_Text_KimonoGirlsBeforeBattle:
-	.string "Parla con ZUKI al centro\n"
+	.string "Parla con TAMAO al centro\n"
 	.string "quando vuoi.$"
 

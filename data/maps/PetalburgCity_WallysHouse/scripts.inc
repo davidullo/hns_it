@@ -68,7 +68,7 @@ PetalburgCity_WallysHouse_EventScript_ReceivedHMSurf::
 PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally:
 	.string "Tu sei…\n"
 	.string "Ah, devi essere {PLAYER}{KUN}, vero?\p"
-	.string "Grazie per aver giocato con WALLY\n"
+	.string "Grazie per aver giocato con LINO\n"
 	.string "poco fa.\p"
 	.string "È sempre stato fragile e malaticcio\n"
 	.string "fin da quando era Bebè.\p"
@@ -76,25 +76,25 @@ PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally:
 	.string "a VERDANTURF per un po'.\p"
 	.string "L'aria è molto più pulita lì\n"
 	.string "che qui.\p"
-	.string "Come? Dov'è WALLY?\n"
-	.string "È già partito, il nostro WALLY.\p"
+	.string "Come? Dov'è LINO?\n"
+	.string "È già partito, il nostro LINO.\p"
 	.string "Chissà dove sarà\n"
 	.string "arrivato ormai?$"
 
 PetalburgCity_WallysHouse_Text_WonderHowWallyIsDoing:
-	.string "Chissà come sta il nostro WALLY?$"
+	.string "Chissà come sta il nostro LINO?$"
 
 PetalburgCity_WallysHouse_Text_PleaseExcuseUs:
 	.string "{PLAYER}{KUN}! Scusa se ti abbiamo\n"
 	.string "trascinato qui così.\p"
-	.string "Ma il nostro WALLY è molto più sano\n"
+	.string "Ma il nostro LINO è molto più sano\n"
 	.string "da quando è andato a VERDANTURF.\p"
 	.string "È merito tuo!\p"
-	.string "Quando WALLY lasciò la città, l'hai\n"
+	.string "Quando LINO lasciò la città, l'hai\n"
 	.string "aiutato a catturare un POKéMON, vero?\p"
-	.string "Credo che questo abbia reso WALLY\n"
+	.string "Credo che questo abbia reso LINO\n"
 	.string "davvero felice.\p"
-	.string "Anzi, non solo WALLY.\n"
+	.string "Anzi, non solo LINO.\n"
 	.string "Ha reso felice anche me, suo padre.\p"
 	.string "Felice che abbia trovato un amico\n"
 	.string "speciale come te.\p"
@@ -106,11 +106,11 @@ PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces:
 	.string "andare in tantissimi posti.$"
 
 PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon:
-	.string "WALLY tornerà presto a casa.\n"
+	.string "LINO tornerà presto a casa.\n"
 	.string "Non vedo l'ora.$"
 
 PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity:
-	.string "Oh? Hai visto WALLY a\n"
+	.string "Oh? Hai visto LINO a\n"
 	.string "IRIDOPOLI?\p"
 	.string "Oh, {PLAYER}{KUN}, non dire sciocchezze.\p"
 	.string "Sarà anche guarito, ma non può\n"
@@ -118,7 +118,7 @@ PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity:
 	.string "così lontano.$"
 
 PetalburgCity_WallysHouse_Text_WallyWasReallyHappy:
-	.string "WALLY era davvero felice quando ci ha\n"
+	.string "LINO era davvero felice quando ci ha\n"
 	.string "detto che aveva catturato un POKéMON.\p"
 	.string "Era da tanto che non lo vedevo\n"
 	.string "sorridere così.$"
@@ -126,9 +126,9 @@ PetalburgCity_WallysHouse_Text_WallyWasReallyHappy:
 PetalburgCity_WallysHouse_Text_WallyLeftWithoutTelling:
 	.string "Voglio che tu tenga il segreto\n"
 	.string "con mio marito…\p"
-	.string "Ma il nostro WALLY ha lasciato PORTOALTO\n"
+	.string "Ma il nostro LINO ha lasciato PORTOALTO\n"
 	.string "senza dirlo a nessuno.\p"
-	.string "Sai, WALLY è fragile, ma\n"
+	.string "Sai, LINO è fragile, ma\n"
 	.string "ha una volontà di ferro.\p"
 	.string "Sono certa che tornerà sano\n"
 	.string "e salvo un giorno!$"

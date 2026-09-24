@@ -145,7 +145,7 @@ BattleFrontier_Lounge2_Text_BattleTowerIsHottest::
 BattleFrontier_Lounge2_Text_SalonMaidenIsThere::
 	.string "Non lo sapevi, eh?\p"
 	.string "Uno dei migliori ALLENATORI che\n"
-	.string "SCOTT chiama FRONTIER BRAINS è lì.\p"
+	.string "SAVERIO chiama FRONTIER BRAINS è lì.\p"
 	.string "È un ALLENATORE misterioso,\n"
 	.string "la SALON MAIDEN gestisce il posto.$"
 
@@ -168,7 +168,7 @@ BattleFrontier_Lounge2_Text_SalonMaidenGoldMons::
 
 BattleFrontier_Lounge2_Text_DomeAceIsThere::
 	.string "Scommetto che non lo sai!\p"
-	.string "Uno dei forti ALLENATORI che SCOTT\n"
+	.string "Uno dei forti ALLENATORI che SAVERIO\n"
 	.string "chiama MENTI DELLA FRONTIERA è lì.\p"
 	.string "È lo stravagante ALLENATORE\n"
 	.string "chiamato AS DELLA CUPOLA.$"
@@ -194,7 +194,7 @@ BattleFrontier_Lounge2_Text_DomeAceGoldMons::
 BattleFrontier_Lounge2_Text_FactoryHeadIsThere::
 	.string "Scommetto che non lo sai!\p"
 	.string "Uno dei migliori ALLENATORI che\n"
-	.string "SCOTT chiama MENTI DELLA FRONTIERA\p"
+	.string "SAVERIO chiama MENTI DELLA FRONTIERA\p"
 	.string "c'è proprio qui: è quel bizzarro\n"
 	.string "ALLENATORE detto CAPO FABBRICA.$"
 
@@ -217,7 +217,7 @@ BattleFrontier_Lounge2_Text_FactoryHeadGoldMons::
 BattleFrontier_Lounge2_Text_PikeQueenIsThere::
 	.string "Non lo sapevi, eh?\p"
 	.string "Uno dei migliori ALLENATORI che\n"
-	.string "SCOTT chiama FRONTIER BRAINS è lì.\p"
+	.string "SAVERIO chiama FRONTIER BRAINS è lì.\p"
 	.string "È un ALLENATORE spaventoso,\n"
 	.string "la PIKE QUEEN, a gestire il posto.$"
 
@@ -243,7 +243,7 @@ BattleFrontier_Lounge2_Text_PikeQueenGoldMons::
 BattleFrontier_Lounge2_Text_ArenaTycoonIsThere::
 	.string "Scommetto che non lo sai!\p"
 	.string "Uno dei migliori ALLENATORI che\n"
-	.string "SCOTT chiama MENTI DELLA FRONTIERA\p"
+	.string "SAVERIO chiama MENTI DELLA FRONTIERA\p"
 	.string "c'è proprio qui: è la simpatica\n"
 	.string "ALLENATRICE DIVA DELL'ARENA.$"
 
@@ -269,7 +269,7 @@ BattleFrontier_Lounge2_Text_ArenaTycoonGoldMons::
 BattleFrontier_Lounge2_Text_PalaceMavenIsThere::
 	.string "Non lo sapevi, eh?\p"
 	.string "Uno dei migliori ALLENATORI che\n"
-	.string "SCOTT chiama FRONTIER BRAINS è lì.\p"
+	.string "SAVERIO chiama FRONTIER BRAINS è lì.\p"
 	.string "Il posto lo gestisce un ALLENATORE\n"
 	.string "sinistro, detto PALACE MAVEN.$"
 
@@ -294,7 +294,7 @@ BattleFrontier_Lounge2_Text_PalaceMavenGoldMons::
 BattleFrontier_Lounge2_Text_PyramidKingIsThere::
 	.string "Non lo sapevi, eh?\p"
 	.string "Uno dei migliori ALLENATORI che\n"
-	.string "SCOTT chiama FRONTIER BRAINS è lì.\p"
+	.string "SAVERIO chiama FRONTIER BRAINS è lì.\p"
 	.string "È un ALLENATORE ardente,\n"
 	.string "il PYRAMID KING gestisce il posto.$"
 

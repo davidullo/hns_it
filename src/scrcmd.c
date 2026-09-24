@@ -1754,7 +1754,7 @@ static const u16 sOddEggSpecies[12] = {
 };
 
 static const u8 sOddEggShinyNameList[][PLAYER_NAME_LENGTH + 1] = {
-    _("DYLAN"),
+    _("NICOLA"),
     _("Zee"),
     _("Meara"),
     _("Anthony"),

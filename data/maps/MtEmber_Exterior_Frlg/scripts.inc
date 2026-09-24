@@ -148,7 +148,7 @@ MtEmber_Exterior_Text_WellTryDiggingHere::
 	.string "Da questa parte.\n"
 	.string "Proveremo a scavare qui.\p"
 	.string "Il tesoro di cui parlano\n"
-	.string "gli ADMIN dovrebbe essere qui.$"
+	.string "gli TENENTE dovrebbe essere qui.$"
 
 MtEmber_Exterior_Text_YoureInTheWayGetLost::
 	.string "Ma che…?\n"

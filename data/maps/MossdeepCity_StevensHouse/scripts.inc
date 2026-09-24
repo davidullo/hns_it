@@ -148,7 +148,7 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 	end
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
-	.string "STEVEN: {PLAYER}{KUN}…\p"
+	.string "ROCCO: {PLAYER}{KUN}…\p"
 	.string "Come vedi, non c'è molto qui,\n"
 	.string "ma è casa mia.\p"
 	.string "Grazie per tutto quello che hai fatto.\p"
@@ -158,7 +158,7 @@ MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
 	.string "guadagnata.$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "STEVEN: Mentre usi SURF, dovresti\n"
+	.string "ROCCO: Mentre usi SURF, dovresti\n"
 	.string "notare chiazze d'acqua scura.\p"
 	.string "Usa SUB se arrivi in acque profonde\n"
 	.string "come quelle. Scenderai sul fondale.\p"
@@ -168,7 +168,7 @@ MossdeepCity_StevensHouse_Text_ExplainDive:
 	.string "riemergere.$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
-	.string "STEVEN: Pare che ci sia una\n"
+	.string "ROCCO: Pare che ci sia una\n"
 	.string "caverna subacquea tra\l"
 	.string "MOSSDEEP e SOOTOPOLIS.\p"
 	.string "Quella che il CAPITANO STERN\n"
@@ -206,9 +206,9 @@ MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "preferito.\p"
 	.string "Conto su di te.\p"
 	.string "Che le nostre strade si incrocino.\p"
-	.string "STEVEN STONE$"
+	.string "ROCCO STONE$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:
 	.string "È una collezione di rocce e pietre rare\n"
-	.string "messa insieme da STEVEN.$"
+	.string "messa insieme da ROCCO.$"
 

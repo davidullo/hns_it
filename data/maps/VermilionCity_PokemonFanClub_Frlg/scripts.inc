@@ -213,4 +213,4 @@ VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons::
 	.string "Il nostro PRESIDENTE adora davvero i\n"
 	.string "suoi POKéMON.\p"
 	.string "Ma chi è più amato dai POKéMON\n"
-	.string "è DAISY, credo.$"
+	.string "è MARGI, credo.$"

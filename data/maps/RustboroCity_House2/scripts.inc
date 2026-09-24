@@ -15,7 +15,7 @@ RustboroCity_House2_Text_TrainerSchoolExcellent:
 	.string "diventare CAPOPALESTRA.$"
 
 RustboroCity_House2_Text_RoxanneKnowsALot:
-	.string "ROXANNE, la CAPOPALESTRA, sa\n"
+	.string "PETRA, la CAPOPALESTRA, sa\n"
 	.string "davvero molto sui POKéMON.\p"
 	.string "Ed è anche molto forte!$"
 

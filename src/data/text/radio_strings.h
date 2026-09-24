@@ -145,7 +145,7 @@ static const u8 sRadioText_BenFern_Lullaby[] = _("Ninna nanna!");
 // Lucky Channel
 // ==========================================================
 
-static const u8 sRadioText_LC1[] = _("REED: Yahoo! Come butta");
+static const u8 sRadioText_LC1[] = _("ORLANDO: Yahoo! Come butta");
 static const u8 sRadioText_LC2[] = _("oggi? Che siate su o giù");
 static const u8 sRadioText_LC3[] = _("di morale, non perdete");
 static const u8 sRadioText_LC4[] = _("IL NUMERO FORTUNATO!");

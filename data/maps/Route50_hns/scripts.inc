@@ -110,7 +110,7 @@ Route50_Text_FinleyBefore:
     .string "È un domatore di draghi leggendario,\n"
     .string "proprio come me.\l"
     .string "Chi sono io?\p"
-    .string "Sono FINLEY, custode della\n"
+    .string "Sono ENNIO, custode della\n"
     .string "PIASTRA DRACO.$"
 
 Route50_Text_FinleyBeforeBattle:

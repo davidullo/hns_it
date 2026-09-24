@@ -47,7 +47,7 @@ gNameChoice_Karl::
 	.string "KARL$"
 
 gNameChoice_Taylor::
-	.string "TAYLOR$"
+	.string "ERMANNO$"
 
 gNameChoice_Oscar::
 	.string "OSCAR$"
@@ -62,7 +62,7 @@ gNameChoice_Jon::
 	.string "JON$"
 
 gNameChoice_Ralph::
-	.string "RALPH$"
+	.string "RAFFAELE$"
 
 gNameChoice_Kay::
 	.string "KAY$"
@@ -80,10 +80,10 @@ gNameChoice_Jodi::
 	.string "JODI$"
 
 gNameChoice_Amanda::
-	.string "AMANDA$"
+	.string "NOEMI$"
 
 gNameChoice_Hillary::
-	.string "HILLARY$"
+	.string "DEBY$"
 
 gNameChoice_Makey::
 	.string "MAKEY$"
@@ -92,13 +92,13 @@ gNameChoice_Michi::
 	.string "MICHI$"
 
 gNameChoice_Paula::
-	.string "PAULA$"
+	.string "PAOLINA$"
 
 gNameChoice_June::
 	.string "JUNE$"
 
 gNameChoice_Cassie::
-	.string "CASSIE$"
+	.string "CATERINA$"
 
 gNameChoice_Rey::
 	.string "REY$"

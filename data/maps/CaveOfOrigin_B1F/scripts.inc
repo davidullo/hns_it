@@ -62,11 +62,11 @@ CaveOfOrigin_B1F_EventScript_AtSkyPillar::
 CaveOfOrigin_B1F_Text_WallaceStory:
 	.string "Ah, sei {PLAYER}{KUN}?\n"
 	.string "Ho sentito delle tue imprese.\p"
-	.string "Mi chiamo WALLACE.\p"
+	.string "Mi chiamo ADRIANO.\p"
 	.string "Ero il CAPOPALESTRA di\n"
 	.string "PETROPOLI, ma è successo altro.\p"
 	.string "Ora ho lasciato la PALESTRA al mio\n"
-	.string "mentore JUAN.\p"
+	.string "mentore RODOLFO.\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "GROUDON e KYOGRE, i due POKéMON\n"
@@ -84,19 +84,19 @@ CaveOfOrigin_B1F_Text_WallaceStory:
 	.string "sia RAYQUAZA…$"
 
 CaveOfOrigin_B1F_Text_WhereIsRayquaza:
-	.string "WALLACE: {PLAYER}{KUN}, tu\n"
+	.string "ADRIANO: {PLAYER}{KUN}, tu\n"
 	.string "forse sai dove sia RAYQUAZA?\p"
 	.string "Se lo sai, dimmelo.$"
 
 CaveOfOrigin_B1F_Text_ButWereInCaveOfOrigin:
-	.string "WALLACE: La GROTTA ORIGINE?\p"
+	.string "ADRIANO: La GROTTA ORIGINE?\p"
 	.string "Ma è proprio qui!\n"
 	.string "Devi fare di meglio!\p"
 	.string "Ti prego, pensa bene a\n"
 	.string "dove possa essere ora RAYQUAZA.$"
 
 CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat:
-	.string "WALLACE: MT. CENERE?\p"
+	.string "ADRIANO: MT. CENERE?\p"
 	.string "Ma quando ho incontrato là la\n"
 	.string "vecchia non ne ha detto niente.\p"
 	.string "Dubito che la vecchia volesse\n"
@@ -105,12 +105,12 @@ CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat:
 	.string "con più attenzione.$"
 
 CaveOfOrigin_B1F_Text_CantYouRememberSomehow:
-	.string "WALLACE: Eh? Non ricordi?\n"
+	.string "ADRIANO: Eh? Non ricordi?\n"
 	.string "Hmm… È un problema…\p"
 	.string "Non ti viene in mente niente?$"
 
 CaveOfOrigin_B1F_Text_WellHeadToSkyPillar:
-	.string "WALLACE: Il PILASTRO CIELO?\p"
+	.string "ADRIANO: Il PILASTRO CIELO?\p"
 	.string "È quello!\n"
 	.string "Dev'essere il PILASTRO CIELO!\p"
 	.string "{PLAYER}{KUN}, non c'è tempo da perdere!\n"

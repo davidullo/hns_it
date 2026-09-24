@@ -49,7 +49,7 @@ BurnedTower_Movement_Eusine2:
 
 
 BurnedTower_1FEusineIntroText:
-	.string "EUSINE: Mi chiamo EUSINE.\p"
+	.string "EUGENIUS: Mi chiamo EUGENIUS.\p"
 	.string "Sto cercando un POKéMON\n"
 	.string "di nome SUICUNE.\p"
 	.string "Tu chi sei...?\p"
@@ -84,7 +84,7 @@ BurnedTower_1F_EventScript_Morty::
 	end
 
 BurnedTower_1FEusineText:
-	.string "EUSINE: Ho sentito che SUICUNE\n"
+	.string "EUGENIUS: Ho sentito che SUICUNE\n"
 	.string "sia in questa TORRE ARSA, così\l"
 	.string "sono venuto a vedere.\p"
 	.string "Ma dove può stare esattamente?$"
@@ -94,7 +94,7 @@ BurnedTower_1FMortyText:
 	.string "FIORDORISO deve studiare i\l"
 	.string "POKéMON leggendari, ossia\l"
 	.string "SUICUNE, ENTEI e RAIKOU.\p"
-	.string "EUSINE è qui, così ho\n"
+	.string "EUGENIUS è qui, così ho\n"
 	.string "deciso di indagare nella\l"
 	.string "TORRE con lui.$"
 

@@ -56,41 +56,41 @@ PalletTown_House2_EventScript_DaisyGrooming::
 	end
 
 PalletTown_House2_Text_Hello:
-	.string "DAISY: Ciao! Mio fratello minore è il\n"
+	.string "MARGI: Ciao! Mio fratello minore è il\n"
 	.string "CAPOPALESTRA di SMERALDOPOLI.\p"
 	.string "Ma va fuori città così\n"
 	.string "spesso che crea problemi\l"
 	.string "agli allenatori.$"
 
 PalletTown_House2_Text_OfferGrooming:
-	.string "DAISY: Ciao! Che tempismo. Sto per\n"
+	.string "MARGI: Ciao! Che tempismo. Sto per\n"
 	.string "prendere un tè.\p"
 	.string "Vuoi unirti a me?\p"
 	.string "Oh, i tuoi POKéMON sono un po' sporchi.\p"
 	.string "Vuoi che ne lavi uno?$"
 
 PalletTown_House2_Text_WhichMon:
-	.string "DAISY: Quale devo lavare?$"
+	.string "MARGI: Quale devo lavare?$"
 
 PalletTown_House2_Text_Alright:
-	.string "DAISY: OK, lo farò diventare\n"
+	.string "MARGI: OK, lo farò diventare\n"
 	.string "bello in un attimo.$"
 
 PalletTown_House2_Text_AllDone:
-	.string "DAISY: Ecco fatto! Tutto pronto.\p"
+	.string "MARGI: Ecco fatto! Tutto pronto.\p"
 	.string "Visto? {STR_VAR_1} non è\n"
 	.string "carino?\p"
 	.string "È un POKéMON adorabile.$"
 
 PalletTown_House2_Text_AlreadyGroomed:
-	.string "DAISY: Prendo sempre il tè\n"
+	.string "MARGI: Prendo sempre il tè\n"
 	.string "a quest'ora. Unisciti a me.$"
 
 PalletTown_House2_Text_Refused:
-	.string "DAISY: Non vuoi farne\n"
+	.string "MARGI: Non vuoi farne\n"
 	.string "lavare uno?\p"
 	.string "OK, prendiamo solo il tè.$"
 
 PalletTown_House2_Text_CantGroomEgg:
-	.string "DAISY: Oh, scusa. Non posso\n"
+	.string "MARGI: Oh, scusa. Non posso\n"
 	.string "davvero toelettare un UOVO.$"

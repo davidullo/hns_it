@@ -259,7 +259,7 @@ MauvilleCity_Gym_EventScript_GymStatue::
 MauvilleCity_Gym_Text_GymGuideAdvice:
 	.string "Ehi, come va, futuro CAMPIONE\n"
 	.string "{PLAYER}?\p"
-	.string "WATTSON, il CAPO della PALESTRA di\n"
+	.string "GIANLUIGI, il CAPO della PALESTRA di\n"
 	.string "CICLAMIPOLI, usa POKéMON Elettro.\p"
 	.string "Se lo sfidi con POKéMON d'Acqua,\n"
 	.string "li fulmina! Bzzt!\p"
@@ -284,14 +284,14 @@ MauvilleCity_Gym_Text_KirkPostBattle:
 	.string "cuore, whoa-yeah!$"
 
 MauvilleCity_Gym_Text_ShawnIntro:
-	.string "Mi sono allenato con WATTSON!\n"
+	.string "Mi sono allenato con GIANLUIGI!\n"
 	.string "Non perderò mica facilmente!$"
 
 MauvilleCity_Gym_Text_ShawnDefeat:
 	.string "Staccato e spento…$"
 
 MauvilleCity_Gym_Text_ShawnPostBattle:
-	.string "WATTSON, il nostro CAPOPALESTRA, è\n"
+	.string "GIANLUIGI, il nostro CAPOPALESTRA, è\n"
 	.string "in giro da tantissimo tempo.\p"
 	.string "Lottava già prima che tuo padre\n"
 	.string "nascesse, quel vecchio tosto.$"
@@ -304,7 +304,7 @@ MauvilleCity_Gym_Text_BenDefeat:
 	.string "Perdere non è divertente…$"
 
 MauvilleCity_Gym_Text_BenPostBattle:
-	.string "WATTSON adora piazzare\n"
+	.string "GIANLUIGI adora piazzare\n"
 	.string "trappole con gli interruttori.$"
 
 MauvilleCity_Gym_Text_VivianIntro:
@@ -316,7 +316,7 @@ MauvilleCity_Gym_Text_VivianDefeat:
 
 MauvilleCity_Gym_Text_VivianPostBattle:
 	.string "Ho sentito che MAUVILLE è stata fondata\n"
-	.string "da WATTSON.\p"
+	.string "da GIANLUIGI.\p"
 	.string "Era un ALLENATORE molto prima che\n"
 	.string "diventassimo ALLENATORI.\l"
 	.string "Dovrà saperne di cose, eh!$"
@@ -329,7 +329,7 @@ MauvilleCity_Gym_Text_AngeloDefeat:
 	.string "I miei occhi sono abbagliati…$"
 
 MauvilleCity_Gym_Text_AngeloPostBattle:
-	.string "WATTSON di FORTEVILLA ha la fronte\n"
+	.string "GIANLUIGI di FORTEVILLA ha la fronte\n"
 	.string "lucida. Mi rende felice!$"
 
 MauvilleCity_Gym_Text_WattsonIntro:
@@ -342,7 +342,7 @@ MauvilleCity_Gym_Text_WattsonIntro:
 	.string "tutte le mie porte truccate?\p"
 	.string "Wahahahah!\n"
 	.string "Questa sì che è divertente!\p"
-	.string "Allora io, WATTSON, CAPOPALESTRA di\n"
+	.string "Allora io, GIANLUIGI, CAPOPALESTRA di\n"
 	.string "MAUVILLE, ti elettrizzerò!$"
 
 MauvilleCity_Gym_Text_WattsonDefeat:
@@ -353,7 +353,7 @@ MauvilleCity_Gym_Text_WattsonDefeat:
 
 MauvilleCity_Gym_Text_ReceivedDynamoBadge:
 	.string "{PLAYER} riceve la DINAMOSFERA\n"
-	.string "da WATTSON.$"
+	.string "da GIANLUIGI.$"
 
 MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
 	.string "Con la DINAMOSFERA, i POKéMON possono\n"
@@ -370,7 +370,7 @@ MauvilleCity_Gym_Text_ExplainShockWave:
 	.string "… … … … … …$"
 
 MauvilleCity_Gym_Text_RegisteredWattson:
-	.string "CAPOPALESTRA WATTSON registrato\n"
+	.string "CAPOPALESTRA GIANLUIGI registrato\n"
 	.string "nel POKéNAV.$"
 
 MauvilleCity_Gym_Text_WattsonPostBattle:
@@ -386,11 +386,11 @@ MauvilleCity_Gym_Text_GymStatue:
 
 MauvilleCity_Gym_Text_GymStatueCertified:
 	.string "PALESTRA POKéMON DI MAUVILLE\p"
-	.string "ALLENATORI CERTIFICATI DI WATTSON:\n"
+	.string "ALLENATORI CERTIFICATI DI GIANLUIGI:\n"
 	.string "{PLAYER}$"
 
 MauvilleCity_Gym_Text_WattsonPreRematch:
-	.string "WATTSON: Ah-ah! Finalmente!\n"
+	.string "GIANLUIGI: Ah-ah! Finalmente!\n"
 	.string "So cosa vuoi.\l"
 	.string "Vuoi sfidare i miei POKéMON!\p"
 	.string "Wahahahaha!\p"
@@ -402,7 +402,7 @@ MauvilleCity_Gym_Text_WattsonRematchDefeat:
 	.string "Le nostre batterie si sono scaricate…$"
 
 MauvilleCity_Gym_Text_WattsonPostRematch:
-	.string "WATTSON: Dobbiamo ricaricare le\n"
+	.string "GIANLUIGI: Dobbiamo ricaricare le\n"
 	.string "batterie, di nuovo.\p"
 	.string "Quando saremo carichi, accetteremo\n"
 	.string "volentieri la tua sfida.\p"
@@ -410,7 +410,7 @@ MauvilleCity_Gym_Text_WattsonPostRematch:
 	.string "vuoi?$"
 
 MauvilleCity_Gym_Text_WattsonRematchNeedTwoMons:
-	.string "WATTSON: Ah-ah! Finalmente!\n"
+	.string "GIANLUIGI: Ah-ah! Finalmente!\n"
 	.string "So cosa vuoi.\l"
 	.string "Vuoi sfidare i miei POKéMON!\p"
 	.string "Wahahahaha!\p"

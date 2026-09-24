@@ -638,7 +638,7 @@ DewfordTown_Text_TownSign:
 
 DewfordTown_Text_GymSign:
 	.string "PALESTRA POKéMON di DEWFORD\n"
-	.string "CAPO: BRAWLY\l"
+	.string "CAPO: RUDI\l"
 	.string "“Un'onda nella lotta!”$"
 
 DewfordTown_Text_HallSign:
@@ -649,7 +649,7 @@ Route104_Text_LandedInDewfordDeliverLetter:
 	.string "MR. BRINEY: Ahoy!\n"
 	.string "Siamo sbarcati a DEWFORD.\p"
 	.string "Immagino che andrai a consegnare\n"
-	.string "la LETTERA a, com'era, STEVEN!$"
+	.string "la LETTERA a, com'era, ROCCO!$"
 
 DewfordTown_Text_SetSailBackToPetalburg:
 	.string "MR. BRINEY: Hai consegnato la\n"

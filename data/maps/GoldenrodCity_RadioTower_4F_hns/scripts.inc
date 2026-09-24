@@ -88,7 +88,7 @@ GoldenrodCity_RadioTower_4F4_EventScript_Meowth::
 
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_Seen:
-	.string "PROTON: Aspetta un attimo!\p"
+	.string "MILAS: Aspetta un attimo!\p"
 	.string "Non sei quello che ci ha\n"
 	.string "intralciato al POZZO SLOWPOKE?\p"
 	.string "Capisco… Fai tutto questo\n"
@@ -102,7 +102,7 @@ GoldenrodCity_RadioTower_4F4_Text_Proton_Beaten:
 	.string "Fiuuu…$"
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_After:
-	.string "PROTON: Stavolta hai vinto…\n"
+	.string "MILAS: Stavolta hai vinto…\n"
 	.string "Ma hai solo fatto crescere\p"
 	.string "l'ira del TEAM ROCKET.$"
 

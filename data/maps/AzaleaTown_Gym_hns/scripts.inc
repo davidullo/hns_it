@@ -763,7 +763,7 @@ AzaleaTown_Gym_Text_TwinsAmyMay1Seen:
 	.string "CAPOPALESTRA? Impossibile!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1Beaten:
-	.string "AMY & MAY: Che bello,\n"
+	.string "AMY & VERA: Che bello,\n"
 	.string "in due!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1After:
@@ -773,18 +773,18 @@ AzaleaTown_Gym_Text_TwinsAmyMay1After:
 	.string "fa sempre colpi critici!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay2Seen:
-	.string "MAY: Vuoi vedere il\n"
+	.string "VERA: Vuoi vedere il\n"
 	.string "CAPOPALESTRA? In bocca al lupo!\p"
 	.string "RAFFAELLO è fortissimo!\n"
 	.string "Il TAGLIO del suo SCYTHER\l"
 	.string "fa sempre critico!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay2Beaten:
-	.string "AMY & MAY: Che bello,\n"
+	.string "AMY & VERA: Che bello,\n"
 	.string "in due!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay2After:
-	.string "MAY: Il nostro POKéMON ha perso!\n"
+	.string "VERA: Il nostro POKéMON ha perso!\n"
 	.string "Che vergogna.\p"
 	.string "Ma RAFFAELLO non perde!\p"
 	.string "Il suo PINECO fa presto\n"

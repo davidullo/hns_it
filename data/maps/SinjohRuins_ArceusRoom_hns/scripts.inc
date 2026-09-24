@@ -358,7 +358,7 @@ SinjohRuins_ArceusRoom_Movement_StevenWalkDown:
 	step_end
 
 SinjohRuins_ArceusRoom_Text_StevenCongrats:
-    .string "STEVEN: Ce l'hai fatta, {PLAYER}!\p"
+    .string "ROCCO: Ce l'hai fatta, {PLAYER}!\p"
 	.string "Che battaglia mozzafiato.\p"
 	.string "Vederti lottare mi ha fatto capire.\p"
 	.string "Le KIMONO GIRL non ti hanno\n"

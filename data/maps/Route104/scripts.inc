@@ -1043,7 +1043,7 @@ Route104_Text_DontNeedThisTakeIt:
 	.string "vendere germogli da poco.\p"
 	.string "Ero così felice che ho esagerato\n"
 	.string "con gli acquisti.\p"
-	.string "Non mi serve più questa ERBA BIANCA.\n"
+	.string "Non mi serve più questa ERBA GUADA.\n"
 	.string "La prenderesti tu, per favore?$"
 
 Route104_Text_FlowerShopSellingSaplings:
@@ -1078,7 +1078,7 @@ Route104_Text_TrainerTipsDoubleBattles:
 	.string "Osserva come sono schierati.$"
 
 Route104_Text_MayWeShouldRegister:
-	.string "MAY: Oh, ciao, {PLAYER}{KUN}!\p"
+	.string "VERA: Oh, ciao, {PLAYER}{KUN}!\p"
 	.string "La DEVON ha potenziato il POKéNAV con\n"
 	.string "il sistema MATCH CALL, eh?\p"
 	.string "Registriamoci a vicenda così\n"
@@ -1089,7 +1089,7 @@ Route104_Text_RegisteredMay:
 	.string "nel POKéNAV.$"
 
 Route104_Text_MayHowsYourPokedex:
-	.string "MAY: Oh, a proposito, {PLAYER}{KUN},\n"
+	.string "VERA: Oh, a proposito, {PLAYER}{KUN},\n"
 	.string "come va il tuo POKéDEX?$"
 
 Route104_Text_MayMinesDecentLetsBattle:
@@ -1098,17 +1098,17 @@ Route104_Text_MayMinesDecentLetsBattle:
 	.string "Facciamo una piccola lotta?$"
 
 Route104_Text_MayHaventRaisedPokemon:
-	.string "MAY: Oh, che succede?\p"
+	.string "VERA: Oh, che succede?\p"
 	.string "Non hai catturato o allenato\n"
 	.string "molto i tuoi POKéMON?\p"
 	.string "Non va bene per un ALLENATORE!$"
 
 Route104_Text_MayLetsBattle:
-	.string "MAY: Allora, che ne dici?\n"
+	.string "VERA: Allora, che ne dici?\n"
 	.string "Facciamo una piccola lotta qui?$"
 
 Route104_Text_MayIntro:
-	.string "MAY: Sei appena diventato ALLENATORE,\n"
+	.string "VERA: Sei appena diventato ALLENATORE,\n"
 	.string "{PLAYER}{KUN}. Non perderò!$"
 
 Route104_Text_MayDefeat:
@@ -1116,7 +1116,7 @@ Route104_Text_MayDefeat:
 	.string "Sei più forte del previsto!$"
 
 Route104_Text_MayPostBattle:
-	.string "MAY: Si vede che sei bravo\n"
+	.string "VERA: Si vede che sei bravo\n"
 	.string "a trattare i POKéMON.\p"
 	.string "Ma oltre a farli lottare,\n"
 	.string "dovresti fare come il SIG. BRINEY.\p"
@@ -1124,18 +1124,18 @@ Route104_Text_MayPostBattle:
 	.string "dei POKéMON, sai.$"
 
 Route104_Text_BrendanWeShouldRegister:
-	.string "BRENDAN: Oh, ciao, {PLAYER}!\p"
+	.string "BRENDON: Oh, ciao, {PLAYER}!\p"
 	.string "Bello, hai fatto installare dalla DEVON il\n"
 	.string "sistema MATCH CALL sul POKéNAV!\p"
 	.string "Registriamoci a vicenda nei nostri\n"
 	.string "POKéNAV così restiamo in contatto.$"
 
 Route104_Text_RegisteredBrendan:
-	.string "{PLAYER} ha registrato BRENDAN\n"
+	.string "{PLAYER} ha registrato BRENDON\n"
 	.string "nel POKéNAV.$"
 
 Route104_Text_BrendanHowsYourPokedex:
-	.string "BRENDAN: {PLAYER}, come va il tuo POKéDEX?\n"
+	.string "BRENDON: {PLAYER}, come va il tuo POKéDEX?\n"
 	.string "Hai già riempito delle pagine?$"
 
 Route104_Text_BrendanDoingGreatLetsBattle:
@@ -1144,15 +1144,15 @@ Route104_Text_BrendanDoingGreatLetsBattle:
 	.string "in lotta?$"
 
 Route104_Text_BrendanNoConfidence:
-	.string "BRENDAN: Che c'è? Non hai\n"
+	.string "BRENDON: Che c'è? Non hai\n"
 	.string "fiducia nei tuoi POKéMON?$"
 
 Route104_Text_BrendanLetsBattle:
-	.string "BRENDAN: Come va?\n"
+	.string "BRENDON: Come va?\n"
 	.string "Ti va di lottare con me?$"
 
 Route104_Text_BrendanIntro:
-	.string "BRENDAN: So che sei appena diventato\n"
+	.string "BRENDON: So che sei appena diventato\n"
 	.string "un ALLENATORE, ma non andrò piano!$"
 
 Route104_Text_BrendanDefeat:
@@ -1160,7 +1160,7 @@ Route104_Text_BrendanDefeat:
 	.string "Sei proprio bravo.$"
 
 Route104_Text_BrendanPostBattle:
-	.string "BRENDAN: Sei diventato piuttosto bravo\n"
+	.string "BRENDON: Sei diventato piuttosto bravo\n"
 	.string "a gestire i POKéMON.\p"
 	.string "Ma, sai, non dovresti solo\n"
 	.string "far lottare i POKéMON.\p"

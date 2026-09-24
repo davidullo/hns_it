@@ -154,7 +154,7 @@ SinjohRuins_StairsScene::
     end
 
 SinjohRuins_Text_StevenGotoStairs1:
-    .string "STEVEN: Può significare una sola cosa.$"
+    .string "ROCCO: Può significare una sola cosa.$"
 
 SinjohRuins_Text_StevenGotoStairs2:
     .string "{PLAYER}. Siamo riusciti a decifrare\n"
@@ -321,21 +321,21 @@ SinjohRuins_EventScript_StevenBattle::
     return
 
 SinjohRuins_Text_HealParty::
-    .string "STEVEN: Fammi curare i tuoi POKéMON\n"
+    .string "ROCCO: Fammi curare i tuoi POKéMON\n"
     .string "prima che vai.$"
 
 SinjohRuins_Text_StevenAfterPlate:
-    .string "STEVEN: Buona fortuna, {PLAYER}\p"
+    .string "ROCCO: Buona fortuna, {PLAYER}\p"
     .string "Vai, ti seguo subito.$"
 
 SinjohRuins_Text_StevenAfterBattle:
-	.string "STEVEN: Pensare che un altro allenatore \n"
+	.string "ROCCO: Pensare che un altro allenatore \n"
 	.string "mi avrebbe battuto così.\p"
     .string "Incredibile.\p"
 	.string "Prendi, è la piastra finale.$"
 
 SinjohRuins_Text_StevenReadytoBattle:
-    .string "STEVEN: {PLAYER}.\p"
+    .string "ROCCO: {PLAYER}.\p"
     .string "Da quando ho visto la\n"
     .string "determinazione nei tuoi occhi,\l"
     .string "ho sentito che sarebbe finita così.\p"

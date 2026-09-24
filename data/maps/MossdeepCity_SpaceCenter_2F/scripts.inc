@@ -424,16 +424,16 @@ MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou:
 	.string "ci occuperemo di te allo stesso tempo!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere:
-	.string "MAXIE: Spostati!\n"
+	.string "MAX: Spostati!\n"
 	.string "Non osare intrometterti!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
-	.string "STEVEN: TEAM MAGMA…\p"
+	.string "ROCCO: TEAM MAGMA…\p"
 	.string "Che senso ha rubare il carburante\n"
 	.string "dei razzi?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Dato che sei così\n"
+	.string "MAX: Fufufu… Dato che sei così\n"
 	.string "curioso, meriti una spiegazione.\p"
 	.string "Getteremo l'intero\n"
 	.string "carico nel MONTE CAMINO!\p"
@@ -444,13 +444,13 @@ MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
 	.string "Sarà feroce!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
-	.string "STEVEN: {PLAYER}{KUN}!\n"
+	.string "ROCCO: {PLAYER}{KUN}!\n"
 	.string "Mi aiuterai?\p"
 	.string "Andiamo in lotta insieme!\n"
 	.string "Sei pronto?$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
-	.string "STEVEN: Allora, sbrigati!\n"
+	.string "ROCCO: Allora, sbrigati!\n"
 	.string "Preparati in fretta!$"
 
 MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
@@ -461,7 +461,7 @@ MossdeepCity_SpaceCenter_Text_TabithaDefeat:
 	.string "Sto con il nostro capo…$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
-	.string "MAXIE: Non siamo riusciti a far eruttare\n"
+	.string "MAX: Non siamo riusciti a far eruttare\n"
 	.string "il vulcano…\p"
 	.string "Non siamo riusciti a controllare GROUDON\n"
 	.string "dopo averlo risvegliato…\p"
@@ -476,13 +476,13 @@ MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
 	.string "espandere il mare è forse sbagliato?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp:
-	.string "MAXIE: Va bene…\n"
+	.string "MAX: Va bene…\n"
 	.string "Rinunceremo al carburante…\p"
 	.string "Sembra ci siano questioni più importanti\n"
 	.string "che devo esaminare…$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome:
-	.string "STEVEN: Uff, è stata troppo tesa.\n"
+	.string "ROCCO: Uff, è stata troppo tesa.\n"
 	.string "{PLAYER}{KUN}, grazie.\p"
 	.string "Ho qualcosa da darti come\n"
 	.string "ringraziamento per il tuo aiuto.\p"

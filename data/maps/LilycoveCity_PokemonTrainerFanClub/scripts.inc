@@ -616,7 +616,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_ImPullingForYou:
 
 LilycoveCity_PokemonTrainerFanClub_Text_BrawlyNoImYourFan:
 	.string "Uff…\n"
-	.string "BRAWLY…\p"
+	.string "RUDI…\p"
 	.string "Oh, no! Aspetta!\n"
 	.string "Non è così! No, no, no!\p"
 	.string "Sono tuo fan dalla testa ai piedi!\p"
@@ -625,19 +625,19 @@ LilycoveCity_PokemonTrainerFanClub_Text_BrawlyNoImYourFan:
 
 LilycoveCity_PokemonTrainerFanClub_Text_ICantHelpLikingBrawly:
 	.string "Non posso farci nulla, mi piace solo\n"
-	.string "BRAWLY…$"
+	.string "RUDI…$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrawly:
 	.string "Nessuno capisce il fascino di\n"
-	.string "BRAWLY…\p"
+	.string "RUDI…\p"
 	.string "Non mi importa!\p"
 	.string "Anche se fossi l'unico, continuerò\n"
-	.string "a tifare BRAWLY!$"
+	.string "a tifare RUDI!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrawly:
 	.string "Qualunque cosa dicano, il mio\n"
 	.string "ALLENATORE preferito è il CAPOPALESTRA\l"
-	.string "di PORTOALGA, BRAWLY!$"
+	.string "di PORTOALGA, RUDI!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouveSurpassedYourFather:
 	.string "Hai superato tuo padre in\n"

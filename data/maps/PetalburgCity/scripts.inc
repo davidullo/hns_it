@@ -699,7 +699,7 @@ PetalburgCity_EventScript_GymBoy::
 	end
 
 PetalburgCity_Text_WhereIsWally:
-	.string "Dov'è finito il nostro WALLY?\p"
+	.string "Dov'è finito il nostro LINO?\p"
 	.string "Dobbiamo partire per VERDANTURF\n"
 	.string "molto presto…$"
 
@@ -741,7 +741,7 @@ PetalburgCity_Text_CitySign:
 	.string "“Dove la gente si mescola alla natura.””$"
 
 PetalburgCity_Text_WallyHouseSign:
-	.string "CASA DI WALLY$"
+	.string "CASA DI LINO$"
 
 PetalburgCity_Text_AreYouATrainer:
 	.string "Scusa!\p"

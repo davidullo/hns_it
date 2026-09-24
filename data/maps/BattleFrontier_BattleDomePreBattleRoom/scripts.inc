@@ -370,7 +370,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver:
 	.string "Complimenti, sei in\n"
 	.string "finale.\p"
 	.string "In finale affronterai\n"
-	.string "il DOME ACE TUCKER.\p"
+	.string "il DOME ACE TOLOMEO.\p"
 	.string "Sei pronto?$"
 
 @ Identical to ReadyForTuckerSilver
@@ -378,15 +378,15 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold:
 	.string "Complimenti, sei in\n"
 	.string "finale.\p"
 	.string "In finale affronterai\n"
-	.string "il DOME ACE TUCKER.\p"
+	.string "il DOME ACE TOLOMEO.\p"
 	.string "Sei pronto?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort:
-	.string "La finale con TUCKER è\n"
+	.string "La finale con TOLOMEO è\n"
 	.string "imminente. Sei pronto?$"
 
 @ Identical again
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGoldShort:
-	.string "La finale con TUCKER è\n"
+	.string "La finale con TOLOMEO è\n"
 	.string "imminente. Sei pronto?$"
 

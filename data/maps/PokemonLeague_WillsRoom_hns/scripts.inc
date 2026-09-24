@@ -108,7 +108,7 @@ PokemonLeague_WillsRoom_Text_Before:
     .string "Benvenuto nella LEGA POKéMON,\n"
     .string "{PLAYER}.\p"
     .string "Permettimi di presentarmi.\n"
-    .string "Sono WILL.\p"
+    .string "Sono PINO.\p"
     .string "Mi sono allenato in tutto il\n"
     .string "mondo, rendendo potenti i miei\l"
     .string "POKéMON psichici.\p"
@@ -130,7 +130,7 @@ PokemonLeague_WillsRoom_Text_Defeat:
     .string "SUPERQUATTRO.$"
 
 PokemonLeague_WillsRoom_Text_RematchBefore:
-    .string "WILL: Ah, bentornato.\p"
+    .string "PINO: Ah, bentornato.\p"
     .string "Avevo previsto questo incontro.\p"
     .string "I miei POKéMON psichici e\n"
     .string "io si sono evoluti, sviluppando\l"

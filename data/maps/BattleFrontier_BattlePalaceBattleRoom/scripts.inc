@@ -495,10 +495,10 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
 	.string "Grandi applausi per l'arrivo\n"
-	.string "del DUCE DEL PALAZZO, SPENSER!$"
+	.string "del DUCE DEL PALAZZO, SPARTACO!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-	.string "SPENSER: Il mio corpo è sempre\n"
+	.string "SPARTACO: Il mio corpo è sempre\n"
 	.string "con i POKéMON!\p"
 	.string "Il mio cuore batte sempre\n"
 	.string "con i POKéMON!\p"
@@ -514,7 +514,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
 	.string "Dimostramolo qui!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
-	.string "SPENSER: Gwahahah!\p"
+	.string "SPARTACO: Gwahahah!\p"
 	.string "Ehi, le mie parole non ti han colto!\n"
 	.string "Scusa se ci ho provato!\p"
 	.string "Tieni!\n"
@@ -531,13 +531,13 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
 	.string "sul SUPERPASS!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
-	.string "SPENSER: Gli occhi dei tuoi\n"
+	.string "SPARTACO: Gli occhi dei tuoi\n"
 	.string "POKéMON sono purissimi.\p"
 	.string "Attendo con ansia la prossima\n"
 	.string "occasione di rivederti.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-	.string "SPENSER: Gwahahah!\n"
+	.string "SPARTACO: Gwahahah!\n"
 	.string "Sei risalito di nuovo?\p"
 	.string "Ora il legame con i tuoi\n"
 	.string "POKéMON è davvero forte.\p"
@@ -551,7 +551,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
 	.string "… … …Kaaah!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-	.string "SPENSER: Che spettacolo!\n"
+	.string "SPARTACO: Che spettacolo!\n"
 	.string "I miei confratelli, pur liberi,\l"
 	.string "non ti hanno superato.\p"
 	.string "Il tuo spirito di squadra è bello!\p"
@@ -569,6 +569,6 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
 	.string "ha brillato d'oro!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
-	.string "SPENSER: Gwahahah!\p"
+	.string "SPARTACO: Gwahahah!\p"
 	.string "Torna a trovarmi spesso!\n"
 	.string "I miei confratelli aspettano!$"

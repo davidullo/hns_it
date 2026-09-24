@@ -178,9 +178,9 @@ SootopolisCity_Gym_1F_EventScript_GymStatue::
 SootopolisCity_Gym_1F_Text_GymGuideAdvice:
 	.string "Ehi! Come va, futuro\n"
 	.string "CAMPIONE {PLAYER}?\p"
-	.string "JUAN, CAPOPALESTRA di SOOTOPOLIS,\n"
+	.string "RODOLFO, CAPOPALESTRA di SOOTOPOLIS,\n"
 	.string "è un maestro dei POKéMON d'Acqua.\p"
-	.string "E per arrivare a JUAN, un pavimento\n"
+	.string "E per arrivare a RODOLFO, un pavimento\n"
 	.string "ghiacciato ti ostacolerà…\p"
 	.string "Mi spiace, ma questo è tutto il\n"
 	.string "consiglio che ho per te.\p"
@@ -188,7 +188,7 @@ SootopolisCity_Gym_1F_Text_GymGuideAdvice:
 	.string "farcela da solo!$"
 
 SootopolisCity_Gym_1F_Text_GymGuidePostVictory:
-	.string "Wow! Hai battuto persino JUAN, che\n"
+	.string "Wow! Hai battuto persino RODOLFO, che\n"
 	.string "era il più forte di tutta HOENN!\p"
 	.string "Ok! Guarda la tua SCHEDA ALLENATORE.\p"
 	.string "Con tutte le MEDAGLIE, sei pronto\n"
@@ -198,11 +198,11 @@ SootopolisCity_Gym_1F_Text_JuanIntro:
 	.string "Lascia che ti chieda.\n"
 	.string "Lo sapevi?\l"
 	.string "Ah, non sarò così sfuggente.\p"
-	.string "Sono io che ho insegnato a WALLACE\n"
+	.string "Sono io che ho insegnato a ADRIANO\n"
 	.string "tutto sui POKéMON.\p"
 	.string "Un tempo avevo lasciato il ruolo\n"
 	.string "di CAPOPALESTRA.\p"
-	.string "Al mio posto avevo affidato a WALLACE\n"
+	.string "Al mio posto avevo affidato a ADRIANO\n"
 	.string "la PALESTRA.\p"
 	.string "Però è sorta una ragione impellente\n"
 	.string "per il mio ritorno.\p"
@@ -223,7 +223,7 @@ SootopolisCity_Gym_1F_Text_JuanDefeat:
 	.string "Da te sento lo splendore\n"
 	.string "di un'abilità che vincerà tutto.\p"
 	.string "Però, rispetto a me o a\n"
-	.string "WALLACE, ti manca l'eleganza.\p"
+	.string "ADRIANO, ti manca l'eleganza.\p"
 	.string "Forse dovrei prestarti\n"
 	.string "il mio abito?\p"
 	.string "… … … … … …\n"
@@ -234,7 +234,7 @@ SootopolisCity_Gym_1F_Text_JuanDefeat:
 
 SootopolisCity_Gym_1F_Text_ReceivedRainBadge:
 	.string "{PLAYER} riceve la MEDAGLIA PIOGGIA\n"
-	.string "da JUAN.$"
+	.string "da RODOLFO.$"
 
 SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis:
 	.string "Con la MEDAGLIA PIOGGIA avrai\n"
@@ -254,7 +254,7 @@ SootopolisCity_Gym_1F_Text_ExplainWaterPulse:
 	.string "… … … … … …$"
 
 SootopolisCity_Gym_1F_Text_RegisteredJuan:
-	.string "CAPOPALESTRA JUAN registrato\n"
+	.string "CAPOPALESTRA RODOLFO registrato\n"
 	.string "nel POKéNAV.$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle:
@@ -279,11 +279,11 @@ SootopolisCity_Gym_1F_Text_GymStatue:
 
 SootopolisCity_Gym_1F_Text_GymStatueCertified:
 	.string "PALESTRA POKéMON DI SOOTOPOLIS\p"
-	.string "ALLENATORI CERTIFICATI DA JUAN:\n"
+	.string "ALLENATORI CERTIFICATI DA RODOLFO:\n"
 	.string "{PLAYER}$"
 
 SootopolisCity_Gym_1F_Text_JuanPreRematch:
-	.string "JUAN: Ah, questa PALESTRA era tornata\n"
+	.string "RODOLFO: Ah, questa PALESTRA era tornata\n"
 	.string "alla sua solita serenità…\p"
 	.string "Ma il nostro giovane tifone è tornato\n"
 	.string "a metterci di nuovo alla prova!\p"
@@ -296,7 +296,7 @@ SootopolisCity_Gym_1F_Text_JuanRematchDefeat:
 	.string "Mi hai battuto di nuovo!$"
 
 SootopolisCity_Gym_1F_Text_JuanPostRematch:
-	.string "JUAN: Se ti chiedessi di diventare\n"
+	.string "RODOLFO: Se ti chiedessi di diventare\n"
 	.string "mio allievo, sono certo che rifiuteresti.\p"
 	.string "Vorrei regalarti il mio\n"
 	.string "cappotto.\p"
@@ -306,7 +306,7 @@ SootopolisCity_Gym_1F_Text_JuanPostRematch:
 	.string "di nobiltà!$"
 
 SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons:
-	.string "JUAN: Ah, questa PALESTRA era tornata\n"
+	.string "RODOLFO: Ah, questa PALESTRA era tornata\n"
 	.string "alla sua solita serenità…\p"
 	.string "Ma il nostro giovane tifone è tornato\n"
 	.string "a metterci di nuovo alla prova!\p"

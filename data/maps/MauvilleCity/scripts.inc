@@ -465,25 +465,25 @@ MauvilleCity_Text_UncleHesTooPeppy:
 	.string "Ma è diventato troppo vispo…$"
 
 MauvilleCity_Text_WallyWantToChallengeGym:
-	.string "WALLY: Dai, ZIO, ti prego?\p"
+	.string "LINO: Dai, ZIO, ti prego?\p"
 	.string "Voglio sfidare questa PALESTRA\n"
 	.string "e vedere quanto sono migliorato.\p"
 	.string "Ti prego? Posso, ti prego?$"
 
 MauvilleCity_Text_UncleYourePushingIt:
-	.string "ZIO: Aspetta, WALLY.\p"
+	.string "ZIO: Aspetta, LINO.\p"
 	.string "Da quando vivi con i POKéMON,\n"
 	.string "sei diventato molto più forte.\p"
 	.string "Ma non credi di esagerare\n"
 	.string "a sfidare una PALESTRA?$"
 
 MauvilleCity_Text_WallyWeCanBeatAnyone:
-	.string "WALLY: Non esagero.\p"
+	.string "LINO: Non esagero.\p"
 	.string "Se unisco le forze con RALTS,\n"
 	.string "possiamo battere chiunque!$"
 
 MauvilleCity_Text_WallyWillYouBattleMe:
-	.string "WALLY: Oh! Ciao, {PLAYER}!\p"
+	.string "LINO: Oh! Ciao, {PLAYER}!\p"
 	.string "Sono molto più forte da\n"
 	.string "quando ci siamo conosciuti.\p"
 	.string "{PLAYER}, voglio che tu e mio ZIO\n"
@@ -492,32 +492,32 @@ MauvilleCity_Text_WallyWillYouBattleMe:
 	.string "una lotta con me?$"
 
 MauvilleCity_Text_WallyMyUncleWontKnowImStrong:
-	.string "WALLY: Oh… Se non lotti con me,\n"
+	.string "LINO: Oh… Se non lotti con me,\n"
 	.string "{PLAYER}, il mio ZIO non saprà che\l"
 	.string "sono diventato davvero forte.$"
 
 MauvilleCity_Text_UncleCanYouBattleWally:
 	.string "ZIO: {PLAYER}{KUN}, vero?\n"
 	.string "Posso chiederti di lottare con\l"
-	.string "WALLY, solo per stavolta?\p"
+	.string "LINO, solo per stavolta?\p"
 	.string "Con il carattere che ha, non credo\n"
 	.string "che ascolti ragioni.$"
 
 MauvilleCity_Text_WallyPleaseBattleMe:
-	.string "WALLY: {PLAYER}, ti prego!\n"
+	.string "LINO: {PLAYER}, ti prego!\n"
 	.string "Lotta con me, ti prego.$"
 
 MauvilleCity_Text_WallyHereICome:
-	.string "WALLY: {PLAYER}, grazie.\p"
+	.string "LINO: {PLAYER}, grazie.\p"
 	.string "Ok… Arrivo!$"
 
 MauvilleCity_Text_WallyDefeat:
-	.string "WALLY: … … … … … … …\p"
+	.string "LINO: … … … … … … …\p"
 	.string "… … … … … … … …\p"
 	.string "Ho perso…$"
 
 MauvilleCity_Text_WallyIllGoBackToVerdanturf:
-	.string "WALLY: ZIO…\n"
+	.string "LINO: ZIO…\n"
 	.string "Torno a VERDANTURF…$"
 
 MauvilleCity_Text_ThankYouNotEnoughToBattle:
@@ -528,7 +528,7 @@ MauvilleCity_Text_ThankYouNotEnoughToBattle:
 	.string "essere un vero ALLENATORE.$"
 
 MauvilleCity_Text_UncleNoNeedToBeDown:
-	.string "ZIO: WALLY, non devi essere così\n"
+	.string "ZIO: LINO, non devi essere così\n"
 	.string "giù di morale.\p"
 	.string "Cosa ti impedisce di diventare\n"
 	.string "sempre più forte?\p"
@@ -538,17 +538,17 @@ MauvilleCity_Text_UncleNoNeedToBeDown:
 MauvilleCity_Text_UncleVisitUsSometime:
 	.string "ZIO: {PLAYER}{KUN}, ho capito ora\n"
 	.string "che sei l'ALLENATORE che ha\l"
-	.string "badato a WALLY quando ha preso\l"
+	.string "badato a LINO quando ha preso\l"
 	.string "il suo POKéMON.\p"
 	.string "Perché non ci fai visita a\n"
 	.string "VERDANTURF?\l"
-	.string "WALLY ne sarebbe felice.$"
+	.string "LINO ne sarebbe felice.$"
 
 
 MauvilleCity_Text_WallyPokenavCall:
 	.string "… … … … … …\n"
 	.string "… … … … … Beep!\p"
-	.string "WALLY: Oh, ciao, {PLAYER}!\p"
+	.string "LINO: Oh, ciao, {PLAYER}!\p"
 	.string "Volevo dirti soltanto che\n"
 	.string "lo zio mi ha preso un POKéNAV!\p"
 	.string "Ora posso contattarti\n"
@@ -557,13 +557,13 @@ MauvilleCity_Text_WallyPokenavCall:
 	.string "… … … … … Click!$"
 
 MauvilleCity_Text_RegisteredWally:
-	.string "WALLY registrato\n"
+	.string "LINO registrato\n"
 	.string "nel POKéNAV.$"
 
 MauvilleCity_Text_ScottYouDidntHoldBack:
-	.string "SCOTT: Eh eh…\n"
+	.string "SAVERIO: Eh eh…\n"
 	.string "Stavo guardando quella lotta!\p"
-	.string "Sei amico di quel ragazzo, WALLY,\n"
+	.string "Sei amico di quel ragazzo, LINO,\n"
 	.string "vero?\p"
 	.string "Ma non ti sei trattenuto\n"
 	.string "e l'hai battuto alla grande.\p"
@@ -574,7 +574,7 @@ MauvilleCity_Text_ScottYouDidntHoldBack:
 	.string "Tiferò per te!$"
 
 MauvilleCity_Text_WattsonNeedFavorTakeKey:
-	.string "WATTSON: Oh, {PLAYER}{KUN}!\n"
+	.string "GIANLUIGI: Oh, {PLAYER}{KUN}!\n"
 	.string "Hai l'aria di chi ha grinta!\l"
 	.string "E questo mi piace, wahahahaha!\p"
 	.string "Bene! Ho deciso!\n"
@@ -589,7 +589,7 @@ MauvilleCity_Text_WattsonNeedFavorTakeKey:
 	.string "a CICLOFORTE.$"
 
 MauvilleCity_Text_WattsonWontBeChallenge:
-	.string "WATTSON: Non preoccuparti.\n"
+	.string "GIANLUIGI: Non preoccuparti.\n"
 	.string "Per te non sarà una sfida.\p"
 	.string "L'ingresso a CICLANOVA è a\n"
 	.string "un breve SURF dalla PERCORSO 110.\p"
@@ -597,7 +597,7 @@ MauvilleCity_Text_WattsonWontBeChallenge:
 	.string "Wahahahaha!$"
 
 MauvilleCity_Text_WattsonThanksTakeTM:
-	.string "WATTSON: Wahahahaha!\p"
+	.string "GIANLUIGI: Wahahahaha!\p"
 	.string "Lo sapevo, {PLAYER}{KUN}! Sapevo di\n"
 	.string "aver scelto bene!\p"
 	.string "Questo è il mio grazie: una MT con\n"
@@ -605,7 +605,7 @@ MauvilleCity_Text_WattsonThanksTakeTM:
 	.string "Dai, te la sei meritata!$"
 
 MauvilleCity_Text_WattsonYoungTakeCharge:
-	.string "WATTSON: Wahahahaha!\p"
+	.string "GIANLUIGI: Wahahahaha!\p"
 	.string "Mi fa immenso piacere vedere\n"
 	.string "i giovani che si danno da fare!$"
 
@@ -636,7 +636,7 @@ MauvilleCity_Text_CitySign:
 
 MauvilleCity_Text_GymSign:
 	.string "PALESTRA POKéMON DI MAUVILLE\n"
-	.string "CAPO: WATTSON\l"
+	.string "CAPO: GIANLUIGI\l"
 	.string "“L'uomo allegro ed elettrizzante!”$"
 
 MauvilleCity_Text_BikeShopSign:

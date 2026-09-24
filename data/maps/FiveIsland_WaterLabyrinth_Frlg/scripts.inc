@@ -111,7 +111,7 @@ FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
 	.string "Pettinava con dolcezza i POKéMON…\n"
 	.string "Era un piccolo angelo.\p"
 	.string "Il nome di quella bimba…\n"
-	.string "Credo fosse DAISY.$"
+	.string "Credo fosse MARGI.$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeIntro::
 	.string "È un ottimo ambiente per\n"

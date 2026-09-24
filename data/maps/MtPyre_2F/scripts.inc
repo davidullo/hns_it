@@ -65,22 +65,22 @@ MtPyre_2F_Text_MarkPostBattle:
 	.string "credevo ci fossero POKéMON rari.$"
 
 MtPyre_2F_Text_LukeIntro:
-	.string "LUKE: Siamo qui per una scommessa.\p"
+	.string "LUCA: Siamo qui per una scommessa.\p"
 	.string "Se le mostro quanto sono forte,\n"
 	.string "si innamorerà di me. Lo so!\p"
 	.string "Lo so! Ti straccio e le mostro\n"
 	.string "quanto sono forte!$"
 
 MtPyre_2F_Text_LukeDefeat:
-	.string "LUKE: Ops!$"
+	.string "LUCA: Ops!$"
 
 MtPyre_2F_Text_LukePostBattle:
-	.string "LUKE: Beh, abbiamo perso ma va bene!\n"
+	.string "LUCA: Beh, abbiamo perso ma va bene!\n"
 	.string "Ti sono accanto.\l"
 	.string "Supereremo questa scommessa!$"
 
 MtPyre_2F_Text_LukeNotEnoughMons:
-	.string "LUKE: Se vuoi sfidarmi,\n"
+	.string "LUCA: Se vuoi sfidarmi,\n"
 	.string "porta altri POKéMON.\p"
 	.string "Altrimenti non posso mostrare\n"
 	.string "alla mia ragazza quanto sono forte!$"

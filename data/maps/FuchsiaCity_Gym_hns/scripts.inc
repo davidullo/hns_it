@@ -90,10 +90,10 @@ FuchsiaCity_Gym_Text_Janine_DisappointYou:
 	.string "Mi spiace deluderti…\p"
 	.string "Sto scherzando!\p"
 	.string "Sono quella vera!\p"
-	.string "JANINE della PALESTRA\nDI FUCSIAPOLI!$"
+	.string "NINA della PALESTRA\nDI FUCSIAPOLI!$"
 
 FuchsiaCity_Gym_Text_Janine_ToughOne:
-	.string "JANINE: Sei forte davvero. Hai\n"
+	.string "NINA: Sei forte davvero. Hai\n"
 	.string "vinto…\p"
 	.string "Prendi la SOULBADGE!$"
 
@@ -101,7 +101,7 @@ FuchsiaCity_Gym_Text_ReceivedSoulBadge:
 	.string "{PLAYER} riceve SOULBADGE.$"
 
 FuchsiaCity_Gym_Text_Janine_GiveTM:
-	.string "JANINE: Sei forte! Ho un dono\n"
+	.string "NINA: Sei forte! Ho un dono\n"
 	.string "speciale!$"
 
 FuchsiaCity_Gym_Text_Janine_ExplainTM:
@@ -109,7 +109,7 @@ FuchsiaCity_Gym_Text_Janine_ExplainTM:
 	.string "di tipo Veleno: può avvelenare.$"
 
 FuchsiaCity_Gym_Text_Janine_ApplyMyself:
-	.string "JANINE: Voglio davvero\n"
+	.string "NINA: Voglio davvero\n"
 	.string "impegnarmi e migliorare.\p"
 	.string "Voglio diventare più forte\n"
 	.string "di papà e te!$"
@@ -213,7 +213,7 @@ FuchsiaCity_Gym_EventScript_Barry::
 
 FuchsiaCity_Gym_Text_LassAlice_Before:
 	.string "Fufufu!\p"
-	.string "Sono JANINE, CAPOPALESTRA!\p"
+	.string "Sono NINA, CAPOPALESTRA!\p"
 	.string "No, non sono io! Fregato!$"
 
 FuchsiaCity_Gym_Text_LassAlice_Beaten:
@@ -233,7 +233,7 @@ FuchsiaCity_Gym_Text_LassLinda_After:
 	.string "Bene? Che bel travestimento?$"
 
 FuchsiaCity_Gym_Text_PicnickerCindy_Before:
-	.string "Sono JANINE!\p"
+	.string "Sono NINA!\p"
 	.string "Come hai capito che ero io?\p"
 	.string "Combattiamo!$"
 
@@ -245,7 +245,7 @@ FuchsiaCity_Gym_Text_PicnickerCindy_After:
 
 FuchsiaCity_Gym_Text_CamperBarry_Before:
 	.string "Ahahahah!\p"
-	.string "Certo! Sono JANINE!$"
+	.string "Certo! Sono NINA!$"
 
 FuchsiaCity_Gym_Text_CamperBarry_Beaten:
 	.string "La maschera era perfetta, uffa!$"
@@ -277,13 +277,13 @@ FuchsiaCity_Gym_EventScript_GymStatuePostVictory::
 
 FuchsiaCity_Gym_Text_GymStatue::
     .string "PALESTRA DI FUCSIAPOLI\n"
-    .string "CAPO: JANINE\p"
+    .string "CAPO: NINA\p"
 	.string "VINCITORI:\n"
 	.string "BLU, ROSSO$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
     .string "PALESTRA DI FUCSIAPOLI\n"
-    .string "CAPO: JANINE\p"
+    .string "CAPO: NINA\p"
     .string "VINCITORI:\n"
     .string "BLU, ROSSO, {PLAYER}$"
 
@@ -291,8 +291,8 @@ FuchsiaCity_Gym_Text_Guide:
 	.string "Ehi, futuro CAMPIONE!\p"
 	.string "Ops! Guarda bene intorno a te.\p"
 	.string "Tutti gli allenatori sembrano\n"
-	.string "la CAPO JANINE.\p"
-	.string "Qual è la vera JANINE?$"
+	.string "la CAPO NINA.\p"
+	.string "Qual è la vera NINA?$"
 
 FuchsiaCity_Gym_Text_GuideWin:
 	.string "Che bella lotta, allenatore\n"

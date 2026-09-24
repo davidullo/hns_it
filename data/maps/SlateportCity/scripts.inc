@@ -1311,31 +1311,31 @@ SlateportCity_Text_ComeBackToTradeBerryPowder:
 	.string "Lo sapevi?$"
 
 SlateportCity_Text_YouDroveTeamAquaAway:
-	.string "SCOTT: Eh?\n"
+	.string "SAVERIO: Eh?\n"
 	.string "Mi pare di averti già visto.\p"
 	.string "Ti ho presentato me stesso?\n"
-	.string "Se no, mi chiamo SCOTT.\p"
+	.string "Se no, mi chiamo SAVERIO.\p"
 	.string "Ho appena visto il TEAM AQUA\n"
 	.string "scappare di qui come punti.\p"
 	.string "Fammi indovinare, li hai cacciati tu?$"
 
 SlateportCity_Text_MaybeThisTrainer:
-	.string "SCOTT: Hmm…\n"
+	.string "SAVERIO: Hmm…\n"
 	.string "Forse, e dico forse, questo ALLENATORE…$"
 
 SlateportCity_Text_LetsRegisterEachOther:
-	.string "SCOTT: Bene! Penso che diventeremo\n"
+	.string "SAVERIO: Bene! Penso che diventeremo\n"
 	.string "buoni amici.\p"
 	.string "Registriamoci a vicenda nei\n"
 	.string "POKéNAV.\p"
 	.string "… … … … … …$"
 
 SlateportCity_Text_RegisteredScott:
-	.string "Registrato questo SCOTT\n"
+	.string "Registrato questo SAVERIO\n"
 	.string "nel POKéNAV.$"
 
 SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
-	.string "SCOTT: Vorrei venire\n"
+	.string "SAVERIO: Vorrei venire\n"
 	.string "con te, ma voglio tenere d'occhio\l"
 	.string "anche il talento degli altri.\p"
 	.string "Quindi me ne vado in giro per\n"
@@ -1343,7 +1343,7 @@ SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
 	.string "Ci vediamo, {PLAYER}{KUN}!$"
 
 SlateportCity_Text_TakingBattleTentChallenge:
-	.string "SCOTT: Oh, ehi!\n"
+	.string "SAVERIO: Oh, ehi!\n"
 	.string "Ma sei {PLAYER}{KUN}!\p"
 	.string "{PLAYER}{KUN}, fammi indovinare: vai\n"
 	.string "alla TENDA LOTTA?\p"

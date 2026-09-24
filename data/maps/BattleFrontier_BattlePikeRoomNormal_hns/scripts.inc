@@ -752,7 +752,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge_hns2_hns:
 	.string "nella Scelta di Lotta…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen_hns:
-	.string "Sono LUCY…\n"
+	.string "Sono FORTUNATA…\n"
 	.string "Qui comando io…\l"
 	.string "Sono la REGINA DEL PIKE…\p"
 	.string "Tu lo sai già, ma per proseguire,\n"
@@ -765,7 +765,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck_hns:
 	.string "Spero non l'abbia sprecata tutta qui…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass_hns:
-	.string "LUCY: … … … … … …\n"
+	.string "FORTUNATA: … … … … … …\n"
 	.string "Mostrami il SUPERPASS…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol_hns:
@@ -777,7 +777,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear_hns:
 	.string "Sparisci pure…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain_hns:
-	.string "LUCY: …Sei tu…\p"
+	.string "FORTUNATA: …Sei tu…\p"
 	.string "… … … … … …\p"
 	.string "…Tra fiori calpestati e tempeste\n"
 	.string "sono arrivata fin qui…\p"
@@ -791,7 +791,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn_hns:
 	.string "Dai!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass_hns:
-	.string "LUCY: … … … … … …\p"
+	.string "FORTUNATA: … … … … … …\p"
 	.string "…SUPERPASS…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine_hns:

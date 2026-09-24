@@ -184,7 +184,7 @@ BurnedTower_B1F_Movement_EusineLeave:
 	step_end
 
 BurnedTowerB1FEusineText:
-	.string "EUSINE: Che shock!\p"
+	.string "EUGENIUS: Che shock!\p"
 	.string "SUICUNE è sfrecciata come un\n"
 	.string "lampo davanti ai miei occhi!\p"
 	.string "Dieci anni a inseguire\n"

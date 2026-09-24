@@ -60,7 +60,7 @@ EverGrandeCity_PhoebesRoom_EventScript_Defeated::
 
 EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
 	.string "Ahahaha!\p"
-	.string "Sono PHOEBE dei SUPERQUATTRO.\n"
+	.string "Sono ESTER dei SUPERQUATTRO.\n"
 	.string "Mi allenai sul MONTE CAMINO.\p"
 	.string "Allenandomi, ho imparato a\n"
 	.string "parlare coi POKéMON di tipo SPETTRO.\p"

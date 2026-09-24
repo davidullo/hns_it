@@ -210,7 +210,7 @@ BattleFrontier_ScottsHouse_EventScript_Scott_hnsFaceAwayWest_hns::
 	return
 
 BattleFrontier_ScottsHouse_Text_WelcomeToBattleFrontier_hns:
-	.string "SCOTT: Ehi, ciao e benvenuto!\n"
+	.string "SAVERIO: Ehi, ciao e benvenuto!\n"
 	.string "Heheh… Scusa se è stretto qui.\p"
 	.string "Comunque, {PLAYER}{KUN}, ti do uffi\n"
 	.string "cialmente il benvenuto alla ZONA LOTTA.\p"
@@ -240,7 +240,7 @@ BattleFrontier_ScottsHouse_Text_ObtainedXBattlePoints_hns:
 	.string "{STR_VAR_1} PUNTI LOTTA.$"
 
 BattleFrontier_ScottsHouse_Text_ExplainBattlePoints_hns:
-	.string "SCOTT: Puoi controllare i tuoi\n"
+	.string "SAVERIO: Puoi controllare i tuoi\n"
 	.string "PUNTI LOTTA sul PASS ZONA LOTTA.\p"
 	.string "Più successi avrai qui alla\n"
 	.string "ZONA LOTTA, più PUNTI LOTTA\l"
@@ -252,7 +252,7 @@ BattleFrontier_ScottsHouse_Text_ExpectingGreatThings_hns:
 	.string "Da te mi aspetto cose grandi!$"
 
 BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers_hns:
-	.string "SCOTT: Ogni ALLENATORE è unico.\n"
+	.string "SAVERIO: Ogni ALLENATORE è unico.\n"
 	.string "Ognuno ha la sua vita.\p"
 	.string "Ma quando lottano, non conta\n"
 	.string "chi sono.\p"
@@ -264,7 +264,7 @@ BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers_hns:
 	.string "qui.$"
 
 BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain_hns:
-	.string "SCOTT: Hai conosciuto qualcuno\n"
+	.string "SAVERIO: Hai conosciuto qualcuno\n"
 	.string "dei CERVELLI ZONA LOTTA?\p"
 	.string "Meglio ancora, hai ottenuto\n"
 	.string "qualche simbolo da loro?\p"
@@ -274,7 +274,7 @@ BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain_hns:
 	.string "saltare di sorpresa!$"
 
 BattleFrontier_ScottsHouse_Text_MayFindWildMonsInFrontier_hns:
-	.string "SCOTT: Non ti alleni solo per\n"
+	.string "SAVERIO: Non ti alleni solo per\n"
 	.string "lottare, vero?\p"
 	.string "Mi pare di ricordare che ti\n"
 	.string "dedichi anche al POKéDEX.\p"
@@ -284,7 +284,7 @@ BattleFrontier_ScottsHouse_Text_MayFindWildMonsInFrontier_hns:
 	.string "Fufufu!$"
 
 BattleFrontier_ScottsHouse_Text_YouveCollectedAllSilverSymbols_hns:
-	.string "SCOTT: Ti diverti nella\n"
+	.string "SAVERIO: Ti diverti nella\n"
 	.string "ZONA LOTTA?\p"
 	.string "…Aspetta un attimo…\n"
 	.string "Oh!\p"
@@ -299,7 +299,7 @@ BattleFrontier_ScottsHouse_Text_YouveCollectedAllSilverSymbols_hns:
 	.string "Sarà certo di buona utilità.$"
 
 BattleFrontier_ScottsHouse_Text_YouveCollectedAllGoldSymbols_hns:
-	.string "SCOTT: Spero che ti diverta\n"
+	.string "SAVERIO: Spero che ti diverta\n"
 	.string "tutto qui nella ZONA LOTTA.\p"
 	.string "…Aspetta un attimo…\n"
 	.string "Oh, occhi miei increduli!\p"
@@ -324,14 +324,14 @@ BattleFrontier_ScottsHouse_Text_BerryPocketStuffed_hns:
 	.string "piena.$"
 
 BattleFrontier_ScottsHouse_Text_Beat50TrainersInARow_hns:
-	.string "SCOTT: Oh, ho sentito di te!\n"
+	.string "SAVERIO: Oh, ho sentito di te!\n"
 	.string "Hai dominato la TORRE LOTTA!\l"
 	.string "Hai battuto 50 ALLENATORI di fila?\p"
 	.string "È fantastico!\n"
 	.string "Voglio darti questo!$"
 
 BattleFrontier_ScottsHouse_Text_Beat100TrainersInARow_hns:
-	.string "SCOTT: Oh! Ho sentito di te!\n"
+	.string "SAVERIO: Oh! Ho sentito di te!\n"
 	.string "Come hai travolto la TORRE LOTTA!\l"
 	.string "Hai battuto 100 ALLENATORI di fila?\p"
 	.string "È assurdamente spettacolare!\n"

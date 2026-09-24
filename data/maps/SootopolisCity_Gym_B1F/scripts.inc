@@ -53,10 +53,10 @@ SootopolisCity_Gym_B1F_EventScript_Daphne::
 
 SootopolisCity_Gym_B1F_Text_AndreaIntro:
 	.string "Ti mostrerò le tecniche sublimi\n"
-	.string "che ho imparato dal nostro JUAN!$"
+	.string "che ho imparato dal nostro RODOLFO!$"
 
 SootopolisCity_Gym_B1F_Text_AndreaDefeat:
-	.string "Perdonami, JUAN…$"
+	.string "Perdonami, RODOLFO…$"
 
 SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
 	.string "Guarda cosa succede se rompi\n"
@@ -64,7 +64,7 @@ SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
 
 SootopolisCity_Gym_B1F_Text_CrissyIntro:
 	.string "Sei arrivato fin qui, ma non\n"
-	.string "vedrai JUAN.\p"
+	.string "vedrai RODOLFO.\p"
 	.string "Non se perdi contro di me!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyDefeat:
@@ -73,10 +73,10 @@ SootopolisCity_Gym_B1F_Text_CrissyDefeat:
 
 SootopolisCity_Gym_B1F_Text_CrissyPostBattle:
 	.string "Forse sei abbastanza bravo da non\n"
-	.string "essere steso in un colpo da JUAN.$"
+	.string "essere steso in un colpo da RODOLFO.$"
 
 SootopolisCity_Gym_B1F_Text_DaphneIntro:
-	.string "Vedere JUAN che conduce\n"
+	.string "Vedere RODOLFO che conduce\n"
 	.string "una lotta…\p"
 	.string "La sua bellezza mi ha spinta a\n"
 	.string "diventare ALLENATRICE.$"
@@ -101,7 +101,7 @@ SootopolisCity_Gym_B1F_Text_ConnieDefeat:
 
 SootopolisCity_Gym_B1F_Text_ConniePostBattle:
 	.string "Ti dico un segreto.\p"
-	.string "Per raggiungere JUAN devi\n"
+	.string "Per raggiungere RODOLFO devi\n"
 	.string "calpestare ogni mattonella una volta.$"
 
 SootopolisCity_Gym_B1F_Text_BridgetIntro:
@@ -120,7 +120,7 @@ SootopolisCity_Gym_B1F_Text_BridgetPostBattle:
 
 SootopolisCity_Gym_B1F_Text_OliviaIntro:
 	.string "Mi alleno con i POKéMON\n"
-	.string "insieme a JUAN.\p"
+	.string "insieme a RODOLFO.\p"
 	.string "Non credere che sia una facile.$"
 
 SootopolisCity_Gym_B1F_Text_OliviaDefeat:
@@ -165,9 +165,9 @@ SootopolisCity_Gym_B1F_Text_AnnikaDefeat:
 
 SootopolisCity_Gym_B1F_Text_AnnikaPostBattle:
 	.string "Sono venuta in questa PALESTRA\n"
-	.string "perché JUAN ha lodato i miei\p"
+	.string "perché RODOLFO ha lodato i miei\p"
 	.string "POKéMON. Ah, se avessi conosciuto\n"
-	.string "JUAN anni fa, da giovane…$"
+	.string "RODOLFO anni fa, da giovane…$"
 
 SootopolisCity_Gym_B1F_Text_BriannaIntro:
 	.string "Eh eh…\n"
@@ -178,6 +178,6 @@ SootopolisCity_Gym_B1F_Text_BriannaDefeat:
 	.string "Sono stata troppo clemente.$"
 
 SootopolisCity_Gym_B1F_Text_BriannaPostBattle:
-	.string "Non riuscirai a toccare JUAN,\n"
+	.string "Non riuscirai a toccare RODOLFO,\n"
 	.string "ne son certa. Eh eh…$"
 

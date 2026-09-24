@@ -3825,7 +3825,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_WHITE_APRICORN] =
     {
-        .name = ITEM_NAME("GHICOCCA BIANCA"),
+        .name = ITEM_NAME("GHICOCCA GUADA"),
         .price = APRICORN_PRICE,
         .description = COMPOUND_STRING(
             "Una Ghicocca di\n"

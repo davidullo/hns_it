@@ -948,7 +948,7 @@ Route110_TrickHousePuzzle5_Text_Mechadoll2Intro:
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1:
 	.string "QUIZ DI MECHADOLL 2.\p"
 	.string "Quale di questi POKéMON ha preso\n"
-	.string "in prestito WALLY da tuo padre?$"
+	.string "in prestito LINO da tuo padre?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz2:
 	.string "QUIZ DI MECHADOLL 2.\p"

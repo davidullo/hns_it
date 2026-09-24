@@ -87,7 +87,7 @@ EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
 	.string "il massimo!$"
 
 EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
-	.string "SCOTT: {PLAYER}{KUN}, ce l'hai fatta:\n"
+	.string "SAVERIO: {PLAYER}{KUN}, ce l'hai fatta:\n"
 	.string "ora affronti la LEGA POKéMON!\p"
 	.string "Che gioia per te!\n"
 	.string "Il mio incitamento è servito!\p"

@@ -43,7 +43,7 @@ DayOfWeekSiblingsHouse_Text_Pokedex3:
     .string "PERCORSO 29\p"
     .string "Mercoledì, WESLEY\n"
     .string "LAGO D'IRA\p"
-    .string "Giovedì, ARTHUR\n"
+    .string "Giovedì, ARTURO\n"
     .string "PERCORSO 36\p"
     .string "Venerdì, FRIEDA\n"
     .string "PERCORSO 32\p"

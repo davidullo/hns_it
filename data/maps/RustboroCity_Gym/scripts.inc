@@ -116,7 +116,7 @@ RustboroCity_Gym_Text_GymGuideAdvice:
 	.string "Ma i CAPOPALESTRA non sono deboli!\p"
 	.string "Ed è qui che entro in gioco io!\n"
 	.string "Sono qui per darti consigli esperti!\p"
-	.string "ROXANNE, la CAPOPALESTRA, usa\n"
+	.string "PETRA, la CAPOPALESTRA, usa\n"
 	.string "POKéMON di tipo ROCCIA.\p"
 	.string "Il tipo ROCCIA è molto resistente, ma\n"
 	.string "non regge le mosse di tipo ACQUA e\l"
@@ -150,13 +150,13 @@ RustboroCity_Gym_Text_JoshPostBattle:
 
 RustboroCity_Gym_Text_TommyIntro:
 	.string "Se non batti me, non hai\n"
-	.string "speranze contro ROXANNE!$"
+	.string "speranze contro PETRA!$"
 
 RustboroCity_Gym_Text_TommyDefeat:
 	.string "Wow! Hai del potenziale!$"
 
 RustboroCity_Gym_Text_TommyPostBattle:
-	.string "ROXANNE è più forte di me\n"
+	.string "PETRA è più forte di me\n"
 	.string "di parecchie volte.\p"
 	.string "Meglio stare in guardia!$"
 
@@ -176,7 +176,7 @@ RustboroCity_Gym_Text_MarcPostBattle:
 	.string "il tipo ROCCIA alla sua giovane età.$"
 
 RustboroCity_Gym_Text_RoxanneIntro:
-	.string "Ciao, sono ROXANNE, CAPOPALESTRA\n"
+	.string "Ciao, sono PETRA, CAPOPALESTRA\n"
 	.string "di FERRUGIPOLI.\p"
 	.string "Sono diventata CAPOPALESTRA per\n"
 	.string "mettere in pratica ciò che ho imparato\l"
@@ -198,7 +198,7 @@ RustboroCity_Gym_Text_RoxanneDefeat:
 
 RustboroCity_Gym_Text_ReceivedStoneBadge:
 	.string "{PLAYER} riceve la MEDAGLIA PIETRA\n"
-	.string "da ROXANNE.$"
+	.string "da PETRA.$"
 
 RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
 	.string "La MEDAGLIA SASSO aumenta l'ATTACCO\n"
@@ -228,15 +228,15 @@ RustboroCity_Gym_Text_GymStatue:
 
 RustboroCity_Gym_Text_GymStatueCertified:
 	.string "PALESTRA POKéMON DI PETALIPOLI\p"
-	.string "ALLENATORI CERTIFICATI DA ROXANNE:\n"
+	.string "ALLENATORI CERTIFICATI DA PETRA:\n"
 	.string "{PLAYER}$"
 
 RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "… … … … … …\n"
 	.string "… … … … … Beep!\p"
-	.string "ROXANNE: Oh, ciao, {PLAYER}?\n"
-	.string "Sono ROXANNE di RUSTBORO.\p"
-	.string "BRAWLY mi ha detto che stai\n"
+	.string "PETRA: Oh, ciao, {PLAYER}?\n"
+	.string "Sono PETRA di RUSTBORO.\p"
+	.string "RUDI mi ha detto che stai\n"
 	.string "salendo tra gli ALLENATORI a un\l"
 	.string "ritmo incredibile.\p"
 	.string "Beh, non voglio pensare che\n"
@@ -249,12 +249,12 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "… … … … … Click!$"
 
 RustboroCity_Gym_Text_RegisteredRoxanne:
-	.string "CAPOPALESTRA ROXANNE registrata\n"
+	.string "CAPOPALESTRA PETRA registrata\n"
 	.string "nel POKéNAV.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch:
-	.string "ROXANNE: Che piacere rivederti.\n"
-	.string "Sono ROXANNE, la CAPOPALESTRA.\p"
+	.string "PETRA: Che piacere rivederti.\n"
+	.string "Sono PETRA, la CAPOPALESTRA.\p"
 	.string "Di certo entrambi abbiamo fatto\n"
 	.string "molte lotte da allora.\p"
 	.string "Voglio vedere quanto siamo\n"
@@ -265,14 +265,14 @@ RustboroCity_Gym_Text_RoxanneRematchDefeat:
 	.string "Di nuovo ho perso…$"
 
 RustboroCity_Gym_Text_RoxannePostRematch:
-	.string "ROXANNE: Devo ancora imparare molto\n"
+	.string "PETRA: Devo ancora imparare molto\n"
 	.string "sulle lotte tra POKéMON.\p"
 	.string "Proprio per questo amo combattere\n"
 	.string "ancora di più!$"
 
 RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons:
-	.string "ROXANNE: Che piacere rivederti.\n"
-	.string "Sono ROXANNE, la CAPOPALESTRA.\p"
+	.string "PETRA: Che piacere rivederti.\n"
+	.string "Sono PETRA, la CAPOPALESTRA.\p"
 	.string "Di certo entrambi abbiamo fatto\n"
 	.string "molte lotte da allora.\p"
 	.string "Voglio vedere quanto siamo\n"

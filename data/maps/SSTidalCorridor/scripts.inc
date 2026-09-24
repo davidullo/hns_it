@@ -251,7 +251,7 @@ SSTidalCorridor_Movement_SailorReturn:
 	step_end
 
 SSTidalCorridor_Text_ScottBattleFrontierInvite:
-	.string "SCOTT: Ehi, ciao, ciao!\n"
+	.string "SAVERIO: Ehi, ciao, ciao!\n"
 	.string "{PLAYER}{KUN}, {PLAYER}{KUN}!\p"
 	.string "È successo qualcosa, devo\n"
 	.string "sbarcare, ma che bello vederti!\p"

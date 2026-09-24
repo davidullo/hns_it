@@ -116,7 +116,7 @@ NewSinjoh_KimonoHideout_Text_PlayerMeetsShizuko:
 	.string "tempi difficili.$"
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsYouko:
-	.string "YOUKO: Vai alle ROVINE DI ROVINE SINJOH,\n"
+	.string "YOKO: Vai alle ROVINE DI ROVINE SINJOH,\n"
 	.string "a nord del PERCORSO 50.\p"
 	.string "Incontra gli scienziati laggiù e\n"
 	.string "indaga sugli eventi che hanno\l"
@@ -220,13 +220,13 @@ NewSinjoh_KimonoHideout_EventScript_YoukoAfter::
 	end
 
 NewSinjoh_KimonoHideout_Text_YoukoBeforeBattle:
-	.string "YOUKO: I nostri cugini parlano\n"
+	.string "YOKO: I nostri cugini parlano\n"
 	.string "molto bene di te.\p"
 	.string "Sarà vero?\p"
 	.string "Lo scoprirò.$"
 
 NewSinjoh_KimonoHideout_Text_YoukoAfter:
-	.string "YOUKO: I nostri cugini avevano\n"
+	.string "YOKO: I nostri cugini avevano\n"
 	.string "ragione su di te.$"
 
 NewSinjoh_KimonoHideout_EventScript_YoukoFinal::
@@ -234,7 +234,7 @@ NewSinjoh_KimonoHideout_EventScript_YoukoFinal::
 	end
 
 NewSinjoh_KimonoHideout_Text_YoukoFinal:
-	.string "YOUKO: All'inizio avevo dubbi.\p"
+	.string "YOKO: All'inizio avevo dubbi.\p"
 	.string "Ma dopo ciò che hai fatto,\n"
 	.string "non si può negarlo.$"
 

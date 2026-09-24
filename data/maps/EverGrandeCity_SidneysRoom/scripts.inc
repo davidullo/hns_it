@@ -66,7 +66,7 @@ EverGrandeCity_SidneysRoom_EventScript_Defeated::
 
 EverGrandeCity_SidneysRoom_Text_IntroSpeech:
 	.string "Ehi, sfidante!\n"
-	.string "Sono SIDNEY dei SUPERQUATTRO.\p"
+	.string "Sono FOSCO dei SUPERQUATTRO.\p"
 	.string "Mi piace lo sguardo che hai.\n"
 	.string "Direi che sarà una bella lotta.\l"
 	.string "Ottimo! Proprio bene!\p"

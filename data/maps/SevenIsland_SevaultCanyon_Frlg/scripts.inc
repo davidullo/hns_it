@@ -134,4 +134,4 @@ SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawly::
 	.string "con un compagno.\p"
 	.string "Persino BRUNO…\n"
 	.string "Si allenò con un certo\l"
-	.string "BRAWLY, tempo fa.$"
+	.string "RUDI, tempo fa.$"

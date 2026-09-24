@@ -350,7 +350,7 @@ MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream:
 	.string "Non lo permetterò!$"
 
 MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel:
-	.string "STEVEN: {PLAYER}{KUN}, hai già letto\n"
+	.string "ROCCO: {PLAYER}{KUN}, hai già letto\n"
 	.string "quell'avviso?\p"
 	.string "Il TEAM MAGMA vuole il carburante\n"
 	.string "del razzo su quest'isola.\p"

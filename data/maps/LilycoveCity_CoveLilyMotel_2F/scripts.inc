@@ -138,7 +138,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_NeverLeaveWithoutGameBoy:
 	.string "il GAME BOY ADVANCE.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_SnoozingPreferBattles:
-	.string "SCOTT: … … … … …\n"
+	.string "SAVERIO: … … … … …\n"
 	.string "… … … … … Zzz…\p"
 	.string "… … … … … Eh?!\n"
 	.string "Oh, scusa, scusa! Sonno!\p"
@@ -154,7 +154,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_SnoozingPreferBattles:
 	.string "tutto quanto!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_ContestsDoTakeStrategy:
-	.string "SCOTT: credo che per vincere una\n"
+	.string "SAVERIO: credo che per vincere una\n"
 	.string "GARA ci voglia strategia.\p"
 	.string "Studiare strategie per le GARE è\n"
 	.string "un modo per migliorare come ALLENATORE.$"

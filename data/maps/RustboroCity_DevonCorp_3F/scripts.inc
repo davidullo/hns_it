@@ -208,7 +208,7 @@ RustboroCity_DevonCorp_3F_Text_MrStoneIHaveFavor:
 	.string "Beh, strada facendo, potresti fermarti a\n"
 	.string "PORTOALGHE?\p"
 	.string "Speravo consegnassi una\n"
-	.string "LETTERA a STEVEN a PORTOALGHE.$"
+	.string "LETTERA a ROCCO a PORTOALGHE.$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneWantYouToHaveThis:
 	.string "SIG. STONE: Ora, sappi che\n"

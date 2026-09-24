@@ -83,7 +83,7 @@ CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
 	.string "Ti è piaciuto il mio Tè?\p"
 	.string "A proposito, cara. Vieni\n"
 	.string "per caso da BIANCAVILLA?\p"
-	.string "Una ragazza di BIANCAVILLA, DAISY,\n"
+	.string "Una ragazza di BIANCAVILLA, MARGI,\n"
 	.string "beve Tè ogni giorno.\p"
 	.string "Va al CENTRO COMMERCIALE di\n"
 	.string "AZZURROPOLI a comprare il Tè.$"

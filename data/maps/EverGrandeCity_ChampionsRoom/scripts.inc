@@ -220,7 +220,7 @@ EverGrandeCity_ChampionsRoom_Movement_BirchArrives:
 	step_end
 
 EverGrandeCity_ChampionsRoom_Text_IntroSpeech:
-	.string "WALLACE: Salve, {PLAYER}{KUN}.\p"
+	.string "ADRIANO: Salve, {PLAYER}{KUN}.\p"
 	.string "Quell'incidente a SOOTOPOLIS…\n"
 	.string "Un lavoro superbo: hai messo\l"
 	.string "fine alla crisi, tutto da te.\p"
@@ -252,7 +252,7 @@ EverGrandeCity_ChampionsRoom_Text_Defeat:
 	.string "ALLENATORE!$"
 
 EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech:
-	.string "WALLACE: I POKéMON che hai\n"
+	.string "ADRIANO: I POKéMON che hai\n"
 	.string "mandato in lotta…\p"
 	.string "A volte danzavano come\n"
 	.string "brezza, a volte colpivano\l"
@@ -267,24 +267,24 @@ EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech:
 	.string "di HOENN…$"
 
 EverGrandeCity_ChampionsRoom_Text_MayAdvice:
-	.string "MAY: {PLAYER}{KUN}!\p"
+	.string "VERA: {PLAYER}{KUN}!\p"
 	.string "Un consiglio prima di sfidare\n"
 	.string "il CAMPIONE…$"
 
 EverGrandeCity_ChampionsRoom_Text_MayItsAlreadyOver:
-	.string "MAY: Eh?\n"
+	.string "VERA: Eh?\n"
 	.string "Che, che, che?\p"
 	.string "{PLAYER}{KUN}…\n"
 	.string "Non dirmi che…\l"
 	.string "È già finita?$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanAdvice:
-	.string "BRENDAN: {PLAYER}!\p"
+	.string "BRENDON: {PLAYER}!\p"
 	.string "Ti serve un consiglio prima\n"
 	.string "di sfidare il CAMPIONE?…$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanYouveWon:
-	.string "BRENDAN: {PLAYER}…\p"
+	.string "BRENDON: {PLAYER}…\p"
 	.string "Vuoi dirmi che…\n"
 	.string "Hai battuto il CAMPIONE?$"
 
@@ -310,20 +310,20 @@ EverGrandeCity_ChampionsRoom_Text_BirchCongratulations:
 	.string "Ora avanza fiero nella stanza finale!$"
 
 EverGrandeCity_ChampionsRoom_Text_WallaceComeWithMe:
-	.string "WALLACE: {PLAYER}{KUN}…\p"
+	.string "ADRIANO: {PLAYER}{KUN}…\p"
 	.string "No, lasciami riformulare bene.\p"
 	.string "Il nuovo CAMPIONE!\p"
 	.string "Vieni con me.$"
 
 EverGrandeCity_ChampionsRoom_Text_WallaceWaitOutside:
-	.string "WALLACE: Mi spiace, ma…\p"
+	.string "ADRIANO: Mi spiace, ma…\p"
 	.string "Da qui in poi possono passare solo gli\n"
 	.string "ALLENATORI diventati CAMPIONI.\p"
 	.string "Dovrai aspettare fuori con\n"
 	.string "PROF. BIRCH.$"
 
 EverGrandeCity_ChampionsRoom_Text_MayCongratulations:
-	.string "MAY: Uff…\p"
+	.string "VERA: Uff…\p"
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
 	.string "Scherzo! Va tutto bene!\n"
@@ -332,7 +332,7 @@ EverGrandeCity_ChampionsRoom_Text_MayCongratulations:
 	.string "Congratulazioni sincere!$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanCongratulations:
-	.string "BRENDAN: Cosa?! … … … … …\n"
+	.string "BRENDON: Cosa?! … … … … …\n"
 	.string "… … … … … … … …\p"
 	.string "Se è la regola, pazienza.\p"
 	.string "{PLAYER}, grande!\n"

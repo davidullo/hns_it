@@ -309,7 +309,7 @@ VermilionCity_Movement_EusineLeave:
 	step_end
 
 VermilionCity_Text_Eusine:
-	.string "EUSINE: Ci siamo quasi!\n"
+	.string "EUGENIUS: Ci siamo quasi!\n"
 	.string "Pensavo di poterlo mettere alle\l"
 	.string "strette tendendogli un'imboscata.\p"
 	.string "Ma correre sull'acqua è oltre\n"

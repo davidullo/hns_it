@@ -181,16 +181,16 @@ NationalParkBugContest_Text_ContestantShaun:
 	.string "Cerco solo POKéMON rari.$"
 
 NationalParkBugContest_Text_Contestant6A:
-	.string "BARRY: Prima indebolisci i POKéMON\n"
+	.string "TOBIA: Prima indebolisci i POKéMON\n"
 	.string "di tipo Coleottero,\p"
 	.string "poi lancia una BALL.$"
 
 NationalParkBugContest_Text_Contestant7A:
-	.string "CINDY: Adoro i POKéMON insetto.\p"
+	.string "DALIA: Adoro i POKéMON insetto.\p"
 	.string "Immagino che piacciano anche a te.$"
 
 NationalParkBugContest_Text_Contestant8A:
-	.string "JOSH: Colleziono POKéMON di tipo\n"
+	.string "ELIA: Colleziono POKéMON di tipo\n"
 	.string "Coleottero da quando ero un bebè.\p"
 	.string "Non ho intenzione di perdere!$"
 
@@ -199,7 +199,7 @@ NationalParkBugContest_Text_Contestant9A:
 	.string "vai a cercare POKéMON di tipo Coleottero.$"
 
 NationalParkBugContest_Text_Contestant10A:
-	.string "KIPP: Ho studiato molto i POKéMON\n"
+	.string "CIPPO: Ho studiato molto i POKéMON\n"
 	.string "di tipo Coleottero.\p"
 	.string "Vincerò di sicuro.$"
 

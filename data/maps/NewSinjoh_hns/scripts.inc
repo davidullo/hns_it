@@ -37,7 +37,7 @@ NewSinjoh_EventScript_Steven::
 	end
 
 NewSinjoh_Text_Steven:
-	.string "STEVEN: Signora, posso\n"
+	.string "ROCCO: Signora, posso\n"
 	.string "accompagnarla alla fonte?\p"
 	.string "C'è parecchio spazio.$"
 

@@ -51,7 +51,7 @@ DewfordTown_House2_Text_BrawlySoCool:
 	.string "Wow, hai attraversato il mare per\n"
 	.string "visitare DEWFORD?\p"
 	.string "Sei venuto qui perché hai\n"
-	.string "sentito di BRAWLY?\p"
+	.string "sentito di RUDI?\p"
 	.string "È così forte…\n"
 	.string "Tutti lo idolatrano.$"
 

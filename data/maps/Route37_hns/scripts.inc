@@ -143,7 +143,7 @@ Route37_Text_Sunny_GaveGift:
 
 Route37_Text_Sunny_Sunday:
 	.string "SUNNY: I miei fratelli e sorelle sono\n"
-	.string "MONICA, TUSCANY, WESLEY, ARTHUR,\l"
+	.string "MONICA, TUSCANY, WESLEY, ARTURO,\l"
 	.string "FRIEDA e SANTOS.\p"
 	.string "Sono tutti più grandi di me!$"
 

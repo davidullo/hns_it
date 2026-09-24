@@ -31,7 +31,7 @@ BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains_hns:
 	.string "Conosci gli ASSI del\n"
 	.string "CONFINI?\p"
 	.string "Sono i sette ALLENATORI speciali\n"
-	.string "che SCOTT chiama così e che\l"
+	.string "che SAVERIO chiama così e che\l"
 	.string "gestiscono le sette strutture.$"
 
 BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling_hns:

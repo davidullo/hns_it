@@ -98,7 +98,7 @@ SaffronCity_SilphCo_Text_Steven1:
 	.string "Capisco...\n"
 	.string "Arrivo. A presto.$"
 SaffronCity_SilphCo_Text_Steven2:
-	.string "STEVEN: Tu sei... ricordo i tuoi\n"
+	.string "ROCCO: Tu sei... ricordo i tuoi\n"
 	.string "occhi.\p"
 	.string "Quando vedo un allenatore con gli\n"
 	.string "occhi che brillano, lo ricordo.\p"

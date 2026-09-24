@@ -577,7 +577,7 @@ RocketHideout_B3F_Text_PetrelDisbelief:
     .string "a imitarlo!$"
 
 RocketHideout_B3F_Text_PetrelReveal:
-    .string "PETREL: Sono un\n"
+    .string "MAXUS: Sono un\n"
     .string "Executive del Team Rocket!\p"
     .string "Starai cercando di entrare\n"
     .string "nella stanza del trasmettitore.\p"
@@ -597,7 +597,7 @@ RocketHideout_B3F_Text_PetrelBeaten:
     .string "GIOVANNI, perdonami…$"
 
 RocketHideout_B3F_Text_PetrelAfterBattle:
-    .string "PETREL: Da quando il Team\n"
+    .string "MAXUS: Da quando il Team\n"
     .string "Rocket si è sciolto tre anni fa, il nostro\l"
     .string "GIOVANNI è sparito.\p"
     .string "Ma siamo certi che stia\n"
@@ -623,7 +623,7 @@ RocketHideout_B3F_Text_MurkrowSpeak1:
 
 RocketHideout_B3F_Text_MurkrowMimic:
     .string "MURKROW sta imitando\n"
-    .string "la voce di PETREL!\p"
+    .string "la voce di MAXUS!\p"
     .string "Potresti riuscire a…!?$"
 
 RocketHideout_B3F_Text_Murkrow:

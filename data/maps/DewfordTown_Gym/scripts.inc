@@ -285,7 +285,7 @@ DewfordTown_Gym_EventScript_GymStatue::
 DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Ehi, come va, futuro CAMPIONE\n"
 	.string "{PLAYER}?\p"
-	.string "Il CAPOPALESTRA BRAWLY di DEWFORD usa\n"
+	.string "Il CAPOPALESTRA RUDI di DEWFORD usa\n"
 	.string "POKéMON di tipo LOTTA.\p"
 	.string "Con i POKéMON di tipo NORMALE\n"
 	.string "non ti conviene proprio.\p"
@@ -314,7 +314,7 @@ DewfordTown_Gym_Text_TakaoPostBattle:
 	.string "La tua tecnica è ammirevole!$"
 
 DewfordTown_Gym_Text_JocelynIntro:
-	.string "Non c'è bisogno di BRAWLY:\n"
+	.string "Non c'è bisogno di RUDI:\n"
 	.string "ci penso io!\p"
 	.string "Ti schiaccio!$"
 
@@ -341,7 +341,7 @@ DewfordTown_Gym_Text_LauraPostBattle:
 	.string "Lotto nel buio per rendere il cuore\n"
 	.string "più forte.\p"
 	.string "Ma è così buio che non vedo mai\n"
-	.string "BRAWLY in faccia…$"
+	.string "RUDI in faccia…$"
 
 DewfordTown_Gym_Text_LilithIntro:
 	.string "Ufufu…\n"
@@ -380,7 +380,7 @@ DewfordTown_Gym_Text_CristianPostBattle:
 	.string "Prendi la MEDAGLIA!$"
 
 DewfordTown_Gym_Text_BrawlyIntro:
-	.string "Sono BRAWLY!\n"
+	.string "Sono RUDI!\n"
 	.string "CAPOPALESTRA di DEWFORD!\p"
 	.string "Sono stato sballottato dalle onde\n"
 	.string "di questi mari, e mi sono temprato\l"
@@ -397,7 +397,7 @@ DewfordTown_Gym_Text_BrawlyDefeat:
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
 	.string "{PLAYER} riceve la MEDAGLIA PUGNO\n"
-	.string "da BRAWLY.$"
+	.string "da RUDI.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
 	.string "La MEDAGLIA PUGNO fa obbedire\n"
@@ -415,7 +415,7 @@ DewfordTown_Gym_Text_ExplainBulkUp:
 	.string "… … … … … …$"
 
 DewfordTown_Gym_Text_RegisteredBrawly:
-	.string "CAPOPALESTRA BRAWLY\n"
+	.string "CAPOPALESTRA RUDI\n"
 	.string "nel POKéNAV.$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
@@ -428,11 +428,11 @@ DewfordTown_Gym_Text_GymStatue:
 
 DewfordTown_Gym_Text_GymStatueCertified:
 	.string "PALESTRA POKéMON DEWFORD\p"
-	.string "CERTIFICATI DA BRAWLY:\n"
+	.string "CERTIFICATI DA RUDI:\n"
 	.string "{PLAYER}$"
 
 DewfordTown_Gym_Text_BrawlyPreRematch:
-	.string "BRAWLY: L'onda si ritira, ma poi\n"
+	.string "RUDI: L'onda si ritira, ma poi\n"
 	.string "torna sempre a riva.\p"
 	.string "Un'onda enorme di talento…\n"
 	.string "Sapevo che tornerai!\p"
@@ -444,12 +444,12 @@ DewfordTown_Gym_Text_BrawlyRematchDefeat:
 	.string "Battuto ancora!$"
 
 DewfordTown_Gym_Text_BrawlyPostRematch:
-	.string "BRAWLY: Lottare è vasto e profondo.\n"
+	.string "RUDI: Lottare è vasto e profondo.\n"
 	.string "Non se ne vede il fondo.\l"
 	.string "È come il mare di HOENN!$"
 
 DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons:
-	.string "BRAWLY: L'onda si ritira, ma poi\n"
+	.string "RUDI: L'onda si ritira, ma poi\n"
 	.string "torna sempre a riva.\p"
 	.string "Un'onda enorme di talento…\n"
 	.string "Sapevo che tornerai!\p"

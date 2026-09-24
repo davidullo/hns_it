@@ -271,7 +271,7 @@ CianwoodCity_Movement_Eusine3:
 	step_end
 
 CianwoodCity_Text_EusineSuicune:
-	.string "EUSINE: Ehi, {PLAYER}.\p"
+	.string "EUGENIUS: Ehi, {PLAYER}.\p"
 	.string "Era SUICUNE, poco fa?\p"
 	.string "Ho visto solo un attimo, ma\n"
 	.string "mi pareva che SUICUNE corresse\l"

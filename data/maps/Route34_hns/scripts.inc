@@ -238,7 +238,7 @@ Route34_Text_CooltrainerIrene_Beaten:
 	.string "IRENE: Ohhh! Sei troppo forte!$"
 
 Route34_Text_CooltrainerIrene_After1:
-	.string "IRENE: Mia sorella KATE\n"
+	.string "IRENE: Mia sorella KATIA\n"
 	.string "te la farà pagare!$"
 
 Route34_Text_CooltrainerIrene_After2:
@@ -246,34 +246,34 @@ Route34_Text_CooltrainerIrene_After2:
 	.string "È il nostro angolo segreto!$"
 
 Route34_Text_CooltrainerJenn_Seen:
-	.string "JENN: Ma che...?\n"
+	.string "GIULIA: Ma che...?\n"
 	.string "Che cosa fai?$"
 
 Route34_Text_CooltrainerJenn_Beaten:
-	.string "JENN: Scusa, IRENE! Sorellona!$"
+	.string "GIULIA: Scusa, IRENE! Sorellona!$"
 
 Route34_Text_CooltrainerJenn_After1:
-	.string "JENN: Non fare lo spavaldo!\n"
-	.string "Mia sorella KATE è tosta!$"
+	.string "GIULIA: Non fare lo spavaldo!\n"
+	.string "Mia sorella KATIA è tosta!$"
 
 Route34_Text_CooltrainerJenn_After2:
-	.string "JENN: Il sole rende il corpo\n"
+	.string "GIULIA: Il sole rende il corpo\n"
 	.string "più forte.$"
 
 Route34_Text_CooltrainerKate_Seen:
-	.string "KATE: Devo ripagarti per\n"
+	.string "KATIA: Devo ripagarti per\n"
 	.string "aver battuto le mie sorelle!$"
 
 Route34_Text_CooltrainerKate_Beaten:
-	.string "KATE: No! Non ci credo, ho perso.$"
+	.string "KATIA: No! Non ci credo, ho perso.$"
 
 Route34_Text_CooltrainerKate_GiveSoftSand:
-	.string "KATE: Sei fortissimo.\n"
+	.string "KATIA: Sei fortissimo.\n"
 	.string "Abbiamo perso, senza scuse…\p"
 	.string "Tieni, prendi questo!$"
 
 Route34_Text_CooltrainerKate_After:
-	.string "KATE: Scusa se ti abbiamo assalito.\p"
+	.string "KATIA: Scusa se ti abbiamo assalito.\p"
 	.string "Non pensavamo che qualcuno\n"
 	.string "ci trovasse qui. Ci hai spaventate.$"
 

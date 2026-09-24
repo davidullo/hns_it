@@ -116,7 +116,7 @@ FuchsiaCity_Text_Sign:
 
 FuchsiaCity_Text_GymSign:
 	.string "PALESTRA DI FUCSIAPOLI\n"
-	.string "CAPO: JANINE\p"
+	.string "CAPO: NINA\p"
 	.string "La Maestra Ninja del Veleno$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign:

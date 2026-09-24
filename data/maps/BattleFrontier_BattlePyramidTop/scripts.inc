@@ -254,7 +254,7 @@ BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure:
 BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon:
 	.string "Aah, sì, questa vita è bella!\n"
 	.string "Bella, davvero! Eh?\p"
-	.string "Io sono BRANDON!\p"
+	.string "Io sono BALDO!\p"
 	.string "Sono il RE della PIRAMIDE,\n"
 	.string "quindi comando qui.\p"
 	.string "In molti mi chiamano il capo!\p"
@@ -269,7 +269,7 @@ BattleFrontier_BattlePyramidTop_Text_BringCourageToOurBattle:
 	.string "Porta coraggio alla nostra lotta!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease:
-	.string "BRANDON: Hahahah! Che sfida!\n"
+	.string "BALDO: Hahahah! Che sfida!\n"
 	.string "Grande, davvero!\p"
 	.string "Ben fatto! Ti sei guadagnato!\n"
 	.string "Il tuo SUPERPASS, per favore!$"
@@ -283,7 +283,7 @@ BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
 	.string "Non vedo l'ora di rivederti!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
-	.string "BRANDON: …Sei tornato,\n"
+	.string "BALDO: …Sei tornato,\n"
 	.string "giovane esploratore…\p"
 	.string "Il tuo amore per l'avventura\n"
 	.string "viene dal profondo del cuore…\p"
@@ -306,7 +306,7 @@ BattleFrontier_BattlePyramidTop_Text_EverythingYouHave:
 	.string "Sono pronto a tutto!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis:
-	.string "BRANDON: Hahahah!\n"
+	.string "BALDO: Hahahah!\n"
 	.string "Notevole!\l"
 	.string "Sì, davvero grande!\p"
 	.string "Giovane esploratore!\p"

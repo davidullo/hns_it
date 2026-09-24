@@ -72,12 +72,12 @@ FallarborTown_Text_Azurill:
 	.string "AZURILL: Ruriluuu.$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Hai già sfidato FLANNERY,\n"
+	.string "Hai già sfidato FIAMMETTA,\n"
 	.string "la CAPOPALESTRA di LAVARIDGE?\p"
 	.string "Suo nonno era famoso.\n"
 	.string "Faceva parte del SUPERQUATTRO\l"
 	.string "della LEGA POKéMON.\p"
-	.string "Non mi stupirei di vedere FLANNERY\n"
+	.string "Non mi stupirei di vedere FIAMMETTA\n"
 	.string "diventare una grande ALLENATRICE\l"
 	.string "sola.$"
 

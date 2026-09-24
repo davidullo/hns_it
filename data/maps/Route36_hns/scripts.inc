@@ -299,8 +299,8 @@ Route36_Text_SchoolboyAlanAfter:
 	.string "leggere libri.$"
 
 Route36_Text_MeetArthur:
-	.string "ARTHUR: Chi sei tu?\n"
-	.string "Sono ARTHUR della FAMIGLIA GIORNI.\p"
+	.string "ARTURO: Chi sei tu?\n"
+	.string "Sono ARTURO della FAMIGLIA GIORNI.\p"
 	.string "Se indovini il mio giorno preferito,\n"
 	.string "ti darò una ricompensa.$"
 
@@ -311,12 +311,12 @@ Route36_Text_ArthurGivesGift:
 	.string "Ecco. Prendi questo.$"
 
 Route36_Text_ArthurGaveGift:
-	.string "ARTHUR: Un POKéMON che usa mosse di\n"
+	.string "ARTURO: Un POKéMON che usa mosse di\n"
 	.string "tipo ROCCIA dovrebbe tenerlo.\p"
 	.string "Potenzia gli attacchi ROCCIA.$"
 
 Route36_Text_ArthurThursday:
-	.string "ARTHUR: Sono ARTHUR del Giovedì.\n"
+	.string "ARTURO: Sono ARTURO del Giovedì.\n"
 	.string "Sono il quinto di sette figli.$"
 
 Route36_Text_Sign:

@@ -242,7 +242,7 @@ Route128_EventScript_Carlee::
 	end
 
 Route128_Text_ArchieWhatHappened:
-	.string "ARCHIE: Cosa è successo…\n"
+	.string "FLAVIANO: Cosa è successo…\n"
 	.string "Che scena deplorevole…\p"
 	.string "Ho forse… fatto un terribile errore?$"
 
@@ -251,8 +251,8 @@ Route128_Text_ArchieIOnlyWanted:
 	.string "Volevo solo…$"
 
 Route128_Text_MaxieDoYouUnderstandNow:
-	.string "MAXIE: Hai capito ora,\n"
-	.string "ARCHIE?\p"
+	.string "MAX: Hai capito ora,\n"
+	.string "FLAVIANO?\p"
 	.string "Vedi finalmente quanto disastroso\n"
 	.string "sia stato il tuo sogno?\p"
 	.string "Dobbiamo sbrigarci! Dobbiamo fare\n"
@@ -260,25 +260,25 @@ Route128_Text_MaxieDoYouUnderstandNow:
 	.string "sfugga del tutto di mano!$"
 
 Route128_Text_MaxieResposibilityFallsToArchieAndMe:
-	.string "MAXIE: {PLAYER}, non dire nulla.\p"
+	.string "MAX: {PLAYER}, non dire nulla.\p"
 	.string "So che non ho il diritto di\n"
-	.string "criticare ARCHIE…\p"
+	.string "criticare FLAVIANO…\p"
 	.string "Ma così come stanno le cose, dubito\n"
 	.string "che noi umani possiamo\l"
 	.string "farci qualcosa.\p"
 	.string "Ma non possiamo nemmeno restare qui\n"
 	.string "a guardare impotenti.\p"
 	.string "La responsabilità di porre fine a\n"
-	.string "tutto ciò spetta ad ARCHIE e a me…$"
+	.string "tutto ciò spetta ad FLAVIANO e a me…$"
 
 Route128_Text_MaxieThisDefiesBelief:
-	.string "MAXIE: Incredibile…\p"
+	.string "MAX: Incredibile…\p"
 	.string "Quei POKéMON antichissimi…\p"
 	.string "Il loro potere è assurdo.\n"
 	.string "Hanno sconvolto l'equilibrio naturale…$"
 
 Route128_Text_StevenWhatIsHappening:
-	.string "STEVEN: {PLAYER}{KUN}!\n"
+	.string "ROCCO: {PLAYER}{KUN}!\n"
 	.string "Cosa sta succedendo?$"
 
 Route128_Text_StevenWholeWorldWillDrown:

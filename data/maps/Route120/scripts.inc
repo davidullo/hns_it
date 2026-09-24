@@ -360,7 +360,7 @@ Route120_EventScript_Callie::
 	end
 
 Route120_Text_StevenGreeting:
-	.string "STEVEN: Hm? {PLAYER}{KUN}, ciao.\n"
+	.string "ROCCO: Hm? {PLAYER}{KUN}, ciao.\n"
 	.string "È da un po'.\p"
 	.string "C'è qualcosa qui che non puoi\n"
 	.string "vedere, vero?\p"
@@ -373,25 +373,25 @@ Route120_Text_StevenGreeting:
 	.string "a lottare?$"
 
 Route120_Text_StevenIllWaitHere:
-	.string "STEVEN: No?\p"
+	.string "ROCCO: No?\p"
 	.string "Aspetto qui, così ti prepari.$"
 
 Route120_Text_StevenReadyForBattle:
-	.string "STEVEN: {PLAYER}{KUN}, i tuoi POKéMON\n"
+	.string "ROCCO: {PLAYER}{KUN}, i tuoi POKéMON\n"
 	.string "sono pronti a lottare?$"
 
 Route120_Text_StevenShowMeYourPower:
-	.string "STEVEN: {PLAYER}{KUN}, mostrami la tua vera\n"
+	.string "ROCCO: {PLAYER}{KUN}, mostrami la tua vera\n"
 	.string "forza di ALLENATORE!$"
 
 Route120_Text_StevenUsedDevonScope:
-	.string "STEVEN usa lo SCANNER DEVON.\p"
+	.string "ROCCO usa lo SCANNER DEVON.\p"
 	.string "Un POKéMON invisibile è diventato\n"
 	.string "visibile!\p"
 	.string "Il POKéMON spaventato attacca!$"
 
 Route120_Text_StevenGiveDevonScope:
-	.string "STEVEN: Vedo…\n"
+	.string "ROCCO: Vedo…\n"
 	.string "Il tuo stile di lotta è curioso.\p"
 	.string "I tuoi POKéMON sono cresciuti\n"
 	.string "da quando ci siamo visti a DEWFORD.\p"
@@ -401,7 +401,7 @@ Route120_Text_StevenGiveDevonScope:
 	.string "POKéMON nascosti.$"
 
 Route120_Text_StevenGoodbye:
-	.string "STEVEN: {PLAYER}{KUN}.\p"
+	.string "ROCCO: {PLAYER}{KUN}.\p"
 	.string "Mi piace vedere POKéMON e ALLENATORI\n"
 	.string "che crescono insieme.\p"
 	.string "Penso che tu stia andando bene.\p"

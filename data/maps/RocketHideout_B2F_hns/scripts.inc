@@ -167,7 +167,7 @@ RocketHideout_B2F_Movement_MurkrowGate2:
 
 RocketHideout_B2F_Text_MurkrowUnlock:
     .string "MURKROW ha gridato la password,\n"
-    .string "imitando la voce di PETREL.\p"
+    .string "imitando la voce di MAXUS.\p"
     .string "..................\n"
     .string "Il sistema di riconoscimento vocale\l"
     .string "ha aperto la porta!$"
@@ -248,10 +248,10 @@ RocketHideout_B2F_Movement_Lance:
 	step_end
 
 RocketHideout_B2F_Text_ArianaHoldIt:
-    .string "ARIANA: Fermo lì!$"
+    .string "ATENA: Fermo lì!$"
 
 RocketHideout_B2F_Text_ArianaChallenge:
-    .string "ARIANA: Non possiamo lasciare che una\n"
+    .string "ATENA: Non possiamo lasciare che una\n"
     .string "peste come te faccia il comodo suo.\p"
     .string "Ferirebbe l'orgoglio del Team Rocket\n"
     .string "ancora e ancora. Facendolo scemare,\l"
@@ -273,7 +273,7 @@ RocketHideout_B2F_Text_LanceInterrupt:
     .string "Permettimi di unirmi alla lotta!$"
 
 RocketHideout_B2F_Text_ArianaOutraged:
-    .string "ARIANA: Come? Hai un complice?\n"
+    .string "ATENA: Come? Hai un complice?\n"
     .string "Dov'è il tuo senso dell'onore?\p"
     .string "Da capo ad interim al posto di GIOVANNI,\n"
     .string "ti mostrerò quanto sia sbagliato\l"
@@ -595,7 +595,7 @@ RocketHideout_B2F_Text_ArianaLoss:
     .string "potresti diventare un Dirigente.$"
 
 RocketHideout_Text_ArianaRetreat:
-    .string "ARIANA: Ma va bene.\n"
+    .string "ATENA: Ma va bene.\n"
     .string "L'esperimento di trasmissione è stato\l"
     .string "un successo totale.\p"
     .string "Non importa cosa succede a\n"

@@ -382,12 +382,12 @@ OldaleTown_Text_FinishedSketchingFootprints:
 	.string "impronte…$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "MAY: {PLAYER}{KUN}!\n"
+	.string "VERA: {PLAYER}{KUN}!\n"
 	.string "Qui!\l"
 	.string "Corriamo a casa!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: Torno al LAB di\n"
+	.string "BRENDON: Torno al LAB di\n"
 	.string "mio padre.\l"
 	.string "{PLAYER}, sbrigati anche tu.$"
 

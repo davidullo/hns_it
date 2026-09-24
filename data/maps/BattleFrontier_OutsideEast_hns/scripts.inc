@@ -290,7 +290,7 @@ BattleFrontier_OutsideEast_Text_PutTogetherUltimateTeam_hns:
 	.string "Invaderemo l'ARENA DI LOTTA!$"
 
 BattleFrontier_OutsideEast_Text_DidScottBringYouHere_hns:
-	.string "Anche SCOTT ti ha portato qui?\n"
+	.string "Anche SAVERIO ti ha portato qui?\n"
 	.string "Ma com'è fatto quell'uomo?\p"
 	.string "Sembra che sappia davvero\n"
 	.string "scovare ALLENATORI in gamba, ma…\p"
@@ -412,7 +412,7 @@ BattleFrontier_OutsideEast_Text_FrontierNotExclusivelyForToughTrainers_hns:
 	.string "ALLENATORI duri.\p"
 	.string "Pare che abbiano invitato gente\n"
 	.string "dotata di abilità speciali.\p"
-	.string "Quell'uomo, SCOTT…\p"
+	.string "Quell'uomo, SAVERIO…\p"
 	.string "Forse ha costruito tutto questo per\n"
 	.string "uno scopo più grande…$"
 

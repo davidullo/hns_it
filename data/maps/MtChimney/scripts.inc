@@ -551,11 +551,11 @@ MtChimney_Text_MeteoriteWillActivateVolcano:
 	.string "Fufufu…$"
 
 MtChimney_Text_MaxieIntro:
-	.string "MAXIE: Hm?\n"
+	.string "MAX: Hm?\n"
 	.string "Chi sei?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "Avevo sentito ARCHIE lamentarsi di un\n"
+	.string "Avevo sentito FLAVIANO lamentarsi di un\n"
 	.string "bambino che si intromette negli\l"
 	.string "affari del TEAM AQUA.\p"
 	.string "Dovevi essere tu.\p"
@@ -580,10 +580,10 @@ MtChimney_Text_MaxieIntro:
 
 MtChimney_Text_MaxieDefeat:
 	.string "Cosa?!\p"
-	.string "Io, MAXIE, colto di sorpresa?!$"
+	.string "Io, MAX, colto di sorpresa?!$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
-	.string "MAXIE: Ma basta.\n"
+	.string "MAX: Ma basta.\n"
 	.string "Questa volta mi ritiro.\p"
 	.string "Ma non credere che sia l'ultima\n"
 	.string "volta che vedi il TEAM MAGMA.\p"
@@ -666,7 +666,7 @@ MtChimney_Text_Bufoh:
 	.string "Bufoh!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma:
-	.string "ARCHIE: Grr, {PLAYER}!\n"
+	.string "FLAVIANO: Grr, {PLAYER}!\n"
 	.string "Immaginavo che saresti arrivato!\p"
 	.string "Guarda con i tuoi occhi cosa\n"
 	.string "combinano i fanatici del TEAM MAGMA!\p"
@@ -676,14 +676,14 @@ MtChimney_Text_ArchieGoStopTeamMagma:
 	.string "l'eruzione del vulcano!$"
 
 MtChimney_Text_ArchieIHaveMyHandsFull:
-	.string "ARCHIE: Grrr…\p"
-	.string "Voglio fermare MAXIE,\n"
+	.string "FLAVIANO: Grrr…\p"
+	.string "Voglio fermare MAX,\n"
 	.string "ma non posso!\p"
 	.string "Non con tre avversari da battere\n"
 	.string "tutti in una volta!$"
 
 MtChimney_Text_ArchieThankYou:
-	.string "ARCHIE: {PLAYER}!\n"
+	.string "FLAVIANO: {PLAYER}!\n"
 	.string "Grazie!\p"
 	.string "Con il tuo aiuto abbiamo fermato il\n"
 	.string "piano distruttivo del TEAM MAGMA!\p"

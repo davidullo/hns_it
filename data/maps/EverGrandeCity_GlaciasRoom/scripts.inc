@@ -59,7 +59,7 @@ EverGrandeCity_GlaciasRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_GlaciasRoom_Text_IntroSpeech:
-	.string "Salve, il mio nome è GLACIA\n"
+	.string "Salve, il mio nome è FRIDA\n"
 	.string "dei SUPERQUATTRO.\p"
 	.string "Sono venuta da lontano a HOENN\n"
 	.string "per affinare le mie doti gelide.\p"

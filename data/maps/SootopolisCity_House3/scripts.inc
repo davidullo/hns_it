@@ -21,8 +21,8 @@ SootopolisCity_House3_EventScript_Girl::
 
 SootopolisCity_House3_Text_JuanHasManyFansDoYou:
 	.string "Sei un ALLENATORE di POKéMON, vero?\p"
-	.string "JUAN di SOOTOPOLIS ha molti fan.\n"
-	.string "Persino più del suo allievo WALLACE!\p"
+	.string "RODOLFO di SOOTOPOLIS ha molti fan.\n"
+	.string "Persino più del suo allievo ADRIANO!\p"
 	.string "E tu ne hai?$"
 
 SootopolisCity_House3_Text_YouMustBePrettyStrong:

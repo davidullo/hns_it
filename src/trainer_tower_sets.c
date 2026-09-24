@@ -106,7 +106,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_4 =
     .trainers =
     {
         {
-            .name = _("COLE"),
+            .name = _("VALENTINO"),
             .facilityClass = FACILITY_CLASS_YOUNGSTER_FRLG,
             .textColor = 1,
             .speechBefore = {EC_WORD_AHAHA, EC_WORD_YOU_RE, EC_WORD_NOT, EC_WORD_GOING, EC_WORD_ANYWHERE, EC_WORD_EXCL},
@@ -2210,7 +2210,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_2 = {
             }
         },
         {
-            .name = _("NICOLAS"),
+            .name = _("DYLAN"),
             .facilityClass = FACILITY_CLASS_BLACK_BELT_FRLG,
             .textColor = 5,
             .speechBefore = {EC_WORD_THIS, EC_WORD_IS, EC_WORD_WHERE, EC_WORD_YOU, EC_WORD_STOP, EC_WORD_EXCL},
@@ -2679,7 +2679,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_2 = {
     .trainers =
     {
         {
-            .name = _("BRANDON"),
+            .name = _("BALDO"),
             .facilityClass = FACILITY_CLASS_BUG_CATCHER_FRLG,
             .textColor = 1,
             .speechBefore = {EC_WORD_POISON, EC_WORD_IS, EC_WORD_JUST, EC_WORD_SO, EC_WORD_AWFUL, EC_WORD_ISN_T_IT_QUES},
@@ -4936,7 +4936,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_1 = {
     .trainers =
     {
         {
-            .name = _("ALBERTO"),
+            .name = _("ALBERTINO"),
             .facilityClass = FACILITY_CLASS_SAILOR_FRLG,
             .textColor = 5,
             .speechBefore = {EC_WORD_LET_S, EC_WORD_GET, EC_WORD_WITH, EC_WORD_IT, EC_WORD_RIGHT, EC_WORD_AWAY},
@@ -7036,7 +7036,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Mixed_3 = {
     .trainers =
     {
         {
-            .name = _("OWEN"),
+            .name = _("MARCELLO"),
             .facilityClass = FACILITY_CLASS_SUPER_NERD_FRLG,
             .textColor = 2,
             .speechBefore = {EC_WORD_HERE_IT_IS, EC_MOVE2(THUNDER_WAVE), EC_WORD_DON_T, EC_MOVE2(WRAP), EC_WORD_ME, EC_WORD_EXCL},
@@ -8394,7 +8394,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_6 = {
             }
         },
         {
-            .name = _("CAMDEN"),
+            .name = _("LALO"),
             .facilityClass = FACILITY_CLASS_ENGINEER_FRLG,
             .textColor = 1,
             .speechBefore = {EC_WORD_LALALA, EC_WORD_LET_S, EC_MOVE(SING), EC_WORD_ABOUT, EC_WORD_ELECTRIC, EC_WORD_POWER},
@@ -8693,7 +8693,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_5 = {
     .trainers =
     {
         {
-            .name = _("MAURA"),
+            .name = _("ANNALISA"),
             .facilityClass = FACILITY_CLASS_BEAUTY_FRLG,
             .textColor = 2,
             .speechBefore = {EC_WORD_I_AM, EC_WORD_THE, EC_WORD_GROUP, EC_WORD_LEADER, EC_WORD_EXCL, 0xFFFF},
@@ -8981,7 +8981,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_5 = {
             }
         },
         {
-            .name = _("FLINT"),
+            .name = _("TIM"),
             .facilityClass = FACILITY_CLASS_ENGINEER_FRLG,
             .textColor = 4,
             .speechBefore = {EC_WORD_I_AM, EC_WORD_THE, EC_MOVE2(MILK_DRINK), EC_WORD_WORLD, EC_WORD_LEADER, EC_WORD_EXCL},

@@ -560,15 +560,15 @@ WhirlIslands_LugiaChamber_Movement_Kimono_Dance_Shift_Right2:
 	step_end
 
 WhirlIslands_LugiaChamber_Text_Zuki_Before::
-	.string "ZUKI: Vai, affronta LUGIA. $"
+	.string "TAMAO: Vai, affronta LUGIA. $"
 WhirlIslands_LugiaChamber_Text_Naoko_Before::
-	.string "NAOKO: Vai, affronta LUGIA. $"
+	.string "YUKI: Vai, affronta LUGIA. $"
 WhirlIslands_LugiaChamber_Text_Miki_Before::
 	.string "MIKI: Vai, affronta LUGIA. $"
 WhirlIslands_LugiaChamber_Text_Sayo_Before::
 	.string "SAYO: Vai, affronta LUGIA. $"
 WhirlIslands_LugiaChamber_Text_Kuni_Before::
-	.string "KUNI: Vai, affronta LUGIA. $"
+	.string "KOMOMO: Vai, affronta LUGIA. $"
 
 WhirlIslands_LugiaChamber_Text_Kimono_Opening::
 	.string "KIMONO GIRL: Esatto.\n"

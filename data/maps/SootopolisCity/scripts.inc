@@ -1389,7 +1389,7 @@ SootopolisCity_Movement_DestroyTask::
 
 SootopolisCity_Text_GymSign:
 	.string "PALESTRA POKéMON di SOOTOPOLIS\n"
-	.string "CAPOPALESTRA: JUAN\p"
+	.string "CAPOPALESTRA: RODOLFO\p"
 	.string "“Il CAPOPALESTRA dalla bellezza\n"
 	.string "dell'acqua pura!”$"
 
@@ -1522,7 +1522,7 @@ SootopolisCity_Text_LeadSuperiorTrainerToCave:
 	.string "Un ALLENATORE che conosce e ha\n"
 	.string "esperienza di molti tipi di POKéMON…\p"
 	.string "Se una persona così fosse apparsa,\n"
-	.string "WALLACE mi ha incaricato di condurre\l"
+	.string "ADRIANO mi ha incaricato di condurre\l"
 	.string "quell'ALLENATORE in questa GROTTA.$"
 
 SootopolisCity_Text_AwakenedPokemonClash:
@@ -1579,14 +1579,14 @@ SootopolisCity_Text_YouBroughtFlyingMon:
 	.string "Beh, sei davvero fantastico!$"
 
 SootopolisCity_Text_GroudonPleaseStop:
-	.string "MAXIE: G… GROUDON…\n"
+	.string "MAX: G… GROUDON…\n"
 	.string "Ti prego! Smettila!\p"
 	.string "Ora conosco la portata del tuo potere!\p"
 	.string "Se continui, tutto HOENN, non solo\n"
 	.string "SOOTOPOLIS, sarà distrutto!$"
 
 SootopolisCity_Text_AfterAllOurScheming:
-	.string "MAXIE: Quindi i POKéMON superantichi\n"
+	.string "MAX: Quindi i POKéMON superantichi\n"
 	.string "non erano solo GROUDON e KYOGRE…\p"
 	.string "Dopo tutti i nostri vani piani e\n"
 	.string "gli sforzi frenetici, l'azione di\l"
@@ -1596,7 +1596,7 @@ SootopolisCity_Text_AfterAllOurScheming:
 	.string "Fuhahaha…$"
 
 SootopolisCity_Text_KyogreCalmDown:
-	.string "ARCHIE: KYOGRE! Che succede?!\n"
+	.string "FLAVIANO: KYOGRE! Che succede?!\n"
 	.string "Guarda qui! È la SFERA ROSSA!\l"
 	.string "Calmati! KYOGRE!\p"
 	.string "… … … … … …\n"
@@ -1605,7 +1605,7 @@ SootopolisCity_Text_KyogreCalmDown:
 	.string "Non risponde affatto!$"
 
 SootopolisCity_Text_TryingMeaninglessToPokemon:
-	.string "ARCHIE: KYOGRE e GROUDON sono\n"
+	.string "FLAVIANO: KYOGRE e GROUDON sono\n"
 	.string "volati via chissà dove.\p"
 	.string "Il meteo a HOENN è tornato\n"
 	.string "alla normalità…\p"
@@ -1616,7 +1616,7 @@ SootopolisCity_Text_TryingMeaninglessToPokemon:
 	.string "per i POKéMON…$"
 
 SootopolisCity_Text_InvolvedWithCrisisComeWithMe:
-	.string "STEVEN: Quei POKéMON che lottano…\n"
+	.string "ROCCO: Quei POKéMON che lottano…\n"
 	.string "GROUDON… E KYOGRE…\p"
 	.string "I due POKéMON antichissimi\n"
 	.string "si sono risvegliati da un lungo sonno…\p"
@@ -1631,7 +1631,7 @@ SootopolisCity_Text_InvolvedWithCrisisComeWithMe:
 	.string "Vieni con me, ti prego.$"
 
 SootopolisCity_Text_DoesThisMakeYourFearPokemon:
-	.string "STEVEN: Ascolta, {PLAYER}{KUN}.\p"
+	.string "ROCCO: Ascolta, {PLAYER}{KUN}.\p"
 	.string "Vedere GROUDON e KYOGRE ti fa\n"
 	.string "pensare che i POKéMON siano da temere?\p"
 	.string "Ma non è vero.\n"
@@ -1640,34 +1640,34 @@ SootopolisCity_Text_DoesThisMakeYourFearPokemon:
 	.string "Lo sai già.$"
 
 SootopolisCity_Text_HereWereAreHelpWallace:
-	.string "STEVEN: Bene, eccoci!\p"
+	.string "ROCCO: Bene, eccoci!\p"
 	.string "Qui dentro troverai qualcuno di nome\n"
-	.string "WALLACE.\p"
+	.string "ADRIANO.\p"
 	.string "Penso che tu abbia ciò che serve per\n"
 	.string "aiutarlo…$"
 
 SootopolisCity_Text_KnowWhatsNeededToHelpHim:
-	.string "STEVEN: Penso che tu abbia ciò che\n"
+	.string "ROCCO: Penso che tu abbia ciò che\n"
 	.string "serve per aiutarlo…$"
 
 SootopolisCity_Text_NeverBeenToSkyPillar:
-	.string "STEVEN: La PILASTRA CIELO…\p"
+	.string "ROCCO: La PILASTRA CIELO…\p"
 	.string "Non ci sono mai stato.\n"
 	.string "Chissà dove sarà?$"
 
 SootopolisCity_Text_SoThatsRayquaza:
-	.string "STEVEN: Quindi quello è RAYQUAZA…\p"
+	.string "ROCCO: Quindi quello è RAYQUAZA…\p"
 	.string "È incredibile come i due POKéMON\n"
 	.string "infuriati fuggano via per la paura…$"
 
 SootopolisCity_Text_MaxieArchieLeft:
-	.string "STEVEN: Sembra che sia MAXIE che\n"
-	.string "ARCHIE siano andati via da qualche parte.\p"
+	.string "ROCCO: Sembra che sia MAX che\n"
+	.string "FLAVIANO siano andati via da qualche parte.\p"
 	.string "Forse sono andati al MONTE PIRA per\n"
 	.string "restituire quelle SFERE…$"
 
 SootopolisCity_Text_HaventYouScaledSkyPillar:
-	.string "WALLACE: Oh?\n"
+	.string "ADRIANO: Oh?\n"
 	.string "{PLAYER}{KUN}?\p"
 	.string "Non hai ancora scalato la\n"
 	.string "PILASTRA CIELO?\p"
@@ -1675,14 +1675,14 @@ SootopolisCity_Text_HaventYouScaledSkyPillar:
 	.string "cima alla PILASTRA CIELO…$"
 
 SootopolisCity_Text_AquaMagmaDidntMeanHarm:
-	.string "WALLACE: {PLAYER}{KUN}…\p"
+	.string "ADRIANO: {PLAYER}{KUN}…\p"
 	.string "I capi del TEAM MAGMA e AQUA,\n"
 	.string "non credo volessero far male.\p"
 	.string "Non guasta ascoltare cosa\n"
 	.string "hanno da dire.$"
 
 SootopolisCity_Text_ThankYouForHelpAcceptThis:
-	.string "WALLACE: {PLAYER}{KUN}…\n"
+	.string "ADRIANO: {PLAYER}{KUN}…\n"
 	.string "I miei occhi non mi hanno ingannato.\p"
 	.string "Grazie al tuo aiuto, SOOTOPOLIS…\n"
 	.string "No, tutto HOENN è stata salvata.\p"
@@ -1704,6 +1704,6 @@ SootopolisCity_Text_ExplainWaterfallGoToGym:
 	.string "quella porta.$"
 
 SootopolisCity_Text_DazzledByMentor:
-	.string "WALLACE: Sono certo che resterai\n"
+	.string "ADRIANO: Sono certo che resterai\n"
 	.string "abbagliato dallo stile di lotta\l"
 	.string "elegante del mio maestro.$"

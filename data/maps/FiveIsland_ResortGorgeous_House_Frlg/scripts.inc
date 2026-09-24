@@ -141,7 +141,7 @@ FiveIsland_ResortGorgeous_House_EventScript_Butler::
 	end
 
 FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
-	.string "SELPHY: Oh?\n"
+	.string "NOIANNA: Oh?\n"
 	.string "Ti conosco da qualche parte?\p"
 	.string "Oh, ma non importa.\p"
 	.string "Mi annoio da morire.\n"
@@ -154,13 +154,13 @@ FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
 	.string "Esaudisci il mio desiderio.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
-	.string "SELPHY: Oh, che noia.\n"
+	.string "NOIANNA: Oh, che noia.\n"
 	.string "Sono stanca di aspettarti.\p"
 	.string "Stavolta ti perdono, ma\n"
 	.string "non deludermi la prossima.$"
 
 FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
-	.string "SELPHY: Oh, ciao.\p"
+	.string "NOIANNA: Oh, ciao.\p"
 	.string "Oh, santo cielo. Sarà il\n"
 	.string "{STR_VAR_1} che mi hai preso.\p"
 	.string "Ihih…\n"
@@ -171,14 +171,14 @@ FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
 	.string "Puoi andare.\p"
 	.string "… …  … …  … …\n"
 	.string "Oh, va bene. Ho capito.\p"
-	.string "SEBASTIAN!\n"
+	.string "SEBASTIANO!\n"
 	.string "Vieni qui, subito!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady::
 	.string "Butler: Sì, signora.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciation::
-	.string "SELPHY: Fate in modo che questa\n"
+	.string "NOIANNA: Fate in modo che questa\n"
 	.string "persona abbia un segno di stima.$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid::
@@ -188,7 +188,7 @@ FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid::
 FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
 	.string "Butler: La ringrazio di\n"
 	.string "aver reso felice\p"
-	.string "Lady SELPHY. Accetti il dono…$"
+	.string "Lady NOIANNA. Accetti il dono…$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
 	.string "Butler: La tua BORSA è\n"
@@ -199,12 +199,12 @@ FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::
 	.string "Che delusione.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuck::
-	.string "SELPHY: Buona fortuna\n"
+	.string "NOIANNA: Buona fortuna\n"
 	.string "a te.$"
 
 FiveIsland_ResortGorgeous_House_Text_LadySelphySmileHasBrillianceOfSun::
 	.string "Butler: Il sorriso di\n"
-	.string "Lady SELPHY ha il fulgore\p"
+	.string "Lady NOIANNA ha il fulgore\p"
 	.string "del sole. La prego, porti\n"
-	.string "gioia a SELPHY.$"
+	.string "gioia a NOIANNA.$"
 

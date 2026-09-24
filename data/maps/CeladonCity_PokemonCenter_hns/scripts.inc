@@ -31,7 +31,7 @@ CeladonCity_PokemonCenter1F_Text_Pharmacist:
 	.string "anni.$"
 
 Celadon_Text_Eusine1:
-	.string "EUSINE: Ehi!\p"
+	.string "EUGENIUS: Ehi!\p"
 	.string "Rivedo il mio paese natale.\p"
 	.string "Ne è passato di tempo.$"
 

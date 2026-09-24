@@ -80,14 +80,14 @@ GraniteCave_StevensRoom_Movement_StevenExitSouth:
 	step_end
 
 GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
-	.string "Mi chiamo STEVEN.\p"
+	.string "Mi chiamo ROCCO.\p"
 	.string "Mi interessano le pietre rare,\n"
 	.string "quindi viaggio qua e là.\p"
 	.string "Oh?\n"
 	.string "Una LETTERA per me?$"
 
 GraniteCave_StevensRoom_Text_ThankYouTakeThis:
-	.string "STEVEN: Okay, grazie.\p"
+	.string "ROCCO: Okay, grazie.\p"
 	.string "Ti sei preso il disturbo di\n"
 	.string "consegnarla. Ti devo ringraziare.\p"
 	.string "Vediamo…\n"
@@ -96,7 +96,7 @@ GraniteCave_StevensRoom_Text_ThankYouTakeThis:
 	.string "ALETTAMPO.$"
 
 GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
-	.string "STEVEN: I tuoi POKéMON sembrano\n"
+	.string "ROCCO: I tuoi POKéMON sembrano\n"
 	.string "in gamba.\p"
 	.string "Se continui ad allenarti, potresti\n"
 	.string "diventare CAMPIONE della LEGA\l"
@@ -107,7 +107,7 @@ GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
 	.string "… … … … … …$"
 
 GraniteCave_StevensRoom_Text_RegisteredSteven:
-	.string "STEVEN registrato\n"
+	.string "ROCCO registrato\n"
 	.string "nel POKéNAV.$"
 
 GraniteCave_StevensRoom_Text_IveGotToHurryAlong:

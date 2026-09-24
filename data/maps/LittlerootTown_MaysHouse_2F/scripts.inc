@@ -315,7 +315,7 @@ RivalsHouse_2F_Text_MayWhoAreYou:
 	.string "… … … … … … … …\p"
 	.string "Oh, sei {PLAYER}{KUN}.\n"
 	.string "Quindi ti sei trasferito oggi.\p"
-	.string "Ehm… io sono MAY.\n"
+	.string "Ehm… io sono VERA.\n"
 	.string "Piacere!\p"
 	.string "Io…\n"
 	.string "Sogno di diventare amica dei\l"
@@ -346,7 +346,7 @@ RivalsHouse_2F_Text_BrendanWhoAreYou:
 	.string "Papà, il PROF. BIRCH, diceva che il\n"
 	.string "nuovo vicino è figlio di un CAPOPALESTRA,\l"
 	.string "quindi pensavo fossi un maschio.\p"
-	.string "Mi chiamo BRENDAN.\n"
+	.string "Mi chiamo BRENDON.\n"
 	.string "Beh, ciao, vicina!\p"
 	.string "Eh? Ehi, {PLAYER}, non hai\n"
 	.string "un POKéMON?\p"
@@ -365,7 +365,7 @@ RivalsHouse_2F_Text_ItsRivalsPokeBall:
 	.string "Meglio lasciarla dove sta.$"
 
 RivalsHouse_2F_Text_MayJustCheckingMyPokedex:
-	.string "MAY: {PLAYER}{KUN}!\p"
+	.string "VERA: {PLAYER}{KUN}!\p"
 	.string "Stavo controllando il POKéDEX.\p"
 	.string "Ci sono ancora molti POKéMON\n"
 	.string "che ho visto ma non catturato.\p"
@@ -375,13 +375,13 @@ RivalsHouse_2F_Text_MayJustCheckingMyPokedex:
 	.string "catturare POKéMON ora?$"
 
 RivalsHouse_2F_Text_MayWhereShouldIGoNext:
-	.string "MAY: Dove andrò a\n"
+	.string "VERA: Dove andrò a\n"
 	.string "catturare POKéMON ora?\p"
 	.string "Sarebbe buffo se ci\n"
 	.string "incontrassimo, {PLAYER}{KUN}?$"
 
 RivalsHouse_2F_Text_BrendanJustCheckingMyPokedex:
-	.string "BRENDAN: Ehi, {PLAYER}.\p"
+	.string "BRENDON: Ehi, {PLAYER}.\p"
 	.string "Stavo controllando il POKéDEX.\p"
 	.string "Ci sono ancora molti POKéMON\n"
 	.string "da catturare, lo so, ma non\l"
@@ -390,7 +390,7 @@ RivalsHouse_2F_Text_BrendanJustCheckingMyPokedex:
 	.string "voglia di rimettermi in viaggio.$"
 
 RivalsHouse_2F_Text_BrendanWhereShouldIGoNext:
-	.string "BRENDAN: Non so decidere\n"
+	.string "BRENDON: Non so decidere\n"
 	.string "dove catturare POKéMON ora.\p"
 	.string "Ehi, {PLAYER}, se ti vedo in giro\n"
 	.string "mentre catturo POKéMON, ti sfido\l"

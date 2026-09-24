@@ -27,7 +27,7 @@ MeteorFalls_StevensCave_EventScript_Defeated::
 	end
 
 MeteorFalls_StevensCave_Text_ShouldKnowHowGoodIAmExpectWorst:
-	.string "STEVEN: Oh, wow, {PLAYER}{KUN}.\n"
+	.string "ROCCO: Oh, wow, {PLAYER}{KUN}.\n"
 	.string "Mi stupisci, sapevi dove trovarmi.\p"
 	.string "Forse… mi consideri solo un\n"
 	.string "maniaco delle rocce?\p"
@@ -44,7 +44,7 @@ MeteorFalls_StevensCave_Text_StevenDefeat:
 	.string "Non sapevo fossi diventato così forte…$"
 
 MeteorFalls_StevensCave_Text_MyPredictionCameTrue:
-	.string "STEVEN: A pensarci, da quando le nostre\n"
+	.string "ROCCO: A pensarci, da quando le nostre\n"
 	.string "strade si incrociarono nella GROTTA\l"
 	.string "GRANITO a PORTOALGHE, l'ho sentito.\p"
 	.string "Pensavo che alla fine saresti\n"

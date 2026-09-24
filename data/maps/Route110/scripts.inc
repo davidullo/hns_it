@@ -755,7 +755,7 @@ Route110_Text_AquaActionsBringSmiles:
 	.string "far sorridere la gente!$"
 
 Route110_Text_MayLetsBattle:
-	.string "MAY: Ciao, {PLAYER}{KUN}, quanto tempo!\p"
+	.string "VERA: Ciao, {PLAYER}{KUN}, quanto tempo!\p"
 	.string "Mentre cercavo altri\n"
 	.string "POKéMON, i miei sono cresciuti.\p"
 	.string "Quindi…\n"
@@ -766,13 +766,13 @@ Route110_Text_MayDefeated:
 	.string "Sei più forte del previsto!$"
 
 Route110_Text_MayTakeThis:
-	.string "MAY: {PLAYER}{KUN}, anche tu\n"
+	.string "VERA: {PLAYER}{KUN}, anche tu\n"
 	.string "ti sei dato da fare, vero?\p"
 	.string "Meriti una ricompensa!\n"
 	.string "Questo è da parte mia!$"
 
 Route110_Text_MayExplainItemfinder:
-	.string "MAY: Questo è un DETECTOR.\p"
+	.string "VERA: Questo è un DETECTOR.\p"
 	.string "Provalo. Se c'è un oggetto non\n"
 	.string "visibile, emette un suono.\p"
 	.string "Okay, {PLAYER}{KUN}, ci rivediamo!\p"
@@ -781,7 +781,7 @@ Route110_Text_MayExplainItemfinder:
 	.string "dovresti allenarti molto di più.$"
 
 Route110_Text_BrendanLetsBattle:
-	.string "BRENDAN: Ehi, {PLAYER}.\n"
+	.string "BRENDON: Ehi, {PLAYER}.\n"
 	.string "Ecco dove eri finito.\l"
 	.string "Come va?\p"
 	.string "Hai allenato i tuoi POKéMON?\n"
@@ -792,13 +792,13 @@ Route110_Text_BrendanDefeated:
 	.string "Sei proprio bravo.$"
 
 Route110_Text_BrendanTakeThis:
-	.string "BRENDAN: {PLAYER}, ti sei allenato\n"
+	.string "BRENDON: {PLAYER}, ti sei allenato\n"
 	.string "senza che me ne accorgessi…\p"
 	.string "Basta così!\n"
 	.string "Tieni, prendi questo.$"
 
 Route110_Text_BrendanExplainItemfinder:
-	.string "BRENDAN: Questo è un DETECTOR.\p"
+	.string "BRENDON: Questo è un DETECTOR.\p"
 	.string "Serve a scovare oggetti che\n"
 	.string "non sono visibili.\p"
 	.string "Se percepisce qualcosa, emette\n"

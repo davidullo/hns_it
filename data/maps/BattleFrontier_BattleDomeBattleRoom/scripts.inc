@@ -1058,14 +1058,14 @@ BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
 	.string "Sì! L'unico e alone!\n"
 	.string "IL COMMISSARIO DELLA CUPOLA!\l"
 	.string "Il nostro ASSE DELLA CUPOLA!\l"
-	.string "Lasciate passare TUCKER!$"
+	.string "Lasciate passare TOLOMEO!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant:
-	.string "Spettatori: TUCKER! TUCKER!\n"
-	.string "TUCKER! TUCKER! TUCKER!$"
+	.string "Spettatori: TOLOMEO! TOLOMEO!\n"
+	.string "TOLOMEO! TOLOMEO! TOLOMEO!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
-	.string "TUCKER: Ahahah!\p"
+	.string "TOLOMEO: Ahahah!\p"
 	.string "Senti? Questa folla!\n"
 	.string "Non vedono l'ora della sfida!\p"
 	.string "Ahahah!\p"
@@ -1073,7 +1073,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
 	.string "l'emozione di sfidarmi!\p"
 	.string "Ma non temere nulla!\p"
 	.string "Sono la star della CUPOLA LOTTA!\n"
-	.string "Io, TUCKER l'ASSE, ti bagno\l"
+	.string "Io, TOLOMEO l'ASSE, ti bagno\l"
 	.string "nel mio splendore!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy:
@@ -1085,12 +1085,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
 	.string "Vince {PLAYER}!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker:
-	.string "Il vincitore è TUCKER!\n"
+	.string "Il vincitore è TOLOMEO!\n"
 	.string "L'ASO DELLA CUPOLA ha vinto!\p"
-	.string "Congratulazioni, TUCKER!$"
+	.string "Congratulazioni, TOLOMEO!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass:
-	.string "TUCKER: Le regole sono regole!\n"
+	.string "TOLOMEO: Le regole sono regole!\n"
 	.string "Mostrami il SUPERPASS.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_ReceivedTacticsSymbol:
@@ -1113,10 +1113,10 @@ BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
 	.string "La leggenda è tornata!\p"
 	.string "Sì, il nome della leggenda!\n"
 	.string "Il nostro ASSE DELLA CUPOLA!\l"
-	.string "È proprio TUCKER!$"
+	.string "È proprio TOLOMEO!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro:
-	.string "TUCKER: Ah…\n"
+	.string "TOLOMEO: Ah…\n"
 	.string "Il boato della folla…\l"
 	.string "Il loro caldo fervore…\l"
 	.string "Che posto meraviglioso…\p"
@@ -1132,7 +1132,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_UnleashAllPowerIPossess:
 	.string "posso, qui e subito!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed:
-	.string "TUCKER: Sei fantastico davvero!\p"
+	.string "TOLOMEO: Sei fantastico davvero!\p"
 	.string "Mai perso! Non ho mai perso quando\n"
 	.string "ho dovuto dar fondo alla forza.\p"
 	.string "Sì, davvero fantastico!\n"
@@ -1164,7 +1164,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp2:
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker:
 	.string "La finale!\p"
-	.string "{PLAYER} contro l'ASSE, TUCKER!\p"
+	.string "{PLAYER} contro l'ASSE, TOLOMEO!\p"
 	.string "Che la sfida cominci!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:
@@ -1173,6 +1173,6 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:
 	.string "Il vincitore è…\n"
 	.string "Incredibile!\l"
 	.string "Vince il nostro ASSE DELLA CUPOLA!\l"
-	.string "È TUCKER!\p"
+	.string "È TOLOMEO!\p"
 	.string "Congratulazioni e grazie!\n"
-	.string "Un applauso per l'ASSE TUCKER!$"
+	.string "Un applauso per l'ASSE TOLOMEO!$"

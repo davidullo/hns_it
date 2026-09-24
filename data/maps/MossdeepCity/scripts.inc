@@ -304,7 +304,7 @@ MossdeepCity_Movement_ScottExitEast:
 	step_end
 
 MossdeepCity_Text_WantKingsRockStevenGaveMe:
-	.string "Me l'ha dato STEVEN, ma non so\n"
+	.string "Me l'ha dato ROCCO, ma non so\n"
 	.string "a cosa serva.\p"
 	.string "Credo si chiami ROCCIA DEL RE.\n"
 	.string "La vuoi?$"
@@ -313,10 +313,10 @@ MossdeepCity_Text_YouCanKeepIt:
 	.string "Perché la vorresti?\n"
 	.string "Sei strano.\p"
 	.string "Puoi tenerla, ma non dirlo\n"
-	.string "a STEVEN.$"
+	.string "a ROCCO.$"
 
 MossdeepCity_Text_StevensHouseOverThere:
-	.string "La casa di STEVEN è proprio là!$"
+	.string "La casa di ROCCO è proprio là!$"
 
 MossdeepCity_Text_WhatToDoWithWeirdRock:
 	.string "Sì, lo pensi anche tu! Che cosa\n"
@@ -404,7 +404,7 @@ MossdeepCity_Text_SpaceCenterSign:
 	.string "“Il luogo più vicino allo spazio.”$"
 
 MossdeepCity_Text_ScottSomethingWrongWithTown:
-	.string "SCOTT: {PLAYER}{KUN}, tutto bene?\n"
+	.string "SAVERIO: {PLAYER}{KUN}, tutto bene?\n"
 	.string "Io sto alla grande!\p"
 	.string "Ho sentito che il CAPOPALESTRA di\n"
 	.string "MOSSDEEP è forte, così ho deciso\l"
@@ -424,5 +424,5 @@ MossdeepCity_Text_SootopolisNewGymLeader:
 	.string "Credo che nella sua PALESTRA sia\n"
 	.string "arrivato un nuovo CAPO.\p"
 	.string "Dicono che il nuovo CAPO una volta\n"
-	.string "sia stato il mentore di WALLACE.$"
+	.string "sia stato il mentore di ADRIANO.$"
 

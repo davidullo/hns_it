@@ -149,7 +149,7 @@ MagmaHideout_4F_Text_Grunt12Defeat:
 	.string "Ho fatto tanta strada e ora questo?$"
 
 MagmaHideout_4F_Text_Grunt12PostBattle:
-	.string "MAXIE, signore!\n"
+	.string "MAX, signore!\n"
 	.string "Un intruso sta arrivando!$"
 
 MagmaHideout_4F_Text_Grunt13Intro:
@@ -167,7 +167,7 @@ MagmaHideout_4F_Text_TabithaIntro:
 	.string "Sei arrivato fin qui, te lo dico!\p"
 	.string "Proprio così!\n"
 	.string "Più avanti dorme GROUDON!\p"
-	.string "MAXIE è andato da GROUDON pochi\n"
+	.string "MAX è andato da GROUDON pochi\n"
 	.string "istanti fa!\p"
 	.string "Si sveglierà molto presto!\n"
 	.string "Hehe! Hehehe!$"
@@ -178,10 +178,10 @@ MagmaHideout_4F_Text_TabithaDefeat:
 
 MagmaHideout_4F_Text_TabithaPostBattle:
 	.string "…E mentre perdevi tempo con me,\n"
-	.string "MAXIE avrà svegliato GROUDON…$"
+	.string "MAX avrà svegliato GROUDON…$"
 
 MagmaHideout_4F_Text_MaxieAwakenGroudon:
-	.string "MAXIE: GROUDON…\p"
+	.string "MAX: GROUDON…\p"
 	.string "Nulla poteva svegliarti dal\n"
 	.string "sonno nel magma…\p"
 	.string "Questa SFERA BLU cercavi.\n"
@@ -192,14 +192,14 @@ MagmaHideout_4F_Text_MaxieAwakenGroudon:
 	.string "Mostrami tutta la tua potenza!$"
 
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong:
-	.string "MAXIE: GROUDON!\n"
+	.string "MAX: GROUDON!\n"
 	.string "Che succede?\p"
 	.string "Non era la SFERA BLU la chiave?\p"
 	.string "GROUDON!\n"
 	.string "Dove sei andato…$"
 
 MagmaHideout_4F_Text_MaxieOhItWasYou:
-	.string "MAXIE: Oh, eri tu?\p"
+	.string "MAX: Oh, eri tu?\p"
 	.string "Ti ho visto curiosare qui\n"
 	.string "in giro…\p"
 	.string "Ora capisco!\n"
@@ -210,7 +210,7 @@ MagmaHideout_4F_Text_MaxieDefeat:
 	.string "i POKéMON?$"
 
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon:
-	.string "MAXIE: Ci sarà un motivo\n"
+	.string "MAX: Ci sarà un motivo\n"
 	.string "per cui GROUDON è fuggito…\p"
 	.string "È questo che vuoi dire,\n"
 	.string "vero?\p"

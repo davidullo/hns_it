@@ -329,7 +329,7 @@ FallarborTown_BattleTentLobby_hns_Text_CameToCampOut:
 	.string "a lottare!$"
 
 FallarborTown_BattleTentLobby_hns_Text_ScottLookingForSomeone:
-	.string "SCOTT: Ciao, {PLAYER}{KUN}!\n"
+	.string "SAVERIO: Ciao, {PLAYER}{KUN}!\n"
 	.string "Sei venuto alla TENDA LOTTA!\p"
 	.string "La gente qui è\n"
 	.string "tranquilla e rilassata.\p"
@@ -344,7 +344,7 @@ FallarborTown_BattleTentLobby_hns_Text_ScottLookingForSomeone:
 	.string "Continua così!$"
 
 FallarborTown_BattleTentLobby_hns_Text_ScottMakeChallenge:
-	.string "SCOTT: Invece di perdere\n"
+	.string "SAVERIO: Invece di perdere\n"
 	.string "tempo con uno come me, perché\l"
 	.string "non provi?$"
 

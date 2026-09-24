@@ -326,11 +326,11 @@ BattleFrontier_ReceptionGate_Text_IfItIsntPlayerYouCame:
 	.string "Sei venuto fin qui!$"
 
 BattleFrontier_ReceptionGate_Text_OhMrScottGoodDay:
-	.string "GUIDA: Oh! SIGNOR SCOTT!\n"
+	.string "GUIDA: Oh! SIGNOR SAVERIO!\n"
 	.string "Buongiorno, egregio!$"
 
 BattleFrontier_ReceptionGate_Text_ScottGreatToSeeYouHere:
-	.string "SCOTT: Che bello vederti qui,\n"
+	.string "SAVERIO: Che bello vederti qui,\n"
 	.string "davvero!\p"
 	.string "Spero che prenderai tempo ed\n"
 	.string "esplorerai ogni angolo.\p"

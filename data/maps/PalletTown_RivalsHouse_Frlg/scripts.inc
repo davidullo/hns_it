@@ -166,12 +166,12 @@ PalletTown_RivalsHouse_EventScript_Picture::
 	end
 
 PalletTown_RivalsHouse_Text_HiBrothersAtLab::
-	.string "DAISY: Ciao, {PLAYER}!\p"
+	.string "MARGI: Ciao, {PLAYER}!\p"
 	.string "Mio fratello {RIVAL} è al\n"
 	.string "LABORATORIO del nonno.$"
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
-	.string "DAISY: {PLAYER}, ho saputo che hai\n"
+	.string "MARGI: {PLAYER}, ho saputo che hai\n"
 	.string "lottato contro {RIVAL}.\p"
 	.string "Vorrei averlo visto!$"
 
@@ -183,7 +183,7 @@ PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
 	.string "{PLAYER} riceve una MAPPA CITTÀ\n"
-	.string "da DAISY.$"
+	.string "da MARGI.$"
 
 PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
 	.string "Non hai spazio per questo nello\n"
@@ -195,7 +195,7 @@ PalletTown_RivalsHouse_Text_ExplainTownMap::
 	.string "nomi dei luoghi.$"
 
 PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
-	.string "DAISY: Come le persone, i POKéMON\n"
+	.string "MARGI: Come le persone, i POKéMON\n"
 	.string "sono esseri viventi.\p"
 	.string "Quando sono stanchi, falli\n"
 	.string "riposare.$"
@@ -209,7 +209,7 @@ PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
 	.string "libri sui POKéMON.$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
-	.string "DAISY: Ciao, {PLAYER}!\n"
+	.string "MARGI: Ciao, {PLAYER}!\n"
 	.string "Che tempismo.\p"
 	.string "Sto per prendere il tè.\n"
 	.string "Vuoi unirti a me?\p"
@@ -225,16 +225,16 @@ PalletTown_RivalsHouse_Text_GroomWhichOne::
 	.string "Quale vuoi che pettini?$"
 
 PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
-	.string "DAISY: Okay, lo renderò\n"
+	.string "MARGI: Okay, lo renderò\n"
 	.string "bello in un attimo.$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
 	.string "{COLOR DARK_GRAY}{STR_VAR_1} sembra felice e sognante…\p"
-	.string "{COLOR RED}DAISY: Ecco fatto! Tutto a posto.\n"
+	.string "{COLOR RED}MARGI: Ecco fatto! Tutto a posto.\n"
 #else @ In the JP games, gender-based text used a different font instead of different colors.
 	.string "{FONT_NORMAL}{STR_VAR_1} looks dreamily content…\p"
-	.string "{FONT_FEMALE}DAISY: There you go! All done.\n"
+	.string "{FONT_FEMALE}MARGI: There you go! All done.\n"
 #endif
 	.string "Visto? Non è carino?\p"
 	.string "Eh eh…\n"
@@ -245,7 +245,7 @@ PalletTown_RivalsHouse_Text_CantGroomAnEgg::
 	.string "pettinare un UOVO.$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
-	.string "DAISY: I POKéMON imparano a volerti\n"
+	.string "MARGI: I POKéMON imparano a volerti\n"
 	.string "bene se li cresci con amore.\p"
 	.string "Per esempio, {PLAYER}, posso vedere\n"
 	.string "il tuo primo POKéMON?$"

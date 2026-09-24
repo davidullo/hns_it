@@ -12,7 +12,7 @@ FortreeCity_House3_EventScript_SchoolKidM::
 FortreeCity_House3_Text_MetStevenHadAmazingPokemon:
 	.string "Parlando di POKéDEX,\n"
 	.string "ho ricordato qualcosa.\p"
-	.string "Conobbi un ALLENATORE, STEVEN,\n"
+	.string "Conobbi un ALLENATORE, ROCCO,\n"
 	.string "cercavo pietre rare.\p"
 	.string "Aveva POKéMON straordinari\n"
 	.string "con sé.\p"

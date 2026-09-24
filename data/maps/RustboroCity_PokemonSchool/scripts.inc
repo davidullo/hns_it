@@ -305,7 +305,7 @@ RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut:
 	.string "Ehi? Non ci siamo già visti?\n"
 	.string "Mi pare a PETALBURG.\p"
 	.string "Fammi presentare.\n"
-	.string "Mi chiamo SCOTT.\p"
+	.string "Mi chiamo SAVERIO.\p"
 	.string "Ho girato ovunque in cerca\n"
 	.string "di ALLENATORI eccezionali.\p"
 	.string "Più precisamente, cerco\n"
@@ -318,12 +318,12 @@ RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut:
 	.string "questa città ha TAGLIO.$"
 
 RustboroCity_PokemonSchool_Text_StudentTalentLevelUnknown:
-	.string "SCOTT: Hmm…\p"
+	.string "SAVERIO: Hmm…\p"
 	.string "Il talento degli studenti qui\n"
 	.string "è ignoto. Ma il potenziale c'è.$"
 
 RustboroCity_PokemonSchool_Text_ScottStoneBadge:
-	.string "SCOTT: Oh, cos'è quello?\p"
+	.string "SAVERIO: Oh, cos'è quello?\p"
 	.string "È una MEDAGLIA SASSO, vero?\n"
 	.string "Notevole, direi.\p"
 	.string "Ma sai, mi sarebbe piaciuto vederti\n"
@@ -335,7 +335,7 @@ RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge:
 	.string "Ciao? Ci siamo già visti?\n"
 	.string "Mi pare a PETALBURG.\p"
 	.string "Lascia che mi presenti.\n"
-	.string "Mi chiamo SCOTT.\p"
+	.string "Mi chiamo SAVERIO.\p"
 	.string "Giro ovunque in cerca di\n"
 	.string "ALLENATORI eccezionali.\p"
 	.string "Più precisamente, cerco\n"

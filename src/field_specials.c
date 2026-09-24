@@ -182,12 +182,12 @@ static const u8 sText_1MinutePlus[] = _("1 minuto +");
 static const u8 sText_SpaceSeconds[] = _(" secondi");
 static const u8 sText_SpaceTimes[] = _(" volta/e");
 
-static const u8 sText_Wallace[] = _("WALLACE");
-static const u8 sText_Steven[] = _("STEVEN");
-static const u8 sText_Brawly[] = _("BRAWLY");
-static const u8 sText_Winona[] = _("WINONA");
-static const u8 sText_Phoebe[] = _("PHOEBE");
-static const u8 sText_Glacia[] = _("GLACIA");
+static const u8 sText_Wallace[] = _("ADRIANO");
+static const u8 sText_Steven[] = _("ROCCO");
+static const u8 sText_Brawly[] = _("RUDI");
+static const u8 sText_Winona[] = _("MARIKA");
+static const u8 sText_Phoebe[] = _("ESTER");
+static const u8 sText_Glacia[] = _("FRIDA");
 
 void Special_ShowDiploma(void)
 {
@@ -2615,7 +2615,7 @@ static const u8 *const sScrollableMultichoiceOptions[][MAX_SCROLL_MULTI_LENGTH] 
     [SCROLL_MULTI_BF_EXCHANGE_CORNER_HOLD_ITEM_VENDOR] =
     {
         COMPOUND_STRING("AVANZI{CLEAR_TO 0x5E}48BP"),
-        COMPOUND_STRING("ERBA BIANCA{CLEAR_TO 0x5E}48BP"),
+        COMPOUND_STRING("ERBA GUADA{CLEAR_TO 0x5E}48BP"),
         COMPOUND_STRING("ARTIGLIO VELOCE{CLEAR_TO 0x5E}48BP"),
         COMPOUND_STRING("ERBA MENTALE{CLEAR_TO 0x5E}48BP"),
         COMPOUND_STRING("POLVERE LUCENTE{CLEAR_TO 0x5E}64BP"),

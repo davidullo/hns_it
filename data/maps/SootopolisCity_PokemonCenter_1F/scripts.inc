@@ -44,10 +44,10 @@ SootopolisCity_PokemonCenter_1F_EventScript_WomanNoLegendaries::
 	end
 
 SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
-	.string "WALLACE è famoso come l'ALLENATORE\n"
+	.string "ADRIANO è famoso come l'ALLENATORE\n"
 	.string "più forte di tutta la regione di HOENN.\p"
 	.string "La PALESTRA di questa città è guida\n"
-	.string "da chi ha insegnato a WALLACE.\p"
+	.string "da chi ha insegnato a ADRIANO.\p"
 	.string "Ma i SUPERQUATTRO… si dice siano\n"
 	.string "persino più forti del suo maestro.\p"
 	.string "Quanto saranno forti?$"

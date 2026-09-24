@@ -527,7 +527,7 @@ const struct BattleFrontierTrainer gSlateportBattleTentTrainers[NUM_BATTLE_TENT_
     },
     [SLATEPORT_TENT_TRAINER_KELSIE] = {
         .facilityClass = FACILITY_CLASS_TUBER_F,
-        .trainerName = _("KELSIE"),
+        .trainerName = _("MAREA"),
         .speechBefore = {EC_WORD_GO, EC_WORD_EXCL_EXCL, EC_WORD_MY, EC_WORD_BATH, EC_WORD_POKEMON, EC_WORD_EXCL_EXCL},
         .speechWin = {EC_WORD_YAHOO, EC_WORD_EXCL_EXCL, EC_WORD_MY, EC_WORD_BATH, EC_WORD_POKEMON, EC_WORD_EXCL_EXCL},
         .speechLose = {EC_WORD_GWAH, EC_WORD_EXCL_EXCL, EC_WORD_MY, EC_WORD_BATH, EC_WORD_POKEMON, EC_WORD_EXCL_EXCL},
@@ -647,7 +647,7 @@ const struct BattleFrontierTrainer gSlateportBattleTentTrainers[NUM_BATTLE_TENT_
     },
     [SLATEPORT_TENT_TRAINER_JANAE] = {
         .facilityClass = FACILITY_CLASS_POKEFAN_F,
-        .trainerName = _("JANAE"),
+        .trainerName = _("ROSINA"),
         .speechBefore = {EC_WORD_I, EC_WORD_JUST, EC_WORD_ADORE, EC_WORD_YOUR, EC_WORD_TOUGH, EC_WORD_LOOK},
         .speechWin = {EC_WORD_I, EC_WORD_LIKE, EC_WORD_HOW, EC_WORD_YOU, EC_MOVE2(STRUGGLE), -1},
         .speechLose = {EC_WORD_YOU_RE, EC_WORD_A, EC_WORD_MEAN, EC_WORD_AND, EC_WORD_AWFUL, EC_WORD_TRAINER},
@@ -687,7 +687,7 @@ const struct BattleFrontierTrainer gSlateportBattleTentTrainers[NUM_BATTLE_TENT_
     },
     [SLATEPORT_TENT_TRAINER_AVERY] = {
         .facilityClass = FACILITY_CLASS_BIRD_KEEPER,
-        .trainerName = _("AVERY"),
+        .trainerName = _("PIERINO"),
         .speechBefore = {EC_WORD_TOYS, EC_WORD_EXCL, EC_WORD_I, EC_WORD_NEED, EC_WORD_MORE, EC_WORD_TOYS},
         .speechWin = {EC_WORD_I, EC_WORD_NEED, EC_WORD_SOME, EC_WORD_EASY, EC_WORD_MONEY, EC_WORD_FAST},
         .speechLose = {EC_WORD_I, EC_WORD_NEED, EC_WORD_TO, EC_WORD_WORK, EC_WORD_FOR, EC_WORD_MONEY},
@@ -1658,7 +1658,7 @@ const struct BattleFrontierTrainer gVerdanturfBattleTentTrainers[NUM_BATTLE_TENT
     },
     [VERDANTURF_TENT_TRAINER_MARKUS] = {
         .facilityClass = FACILITY_CLASS_TUBER_M,
-        .trainerName = _("MARKUS"),
+        .trainerName = _("MARCO"),
         .speechBefore = {EC_WORD_I_AM, EC_WORD_SMART, EC_WORD_EXCL, EC_WORD_IF_I_LOSE, EC_WORD_I, EC_MOVE(SELF_DESTRUCT)},
         .speechWin = {EC_WORD_IT_S, EC_WORD_A, EC_WORD_NON_STOP, EC_MOVE2(EXPLOSION), EC_WORD_OF, EC_WORD_JOY},
         .speechLose = {EC_WORD_I_VE, EC_WORD_LOST, EC_WORD_ELLIPSIS, EC_WORD_TIME, EC_WORD_TO, EC_MOVE(SELF_DESTRUCT)},
@@ -1682,7 +1682,7 @@ const struct BattleFrontierTrainer gVerdanturfBattleTentTrainers[NUM_BATTLE_TENT
     },
     [VERDANTURF_TENT_TRAINER_RONALD] = {
         .facilityClass = FACILITY_CLASS_RICH_BOY,
-        .trainerName = _("RONALD"),
+        .trainerName = _("AMBROGIO"),
         .speechBefore = {EC_WORD_COME_ON, EC_WORD_I, EC_WORD_WILL, EC_WORD_BATTLE, EC_WORD_SERIOUSLY, -1},
         .speechWin = {EC_WORD_GIVE_UP, EC_WORD_QUES, -1, EC_WORD_THAT_S, EC_WORD_REALLY, EC_WORD_WEAK},
         .speechLose = {EC_WORD_I, EC_WORD_NEED, EC_WORD_TO, EC_WORD_DO, EC_WORD_A, EC_MOVE2(BATON_PASS)},

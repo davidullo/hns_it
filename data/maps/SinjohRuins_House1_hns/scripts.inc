@@ -153,7 +153,7 @@ SinjohRuins_Lab_Text_StevenIntroCutscene1:
    	.string "RUPERT: Hm?$"
 
 SinjohRuins_Lab_Text_StevenIntroCutscene2:
-	.string "STEVEN: {PLAYER}!\p"
+	.string "ROCCO: {PLAYER}!\p"
 	.string "Riconoscerei quei tuoi occhi ovunque.\p"
 	.string "Cosa ti porta così a nord?\p"
 	.string ".............\p"
@@ -164,7 +164,7 @@ SinjohRuins_Lab_Text_StevenIntroCutscene2:
 	.string "aggiorni.$"
 
 SinjohRuins_Lab_Text_StevenIntroCutscene3:
-	.string "STEVEN: Quando ho saputo di\n"
+	.string "ROCCO: Quando ho saputo di\n"
 	.string "queste rovine, sono dovuto venire\l"
 	.string "a vederle di persona.\p"
 	.string "Ho messo su una squadra della DEVON SPA.\n"
@@ -189,7 +189,7 @@ SinjohRuins_Lab_Text_StevenIntroCutscene4:
 	.string "enorme potenza.$"
 
 SinjohRuins_Lab_Text_StevenIntroCutscene5:
-	.string "STEVEN: Questo è quanto, {PLAYER}.\p"
+	.string "ROCCO: Questo è quanto, {PLAYER}.\p"
 	.string "I NOBILI POKéMON che custodiscono le\n"
 	.string "PIASTRE rimaste sono troppo forti\l"
 	.string "per la mia squadra, temo.\p"
@@ -266,7 +266,7 @@ SinjohRuins_Lab_FinalPlateScene::
 	end
 
 SinjohRuins_Lab_Text_FinalPlateScene1:
-	.string "STEVEN: {PLAYER}!\p"
+	.string "ROCCO: {PLAYER}!\p"
 	.string "Credo di sapere cosa succederà\n"
 	.string "quando uniremo tutte e 17 le\l"
 	.string "LASTRE.\p"
@@ -274,7 +274,7 @@ SinjohRuins_Lab_Text_FinalPlateScene1:
 	.string ".....................$"
 
 SinjohRuins_Lab_Text_FinalPlateScene2:
-	.string "STEVEN: Devo vederlo con i\n"
+	.string "ROCCO: Devo vederlo con i\n"
 	.string "miei occhi!\p"
 	.string "Fuori, {PLAYER}!$" 
 
@@ -337,7 +337,7 @@ SinjohRuins_Lab_EventScript_StevenAfterAllPlates::
 	end
 
 SinjohRuins_Lab_Text_StevenFindPlates:
-	.string "STEVEN: Ah, {PLAYER}.\p"
+	.string "ROCCO: Ah, {PLAYER}.\p"
 	.string "{STR_VAR_1} PIASTRE finora.\n"
 	.string "Niente male.\p"
 	.string "Devo ammettere che sono curioso\n"
@@ -346,7 +346,7 @@ SinjohRuins_Lab_Text_StevenFindPlates:
 	.string "Bene, vediamo cosa trovi.$"
 
 SinjohRuins_Lab_Text_StevenFindPlates3:
-	.string "STEVEN: Ah, {PLAYER}.\p"
+	.string "ROCCO: Ah, {PLAYER}.\p"
 	.string "{STR_VAR_1} PIASTRE finora.\n"
 	.string "Niente male.\p"
 	.string "Hai già esplorato quella\n"
@@ -354,7 +354,7 @@ SinjohRuins_Lab_Text_StevenFindPlates3:
 	.string "È tutto molto misterioso.$"
 
 SinjohRuins_Lab_Text_StevenFindPlates9:
-	.string "STEVEN: Ah, {PLAYER}.\p"
+	.string "ROCCO: Ah, {PLAYER}.\p"
 	.string "{STR_VAR_1} PIASTRE finora.\n"
 	.string "Ottimi progressi.\p"
 	.string "Le camere che si sono aperte\n"
@@ -369,7 +369,7 @@ SinjohRuins_Lab_Text_StevenFindPlates9:
 	.string "Chissà cosa troveremo.$"
 
 SinjohRuins_Lab_Text_StevenAfterAll:
-	.string "STEVEN: {PLAYER}!\p"
+	.string "ROCCO: {PLAYER}!\p"
 	.string "Questa spedizione è stata\n"
 	.string "l'esperienza di una vita.\p"
 	.string "Da quando ho sentito di queste rovine,\n"
@@ -434,7 +434,7 @@ SinjohRuins_Lab_Text_LinguistDuring:
     .string "Immagina la mia sorpresa nel\n"
 	.string "tradurre i glifi!\p"
 	.string "Ho controllato tre e quattro\n"
-	.string "volte prima di dirlo a STEVEN!\p"
+	.string "volte prima di dirlo a ROCCO!\p"
 	.string "Cioè, davvero, il Dio dei\n"
 	.string "POKéMON?\p"
 	.string "È incredibile.$"
@@ -775,7 +775,7 @@ SinjohRuins_Lab_Text_DropedItem:
 	.string "un oggetto…$"
 
 SinjohRuins_Lab_Text_StevenName:
-	.string "STEVEN$"
+	.string "ROCCO$"
 
 SinjohRuins_Lab_EventScript_3Plates::
 	setspeaker SinjohRuins_Lab_Text_StevenName
@@ -816,7 +816,7 @@ SinjohRuins_Lab_EventScript_16Plates::
 	return
 
 SinjohRuins_Lab_Text_StevenCall3Plates:
-	.string "STEVEN: {PLAYER}.\p"
+	.string "ROCCO: {PLAYER}.\p"
 	.string "Abbiamo sentito un tremito alle rovine\n"
 	.string "proprio ora.\p"
 	.string "Stanno tutti bene, non preoccuparti.\p"
@@ -829,7 +829,7 @@ SinjohRuins_Lab_Text_StevenCall3Plates:
 	.string "quando puoi.$"
 
 SinjohRuins_Lab_Text_StevenCall6Plates:
-	.string "STEVEN: {PLAYER}.\p"
+	.string "ROCCO: {PLAYER}.\p"
 	.string "Come va la ricerca?\p"
 	.string "Qui c'è stato un altro tremito.\n"
 	.string "Si è aperta una\l"
@@ -841,7 +841,7 @@ SinjohRuins_Lab_Text_StevenCall6Plates:
 	.string "troviamo.$"
 
 SinjohRuins_Lab_Text_StevenCall9Plates:
-	.string "STEVEN: {PLAYER}.\p"
+	.string "ROCCO: {PLAYER}.\p"
 	.string "Un altro tremito qui alle rovine.\p"
 	.string "I dati dipingono un quadro\n"
 	.string "curioso.\p"
@@ -853,7 +853,7 @@ SinjohRuins_Lab_Text_StevenCall9Plates:
 	.string "Sinceramente non lo so.$"
 
 SinjohRuins_Lab_Text_StevenCall12Plates:
-	.string "STEVEN: {PLAYER}.\p"
+	.string "ROCCO: {PLAYER}.\p"
 	.string "Un altro tremito. Un'altra camera\n"
 	.string "che si apre.\p"
 	.string "Ancora non capiamo lo\n"
@@ -864,7 +864,7 @@ SinjohRuins_Lab_Text_StevenCall12Plates:
 	.string "No, impossibile.$"
 
 SinjohRuins_Lab_Text_StevenCall15Plates:
-	.string "STEVEN: {PLAYER}.\p"
+	.string "ROCCO: {PLAYER}.\p"
 	.string "Hai appena trovato un'altra PIASTRA?\p"
 	.string ".................\p"
 	.string "Ovvio.\p"
@@ -877,7 +877,7 @@ SinjohRuins_Lab_Text_StevenCall15Plates:
 	.string "dovevo dubitare di te.$"
 
 SinjohRuins_Lab_Text_StevenCall16Plates:
-	.string "STEVEN: {PLAYER}.\p"
+	.string "ROCCO: {PLAYER}.\p"
 	.string "Siamo vicinissimi ora. Lo sento.\p"
 	.string "..................\p"
 	.string "Dovresti venire a vederlo di\n"

@@ -366,7 +366,7 @@ VerdanturfTown_BattleTentLobby_Text_TaughtWhatKindsOfMoves:
 	.string "o proteggersi da soli.$"
 
 VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers:
-	.string "SCOTT: Ciao, {PLAYER}{KUN}!\n"
+	.string "SAVERIO: Ciao, {PLAYER}{KUN}!\n"
 	.string "Pensavo di trovarti qui.\p"
 	.string "Un TENTE LOTTA è un posto dove\n"
 	.string "si incontrano ALLENATORI forti.\p"
@@ -376,6 +376,6 @@ VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers:
 	.string "dia il massimo!$"
 
 VerdanturfTown_BattleTentLobby_Text_ScottVisitRegularly:
-	.string "SCOTT: Vengo qui spesso sperando\n"
+	.string "SAVERIO: Vengo qui spesso sperando\n"
 	.string "di vedere ALLENATORI forti in azione\l"
 	.string "in qualsiasi situazione.$"

@@ -22,7 +22,7 @@ GraniteCave_1F_Text_GetsDarkAheadHereYouGo:
 	.string "Più avanti è buio pesto.\l"
 	.string "Esplorare sarà dura.\p"
 	.string "Quel tipo di prima…\n"
-	.string "STEVEN, credo.\p"
+	.string "ROCCO, credo.\p"
 	.string "Lui sapeva usare BALENO, quindi per lui\n"
 	.string "niente problema, ma…\p"
 	.string "Beh, per noi MONTANARI aiutare chi\n"

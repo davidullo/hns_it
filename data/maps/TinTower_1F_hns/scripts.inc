@@ -109,7 +109,7 @@ TinTower_1F_EusineHoOh_Text:
 	.string "per diventare un POKéMANIAC famoso!$"
 
 TinTower_1F_EusineSuicune_Text:
-	.string "EUSINE: Fantastico! Troppo bello!\n"
+	.string "EUGENIUS: Fantastico! Troppo bello!\n"
 	.string "Mai vista una lotta così grande.\p"
 	.string "È stato davvero emozionante.\n"
 	.string "SUICUNE era forte, ma tu sei stato\p"

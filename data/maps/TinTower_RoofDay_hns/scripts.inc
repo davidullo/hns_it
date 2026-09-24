@@ -554,15 +554,15 @@ TinTower_RoofDay_Movement_Kimono_Dance_Shift_Right2:
 	step_end
 
 TinTower_RoofDay_Text_Zuki_Before::
-	.string "ZUKI: Va', affronta HO-OH. $"
+	.string "TAMAO: Va', affronta HO-OH. $"
 TinTower_RoofDay_Text_Naoko_Before::
-	.string "NAOKO: Va', affronta HO-OH. $"
+	.string "YUKI: Va', affronta HO-OH. $"
 TinTower_RoofDay_Text_Miki_Before::
 	.string "MIKI: Va', affronta HO-OH. $"
 TinTower_RoofDay_Text_Sayo_Before::
 	.string "SAYO: Va', affronta HO-OH. $"
 TinTower_RoofDay_Text_Kuni_Before::
-	.string "KUNI: Va', affronta HO-OH. $"
+	.string "KOMOMO: Va', affronta HO-OH. $"
 
 TinTower_RoofDay_Text_Kimono_Opening::
 	.string "RAGAZZA KIMONO: Esatto.\n"

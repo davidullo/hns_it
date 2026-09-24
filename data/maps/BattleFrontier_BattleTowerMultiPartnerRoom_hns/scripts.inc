@@ -945,7 +945,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMReject_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyIntro_hns::
 	.string "Ehi! Ti dico chi sono!\n"
-	.string "Sono RICH BOY {STR_VAR_1}!$"
+	.string "Sono DANILO BOY {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyMon1_hns::
 	.string "Indovina cosa ho!\n"

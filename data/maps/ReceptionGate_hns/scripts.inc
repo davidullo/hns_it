@@ -15,7 +15,7 @@ ReceptionGate_EventScript_Janine::
     end
 
 ReceptionGate_Text_Janine:
-    .string "JANINE: Sto andando a casa di mio\n"
+    .string "NINA: Sto andando a casa di mio\n"
     .string "padre a portargli il pranzo.\p"
     .string "L'ELITE FOUR non riposa mai,\n"
     .string "giorno e notte. È un duro lavoro,\l"

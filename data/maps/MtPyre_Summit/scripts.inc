@@ -482,10 +482,10 @@ MtPyre_Summit_Text_Grunt4PostBattle:
 	.string "tra noi membri e il nostro capo.$"
 
 MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
-	.string "ARCHIE: MAXIE del TEAM MAGMA ci ha\n"
+	.string "FLAVIANO: MAX del TEAM MAGMA ci ha\n"
 	.string "preceduti, ma abbiamo ciò che volevamo.\p"
 	.string "La SFERA ROSSA custodita sul MONTE PIRA…\n"
-	.string "Io, ARCHIE, ora la possiedo!\p"
+	.string "Io, FLAVIANO, ora la possiedo!\p"
 	.string "Fufufu… Ora possiamo realizzare il\n"
 	.string "nostro obiettivo finale!\p"
 	.string "Bene, TEAM!\n"
@@ -584,7 +584,7 @@ MtPyre_Summit_Text_WellThatTooIsFine:
 	.string "Beh, va bene anche così…$"
 
 MtPyre_Summit_Text_MaxieSilence:
-	.string "MAXIE: {PLAYER}…\p"
+	.string "MAX: {PLAYER}…\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 

@@ -259,7 +259,7 @@ MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua:
 	.string "AQUA scemi!$"
 
 MeteorFalls_1F_1R_Text_ArchieSeenYouBefore:
-	.string "ARCHIE: Non ti ho già visto?\n"
+	.string "FLAVIANO: Non ti ho già visto?\n"
 	.string "Al MUSEO di PORTOVECCHIO?\p"
 	.string "Ah, quindi ti chiami {PLAYER}.\p"
 	.string "Allora ti credevo uno\n"
@@ -278,13 +278,13 @@ MeteorFalls_1F_1R_Text_BossWeShouldChaseMagma:
 	.string "il TEAM MAGMA…$"
 
 MeteorFalls_1F_1R_Text_ArchieYesNoTellingWhatMagmaWillDo:
-	.string "ARCHIE: Sì, dobbiamo muoverci!\n"
+	.string "FLAVIANO: Sì, dobbiamo muoverci!\n"
 	.string "Dobbiamo sbrigarci.\p"
 	.string "Non si sa cosa farà il TEAM MAGMA\n"
 	.string "sul MT. CAMINO!$"
 
 MeteorFalls_1F_1R_Text_ArchieFarewell:
-	.string "ARCHIE: {PLAYER}, tieni gli occhi\n"
+	.string "FLAVIANO: {PLAYER}, tieni gli occhi\n"
 	.string "aperti anche sul TEAM MAGMA.\p"
 	.string "Addio!$"
 

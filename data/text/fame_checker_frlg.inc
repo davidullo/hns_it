@@ -18,7 +18,7 @@ gFameCheckerFlavorText_ProfOak2:: @ 0x81AD1BB
 gFameCheckerFlavorText_ProfOak3:: @ 0x81AD258
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Famiglia e amici?\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Il PROF. OAK vive coi nipoti,\n"
-	.string "DAISY e {RIVAL}.$"
+	.string "MARGI e {RIVAL}.$"
 
 gFameCheckerFlavorText_ProfOak4:: @ 0x81AD2B9
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Famiglia e amici?\p"
@@ -38,7 +38,7 @@ gFameCheckerFlavorText_ProfOak5:: @ 0x81AD377
 
 gFameCheckerFlavorText_Daisy0:: @ 0x81AD40C
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Che lavoro fa?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Se mostri un POKéMON a DAISY,\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Se mostri un POKéMON a MARGI,\n"
 	.string "lei ti dice quanto le piace.\p"
 	.string "A volte ti toeletta anche\n"
 	.string "un POKéMON.$"
@@ -46,23 +46,23 @@ gFameCheckerFlavorText_Daisy0:: @ 0x81AD40C
 gFameCheckerFlavorText_Daisy1:: @ 0x81AD4AE
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Che tipo è?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ma chi è più amata dai POKéMON\n"
-	.string "credo sia DAISY.$"
+	.string "credo sia MARGI.$"
 
 gFameCheckerFlavorText_Daisy2:: @ 0x81AD516
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Che tipo è?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Toelettava i POKéMON con dolcezza…\n"
 	.string "Era un angioletto.\p"
 	.string "Il nome di quella bambina…\n"
-	.string "Mi pare fosse DAISY.$"
+	.string "Mi pare fosse MARGI.$"
 
 gFameCheckerFlavorText_Daisy3:: @ 0x81AD5A7
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Famiglia e amici?\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Il PROF. OAK vive coi nipoti,\n"
-	.string "DAISY e {RIVAL}.$"
+	.string "MARGI e {RIVAL}.$"
 
 gFameCheckerFlavorText_Daisy4:: @ 0x81AD608
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Che tipo è?\p"
-	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}DAISY, una ragazza di BIANCAVILLA,\n"
+	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}MARGI, una ragazza di BIANCAVILLA,\n"
 	.string "beve Tè ogni giorno.\p"
 	.string "Va al CENTRO COMMERCIALE di\n"
 	.string "AZZURROPOLI a comprare il Tè.$"
@@ -70,7 +70,7 @@ gFameCheckerFlavorText_Daisy4:: @ 0x81AD608
 gFameCheckerFlavorText_Daisy5:: @ 0x81AD69F
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Gira una voce…\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}La campionessa del CONCORSO\n"
-	.string "POKéMON di primavera è DAISY OAK di\l"
+	.string "POKéMON di primavera è MARGI OAK di\l"
 	.string "BIANCAVILLA!$"
 
 gFameCheckerFlavorText_Brock0:: @ 0x81AD705
@@ -411,7 +411,7 @@ gFameCheckerFlavorText_Bruno5:: @ 0x81AF19A
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Famiglia e amici?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Anche BRUNO…\n"
 	.string "Si è allenato con un certo\l"
-	.string "BRAWLY, tempo fa.$"
+	.string "RUDI, tempo fa.$"
 
 gFameCheckerFlavorText_Agatha0:: @ 0x81AF200
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Cosa fa questa persona?\p"
@@ -625,10 +625,10 @@ gFameCheckerPersonQuote_ProfOak:: @ 0x81B0198
 	.string "Non dimenticarlo mai.$"
 
 gFameCheckerPersonName_Daisy:: @ 0x81B0251
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}DAISY$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}MARGI$"
 
 gFameCheckerPersonQuote_Daisy:: @ 0x81B025D
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Da: DAISY\n"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Da: MARGI\n"
 	.string "A: {PLAYER}\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mentre io mi godevo tranquilla\n"
 	.string "le mie pause Tè, tu sei cresciuto\l"
@@ -1164,13 +1164,13 @@ gFameCheckerFlavorTextOriginObjectName_LtSurge1::
 	.string "LT. SURGE$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge2::
-	.string "TUCKER$"
+	.string "TOLOMEO$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge3::
-	.string "TUCKER$"
+	.string "TOLOMEO$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge4::
-	.string "DWAYNE$"
+	.string "AURELIO$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge5::
 	.string "AGENDA POKéMON$"
@@ -1182,7 +1182,7 @@ gFameCheckerFlavorTextOriginObjectName_Erika1::
 	.string "ERIKA$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika2::
-	.string "LOLA$"
+	.string "ALESSANDRA$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika3::
 	.string "TAMIA$"
@@ -1236,7 +1236,7 @@ gFameCheckerFlavorTextOriginObjectName_Blaine1::
 	.string "BLAINE$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine2::
-	.string "DEREK$"
+	.string "LEOPOLDO$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine3::
 	.string "DONNA$"
@@ -1466,7 +1466,7 @@ PokemonJournal_Text_SpecialFeatureProfOak::
 	.string "Speciale: PROF. OAK,\n"
 	.string "il Ricercatore POKéMON!\p"
 	.string "Si dice che il PROF. OAK viva con i\n"
-	.string "nipoti DAISY e {RIVAL}.$"
+	.string "nipoti MARGI e {RIVAL}.$"
 
 PokemonJournal_Text_SpecialFeatureDaisyOak::
 	.string "Questa è un'AGENDA POKéMON di\n"
@@ -1474,7 +1474,7 @@ PokemonJournal_Text_SpecialFeatureDaisyOak::
 	.string "AGENDA POKéMON\n"
 	.string "Speciale GARA!\p"
 	.string "La Gran Campionessa della GARA\n"
-	.string "POKéMON di primavera è DAISY OAK\l"
+	.string "POKéMON di primavera è MARGI OAK\l"
 	.string "di BIANCAVILLA!$"
 
 PokemonJournal_Text_SpecialFeatureMrFuji::

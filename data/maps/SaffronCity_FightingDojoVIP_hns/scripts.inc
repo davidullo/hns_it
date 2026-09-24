@@ -893,7 +893,7 @@ SaffronCity_FightingDojoVIP_Text_Janine_Rematch:
 	.string "Vuoi una rivincita con me?$"
 
 SaffronCity_FightingDojoVIP_Text_Janine_RematchDefeat:
-	.string "JANINE: Sei sempre forte\n"
+	.string "NINA: Sei sempre forte\n"
 	.string "come prima!\p"
 	.string "Hai vinto senza dubbio…$"
 
@@ -913,7 +913,7 @@ SaffronCity_FightingDojoVIP_Text_Blaine_RematchDefeat:
 	.string "difesa.$"
 
 SaffronCity_FightingDojoVIP_Text_Blue_Rematch:
-	.string "BLUE: Bene, bene. CAMPIONE!\p"
+	.string "BLU: Bene, bene. CAMPIONE!\p"
 	.string "Vedo che hai fatto strada.\p"
 	.string "Anch'io avevo quel titolo,\n"
 	.string "sai. Ma non andrò piano.\p"
@@ -921,6 +921,6 @@ SaffronCity_FightingDojoVIP_Text_Blue_Rematch:
 	.string "Vuoi una rivincita con me?$"
 
 SaffronCity_FightingDojoVIP_Text_Blue_RematchDefeat:
-	.string "BLUE: Cosa?\p"
+	.string "BLU: Cosa?\p"
 	.string "Come diavolo ho perso di nuovo?$"
 

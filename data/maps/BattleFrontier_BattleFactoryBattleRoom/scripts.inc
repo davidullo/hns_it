@@ -244,7 +244,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn:
 	.string "Muoviti!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead:
-	.string "Ehi, io sono NOLAND!\n"
+	.string "Ehi, io sono SAVINO!\n"
 	.string "Comando praticamente qui,\l"
 	.string "per questo sono il CAPOFABBRICA!\p"
 	.string "Ho visto i tuoi dati di Scambio.\p"
@@ -265,7 +265,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn:
 	.string "sapere e vieni a sfidarmi!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass:
-	.string "NOLAND: Bravissimo!\n"
+	.string "SAVINO: Bravissimo!\n"
 	.string "Mostrami il tuo SUPERPASS.$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol:
@@ -280,7 +280,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred:
 	.string "Continua a studiare!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime:
-	.string "NOLAND: Ehi, eh! Come va?\n"
+	.string "SAVINO: Ehi, eh! Come va?\n"
 	.string "Stai studiando sodo?\p"
 	.string "…Oh?\p"
 	.string "Hai un'aria più dura di\n"
@@ -293,7 +293,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
 	.string "Vieni avanti!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
-	.string "NOLAND: Ma che…\n"
+	.string "SAVINO: Ma che…\n"
 	.string "Mi stai superando!\p"
 	.string "Uffa!\n"
 	.string "Mostrami quel SUPERPASS!$"

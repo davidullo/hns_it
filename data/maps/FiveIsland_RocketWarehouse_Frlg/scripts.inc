@@ -238,7 +238,7 @@ FiveIsland_RocketWarehouse_Text_MadeItSoYouCanComeBackThrough::
 	.string "rientrare da lì.\p"
 	.string "Perché non ti riposi e ti\n"
 	.string "ricarichi per quel che verrà?\p"
-	.string "L'ADMIN dopo di me è più\n"
+	.string "L'TENENTE dopo di me è più\n"
 	.string "forte come ALLENATORE.\p"
 	.string "Faresti meglio a prepararti per\n"
 	.string "una dura sfida.$"

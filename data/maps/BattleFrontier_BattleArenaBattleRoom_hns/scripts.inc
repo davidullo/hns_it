@@ -557,10 +557,10 @@ BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon_hns:
 
 BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta_hns:
 	.string "ARBITRO: Il MAGNATE DELL'ARENA!\n"
-	.string "Via libera a GRETA!$"
+	.string "Via libera a VALENTINA!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger_hns:
-	.string "GRETA: Ehi!\n"
+	.string "VALENTINA: Ehi!\n"
 	.string "Ehilà!\p"
 	.string "…Oh, sei tu lo sfidante?$"
 
@@ -581,7 +581,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle_hns:
 	.string "di lotta!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll_hns:
-	.string "GRETA: Oh, un attimo!\n"
+	.string "VALENTINA: Oh, un attimo!\n"
 	.string "Sei forte davvero!\p"
 	.string "Mi piaci!\n"
 	.string "Mostra il tuo Superpass.$"
@@ -596,7 +596,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime_hns:
 	.string "Non vedo l'ora!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain_hns:
-	.string "GRETA: Ehi, ciao!\n"
+	.string "VALENTINA: Ehi, ciao!\n"
 	.string "Finalmente sei arrivato da me!\p"
 	.string "Aspettavo con impazienza!\n"
 	.string "Non vedevo l'ora di\l"
@@ -615,7 +615,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted_hns:
 	.string "Che inizi la sfida!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway_hns:
-	.string "GRETA: Aah! Spazzata via!\n"
+	.string "VALENTINA: Aah! Spazzata via!\n"
 	.string "Mostra il PASS ZONA LOTTA!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine_hns:

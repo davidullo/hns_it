@@ -274,7 +274,7 @@ LavaridgeTown_EventScript_HerbShopSign::
 	end
 
 LavaridgeTown_Text_MayNiceBadgesTakeThis:
-	.string "MAY: {PLAYER}{KUN}! Da quanto tempo!\p"
+	.string "VERA: {PLAYER}{KUN}! Da quanto tempo!\p"
 	.string "Oh? Mentre ero alle terme,\n"
 	.string "hai preso la MEDAGLIA di LAVARIDGE.\p"
 	.string "Devi aver preso dei\n"
@@ -284,7 +284,7 @@ LavaridgeTown_Text_MayNiceBadgesTakeThis:
 	.string "vada bene questo.$"
 
 LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
-	.string "MAY: Con quegli OKKIOGOGGLES,\n"
+	.string "VERA: Con quegli OKKIOGOGGLES,\n"
 	.string "attraverserai il deserto\l"
 	.string "vicino al PERCORSO 111.\p"
 	.string "Ma, wow, {PLAYER}{KUN}…\n"
@@ -296,7 +296,7 @@ LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
 	.string "Ci vediamo!$"
 
 LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
-	.string "BRENDAN: {PLAYER}, è da un po'!\n"
+	.string "BRENDON: {PLAYER}, è da un po'!\n"
 	.string "Come va?\p"
 	.string "Hmm…\n"
 	.string "Bella collezione di MEDAGLIE.\p"
@@ -304,7 +304,7 @@ LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
 	.string "Prendi pure questo.$"
 
 LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad:
-	.string "BRENDAN: Tienili con te se vai\n"
+	.string "BRENDON: Tienili con te se vai\n"
 	.string "nel deserto vicino al\l"
 	.string "PERCORSO 111.\p"
 	.string "Ci sono POKéMON che vivono\n"
@@ -375,7 +375,7 @@ LavaridgeTown_Text_OhYouLikeHotSprings:
 LavaridgeTown_Text_BatheInHotSpringsEveryDay:
 	.string "Faccio il bagno alle terme ogni giorno.\p"
 	.string "Voglio diventare un CAPOPALESTRA\n"
-	.string "forte e bello come FLANNERY.$"
+	.string "forte e bello come FIAMMETTA.$"
 
 LavaridgeTown_Text_IfPokemonInHotSprings:
 	.string "Se si mettono POKéMON nelle terme,\n"
@@ -397,7 +397,7 @@ LavaridgeTown_Text_TownSign:
 
 LavaridgeTown_Text_GymSign:
 	.string "PALESTRA POKéMON DI LAVARIDGE\n"
-	.string "CAPOPALESTRA: FLANNERY\l"
+	.string "CAPOPALESTRA: FIAMMETTA\l"
 	.string "“Un animo di fuoco che brucia!”$"
 
 LavaridgeTown_Text_HerbShopSign:

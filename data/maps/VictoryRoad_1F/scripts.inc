@@ -119,7 +119,7 @@ VictoryRoad_1F_EventScript_Katelynn::
 	end
 
 VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
-	.string "WALLY: Ciao! {PLAYER}!\p"
+	.string "LINO: Ciao! {PLAYER}!\p"
 	.string "Scommetto che ti sorprende vedermi qui!\p"
 	.string "Sono arrivato fin qua, e lo devo\n"
 	.string "tutto a te!\p"
@@ -135,12 +135,12 @@ VictoryRoad_1F_Text_WallyEntranceDefeat:
 	.string "{PLAYER}, sei forte davvero!$"
 
 VictoryRoad_1F_Text_WallyPostEntranceBattle:
-	.string "WALLY: Oggi non ti ho battuto,\n"
+	.string "LINO: Oggi non ti ho battuto,\n"
 	.string "{PLAYER}, ma un giorno ti\l"
 	.string "raggiungerò!$"
 
 VictoryRoad_1F_Text_WallyIntro:
-	.string "WALLY: Ciao! {PLAYER}!\p"
+	.string "LINO: Ciao! {PLAYER}!\p"
 	.string "Sono più forte dall'ultima\n"
 	.string "volta! Volevo mostrartelo, {PLAYER}!\p"
 	.string "Okay… Arrivo!$"
@@ -150,7 +150,7 @@ VictoryRoad_1F_Text_WallyDefeat:
 	.string "{PLAYER}, sei forte davvero!$"
 
 VictoryRoad_1F_Text_WallyPostBattle:
-	.string "WALLY: Stavolta non ti ho battuto,\n"
+	.string "LINO: Stavolta non ti ho battuto,\n"
 	.string "no… Ma un giorno, {PLAYER},\l"
 	.string "ti raggiungerò…\p"
 	.string "E sfiderò la LEGA POKÉMON!$"

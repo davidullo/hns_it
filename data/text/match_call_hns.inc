@@ -262,7 +262,7 @@ MatchCall_HNS_Gina_Battle::
 @ Irwin - Juggler, Route 35
 MatchCall_HNS_Irwin_General1::
 	.string "Ehm, ciao, {PLAYER}?\n"
-	.string "Sono il tuo amico IRWIN!\p"
+	.string "Sono il tuo amico IRENEO!\p"
 	.string "Ho visto una lotta\n"
 	.string "incredibile l'altro giorno!\p"
 	.string "Vorrei saper lottare\n"
@@ -272,21 +272,21 @@ MatchCall_HNS_Irwin_General1::
 
 MatchCall_HNS_Irwin_General2::
 	.string "Ehm, ciao, {PLAYER}?\n"
-	.string "Sono il tuo amico IRWIN!\p"
+	.string "Sono il tuo amico IRENEO!\p"
 	.string "Eh eh, ho chiamato subito!\p"
 	.string "Penso che possiamo essere\n"
 	.string "buoni amici!$"
 
 MatchCall_HNS_Irwin_General3::
 	.string "Ehm, ciao, {PLAYER}?\n"
-	.string "Sono il tuo amico IRWIN!\p"
+	.string "Sono il tuo amico IRENEO!\p"
 	.string "Sentire delle tue\n"
 	.string "avventure mi scalda il cuore!\p"
 	.string "Proprio così!$"
 
 MatchCall_HNS_Irwin_Battle::
 	.string "Ehm, ciao, {PLAYER}?\n"
-	.string "Sono il tuo amico IRWIN!\p"
+	.string "Sono il tuo amico IRENEO!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
@@ -322,7 +322,7 @@ MatchCall_HNS_Arnie_Battle::
 @ Alan - Schoolboy, Route 36
 MatchCall_HNS_Alan_General1::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono ALAN!\p"
+	.string "Sono ALAIN!\p"
 	.string "{PLAYER}, stai allevando\n"
 	.string "bene i tuoi POKéMON?\p"
 	.string "Ho letto in un libro che\n"
@@ -332,14 +332,14 @@ MatchCall_HNS_Alan_General1::
 
 MatchCall_HNS_Alan_General2::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono ALAN!\p"
+	.string "Sono ALAIN!\p"
 	.string "Il mio {STR_VAR_3} sta\n"
 	.string "diventando più forte, esattamente\l"
 	.string "come calcolato!$"
 
 MatchCall_HNS_Alan_General3::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono ALAN!\p"
+	.string "Sono ALAIN!\p"
 	.string "A proposito, abbiamo messo\n"
 	.string "KO un {STR_VAR_3} selvatico\l"
 	.string "proprio l'altro giorno.\p"
@@ -348,7 +348,7 @@ MatchCall_HNS_Alan_General3::
 
 MatchCall_HNS_Alan_FoundItem::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono ALAN!\p"
+	.string "Sono ALAIN!\p"
 	.string "Eh eh, ho trovato\n"
 	.string "una bella cosa!\p"
 	.string "Te la regalo!\p"
@@ -357,14 +357,14 @@ MatchCall_HNS_Alan_FoundItem::
 
 MatchCall_HNS_Alan_Battle::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono ALAN!\p"
+	.string "Sono ALAIN!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
 @ Dana - Lass, Route 38
 MatchCall_HNS_Dana_General1::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono DANA!\p"
+	.string "Sono BEA!\p"
 	.string "Il mio {STR_VAR_3} è pieno\n"
 	.string "di energia, fa quasi\l"
 	.string "paura.\p"
@@ -373,7 +373,7 @@ MatchCall_HNS_Dana_General1::
 
 MatchCall_HNS_Dana_General2::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono DANA!\p"
+	.string "Sono BEA!\p"
 	.string "Il mio {STR_VAR_3} sta\n"
 	.string "diventando più bello!\p"
 	.string "Ho fatto un sacco di\n"
@@ -381,7 +381,7 @@ MatchCall_HNS_Dana_General2::
 
 MatchCall_HNS_Dana_General3::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono DANA!\p"
+	.string "Sono BEA!\p"
 	.string "Ci è voluto un attimo per\n"
 	.string "mettere KO un {STR_VAR_3} selvatico.\p"
 	.string "Dev'essere perché tu\n"
@@ -390,7 +390,7 @@ MatchCall_HNS_Dana_General3::
 
 MatchCall_HNS_Dana_FoundItem::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono DANA!\p"
+	.string "Sono BEA!\p"
 	.string "Sai che c'è?\n"
 	.string "Ho ricevuto un bel regalo!\p"
 	.string "Come promesso, è tuo!\n"
@@ -400,14 +400,14 @@ MatchCall_HNS_Dana_FoundItem::
 
 MatchCall_HNS_Dana_Battle::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono DANA!\p"
+	.string "Sono BEA!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
 @ Chad - Schoolboy, Route 38
 MatchCall_HNS_Chad_General1::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono CHAD!\p"
+	.string "Sono TOBIAS!\p"
 	.string "Come stanno i tuoi POKéMON\n"
 	.string "?\p"
 	.string "Conosci il PROF. OAK, quindi\n"
@@ -421,7 +421,7 @@ MatchCall_HNS_Chad_General1::
 
 MatchCall_HNS_Chad_General2::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono CHAD!\p"
+	.string "Sono TOBIAS!\p"
 	.string "Ho iniziato a osservare\n"
 	.string "i {STR_VAR_3} selvatici.\p"
 	.string "Sto imparando tante\n"
@@ -433,21 +433,21 @@ MatchCall_HNS_Chad_General2::
 
 MatchCall_HNS_Chad_General3::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono CHAD!\p"
+	.string "Sono TOBIAS!\p"
 	.string "Studierò sodo\n"
 	.string "così il PROF. OAK mi\l"
 	.string "farà suo assistente!$"
 
 MatchCall_HNS_Chad_Battle::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono CHAD!\p"
+	.string "Sono TOBIAS!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
 @ Derek - Pokefan M, Route 39
 MatchCall_HNS_Derek_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono DEREK!\p"
+	.string "Sono LEOPOLDO!\p"
 	.string "Devi sentire questa!\p"
 	.string "Il mio adorabile {STR_VAR_3}\n"
 	.string "mi ha guardato e ha sorriso!\p"
@@ -457,7 +457,7 @@ MatchCall_HNS_Derek_General1::
 
 MatchCall_HNS_Derek_General2::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono DEREK!\p"
+	.string "Sono LEOPOLDO!\p"
 	.string "Ascolta un po'.\p"
 	.string "Il mio {STR_VAR_3} sorride\n"
 	.string "felice se gli pizzico\l"
@@ -468,7 +468,7 @@ MatchCall_HNS_Derek_General2::
 
 MatchCall_HNS_Derek_General3::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono DEREK!\p"
+	.string "Sono LEOPOLDO!\p"
 	.string "Come se la cava il tuo\n"
 	.string "PIKACHU?\p"
 	.string "Incontriamoci e vantiamoci\n"
@@ -476,7 +476,7 @@ MatchCall_HNS_Derek_General3::
 
 MatchCall_HNS_Derek_FoundItem::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono DEREK!\p"
+	.string "Sono LEOPOLDO!\p"
 	.string "Voglio regalarti una\n"
 	.string "PEPITA.\p"
 	.string "Sono sul PERCORSO 39.\n"
@@ -484,14 +484,14 @@ MatchCall_HNS_Derek_FoundItem::
 
 MatchCall_HNS_Derek_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono DEREK!\p"
+	.string "Sono LEOPOLDO!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
 @ Tully - Fisher, Route 42
 MatchCall_HNS_Tully_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono TULLY!\p"
+	.string "Sono CRIS!\p"
 	.string "Come va il tuo\n"
 	.string "viaggio?\p"
 	.string "Non posso lamentarmi\n"
@@ -499,7 +499,7 @@ MatchCall_HNS_Tully_General1::
 
 MatchCall_HNS_Tully_General2::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono TULLY!\p"
+	.string "Sono CRIS!\p"
 	.string "Il mio {STR_VAR_3} è cresciuto\n"
 	.string "ancora.\p"
 	.string "Era così piccolo\n"
@@ -508,7 +508,7 @@ MatchCall_HNS_Tully_General2::
 
 MatchCall_HNS_Tully_General3::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono TULLY!\p"
+	.string "Sono CRIS!\p"
 	.string "Ah sì, ho messo KO un\n"
 	.string "{STR_VAR_3} selvatico.\p"
 	.string "Era enorme, proprio\n"
@@ -518,7 +518,7 @@ MatchCall_HNS_Tully_General3::
 
 MatchCall_HNS_Tully_FoundItem::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono TULLY!\p"
+	.string "Sono CRIS!\p"
 	.string "Ho trovato una bella\n"
 	.string "cosina in riva all'acqua.\p"
 	.string "Come promesso, è\n"
@@ -528,14 +528,14 @@ MatchCall_HNS_Tully_FoundItem::
 
 MatchCall_HNS_Tully_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono TULLY!\p"
+	.string "Sono CRIS!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
 @ Brent - Pokemaniac, Route 43
 MatchCall_HNS_Brent_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono BRENT!\p"
+	.string "Sono MARTINO!\p"
 	.string "Ah già, ti ho visto uscire\n"
 	.string "da un CENTRO POKéMON\l"
 	.string "l'altro giorno.\p"
@@ -549,7 +549,7 @@ MatchCall_HNS_Brent_General1::
 
 MatchCall_HNS_Brent_General2::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono BRENT!\p"
+	.string "Sono MARTINO!\p"
 	.string "Ah già, ho ricevuto un\n"
 	.string "POKéMON rarissimo in\l"
 	.string "uno scambio tempo fa.\p"
@@ -560,7 +560,7 @@ MatchCall_HNS_Brent_General2::
 
 MatchCall_HNS_Brent_General3::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono BRENT!\p"
+	.string "Sono MARTINO!\p"
 	.string "Lo sapevi…?\p"
 	.string "BILL viene da\n"
 	.string "FIORDARGENTO.\p"
@@ -569,14 +569,14 @@ MatchCall_HNS_Brent_General3::
 
 MatchCall_HNS_Brent_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono BRENT!\p"
+	.string "Sono MARTINO!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
 @ Tiffany - Picnicker, Route 43
 MatchCall_HNS_Tiffany_General1::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono TIFFANY!\p"
+	.string "Sono CLELIA!\p"
 	.string "I tuoi POKéMON stanno\n"
 	.string "bene?\p"
 	.string "Spero che li porti a un\n"
@@ -589,7 +589,7 @@ MatchCall_HNS_Tiffany_General1::
 
 MatchCall_HNS_Tiffany_General2::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono TIFFANY!\p"
+	.string "Sono CLELIA!\p"
 	.string "Il mio {STR_VAR_3} è adorabile,\n"
 	.string "non trovi?\p"
 	.string "Dormo sempre con lui…\n"
@@ -597,7 +597,7 @@ MatchCall_HNS_Tiffany_General2::
 
 MatchCall_HNS_Tiffany_General3::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono TIFFANY!\p"
+	.string "Sono CLELIA!\p"
 	.string "Oh, poco fa abbiamo lottato\n"
 	.string "contro un {STR_VAR_3}\l"
 	.string "selvatico…\p"
@@ -609,7 +609,7 @@ MatchCall_HNS_Tiffany_General3::
 
 MatchCall_HNS_Tiffany_Battle::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono TIFFANY!\p"
+	.string "Sono CLELIA!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
@@ -648,7 +648,7 @@ MatchCall_HNS_Vance_Battle::
 @ Wilton - Fisher, Route 44
 MatchCall_HNS_Wilton_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono WILTON!\p"
+	.string "Sono EGIDIO!\p"
 	.string "I tuoi POKéMON sono\n"
 	.string "cresciuti?\p"
 	.string "Il mio {STR_VAR_3} è cresciuto\n"
@@ -656,7 +656,7 @@ MatchCall_HNS_Wilton_General1::
 
 MatchCall_HNS_Wilton_General2::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono WILTON!\p"
+	.string "Sono EGIDIO!\p"
 	.string "Il mio {STR_VAR_3} è\n"
 	.string "impressionante!\p"
 	.string "Anche la mia pesca è\n"
@@ -664,7 +664,7 @@ MatchCall_HNS_Wilton_General2::
 
 MatchCall_HNS_Wilton_General3::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono WILTON!\p"
+	.string "Sono EGIDIO!\p"
 	.string "Abbiamo battuto un\n"
 	.string "{STR_VAR_3} selvatico…\p"
 	.string "Sai, mi diverto più a\n"
@@ -673,7 +673,7 @@ MatchCall_HNS_Wilton_General3::
 
 MatchCall_HNS_Wilton_FoundItem::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono WILTON!\p"
+	.string "Sono EGIDIO!\p"
 	.string "Ho preso un oggetto\n"
 	.string "pescando.\p"
 	.string "Vieni a prenderlo al\n"
@@ -681,7 +681,7 @@ MatchCall_HNS_Wilton_FoundItem::
 
 MatchCall_HNS_Wilton_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono WILTON!\p"
+	.string "Sono EGIDIO!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
@@ -727,7 +727,7 @@ MatchCall_HNS_Kenji_FoundItem::
 @ Parry - Hiker, Route 45
 MatchCall_HNS_Parry_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono PARRY!\p"
+	.string "Sono PIERO!\p"
 	.string "I tuoi POKéMON stanno\n"
 	.string "bene?\p"
 	.string "Io e il mio {STR_VAR_3},\n"
@@ -736,13 +736,13 @@ MatchCall_HNS_Parry_General1::
 
 MatchCall_HNS_Parry_General2::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono PARRY!\p"
+	.string "Sono PIERO!\p"
 	.string "Ora nessuno batte il mio\n"
 	.string "{STR_VAR_3}.$"
 
 MatchCall_HNS_Parry_General3::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono PARRY!\p"
+	.string "Sono PIERO!\p"
 	.string "Sì, abbiamo KO un\n"
 	.string "{STR_VAR_3} selvatico!\p"
 	.string "Andava bene, ma volevo\n"
@@ -750,14 +750,14 @@ MatchCall_HNS_Parry_General3::
 
 MatchCall_HNS_Parry_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono PARRY!\p"
+	.string "Sono PIERO!\p"
 	.string "Combatterai di nuovo\n"
 	.string "con me, vero?$"
 
 @ Erin - Picnicker, Route 46
 MatchCall_HNS_Erin_General1::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono ERIN!\p"
+	.string "Sono IRENE!\p"
 	.string "Stai allenando i tuoi\n"
 	.string "POKéMON?\p"
 	.string "Il mio {STR_VAR_3} sta\n"
@@ -765,13 +765,13 @@ MatchCall_HNS_Erin_General1::
 
 MatchCall_HNS_Erin_General2::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono ERIN!\p"
+	.string "Sono IRENE!\p"
 	.string "Il mio {STR_VAR_3} è molto\n"
 	.string "più forte di prima!$"
 
 MatchCall_HNS_Erin_General3::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono ERIN!\p"
+	.string "Sono IRENE!\p"
 	.string "E, e… ho appena lottato\n"
 	.string "e battuto {STR_VAR_3}!\p"
 	.string "Ho allenato i miei POKéMON\n"
@@ -779,7 +779,7 @@ MatchCall_HNS_Erin_General3::
 
 MatchCall_HNS_Erin_Battle::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono ERIN!\p"
+	.string "Sono IRENE!\p"
 	.string "Mi sto allenando sodo per\n"
 	.string "far crescere i miei POKéMON!\p"
 	.string "Torna per un'altra\n"
@@ -788,7 +788,7 @@ MatchCall_HNS_Erin_Battle::
 @ Jack - Schoolboy, National Park
 MatchCall_HNS_Jack_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono JACK!\p"
+	.string "Sono MARINO!\p"
 	.string "Come se la cavano i tuoi\n"
 	.string "POKéMON?\p"
 	.string "Il mio {STR_VAR_3} è così\n"
@@ -797,7 +797,7 @@ MatchCall_HNS_Jack_General1::
 
 MatchCall_HNS_Jack_General2::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono JACK!\p"
+	.string "Sono MARINO!\p"
 	.string "Il mio {STR_VAR_3}\n"
 	.string "diventa sempre più intelligente.\p"
 	.string "Potrebbe essere più astuto\n"
@@ -805,7 +805,7 @@ MatchCall_HNS_Jack_General2::
 
 MatchCall_HNS_Jack_General3::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono JACK!\p"
+	.string "Sono MARINO!\p"
 	.string "Lo sapevi?\p"
 	.string "Quando piove, TUONO\n"
 	.string "colpisce di sicuro.\p"
@@ -816,14 +816,14 @@ MatchCall_HNS_Jack_General3::
 
 MatchCall_HNS_Jack_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono JACK!\p"
+	.string "Sono MARINO!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
 @ Beverly - Pokefan F, National Park
 MatchCall_HNS_Beverly_General1::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono BEVERLY!\p"
+	.string "Sono DAMIANA!\p"
 	.string "Tieni felici i tuoi\n"
 	.string "POKéMON?\p"
 	.string "Il mio {STR_VAR_3} è sano.\n"
@@ -831,14 +831,14 @@ MatchCall_HNS_Beverly_General1::
 
 MatchCall_HNS_Beverly_General2::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono BEVERLY!\p"
+	.string "Sono DAMIANA!\p"
 	.string "Ho agghindato il mio\n"
 	.string "{STR_VAR_3} e l'ho reso\l"
 	.string "ancora più carino!$"
 
 MatchCall_HNS_Beverly_General3::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono BEVERLY!\p"
+	.string "Sono DAMIANA!\p"
 	.string "I tuoi POKéMON sono in\n"
 	.string "forma?\p"
 	.string "Parliamo di nuovo di\n"
@@ -846,7 +846,7 @@ MatchCall_HNS_Beverly_General3::
 
 MatchCall_HNS_Beverly_FoundItem::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono BEVERLY!\p"
+	.string "Sono DAMIANA!\p"
 	.string "Mio marito ha preso delle\n"
 	.string "PEPITE.\p"
 	.string "Se vuoi, puoi averne una\n"
@@ -858,19 +858,19 @@ MatchCall_HNS_Beverly_FoundItem::
 
 MatchCall_HNS_Beverly_Battle::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono BEVERLY!\p"
+	.string "Sono DAMIANA!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
 @ Huey - Sailor, Olivine Lighthouse
 MatchCall_HNS_Huey_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono HUEY!\p"
+	.string "Sono ARMANDO!\p"
 	.string "Come va?$"
 
 MatchCall_HNS_Huey_General2::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono HUEY!\p"
+	.string "Sono ARMANDO!\p"
 	.string "Dobbiamo lottare di nuovo\n"
 	.string "prima o poi.\p"
 	.string "Puoi scommetterci che ti\n"
@@ -879,14 +879,14 @@ MatchCall_HNS_Huey_General2::
 
 MatchCall_HNS_Huey_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono HUEY!\p"
+	.string "Sono ARMANDO!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
 @ Gaven - Cooltrainer M, Route 26
 MatchCall_HNS_Gaven_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono GAVEN!\p"
+	.string "Sono GAVINO!\p"
 	.string "Come se la cavano i tuoi\n"
 	.string "POKéMON?\p"
 	.string "Il mio {STR_VAR_3} va alla\n"
@@ -896,7 +896,7 @@ MatchCall_HNS_Gaven_General1::
 
 MatchCall_HNS_Gaven_General2::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono GAVEN!\p"
+	.string "Sono GAVINO!\p"
 	.string "Il mio {STR_VAR_3} è forse\n"
 	.string "più forte di quanto pensassi.\p"
 	.string "Dubito di vedere un\n"
@@ -905,20 +905,20 @@ MatchCall_HNS_Gaven_General2::
 
 MatchCall_HNS_Gaven_General3::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono GAVEN!\p"
+	.string "Sono GAVINO!\p"
 	.string "Penso ossessivamente a come\n"
 	.string "batterti.$"
 
 MatchCall_HNS_Gaven_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono GAVEN!\p"
+	.string "Sono GAVINO!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
 @ Beth - Cooltrainer F, Route 26
 MatchCall_HNS_Beth_General1::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono BETH!\p"
+	.string "Sono EMMA!\p"
 	.string "Vai spesso ai\n"
 	.string "CENTRI POKéMON?\l"
 	.string "Io ci vado ogni giorno.\p"
@@ -929,7 +929,7 @@ MatchCall_HNS_Beth_General1::
 
 MatchCall_HNS_Beth_General2::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono BETH!\p"
+	.string "Sono EMMA!\p"
 	.string "Ricordi il mio dolce\n"
 	.string "{STR_VAR_3}?\p"
 	.string "{STR_VAR_3} corre\n"
@@ -940,13 +940,13 @@ MatchCall_HNS_Beth_General2::
 
 MatchCall_HNS_Beth_General3::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono BETH!\p"
+	.string "Sono EMMA!\p"
 	.string "Lottiamo di nuovo\n"
 	.string "un'altra volta!$"
 
 MatchCall_HNS_Beth_Battle::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono BETH!\p"
+	.string "Sono EMMA!\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
@@ -1003,7 +1003,7 @@ MatchCall_HNS_Jose_Battle::
 @ Reena - Cooltrainer F, Route 27
 MatchCall_HNS_Reena_General1::
 	.string "Ciao, {PLAYER}.\n"
-	.string "Sono REENA.\p"
+	.string "Sono RINA.\p"
 	.string "Ehi, come stanno i tuoi POKéMON\n"
 	.string "?\p"
 	.string "Cosa? Benissimo? Capisco…\p"
@@ -1014,7 +1014,7 @@ MatchCall_HNS_Reena_General1::
 
 MatchCall_HNS_Reena_General2::
 	.string "Ciao, {PLAYER}.\n"
-	.string "Sono REENA.\p"
+	.string "Sono RINA.\p"
 	.string "Ascolta, caro…\p"
 	.string "Ti ricordi il mio\n"
 	.string "{STR_VAR_3}?\p"
@@ -1025,7 +1025,7 @@ MatchCall_HNS_Reena_General2::
 
 MatchCall_HNS_Reena_General3::
 	.string "Ciao, {PLAYER}.\n"
-	.string "Sono REENA.\p"
+	.string "Sono RINA.\p"
 	.string "Non essere troppo orgoglioso\n"
 	.string "solo perché ti è capitato\l"
 	.string "di battermi…\p"
@@ -1033,7 +1033,7 @@ MatchCall_HNS_Reena_General3::
 
 MatchCall_HNS_Reena_Battle::
 	.string "Ciao, {PLAYER}.\n"
-	.string "Sono REENA.\p"
+	.string "Sono RINA.\p"
 	.string "Ti stavo aspettando.\n"
 	.string "Lottiamo!$"
 
@@ -1062,7 +1062,7 @@ MatchCall_HNS_Alex_Battle::
 @ Riley - Biker, Route 17
 MatchCall_HNS_Riley_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono RILEY.\p"
+	.string "Sono GIULIANO.\p"
 	.string "La PISTA CICLABILE è il massimo.\n"
 	.string "Niente batte il vento\l"
 	.string "in faccia.\p"
@@ -1078,14 +1078,14 @@ MatchCall_HNS_Riley_General2::
 
 MatchCall_HNS_Riley_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono RILEY.\p"
+	.string "Sono GIULIANO.\p"
 	.string "Vieni alla PISTA CICLABILE!\n"
 	.string "Voglio la rivincita!$"
 
 @ Trevor - Juggler, Route 14
 MatchCall_HNS_Trevor_General1::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono TREVOR.\p"
+	.string "Sono SAVERIO.\p"
 	.string "Sapevi che i POKéMON\n"
 	.string "diventano più amichevoli\l"
 	.string "nei luoghi memorabili?\p"
@@ -1101,7 +1101,7 @@ MatchCall_HNS_Trevor_General2::
 
 MatchCall_HNS_Trevor_Battle::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono TREVOR.\p"
+	.string "Sono SAVERIO.\p"
 	.string "I miei amici sono pronti!\n"
 	.string "Vieni al PERCORSO 14!$"
 
@@ -1109,7 +1109,7 @@ MatchCall_HNS_Trevor_Battle::
 MatchCall_HNS_Kyle_General1::
 	.string "Chi parla?!\n"
 	.string "Ti ho chiamato io?\p"
-	.string "Sono KYLE. Non dimenticarlo!$"
+	.string "Sono CIRO. Non dimenticarlo!$"
 
 MatchCall_HNS_Kyle_General2::
 	.string "Ehi, {PLAYER}!\p"
@@ -1118,7 +1118,7 @@ MatchCall_HNS_Kyle_General2::
 
 MatchCall_HNS_Kyle_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono KYLE.\p"
+	.string "Sono CIRO.\p"
 	.string "Ho pescato dei POKéMON\n"
 	.string "tosti!\p"
 	.string "Vieni sulla PERCORSO 12 per\n"
@@ -1127,7 +1127,7 @@ MatchCall_HNS_Kyle_Battle::
 @ Carter - Pokefan, Route 14
 MatchCall_HNS_Carter_General1::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono CARTER.\p"
+	.string "Sono FRANCESCO.\p"
 	.string "Colleziono POKéMON\n"
 	.string "starter rari.\p"
 	.string "Il mio {STR_VAR_3} è il\n"
@@ -1143,7 +1143,7 @@ MatchCall_HNS_Carter_General2::
 
 MatchCall_HNS_Carter_Battle::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono CARTER.\p"
+	.string "Sono FRANCESCO.\p"
 	.string "Ho nuovi starter da\n"
 	.string "mostrare! Vieni al\l"
 	.string "PERCORSO 14!$"
@@ -1151,7 +1151,7 @@ MatchCall_HNS_Carter_Battle::
 @ Hillary - Expert, Route 15
 MatchCall_HNS_Hillary_General1::
 	.string "Salve, {PLAYER}.\n"
-	.string "Sono l'INSEGNANTE HILLARY.\p"
+	.string "Sono l'INSEGNANTE DEBY.\p"
 	.string "Perché non sei a scuola?$"
 
 MatchCall_HNS_Hillary_General2::
@@ -1161,7 +1161,7 @@ MatchCall_HNS_Hillary_General2::
 
 MatchCall_HNS_Hillary_Battle::
 	.string "Salve, {PLAYER}.\n"
-	.string "Sono HILLARY.\p"
+	.string "Sono DEBY.\p"
 	.string "I miei POKéMON sono passati\n"
 	.string "al livello successivo!\p"
 	.string "Vieni a sfidarci sul PERCORSO 15!$"
@@ -1189,7 +1189,7 @@ MatchCall_HNS_Rob_Battle::
 @ Nicole - Swimmer, Route 20
 MatchCall_HNS_Nicole_General1::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono NICOLE!\p"
+	.string "Sono ELIANA!\p"
 	.string "Oggi le onde sono fantastiche!\n"
 	.string "I miei POKéMON amano nuotare\l"
 	.string "in mare aperto.\p"
@@ -1203,7 +1203,7 @@ MatchCall_HNS_Nicole_General2::
 
 MatchCall_HNS_Nicole_Battle::
 	.string "Ciao, {PLAYER}!\n"
-	.string "Sono NICOLE!\p"
+	.string "Sono ELIANA!\p"
 	.string "I miei POKéMON d'acqua\n"
 	.string "muoiono dalla voglia!\p"
 	.string "Vieni sulla PERCORSO 20!$"
@@ -1233,20 +1233,20 @@ MatchCall_HNS_Billy_Battle::
 @ Kenny - Hiker, Route 13
 MatchCall_HNS_Kenny_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono KENNY.\p"
+	.string "Sono CHICCO.\p"
 	.string "Ma le montagne le hanno\n"
 	.string "create oceani e fiumi?$"
 
 MatchCall_HNS_Kenny_General2::
 	.string "Ehi, {PLAYER}!\p"
-	.string "Sono KENNY.\n"
+	.string "Sono CHICCO.\n"
 	.string "Ho visitato il museo di PLUMBEOPOLI!\p"
 	.string "Sapevi che tutta la regione di KANTO\n"
 	.string "era un tempo sott'acqua?$"
 
 MatchCall_HNS_Kenny_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono KENNY.\p"
+	.string "Sono CHICCO.\p"
 	.string "Mi sono allenato duro in\n"
 	.string "montagna!\p"
 	.string "Vieni sulla PERCORSO 13 per\n"
@@ -1255,7 +1255,7 @@ MatchCall_HNS_Kenny_Battle::
 @ Joel - Biker, Route 17
 MatchCall_HNS_Joel_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono JOEL.\p"
+	.string "Sono GIULIO.\p"
 	.string "Mi sto allenando per\n"
 	.string "essere figo in lotta.\p"
 	.string "{STR_VAR_3} ha delle\n"
@@ -1263,7 +1263,7 @@ MatchCall_HNS_Joel_General1::
 
 MatchCall_HNS_Joel_General2::
 	.string "Ehi, {PLAYER}!\p"
-	.string "Sono JOEL.\p"
+	.string "Sono GIULIO.\p"
 	.string "C'è stato un incidente sulla\n"
 	.string "PISTA CICLABILE.\p"
 	.string "La sicurezza è la cosa più\n"
@@ -1271,14 +1271,14 @@ MatchCall_HNS_Joel_General2::
 
 MatchCall_HNS_Joel_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono JOEL.\p"
+	.string "Sono GIULIO.\p"
 	.string "Ora sono figo E so lottare!\n"
 	.string "Vieni sulla PISTA CICLABILE!$"
 
 @ Charles - Biker, Route 17
 MatchCall_HNS_Charles_General1::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono CHARLES.\p"
+	.string "Sono CARLO.\p"
 	.string "Ero un rubacuori\n"
 	.string "a UNIMA.\p"
 	.string "Ora sono una stella della pista!$"
@@ -1292,7 +1292,7 @@ MatchCall_HNS_Charles_General2::
 
 MatchCall_HNS_Charles_Battle::
 	.string "Ehi, {PLAYER}!\n"
-	.string "Sono CHARLES.\p"
+	.string "Sono CARLO.\p"
 	.string "Le stelle della pista vogliono\n"
 	.string "vendetta! Vieni alla\l"
 	.string "PISTA CICLABILE!$"

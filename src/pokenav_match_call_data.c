@@ -278,7 +278,7 @@ static const struct MatchCallStructNPC sStevenMatchCallHeader =
     .mapSec = MAPSEC_NONE,
     .flag = FLAG_REGISTERED_STEVEN_POKENAV,
     .desc = COMPOUND_STRING("DURO COME ROCCIA"),
-    .name = COMPOUND_STRING("STEVEN"),
+    .name = COMPOUND_STRING("ROCCO"),
     .textData = sStevenTextScripts
 };
 
@@ -388,7 +388,7 @@ static const struct MatchCallStructNPC sScottMatchCallHeader =
     .mapSec = MAPSEC_NONE,
     .flag = FLAG_ENABLE_SCOTT_MATCH_CALL,
     .desc = COMPOUND_STRING("OCCHI FUGGENTI"),
-    .name = COMPOUND_STRING("SCOTT"),
+    .name = COMPOUND_STRING("SAVERIO"),
     .textData = sScottTextScripts
 };
 
@@ -726,7 +726,7 @@ static const struct MatchCallStructNPC sStevenMatchCallHeader =
     .mapSec = MAPSEC_NONE,
     .flag = FLAG_REGISTERED_STEVEN_POKENAV,
     .desc = COMPOUND_STRING("DURO COME ROCCIA"),
-    .name = COMPOUND_STRING("STEVEN"),
+    .name = COMPOUND_STRING("ROCCO"),
     .textData = sStevenTextScripts
 };
 
@@ -836,7 +836,7 @@ static const struct MatchCallStructNPC sScottMatchCallHeader =
     .mapSec = MAPSEC_NONE,
     .flag = FLAG_ENABLE_SCOTT_MATCH_CALL,
     .desc = COMPOUND_STRING("OCCHI FUGGENTI"),
-    .name = COMPOUND_STRING("SCOTT"),
+    .name = COMPOUND_STRING("SAVERIO"),
     .textData = sScottTextScripts
 };
 

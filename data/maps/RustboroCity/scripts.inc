@@ -1128,7 +1128,7 @@ RustboroCity_Text_PleaseComeWithMe:
 	.string "Venga con me!$"
 
 RustboroCity_Text_MayHiLetsRegister:
-	.string "MAY: Oh, ciao, {PLAYER}{KUN}!\p"
+	.string "VERA: Oh, ciao, {PLAYER}{KUN}!\p"
 	.string "Hai fatto aggiungere la funzione\n"
 	.string "MATCH CALL al tuo POKéNAV!\p"
 	.string "Registriamoci a vicenda così possiamo\n"
@@ -1140,7 +1140,7 @@ RustboroCity_Text_RegisteredMay:
 	.string "nel POKéNAV.$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
-	.string "MAY: Ah, a proposito, ho incrociato\n"
+	.string "VERA: Ah, a proposito, ho incrociato\n"
 	.string "il SIG. BRINEY nel BOSCO PETALBURG.\p"
 	.string "Immagino stia tornando a casa sua,\n"
 	.string "al cottage sul mare.\p"
@@ -1150,17 +1150,17 @@ RustboroCity_Text_MayPassedBrineyWantToBattle:
 	.string "Che ne dici di una battaglia?$"
 
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
-	.string "MAY: Oh, che succede?\p"
+	.string "VERA: Oh, che succede?\p"
 	.string "Non hai catturato o allenato\n"
 	.string "molto i tuoi POKéMON?\p"
 	.string "Non va bene per un ALLENATORE!$"
 
 RustboroCity_Text_MayWantToBattle:
-	.string "MAY: Allora, che ne dici?\n"
+	.string "VERA: Allora, che ne dici?\n"
 	.string "Facciamo una piccola lotta qui?$"
 
 RustboroCity_Text_MayImNotGoingToLose:
-	.string "MAY: Sei appena diventato ALLENATORE,\n"
+	.string "VERA: Sei appena diventato ALLENATORE,\n"
 	.string "{PLAYER}{KUN}. Non perderò!$"
 
 RustboroCity_Text_MayDefeat:
@@ -1168,14 +1168,14 @@ RustboroCity_Text_MayDefeat:
 	.string "Sei più forte del previsto!$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "MAY: Ah, a proposito, il SIG. BRINEY,\n"
+	.string "VERA: Ah, a proposito, il SIG. BRINEY,\n"
 	.string "che ho appena incrociato…\p"
 	.string "{PLAYER}{KUN}, ti sei appena trasferito,\n"
 	.string "quindi forse non lo sai, ma il SIG. BRINEY\l"
 	.string "un tempo era un navigatore stimato.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
-	.string "BRENDAN: Oh, ciao, {PLAYER}!\p"
+	.string "BRENDON: Oh, ciao, {PLAYER}!\p"
 	.string "Hai fatto aggiungere la funzione\n"
 	.string "MATCH CALL al tuo POKéNAV! Forte!\p"
 	.string "Registriamoci a vicenda così possiamo\n"
@@ -1183,11 +1183,11 @@ RustboroCity_Text_BrendanHiLetsRegister:
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredBrendan:
-	.string "BRENDAN registrato\n"
+	.string "BRENDON registrato\n"
 	.string "nel POKéNAV.$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
-	.string "BRENDAN: A proposito, {PLAYER}, ho visto\n"
+	.string "BRENDON: A proposito, {PLAYER}, ho visto\n"
 	.string "IL SIGNOR BRINEY nel BOSCO PETALBURG.\p"
 	.string "Scommetto che tornava a casa sua,\n"
 	.string "al cottage sul mare.\p"
@@ -1198,15 +1198,15 @@ RustboroCity_Text_BrendanPassedBrineyWantToBattle:
 	.string "quanto sei andato avanti?$"
 
 RustboroCity_Text_BrendanNoConfidenceInPokemon:
-	.string "BRENDAN: Che c'è? Non hai\n"
+	.string "BRENDON: Che c'è? Non hai\n"
 	.string "fiducia nei tuoi POKéMON?$"
 
 RustboroCity_Text_BrendanWantToBattle:
-	.string "BRENDAN: Come va?\n"
+	.string "BRENDON: Come va?\n"
 	.string "Ti va di lottare con me?$"
 
 RustboroCity_Text_BrendanIWontGoEasy:
-	.string "BRENDAN: So che sei appena diventato\n"
+	.string "BRENDON: So che sei appena diventato\n"
 	.string "un ALLENATORE, ma non andrò piano!$"
 
 RustboroCity_Text_BrendanDefeat:
@@ -1214,7 +1214,7 @@ RustboroCity_Text_BrendanDefeat:
 	.string "Sei proprio bravo.$"
 
 RustboroCity_Text_BrendanMrBrineyHint:
-	.string "BRENDAN: A proposito, conosci\n"
+	.string "BRENDON: A proposito, conosci\n"
 	.string "IL SIG. BRINEY? Quello appena passato?\p"
 	.string "Scommetto che non lo sai, visto che\n"
 	.string "ti sei appena trasferito, {PLAYER}, ma\l"
@@ -1234,7 +1234,7 @@ RustboroCity_Text_DevonCorpSign:
 
 RustboroCity_Text_GymSign:
 	.string "PALESTRA POKéMON DI PETALBORGO\n"
-	.string "CAPOPALESTRA: ROXANNE\p"
+	.string "CAPOPALESTRA: PETRA\p"
 	.string "“La studentessa amante della Roccia!”$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:

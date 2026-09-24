@@ -244,8 +244,8 @@ Route118_EventScript_Deandre::
 	end
 
 Route118_Text_StevenQuestions:
-	.string "STEVEN: Ciao, {PLAYER}{KUN}!\p"
-	.string "Sono io, STEVEN!\n"
+	.string "ROCCO: Ciao, {PLAYER}{KUN}!\p"
+	.string "Sono io, ROCCO!\n"
 	.string "Ci siamo visti nella grotta di DEWFORD.\p"
 	.string "Hai incontrato molti POKéMON\n"
 	.string "dall'ultima volta?\p"

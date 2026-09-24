@@ -183,7 +183,7 @@ LavaridgeTown_Gym_1F_EventScript_GymStatue::
 LavaridgeTown_Gym_1F_Text_GymGuideAdvice:
 	.string "Ehi, campione in erba,\n"
 	.string "{PLAYER}?\p"
-	.string "FLANNERY, la CAPOPALESTRA,\n"
+	.string "FIAMMETTA, la CAPOPALESTRA,\n"
 	.string "usa POKéMON di FUOCO.\p"
 	.string "La sua passione brucia più forte\n"
 	.string "più calda di un vulcano.\p"
@@ -212,7 +212,7 @@ LavaridgeTown_Gym_1F_Text_AxleIntro:
 	.string "Non venirmi a stressare ancora!$"
 
 LavaridgeTown_Gym_1F_Text_AxleDefeat:
-	.string "Spero che FLANNERY ti bruci bene!$"
+	.string "Spero che FIAMMETTA ti bruci bene!$"
 
 LavaridgeTown_Gym_1F_Text_AxlePostBattle:
 	.string "Fiuuu… Uff…\p"
@@ -232,7 +232,7 @@ LavaridgeTown_Gym_B1F_Text_KeeganDefeat:
 
 LavaridgeTown_Gym_B1F_Text_KeeganPostBattle:
 	.string "Sei davvero bravo…\n"
-	.string "Ma la nostra CAPO FLANNERY è forte.\p"
+	.string "Ma la nostra CAPO FIAMMETTA è forte.\p"
 	.string "Se non stai attento, ti\n"
 	.string "scotti sul serio.$"
 
@@ -258,7 +258,7 @@ LavaridgeTown_Gym_1F_Text_DanielleDefeat:
 
 LavaridgeTown_Gym_1F_Text_DaniellePostBattle:
 	.string "Sarò un'ALLENATRICE bella e\n"
-	.string "forte come FLANNERY.$"
+	.string "forte come FIAMMETTA.$"
 
 LavaridgeTown_Gym_B1F_Text_JaceIntro:
 	.string "Dai, muoviti!\n"
@@ -295,7 +295,7 @@ LavaridgeTown_Gym_B1F_Text_EliDefeat:
 
 LavaridgeTown_Gym_B1F_Text_EliPostBattle:
 	.string "Resto qui perché sono un fan\n"
-	.string "della forza di FLANNERY.\p"
+	.string "della forza di FIAMMETTA.\p"
 	.string "Eh eh eh eh.$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryIntro:
@@ -304,7 +304,7 @@ LavaridgeTown_Gym_1F_Text_FlanneryIntro:
 	.string "vederti arrivare!\p"
 	.string "Mi è stato affidato il…\n"
 	.string "No, aspetta.\p"
-	.string "Sono FLANNERY, e sono la\n"
+	.string "Sono FIAMMETTA, e sono la\n"
 	.string "CAPOPALESTRA qui!\p"
 	.string "Ehm…\n"
 	.string "Non sottovalutarmi, anche se\l"
@@ -327,7 +327,7 @@ LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
 
 LavaridgeTown_Gym_1F_Text_ReceivedHeatBadge:
 	.string "{PLAYER} riceve la MEDAGLIA CALORE\n"
-	.string "da FLANNERY.$"
+	.string "da FIAMMETTA.$"
 
 LavaridgeTown_Gym_1F_Text_ExplainHeatBadgeTakeThis:
 	.string "Con una MEDAGLIA CALORE, tutti i\n"
@@ -348,7 +348,7 @@ LavaridgeTown_Gym_1F_Text_ExplainOverheat:
 	.string "alle lotte lunghe.$"
 
 LavaridgeTown_Gym_1F_Text_RegisteredFlannery:
-	.string "CAPOPALESTRA FLANNERY registrata\n"
+	.string "CAPOPALESTRA FIAMMETTA registrata\n"
 	.string "nel POKéNAV.$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
@@ -361,11 +361,11 @@ LavaridgeTown_Gym_1F_Text_GymStatue:
 
 LavaridgeTown_Gym_1F_Text_GymStatueCertified:
 	.string "PALESTRA POKéMON di LAVARIDGE\p"
-	.string "ALLENATORI CERTIFICATI di FLANNERY:\n"
+	.string "ALLENATORI CERTIFICATI di FIAMMETTA:\n"
 	.string "{PLAYER}$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch:
-	.string "FLANNERY: Perdere non mi\n"
+	.string "FIAMMETTA: Perdere non mi\n"
 	.string "demoralizza.\p"
 	.string "Amo i POKéMON.\n"
 	.string "Amo lottare.\l"
@@ -378,7 +378,7 @@ LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat:
 	.string "Sull'orlo dell'eruzione!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostRematch:
-	.string "FLANNERY: Ho perso,\n"
+	.string "FIAMMETTA: Ho perso,\n"
 	.string "ma sono soddisfatta.\p"
 	.string "Non mi capita spesso una lotta\n"
 	.string "così accesa.\p"
@@ -386,7 +386,7 @@ LavaridgeTown_Gym_1F_Text_FlanneryPostRematch:
 	.string "un'altra volta!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons:
-	.string "FLANNERY: Perdere non mi\n"
+	.string "FIAMMETTA: Perdere non mi\n"
 	.string "demoralizza.\p"
 	.string "Amo i POKéMON.\n"
 	.string "Amo lottare.\l"

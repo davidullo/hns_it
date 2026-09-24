@@ -1157,10 +1157,10 @@ PetalburgCity_Gym_Text_WallyIdLikeAPokemon:
 
 PetalburgCity_Gym_Text_DadOhYoureWallyRight:
 	.string "PAPÀ: Hm? Tu sei… Ehm… Ah, giusto.\n"
-	.string "Tu sei WALLY, vero?$"
+	.string "Tu sei LINO, vero?$"
 
 PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon:
-	.string "WALLY: Andrò a stare dai miei\n"
+	.string "LINO: Andrò a stare dai miei\n"
 	.string "parenti a VERDANTURF.\p"
 	.string "Pensavo che da solo mi sentirei solo,\n"
 	.string "quindi volevo portare un POKéMON.\p"
@@ -1173,22 +1173,22 @@ PetalburgCity_Gym_Text_DadHmISee:
 PetalburgCity_Gym_Text_DadPlayerGoWithWally:
 	.string "PAPÀ: {PLAYER}, hai sentito,\n"
 	.string "vero?\p"
-	.string "Vai con WALLY e assicurati che\n"
+	.string "Vai con LINO e assicurati che\n"
 	.string "catturi un POKéMON senza rischi.$"
 
 PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon:
-	.string "WALLY, ti presto un mio POKéMON.\p"
-	.string "WALLY riceve un ZIGZAGOON!$"
+	.string "LINO, ti presto un mio POKéMON.\p"
+	.string "LINO riceve un ZIGZAGOON!$"
 
 PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall:
-	.string "WALLY: Oh, wow!\n"
+	.string "LINO: Oh, wow!\n"
 	.string "Un POKéMON!\p"
 	.string "PAPÀ: Hm. Ti do anche una POKé BALL.\n"
 	.string "Provaci!\p"
-	.string "WALLY riceve una POKé BALL!$"
+	.string "LINO riceve una POKé BALL!$"
 
 PetalburgCity_Gym_Text_WallyOhWowThankYou:
-	.string "WALLY: Oh, wow!\n"
+	.string "LINO: Oh, wow!\n"
 	.string "Grazie!$"
 
 PetalburgCity_Gym_Text_WouldYouReallyComeWithMe:
@@ -1199,7 +1199,7 @@ PetalburgCity_Gym_Text_DadSoDidItWorkOut:
 	.string "PAPÀ: Allora, è andata bene?$"
 
 PetalburgCity_Gym_Text_WallyThankYouBye:
-	.string "WALLY: Grazie, sì, ci sono riuscito.\n"
+	.string "LINO: Grazie, sì, ci sono riuscito.\n"
 	.string "Ecco il tuo POKéMON.\p"
 	.string "{PLAYER}, grazie per essere venuto\n"
 	.string "con me.\p"
@@ -1218,7 +1218,7 @@ PetalburgCity_Gym_Text_DadGoCollectBadges:
 	.string "Vai a FERRUGIPOLI, oltre questa\n"
 	.string "città.\p"
 	.string "Là dovresti sfidare\n"
-	.string "il CAPO PALESTRA, ROXANNE.\p"
+	.string "il CAPO PALESTRA, PETRA.\p"
 	.string "Dopo di lei, vai nelle altre PALESTRE\n"
 	.string "POKéMON e batti i loro CAPI.\p"
 	.string "Colleziona le MEDAGLIE,\n"
@@ -1244,7 +1244,7 @@ PetalburgCity_Gym_Text_NormanGoToDewford:
 	.string "Ma ci sono molti altri ALLENATORI\n"
 	.string "più forti di te, {PLAYER}.\p"
 	.string "Oltre il mare, a DEWFORD c'è un\n"
-	.string "CAPOPALESTRA di nome BRAWLY.\p"
+	.string "CAPOPALESTRA di nome RUDI.\p"
 	.string "Dovresti andare a sfidarlo.$"
 
 PetalburgCity_Gym_Text_YouHaveGottenStronger:

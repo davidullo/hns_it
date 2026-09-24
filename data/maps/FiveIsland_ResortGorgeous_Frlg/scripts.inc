@@ -65,7 +65,7 @@ FiveIsland_ResortGorgeous_Text_CelinaDefeat::
 	.string "Mi sento svenire…$"
 
 FiveIsland_ResortGorgeous_Text_CelinaPostBattle::
-	.string "GILLIAN?\n"
+	.string "GIANNA?\n"
 	.string "Inclina un po' la testa…\l"
 	.string "Ecco! È l'aria che voglio!$"
 
@@ -130,9 +130,9 @@ FiveIsland_ResortGorgeous_Text_TobyPostBattle::
 	.string "Che assurdità.$"
 
 FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
-	.string "SELPHY: Grazie.\p"
+	.string "NOIANNA: Grazie.\p"
 	.string "Puoi andare.$"
 
 FiveIsland_ResortGorgeous_Text_SelphysHouse::
-	.string "CASA SELPHY$"
+	.string "CASA NOIANNA$"
 

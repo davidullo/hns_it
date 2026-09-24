@@ -476,7 +476,7 @@ Route119_EventScript_ScottWonAtFortreeGymCall::
 	end
 
 Route119_Text_MayIntro:
-	.string "MAY: {PLAYER}{KUN}!\n"
+	.string "VERA: {PLAYER}{KUN}!\n"
 	.string "Dove eri? Ti stavo cercando!\p"
 	.string "Quanto sei diventato più forte?\n"
 	.string "Te lo controllo io!\p"
@@ -490,12 +490,12 @@ Route119_Text_MayDefeat:
 	.string "con qualche difficoltà.$"
 
 Route119_Text_MayPresentForYou:
-	.string "MAY: Ma non c'era proprio nulla di\n"
+	.string "VERA: Ma non c'era proprio nulla di\n"
 	.string "cui preoccuparsi! Continua così!\p"
 	.string "E, tieni! Ho un regalo per te.$"
 
 Route119_Text_MayExplainFly:
-	.string "MAY: Usa VOLO e il tuo POKéMON ti\n"
+	.string "VERA: Usa VOLO e il tuo POKéMON ti\n"
 	.string "porterà subito in ogni città che hai\l"
 	.string "già visitato.\p"
 	.string "Ma per usare VOLO ti serve\n"
@@ -508,7 +508,7 @@ Route119_Text_MayExplainFly:
 	.string "Beh, ci rivediamo da qualche parte!$"
 
 Route119_Text_BrendanIntro:
-	.string "BRENDAN: {PLAYER}! Quindi è qui che\n"
+	.string "BRENDON: {PLAYER}! Quindi è qui che\n"
 	.string "cercavi dei POKéMON?\p"
 	.string "Vediamo quanto sei diventato forte.\n"
 	.string "Ti metto alla prova!\p"
@@ -520,13 +520,13 @@ Route119_Text_BrendanDefeat:
 	.string "Sei diventato davvero niente male.$"
 
 Route119_Text_BrendanIllGiveYouThis:
-	.string "BRENDAN: Direi che sei abbastanza forte\n"
+	.string "BRENDON: Direi che sei abbastanza forte\n"
 	.string "per cercare POKéMON ovunque.\p"
 	.string "Tieni, ti do questo.\n"
 	.string "Provalo.$"
 
 Route119_Text_BrendanExplainFly:
-	.string "BRENDAN: Usa VOLO e il POKéMON ti\n"
+	.string "BRENDON: Usa VOLO e il POKéMON ti\n"
 	.string "porta subito in qualsiasi città\l"
 	.string "hai già visitato.\p"
 	.string "Ma ti serve la MEDAGLIA PALESTRA\n"
@@ -534,7 +534,7 @@ Route119_Text_BrendanExplainFly:
 	.string "Comunque, io devo andare.$"
 
 Route119_Text_ScottWayToGoBeSeeingYou:
-	.string "SCOTT: Ahahah!\n"
+	.string "SAVERIO: Ahahah!\n"
 	.string "Bene così, {PLAYER}{KUN}!\p"
 	.string "Ho appena incrociato un ALLENATORE\n"
 	.string "in BICICLETTA.\p"
@@ -551,7 +551,7 @@ Route119_Text_ScottWayToGoBeSeeingYou:
 Route119_Text_ScottYouWonAtFortreeGym:
 	.string "… … … … … …\n"
 	.string "… … … … … Beep!\p"
-	.string "SCOTT: Ciao, {PLAYER}{KUN}, sono io!\p"
+	.string "SAVERIO: Ciao, {PLAYER}{KUN}, sono io!\p"
 	.string "Come immaginavo, hai vinto alla\n"
 	.string "PALESTRA di FORTREE.\p"
 	.string "La tua forza…\n"

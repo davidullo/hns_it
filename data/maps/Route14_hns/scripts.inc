@@ -223,7 +223,7 @@ Route14_EventScript_RematchTrevorTryGiveItem::
 
 
 Route14_Text_Eusine:
-	.string "EUSINE: {PLAYER}! Ancora tu!\n"
+	.string "EUGENIUS: {PLAYER}! Ancora tu!\n"
 	.string "Stavolta arrivo prima io!\p"
 	.string "Seguendolo fin qui,\n"
 	.string "comincio a capire cosa\l"

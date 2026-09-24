@@ -82,7 +82,7 @@ EverGrandeCity_HallOfFame_Movement_WalkIntoHallOfFame2:
 	step_end
 
 EverGrandeCity_HallOfFame_Text_HereWeHonorLeagueChampions:
-	.string "WALLACE: Questa sala…\p"
+	.string "ADRIANO: Questa sala…\p"
 	.string "Qui conserviamo i dati dei\n"
 	.string "POKéMON usciti vittoriosi da\l"
 	.string "dure lotte.\p"
@@ -90,7 +90,7 @@ EverGrandeCity_HallOfFame_Text_HereWeHonorLeagueChampions:
 	.string "sono onorati.$"
 
 EverGrandeCity_HallOfFame_Text_LetsRecordYouAndYourPartnersNames:
-	.string "WALLACE: Forza, registriamo il tuo\n"
+	.string "ADRIANO: Forza, registriamo il tuo\n"
 	.string "nome come ALLENATORE che ha vinto\l"
 	.string "la LEGA POKéMON, e i nomi dei\l"
 	.string "compagni che hanno lottato con te.$"
