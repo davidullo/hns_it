@@ -104,7 +104,7 @@ FortreeCity_Text_SomethingBlockingGym:
 
 FortreeCity_Text_ThisTimeIllBeatWinona:
 	.string "Ho con me i POKéMON più cari\n"
-	.string "Stavolta batto MARIKA!$"
+	.string "Stavolta batto ALICE!$"
 
 FortreeCity_Text_TreesGrowByDrinkingRainwater:
 	.string "Il terreno assorbe la pioggia e\n"
@@ -150,7 +150,7 @@ FortreeCity_Text_CitySign:
 
 FortreeCity_Text_GymSign:
 	.string "PALESTRA POKéMON DI FORTREE\n"
-	.string "CAPO: MARIKA\p"
+	.string "CAPO: ALICE\p"
 	.string "“L'asso degli UCCELLO in volo\n"
 	.string "nel mondo.”$"
 

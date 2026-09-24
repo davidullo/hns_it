@@ -555,7 +555,7 @@ MtChimney_Text_MaxieIntro:
 	.string "Chi sei?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "Avevo sentito FLAVIANO lamentarsi di un\n"
+	.string "Avevo sentito IVAN lamentarsi di un\n"
 	.string "bambino che si intromette negli\l"
 	.string "affari del TEAM AQUA.\p"
 	.string "Dovevi essere tu.\p"
@@ -666,7 +666,7 @@ MtChimney_Text_Bufoh:
 	.string "Bufoh!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma:
-	.string "FLAVIANO: Grr, {PLAYER}!\n"
+	.string "IVAN: Grr, {PLAYER}!\n"
 	.string "Immaginavo che saresti arrivato!\p"
 	.string "Guarda con i tuoi occhi cosa\n"
 	.string "combinano i fanatici del TEAM MAGMA!\p"
@@ -676,14 +676,14 @@ MtChimney_Text_ArchieGoStopTeamMagma:
 	.string "l'eruzione del vulcano!$"
 
 MtChimney_Text_ArchieIHaveMyHandsFull:
-	.string "FLAVIANO: Grrr…\p"
+	.string "IVAN: Grrr…\p"
 	.string "Voglio fermare MAX,\n"
 	.string "ma non posso!\p"
 	.string "Non con tre avversari da battere\n"
 	.string "tutti in una volta!$"
 
 MtChimney_Text_ArchieThankYou:
-	.string "FLAVIANO: {PLAYER}!\n"
+	.string "IVAN: {PLAYER}!\n"
 	.string "Grazie!\p"
 	.string "Con il tuo aiuto abbiamo fermato il\n"
 	.string "piano distruttivo del TEAM MAGMA!\p"

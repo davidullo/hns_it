@@ -574,7 +574,7 @@ MauvilleCity_Text_ScottYouDidntHoldBack:
 	.string "Tiferò per te!$"
 
 MauvilleCity_Text_WattsonNeedFavorTakeKey:
-	.string "GIANLUIGI: Oh, {PLAYER}{KUN}!\n"
+	.string "WALTER: Oh, {PLAYER}{KUN}!\n"
 	.string "Hai l'aria di chi ha grinta!\l"
 	.string "E questo mi piace, wahahahaha!\p"
 	.string "Bene! Ho deciso!\n"
@@ -589,7 +589,7 @@ MauvilleCity_Text_WattsonNeedFavorTakeKey:
 	.string "a CICLOFORTE.$"
 
 MauvilleCity_Text_WattsonWontBeChallenge:
-	.string "GIANLUIGI: Non preoccuparti.\n"
+	.string "WALTER: Non preoccuparti.\n"
 	.string "Per te non sarà una sfida.\p"
 	.string "L'ingresso a CICLANOVA è a\n"
 	.string "un breve SURF dalla PERCORSO 110.\p"
@@ -597,7 +597,7 @@ MauvilleCity_Text_WattsonWontBeChallenge:
 	.string "Wahahahaha!$"
 
 MauvilleCity_Text_WattsonThanksTakeTM:
-	.string "GIANLUIGI: Wahahahaha!\p"
+	.string "WALTER: Wahahahaha!\p"
 	.string "Lo sapevo, {PLAYER}{KUN}! Sapevo di\n"
 	.string "aver scelto bene!\p"
 	.string "Questo è il mio grazie: una MT con\n"
@@ -605,7 +605,7 @@ MauvilleCity_Text_WattsonThanksTakeTM:
 	.string "Dai, te la sei meritata!$"
 
 MauvilleCity_Text_WattsonYoungTakeCharge:
-	.string "GIANLUIGI: Wahahahaha!\p"
+	.string "WALTER: Wahahahaha!\p"
 	.string "Mi fa immenso piacere vedere\n"
 	.string "i giovani che si danno da fare!$"
 
@@ -636,7 +636,7 @@ MauvilleCity_Text_CitySign:
 
 MauvilleCity_Text_GymSign:
 	.string "PALESTRA POKéMON DI MAUVILLE\n"
-	.string "CAPO: GIANLUIGI\l"
+	.string "CAPO: WALTER\l"
 	.string "“L'uomo allegro ed elettrizzante!”$"
 
 MauvilleCity_Text_BikeShopSign:

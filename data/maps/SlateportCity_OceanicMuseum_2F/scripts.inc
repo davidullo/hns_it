@@ -320,7 +320,7 @@ SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 	.string "Siamo il TEAM AQUA,\n"
 	.string "e amiamo il mare!\p"
 	.string "E io sono il capo del TEAM AQUA,\n"
-	.string "FLAVIANO!\p"
+	.string "IVAN!\p"
 	.string "Perché ci ostacoli?\p"
 	.string "…No! Non è possibile!\n"
 	.string "Non sarai mica del TEAM MAGMA?\p"

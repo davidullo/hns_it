@@ -482,10 +482,10 @@ MtPyre_Summit_Text_Grunt4PostBattle:
 	.string "tra noi membri e il nostro capo.$"
 
 MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
-	.string "FLAVIANO: MAX del TEAM MAGMA ci ha\n"
+	.string "IVAN: MAX del TEAM MAGMA ci ha\n"
 	.string "preceduti, ma abbiamo ciò che volevamo.\p"
 	.string "La SFERA ROSSA custodita sul MONTE PIRA…\n"
-	.string "Io, FLAVIANO, ora la possiedo!\p"
+	.string "Io, IVAN, ora la possiedo!\p"
 	.string "Fufufu… Ora possiamo realizzare il\n"
 	.string "nostro obiettivo finale!\p"
 	.string "Bene, TEAM!\n"

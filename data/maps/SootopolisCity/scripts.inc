@@ -1596,7 +1596,7 @@ SootopolisCity_Text_AfterAllOurScheming:
 	.string "Fuhahaha…$"
 
 SootopolisCity_Text_KyogreCalmDown:
-	.string "FLAVIANO: KYOGRE! Che succede?!\n"
+	.string "IVAN: KYOGRE! Che succede?!\n"
 	.string "Guarda qui! È la SFERA ROSSA!\l"
 	.string "Calmati! KYOGRE!\p"
 	.string "… … … … … …\n"
@@ -1605,7 +1605,7 @@ SootopolisCity_Text_KyogreCalmDown:
 	.string "Non risponde affatto!$"
 
 SootopolisCity_Text_TryingMeaninglessToPokemon:
-	.string "FLAVIANO: KYOGRE e GROUDON sono\n"
+	.string "IVAN: KYOGRE e GROUDON sono\n"
 	.string "volati via chissà dove.\p"
 	.string "Il meteo a HOENN è tornato\n"
 	.string "alla normalità…\p"
@@ -1662,7 +1662,7 @@ SootopolisCity_Text_SoThatsRayquaza:
 
 SootopolisCity_Text_MaxieArchieLeft:
 	.string "ROCCO: Sembra che sia MAX che\n"
-	.string "FLAVIANO siano andati via da qualche parte.\p"
+	.string "IVAN siano andati via da qualche parte.\p"
 	.string "Forse sono andati al MONTE PIRA per\n"
 	.string "restituire quelle SFERE…$"
 

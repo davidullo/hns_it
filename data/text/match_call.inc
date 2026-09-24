@@ -2112,7 +2112,7 @@ MatchCall_Text_Brawly4::
 	.string "che mi stancherò mai di lottare con te!$"
 
 MatchCall_Text_Wattson1::
-	.string "GIANLUIGI: Oh, sei tu!\p"
+	.string "WALTER: Oh, sei tu!\p"
 	.string "Da quando te ne sei andato, ho rifatto\n"
 	.string "l'allenamento da zero.\p"
 	.string "Direi che mi serve ancora un po'\n"
@@ -2121,7 +2121,7 @@ MatchCall_Text_Wattson1::
 	.string "Wahahahaha!$"
 
 MatchCall_Text_Wattson2::
-	.string "GIANLUIGI: Wahahahaha!\p"
+	.string "WALTER: Wahahahaha!\p"
 	.string "Hai fatto sul serio, eh?\n"
 	.string "Ho sentito parlare di te!\p"
 	.string "A quanto pare devo allenarmi\n"
@@ -2132,13 +2132,13 @@ MatchCall_Text_Wattson2::
 	.string "Wahahahaha!$"
 
 MatchCall_Text_Wattson3::
-	.string "GIANLUIGI: Oh, sei tu!\n"
+	.string "WALTER: Oh, sei tu!\n"
 	.string "La mia PALESTRA è pronta!\p"
 	.string "Vieni a CICLAMIPO quando vuoi!\n"
 	.string "Wahahahaha!$"
 
 MatchCall_Text_Wattson4::
-	.string "GIANLUIGI: Wahahaha!\p"
+	.string "WALTER: Wahahaha!\p"
 	.string "Lottare con te è sempre carico\n"
 	.string "di energia elettrizzante!$"
 
@@ -2175,26 +2175,26 @@ MatchCall_Text_Flannery4::
 	.string "ad allenarti ogni volta.$"
 
 MatchCall_Text_Winona1::
-	.string "MARIKA: Ciao, {PLAYER}!\p"
+	.string "ALICE: Ciao, {PLAYER}!\p"
 	.string "Grazie alla nostra lotta ho capito\n"
 	.string "quali sono i miei punti deboli!\p"
 	.string "Quando riaprirò la PALESTRA, non\n"
 	.string "perderò più!$"
 
 MatchCall_Text_Winona2::
-	.string "MARIKA: Ce l'hai fatta, {PLAYER}!\p"
+	.string "ALICE: Ce l'hai fatta, {PLAYER}!\p"
 	.string "La notizia del nuovo CAMPIONE\n"
 	.string "è arrivata a DORSOPOLI!\p"
 	.string "Ma… La prossima volta non\n"
 	.string "finirà allo stesso modo.$"
 
 MatchCall_Text_Winona3::
-	.string "MARIKA: Sei tu, {PLAYER}?\n"
+	.string "ALICE: Sei tu, {PLAYER}?\n"
 	.string "La nostra PALESTRA ha riaperto!\p"
 	.string "Ti aspettiamo a DORSOPOLI!$"
 
 MatchCall_Text_Winona4::
-	.string "MARIKA: {PLAYER}…\n"
+	.string "ALICE: {PLAYER}…\n"
 	.string "Ho perso, ma le mie ali non\l"
 	.string "si spezzeranno mai.\p"
 	.string "Proprio come tu non hai mai perso\n"

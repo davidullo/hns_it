@@ -137,7 +137,7 @@ FortreeCity_Gym_EventScript_GymStatue::
 FortreeCity_Gym_Text_GymGuideAdvice:
 	.string "Ehi, come va, aspirante\n"
 	.string "CAMPIONE {PLAYER}?\p"
-	.string "La CAPOPALESTRA MARIKA è\n"
+	.string "La CAPOPALESTRA ALICE è\n"
 	.string "una maestra di POKéMON VOLANTE.\p"
 	.string "Ti aspetta in fondo alla PALESTRA,\n"
 	.string "dietro le porte girevoli.\p"
@@ -180,32 +180,32 @@ FortreeCity_Gym_Text_EdwardoPostBattle:
 	.string "diventare più forte.$"
 
 FortreeCity_Gym_Text_FlintIntro:
-	.string "Non serve MARIKA, la nostra\n"
+	.string "Non serve ALICE, la nostra\n"
 	.string "CAPOPALESTRA, per te!\p"
 	.string "Io basto e avanzo per te!$"
 
 FortreeCity_Gym_Text_FlintDefeat:
-	.string "MARIKA, io…\n"
+	.string "ALICE, io…\n"
 	.string "Ho perso!$"
 
 FortreeCity_Gym_Text_FlintPostBattle:
-	.string "MARIKA è carina e forte.\n"
+	.string "ALICE è carina e forte.\n"
 	.string "È la CAPOPALESTRA suprema!\p"
 	.string "Arrossisco…$"
 
 FortreeCity_Gym_Text_AshleyIntro:
-	.string "Me l'ha insegnato MARIKA!\n"
+	.string "Me l'ha insegnato ALICE!\n"
 	.string "Non mi batti facilmente!$"
 
 FortreeCity_Gym_Text_AshleyDefeat:
 	.string "Ho perso…$"
 
 FortreeCity_Gym_Text_AshleyPostBattle:
-	.string "Grazie a MARIKA, la gente di\n"
+	.string "Grazie a ALICE, la gente di\n"
 	.string "FORTREE vive senza paura.$"
 
 FortreeCity_Gym_Text_HumbertoIntro:
-	.string "Quando MARIKA lotta, il suo volto\n"
+	.string "Quando ALICE lotta, il suo volto\n"
 	.string "brilla di splendida determinazione…\p"
 	.string "Non ti lascio ammirare\n"
 	.string "tale incanto!$"
@@ -216,7 +216,7 @@ FortreeCity_Gym_Text_HumbertoDefeat:
 
 FortreeCity_Gym_Text_HumbertoPostBattle:
 	.string "Occhio!\n"
-	.string "Non fissare MARIKA\l"
+	.string "Non fissare ALICE\l"
 	.string "o cadi a terra con un tonfo!$"
 
 FortreeCity_Gym_Text_DariusIntro:
@@ -230,10 +230,10 @@ FortreeCity_Gym_Text_DariusDefeat:
 FortreeCity_Gym_Text_DariusPostBattle:
 	.string "Certo, mi hai battuto.\n"
 	.string "Ma stai attento! Il nostro CAPO\l"
-	.string "Quelli di MARIKA non scherzano.$"
+	.string "Quelli di ALICE non scherzano.$"
 
 FortreeCity_Gym_Text_WinonaIntro:
-	.string "Sono MARIKA. Guido la PALESTRA\n"
+	.string "Sono ALICE. Guido la PALESTRA\n"
 	.string "POKéMON di FORTREE.\p"
 	.string "Sono tutt'uno con i POKéMON\n"
 	.string "UCCELLO e ho solcato i cieli…\p"
@@ -251,7 +251,7 @@ FortreeCity_Gym_Text_WinonaDefeat:
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
 	.string "{PLAYER} riceve la MEDAGLIA PIUMA\n"
-	.string "da MARIKA.$"
+	.string "da ALICE.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
 	.string "Con la PIUMASTRELLA, tutti i POKéMON\n"
@@ -269,7 +269,7 @@ FortreeCity_Gym_Text_ExplainAerialAce:
 	.string "… … … … … …$"
 
 FortreeCity_Gym_Text_RegisteredWinona:
-	.string "Registrato CAPOPALESTRA MARIKA\n"
+	.string "Registrato CAPOPALESTRA ALICE\n"
 	.string "nel POKéNAV.$"
 
 FortreeCity_Gym_Text_WinonaPostBattle:
@@ -281,11 +281,11 @@ FortreeCity_Gym_Text_GymStatue:
 
 FortreeCity_Gym_Text_GymStatueCertified:
 	.string "PALESTRA POKéMON DI FORTREE\p"
-	.string "CERTIFICATI DA MARIKA:\n"
+	.string "CERTIFICATI DA ALICE:\n"
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch:
-	.string "MARIKA: Noi umani non possiamo\n"
+	.string "ALICE: Noi umani non possiamo\n"
 	.string "sfuggire alla gravità.\p"
 	.string "Ma puntando all'eccellenza,\n"
 	.string "possiamo spiccare il volo!\p"
@@ -298,14 +298,14 @@ FortreeCity_Gym_Text_WinonaRematchDefeat:
 	.string "Non ho raggiunto la tua altezza…$"
 
 FortreeCity_Gym_Text_WinonaPostRematch:
-	.string "MARIKA: Anche se ho perso,\n"
+	.string "ALICE: Anche se ho perso,\n"
 	.string "le ali del mio cuore sono intatte.\p"
 	.string "Posso risollevarmi e volare\n"
 	.string "ancora e ancora.\p"
 	.string "Ne sono convinta!$"
 
 FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
-	.string "MARIKA: Noi umani non sfuggiamo\n"
+	.string "ALICE: Noi umani non sfuggiamo\n"
 	.string "alla forza di gravità.\p"
 	.string "Ma puntando all'eccellenza,\n"
 	.string "possiamo spiccare il volo!\p"

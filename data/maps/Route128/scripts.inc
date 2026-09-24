@@ -242,7 +242,7 @@ Route128_EventScript_Carlee::
 	end
 
 Route128_Text_ArchieWhatHappened:
-	.string "FLAVIANO: Cosa è successo…\n"
+	.string "IVAN: Cosa è successo…\n"
 	.string "Che scena deplorevole…\p"
 	.string "Ho forse… fatto un terribile errore?$"
 
@@ -252,7 +252,7 @@ Route128_Text_ArchieIOnlyWanted:
 
 Route128_Text_MaxieDoYouUnderstandNow:
 	.string "MAX: Hai capito ora,\n"
-	.string "FLAVIANO?\p"
+	.string "IVAN?\p"
 	.string "Vedi finalmente quanto disastroso\n"
 	.string "sia stato il tuo sogno?\p"
 	.string "Dobbiamo sbrigarci! Dobbiamo fare\n"
@@ -262,14 +262,14 @@ Route128_Text_MaxieDoYouUnderstandNow:
 Route128_Text_MaxieResposibilityFallsToArchieAndMe:
 	.string "MAX: {PLAYER}, non dire nulla.\p"
 	.string "So che non ho il diritto di\n"
-	.string "criticare FLAVIANO…\p"
+	.string "criticare IVAN…\p"
 	.string "Ma così come stanno le cose, dubito\n"
 	.string "che noi umani possiamo\l"
 	.string "farci qualcosa.\p"
 	.string "Ma non possiamo nemmeno restare qui\n"
 	.string "a guardare impotenti.\p"
 	.string "La responsabilità di porre fine a\n"
-	.string "tutto ciò spetta ad FLAVIANO e a me…$"
+	.string "tutto ciò spetta ad IVAN e a me…$"
 
 Route128_Text_MaxieThisDefiesBelief:
 	.string "MAX: Incredibile…\p"

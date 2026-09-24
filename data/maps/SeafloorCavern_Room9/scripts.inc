@@ -219,21 +219,21 @@ SeafloorCavern_Room9_Movement_Delay32:
 	step_end
 
 SeafloorCavern_Room9_Text_ArchieHoldItRightThere:
-	.string "FLAVIANO: Fermo lì.$"
+	.string "IVAN: Fermo lì.$"
 
 SeafloorCavern_Room9_Text_ArchieSoItWasYou:
-	.string "FLAVIANO: Fufufu…\n"
+	.string "IVAN: Fufufu…\n"
 	.string "Quindi eri tu, dopotutto.$"
 
 SeafloorCavern_Room9_Text_ArchieBeholdKyogre:
-	.string "FLAVIANO: Guarda!\p"
+	.string "IVAN: Guarda!\p"
 	.string "Ammira la bellezza della forma\n"
 	.string "addormentata dell'antico POKéMON\p"
 	.string "KYOGRE! Ho atteso così tanto\n"
 	.string "questo giorno…$"
 
 SeafloorCavern_Room9_Text_ArchieYouMustDisappear:
-	.string "FLAVIANO: Mi sorprende come sei\n"
+	.string "IVAN: Mi sorprende come sei\n"
 	.string "riuscito a inseguirmi fin qui.\p"
 	.string "Ma ora è tutto finito.\p"
 	.string "Per la realizzazione del mio sogno,\n"
@@ -244,7 +244,7 @@ SeafloorCavern_Room9_Text_ArchieDefeat:
 	.string "Ho perso contro un bambino come te?!$"
 
 SeafloorCavern_Room9_Text_ArchieWithThisRedOrb:
-	.string "FLAVIANO: Fufufu…\p"
+	.string "IVAN: Fufufu…\p"
 	.string "Vi faccio i complimenti. Devo ammettere\n"
 	.string "che siete davvero dotati.\p"
 	.string "Ma!\n"
@@ -256,17 +256,17 @@ SeafloorCavern_Room9_Text_RedOrbShinesByItself:
 	.string "da sola!$"
 
 SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo:
-	.string "FLAVIANO: Cosa?!\p"
+	.string "IVAN: Cosa?!\p"
 	.string "Non ho fatto nulla.\n"
 	.string "Perché la SFERA ROSSA…\p"
 	.string "Dove è andato KYOGRE?$"
 
 SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
-	.string "FLAVIANO: Hm? È un messaggio dai nostri\n"
+	.string "IVAN: Hm? È un messaggio dai nostri\n"
 	.string "membri fuori…$"
 
 SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
-	.string "FLAVIANO: Sì, che c'è?\p"
+	.string "IVAN: Sì, che c'è?\p"
 	.string "Hm…\n"
 	.string "Piove forte?\p"
 	.string "Bene… Doveva succedere.\n"
@@ -282,7 +282,7 @@ SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
 	.string "la situazione!$"
 
 SeafloorCavern_Room9_Text_ArchieWhyDidKyogreDisappear:
-	.string "FLAVIANO: C'è qualcosa che non va…\p"
+	.string "IVAN: C'è qualcosa che non va…\p"
 	.string "La SFERA ROSSA dovrebbe risvegliare\n"
 	.string "e controllare KYOGRE…\p"
 	.string "Ma… Perché?\n"
@@ -291,7 +291,7 @@ SeafloorCavern_Room9_Text_ArchieWhyDidKyogreDisappear:
 
 SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
 	.string "MAX: Cosa hai provocato?\p"
-	.string "FLAVIANO… Alla fine hai risvegliato KYOGRE,\n"
+	.string "IVAN… Alla fine hai risvegliato KYOGRE,\n"
 	.string "vero?\p"
 	.string "Cosa accadrà al mondo se questo\n"
 	.string "nubifragio continuerà per l'eternità?\p"
@@ -299,7 +299,7 @@ SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
 	.string "mare che si innalza…$"
 
 SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty:
-	.string "FLAVIANO: C-cosa?!\n"
+	.string "IVAN: C-cosa?!\n"
 	.string "Non fare tanto il superiore con me!\p"
 	.string "Non siete stati voi del TEAM MAGMA\n"
 	.string "a far infuriare GROUDON?\p"
