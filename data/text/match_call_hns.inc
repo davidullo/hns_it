@@ -249,8 +249,8 @@ MatchCall_HNS_Gina_General3::
 	.string "Come stai?\p"
 	.string "Abbiamo lottato contro un\n"
 	.string "{STR_VAR_3} selvatico e\l"
-	.string "l'abbiamo battuto di\l"
-	.string "misura.\p"
+	.string "l'abbiamo battuto\l"
+	.string "facilmente.\p"
 	.string "Stiamo entrando nel\n"
 	.string "ritmo!$"
 

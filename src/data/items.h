@@ -2450,13 +2450,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
         #if B_X_ITEMS_BUFF >= GEN_7
-            "Sharply raises stat\n"
-            "Attack during\n"
-            "one battle."),
+            "Aumenta molto\n"
+            "l'ATTACCO\n"
+            "per una lotta."),
         #else
-            "Raises the stat\n"
-            "Attack during one\n"
-            "battle."),
+            "Aumenta\n"
+            "l'ATTACCO\n"
+            "per una lotta."),
         #endif
         .pocket = POCKET_BATTLE_ITEMS,
         .sortType = ITEM_TYPE_X_ITEM,
@@ -2476,13 +2476,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
         #if B_X_ITEMS_BUFF >= GEN_7
-            "Sharply raises stat\n"
-            "Defense during\n"
-            "one battle."),
+            "Aumenta molto\n"
+            "la DIFESA\n"
+            "per una lotta."),
         #else
-            "Raises the stat\n"
-            "Defense during one\n"
-            "battle."),
+            "Aumenta la\n"
+            "DIFESA\n"
+            "per una lotta."),
         #endif
         .pocket = POCKET_BATTLE_ITEMS,
         .sortType = ITEM_TYPE_X_ITEM,
@@ -2502,13 +2502,12 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
         #if B_X_ITEMS_BUFF >= GEN_7
-            "Sharply raises stat\n"
-            "Sp. Atk during\n"
-            "one battle."),
+            "Aumenta molto\n"
+            "l'ATT. SP.\n"
+            "per una lotta."),
         #else
-            "Raises the stat\n"
-            "Sp. Atk during one\n"
-            "battle."),
+            "Aumenta l'ATT. SP.\n"
+            "per una lotta."),
         #endif
         .pocket = POCKET_BATTLE_ITEMS,
         .sortType = ITEM_TYPE_X_ITEM,
@@ -2528,13 +2527,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
         #if B_X_ITEMS_BUFF >= GEN_7
-            "Sharply raises stat\n"
-            "Sp. Def during\n"
-            "one battle."),
+            "Aumenta molto\n"
+            "la DIF. SP.\n"
+            "per una lotta."),
         #else
-            "Raises the stat\n"
-            "Sp. Def during one\n"
-            "battle."),
+            "Aumenta la\n"
+            "DIF. SP.\n"
+            "per una lotta."),
         #endif
         .pocket = POCKET_BATTLE_ITEMS,
         .sortType = ITEM_TYPE_X_ITEM,
@@ -2554,13 +2553,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
         #if B_X_ITEMS_BUFF >= GEN_7
-            "Sharply raises stat\n"
-            "Speed during\n"
-            "one battle."),
+            "Aumenta molto\n"
+            "la VELOCITÀ\n"
+            "per una lotta."),
         #else
-            "Raises the stat\n"
-            "Speed during one\n"
-            "battle."),
+            "Aumenta la\n"
+            "VELOCITÀ\n"
+            "per una lotta."),
         #endif
         .pocket = POCKET_BATTLE_ITEMS,
         .sortType = ITEM_TYPE_X_ITEM,
@@ -2581,13 +2580,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
         #if B_X_ITEMS_BUFF >= GEN_7
-            "Sharply raises move\n"
-            "accuracy during\n"
-            "one battle."),
+            "Aumenta molto la\n"
+            "precisione delle\n"
+            "mosse."),
         #else
-            "Raises accuracy\n"
-            "of attack moves\n"
-            "during one battle."),
+            "Mosse d'attacco\n"
+            "più precise per\n"
+            "una lotta."),
         #endif
         .pocket = POCKET_BATTLE_ITEMS,
         .sortType = ITEM_TYPE_X_ITEM,
@@ -8435,13 +8434,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = B_SOUL_DEW_BOOST >= GEN_7 ? 20 : 50,
         .description = COMPOUND_STRING(
         #if B_SOUL_DEW_BOOST >= GEN_7
-            "Powers up Latios' &\n"
-            "Latias' Psychic and\n"
-            "Dragon-type moves."),
+            "Potenzia le mosse\n"
+            "Psico e Drago di\n"
+            "Latios e Latias."),
         #else
-            "Hold item: raises\n"
-            "Sp. Atk & Sp. Def of\n"
-            "Latios & Latias."),
+            "Se tenuto, aumenta\n"
+            "ATT. SP. e DIF. SP.\n"
+            "di Latios e Latias."),
         #endif
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_SPECIAL_HELD_ITEM,
@@ -14233,8 +14232,8 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("SALVADANAIO"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Una custodia che\n"
-            "contiene 9.999 Gettoni."),
+            "Può contenere fino\n"
+            "a 9.999 GETTONI."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -15918,12 +15917,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
         #if B_X_ITEMS_BUFF >= GEN_7
-            "Sharply raises\n"
-            "evasiveness during\n"
-            "one battle."),
+            "Aumenta molto\n"
+            "l'elusione\n"
+            "per una lotta."),
         #else
-            "Raises evasiveness\n"
-            "during one battle."),
+            "Aumenta\n"
+            "l'elusione\n"
+            "per una lotta."),
         #endif
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_AUX_ITEM,
@@ -15941,12 +15941,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
         #if B_X_ITEMS_BUFF >= GEN_7
-            "Sharply raises\n"
-            "defenses during\n"
-            "one battle."),
+            "Aumenta molto\n"
+            "le difese\n"
+            "per una lotta."),
         #else
-            "Raises defenses\n"
-            "during one battle."),
+            "Aumenta le\n"
+            "difese per\n"
+            "una lotta."),
         #endif
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_AUX_ITEM,
@@ -15964,12 +15965,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
         #if B_X_ITEMS_BUFF >= GEN_7
-            "Sharply raises\n"
-            "offenses during\n"
-            "one battle."),
+            "Aumenta molto\n"
+            "gli attacchi\n"
+            "per una lotta."),
         #else
-            "Raises offenses\n"
-            "during one battle."),
+            "Aumenta gli\n"
+            "attacchi per\n"
+            "una lotta."),
         #endif
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_AUX_ITEM,
@@ -15987,13 +15989,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
         #if B_X_ITEMS_BUFF >= GEN_7
-            "Sharply raises\n"
-            "offense & defense\n"
-            "during one battle."),
+            "Aumenta molto\n"
+            "attacco e difesa\n"
+            "per una lotta."),
         #else
-            "Raises offense\n"
-            "and defense during\n"
-            "one battle."),
+            "Aumenta attacco\n"
+            "e difesa per\n"
+            "una lotta."),
         #endif
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_AUX_ITEM,
