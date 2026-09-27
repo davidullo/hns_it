@@ -3,13 +3,13 @@ Route29_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route29_OnTransition: 
+Route29_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
 Route29_Trigger_Monview::
 	special SpawnCameraObject
-	applymovement2 OBJ_EVENT_ID_CAMERA, Common_Movement_WalkUp1 
+	applymovement2 OBJ_EVENT_ID_CAMERA, Common_Movement_WalkUp1
 	waitmovement 0
 	applymovement2 OBJ_EVENT_ID_CAMERA, Common_Movement_WalkUp1
 	waitmovement 0
@@ -223,8 +223,8 @@ Route29_Text_TuscanyNope:
 
 Route29_Text_TuscanyGivesGift:
 	.string "Sì! Come presentazione,\n"
-	.string "accetta questo regalo: una SILK\l"
-	.string "SCARF.$"
+	.string "accetta questo regalo: una SCIARPA\l"
+	.string "SETA.$"
 
 Route29_Text_TuscanyGaveGift:
 	.string "TUSCANY: Non trovi\n"
@@ -243,4 +243,3 @@ Route29_Text_TuscanyTuesday:
 Route29_Text_Sign1:
 	.string "PERCORSO 29\p"
 	.string "FIORPESCOPOLI - BORGO FOGLIANOVA$"
-
