@@ -72,7 +72,7 @@ FortreeCity_House2_Text_YourHiddenPowerHasAwoken:
 	.string "potere dei tuoi POKéMON.$"
 
 FortreeCity_House2_Text_ExplainHiddenPower:
-	.string "FORZA NASCOSTA cambia a seconda\n"
+	.string "INTROFORZA cambia a seconda\n"
 	.string "del POKéMON.$"
 
 FortreeCity_House2_Text_YouGuessedWrong:
