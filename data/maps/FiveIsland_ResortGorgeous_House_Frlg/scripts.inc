@@ -191,7 +191,7 @@ FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
 	.string "Lady NOIANNA. Accetti il dono…$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
-	.string "Butler: La tua BORSA è\n"
+	.string "Butler: La tua ZAINO è\n"
 	.string "purtroppo piena.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::

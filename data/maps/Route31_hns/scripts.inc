@@ -235,7 +235,7 @@ Route31_Text_WadeGaveItem:
 	.string "altro!$"
 
 Route31_Text_WadeNoRoom:
-	.string "Hmm, la tua BORSA\n"
+	.string "Hmm, la tua ZAINO\n"
 	.string "è piena.\p"
 	.string "Torna quando hai\n"
 	.string "spazio!$"

@@ -100,7 +100,7 @@ RockTunnel_B1F_Text_AllenDefeat::
 
 RockTunnel_B1F_Text_AllenPostBattle::
 	.string "In montagna si trovano spesso\n"
-	.string "POKéMON di tipo ROCIA.$"
+	.string "POKéMON di tipo ROCCIA.$"
 
 RockTunnel_B1F_Text_MarthaIntro::
 	.string "Non vengo spesso qui, ma ti\n"

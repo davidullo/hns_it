@@ -2938,7 +2938,7 @@ Route119_Text_RachelDefeat:
 
 Route119_Text_RachelPostBattle:
 	.string "Chiedi se il mio parasole è pesante?\n"
-	.string "La tua BORSA è piena di più cianfrusaglie\l"
+	.string "La tua ZAINO è piena di più cianfrusaglie\l"
 	.string "di quante ne porti mai io.$"
 
 Route120_Text_ColinIntro:
@@ -3300,7 +3300,7 @@ Route121_Text_CalePostBattle:
 	.string "Ho comprato troppa roba al\n"
 	.string "CENTRO COMMERCIALE di PORTOVIVO.\p"
 	.string "È su per la strada.\n"
-	.string "Vorrei una BORSA come la tua.$"
+	.string "Vorrei una ZAINO come la tua.$"
 
 Route121_Text_MylesIntro:
 	.string "Non c'è nulla che ami più di\n"

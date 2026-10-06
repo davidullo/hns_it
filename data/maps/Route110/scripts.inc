@@ -942,7 +942,7 @@ Route110_Text_TrainerTipsPrlzSleep:
 
 Route110_Text_TrainerTipsRegisterItems:
 	.string "CONSIGLI ALLENATORI\p"
-	.string "Gli oggetti nella BORSA si riordinano\n"
+	.string "Gli oggetti nella ZAINO si riordinano\n"
 	.string "premendo SELECT.$"
 
 Route110_Text_TrickHouseSign:

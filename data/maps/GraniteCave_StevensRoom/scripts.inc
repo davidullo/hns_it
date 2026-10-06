@@ -114,6 +114,6 @@ GraniteCave_StevensRoom_Text_IveGotToHurryAlong:
 	.string "Ora devo proprio andare.$"
 
 GraniteCave_StevensRoom_Text_OhBagIsFull:
-	.string "Oh, la tua BORSA è piena…\n"
+	.string "Oh, la tua ZAINO è piena…\n"
 	.string "Peccato, allora.$"
 

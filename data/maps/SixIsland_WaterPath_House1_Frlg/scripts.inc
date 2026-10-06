@@ -112,7 +112,7 @@ SixIsland_WaterPath_House1_Text_ThisWontDo::
 	.string "e tosto, e ha un corno stupendo!$"
 
 SixIsland_WaterPath_House1_Text_YourBagIsFull::
-	.string "La tua BORSA è piena.\n"
+	.string "La tua ZAINO è piena.\n"
 	.string "Il mio premio non ci sta.$"
 
 SixIsland_WaterPath_House1_Text_BiggestHeracrossIsXInches::

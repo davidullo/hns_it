@@ -110,7 +110,7 @@ FallarborTown_BattleTentLobby_Text_ReceivedPrize:
 
 FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize:
 	.string "Oh?\n"
-	.string "La tua BORSA è piena.\p"
+	.string "La tua ZAINO è piena.\p"
 	.string "Fai spazio e torna\n"
 	.string "a ritirare il premio.$"
 
@@ -325,7 +325,7 @@ SlateportCity_BattleTentLobby_Text_AwardYouThisPrize:
 SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
 	.string "Oh?\n"
 	.string "Sembra che tu non abbia spazio.\p"
-	.string "Fai spazio nella BORSA e\n"
+	.string "Fai spazio nella ZAINO e\n"
 	.string "avvisami.$"
 
 SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:

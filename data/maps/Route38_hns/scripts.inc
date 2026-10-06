@@ -251,5 +251,5 @@ Route38_Text_DanaGaveItem:
 	.string "altro!$"
 
 Route38_Text_DanaNoRoom:
-	.string "Hmm, la tua BORSA è piena.\p"
+	.string "Hmm, la tua ZAINO è piena.\p"
 	.string "Torna quando avrai spazio.$"

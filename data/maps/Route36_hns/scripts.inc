@@ -368,5 +368,5 @@ Route36_Text_AlanGaveItem:
 	.string "altro!$"
 
 Route36_Text_AlanNoRoom:
-	.string "Hmm, la tua BORSA è piena.\p"
+	.string "Hmm, la tua ZAINO è piena.\p"
 	.string "Torna quando avrai spazio.$"

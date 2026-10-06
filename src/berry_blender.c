@@ -252,7 +252,7 @@ static const u16 sBlenderOuter_Pal[] = INCBIN_U16("graphics/berry_blender/outer.
 static const u16 sUnused_Pal[] = INCBIN_U16("graphics/berry_blender/unused.gbapal");
 static const u16 sEmpty_Pal[16 * 14] = {0};
 
-static const u8 sText_BerryBlenderStart[] = _("Avvio del BERRY BLENDER.\pScegli una BACCA dalla tua BORSA\nda mettere nel BERRY BLENDER.\p");
+static const u8 sText_BerryBlenderStart[] = _("Avvio del BERRY BLENDER.\pScegli una BACCA dalla tua ZAINO\nda mettere nel BERRY BLENDER.\p");
 static const u8 sText_NewParagraph[] = _("\p");
 static const u8 sText_WasMade[] = _(" è stato creato!");
 

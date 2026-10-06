@@ -74,6 +74,6 @@ ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
 	.string "saggezza, quindi accontentati!$"
 
 ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull::
-	.string "Ops, la tua BORSA è piena!\n"
+	.string "Ops, la tua ZAINO è piena!\n"
 	.string "Te lo darò più tardi.$"
 

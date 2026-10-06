@@ -42,7 +42,7 @@ PewterCity_Gym_Text_Brock_Intro:
 	.string "BROCK: Wow, non capita spesso che arrivi\n"
 	.string "una sfida da JOHTO.\p"
 	.string "Sono BROCK, il CAPOPALESTRA\ndi PLUMBEOPOLI.\p"
-	.string "Sono esperto di POKéMON di tipo ROCIA.\p"
+	.string "Sono esperto di POKéMON di tipo ROCCIA.\p"
 	.string "I miei POKéMON sono immuni a quasi\n"
 	.string "tutti gli attacchi fisici. Farai\l"
 	.string "fatica a infliggergli danni.\p"

@@ -2192,7 +2192,7 @@ TVSecretBaseSecrets_Text_UsedMudBall::
 TVSecretBaseSecrets_Text_UsedBag::
 	.string "…Oh?\p"
 	.string "Il visitatore fruga nella sua\n"
-	.string "BORSA e cerca qualcosa!\p"
+	.string "ZAINO e cerca qualcosa!\p"
 	.string "Il visitatore ha tirato fuori\n"
 	.string "un {STR_VAR_2}!\p"
 	.string "Guardate che sorriso mentre\n"

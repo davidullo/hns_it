@@ -275,5 +275,5 @@ NationalPark_Normal_Text_BeverlyGaveItem:
 	.string "tiferemo per te!$"
 
 NationalPark_Normal_Text_BeverlyNoRoom:
-	.string "Hmm, la tua BORSA è piena.\p"
+	.string "Hmm, la tua ZAINO è piena.\p"
 	.string "Torna quando avrai spazio.$"

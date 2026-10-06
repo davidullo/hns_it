@@ -124,7 +124,7 @@ Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
 	.string "Sono sei bottiglie di SODA POP!$"
 
 Route109_SeashoreHouse_Text_BagFull:
-	.string "Oh, però ehi, la tua BORSA è piena zeppa.\n"
+	.string "Oh, però ehi, la tua ZAINO è piena zeppa.\n"
 	.string "Te li tengo io questi.$"
 
 Route109_SeashoreHouse_Text_WantToBuySodaPop:

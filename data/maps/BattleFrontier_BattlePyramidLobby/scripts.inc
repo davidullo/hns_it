@@ -552,10 +552,10 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
 	.string "abiliti e di POKéMON selvatici.\p"
 	.string "Devi entrare con tre POKéMON,\n"
 	.string "senza strumenti tenuti.\p"
-	.string "Salendo, avrai una BORSA LOTTA\n"
+	.string "Salendo, avrai una ZAINO LOTTA\n"
 	.string "per gli strumenti.\p"
 	.string "Se fallisci, ogni strumento\n"
-	.string "nella BORSA LOTTA svanisce.\p"
+	.string "nella ZAINO LOTTA svanisce.\p"
 	.string "Per interrompere la sfida,\n"
 	.string "devi scegliere “RIPOSO”\l"
 	.string "e salvare il gioco.\p"
@@ -602,7 +602,7 @@ BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid:
 	.string "nella PIRAMIDE.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
-	.string "Ti teniamo la BORSA al sicuro,\n"
+	.string "Ti teniamo la ZAINO al sicuro,\n"
 	.string "{PLAYER}, mentre esplori.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag:
@@ -614,8 +614,8 @@ BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag:
 	.string "ZAINO.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag:
-	.string "{PLAYER} ha scambiato la BORSA\n"
-	.string "con la BORSA LOTTA.$"
+	.string "{PLAYER} ha scambiato la ZAINO\n"
+	.string "con la ZAINO LOTTA.$"
 
 BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel:
 	.string "Su questo pannello verrai\n"
@@ -630,9 +630,9 @@ BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag:
 	.string "la sfida l'ultima volta.\p"
 	.string "Quindi la tua sfida è stata\n"
 	.string "squalificata, mi dispiace.\p"
-	.string "Ecco la BORSA che abbiamo\n"
+	.string "Ecco la ZAINO che abbiamo\n"
 	.string "tenuto per te.\p"
-	.string "{PLAYER} ha ripreso la BORSA.$"
+	.string "{PLAYER} ha ripreso la ZAINO.$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid:
 	.string "Che bel rivederti!\p"
@@ -648,7 +648,7 @@ BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake:
 
 BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag:
 	.string "Gli strumenti dei tuoi POKéMON\n"
-	.string "andranno nella BORSA LOTTA, {PLAYER}.$"
+	.string "andranno nella ZAINO LOTTA, {PLAYER}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep:
 	.string "Il BORSELLO NON PUO' contenere\n"
@@ -698,9 +698,9 @@ BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
 	.string "Che delusione per te…\p"
-	.string "Ecco la BORSA che abbiamo\n"
+	.string "Ecco la ZAINO che abbiamo\n"
 	.string "tenuto per te.\p"
-	.string "{PLAYER} ha ripreso la BORSA.$"
+	.string "{PLAYER} ha ripreso la ZAINO.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
 	.string "Ti aspettiamo per la\n"
@@ -896,13 +896,13 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules:
 	.string "sconfiggi un POKéMON o ALLENATORE.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules:
-	.string "La BORSA LOTTA fa da BORSA\n"
+	.string "La ZAINO LOTTA fa da ZAINO\n"
 	.string "dentro la PIRAMIDE.\p"
 	.string "Ci sono due BORSE LOTTA diverse,\n"
 	.string "una per la Livello 50 e\l"
 	.string "una per la Livello Aperta.\p"
 	.string "Ognuna contiene fino a 99 pezzi\n"
 	.string "di dieci tipi di strumenti.\p"
-	.string "Il contenuto della BORSA LOTTA\n"
+	.string "Il contenuto della ZAINO LOTTA\n"
 	.string "si perde se fallisci.$"
 

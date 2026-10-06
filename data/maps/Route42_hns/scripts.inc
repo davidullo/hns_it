@@ -305,5 +305,5 @@ Route42_Text_TullyGaveItem:
 	.string "prendo altro!$"
 
 Route42_Text_TullyNoRoom:
-	.string "Hmm, la tua BORSA è piena.\p"
+	.string "Hmm, la tua ZAINO è piena.\p"
 	.string "Torna quando avrai spazio.$"

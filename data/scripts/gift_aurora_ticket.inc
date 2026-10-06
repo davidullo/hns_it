@@ -52,6 +52,6 @@ sText_AuroraTicketThankYou:
 
 sText_AuroraTicketBagFull:
 	.string "Oh, mi dispiace, {PLAYER}.\n"
-	.string "La tasca STRUMENTI della BORSA è piena.\p"
+	.string "La tasca STRUMENTI della ZAINO è piena.\p"
 	.string "Metti qualcosa nel PC,\n"
 	.string "poi torna a prendere questo.$"

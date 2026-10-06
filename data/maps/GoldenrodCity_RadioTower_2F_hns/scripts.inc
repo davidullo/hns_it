@@ -259,7 +259,7 @@ GoldenrodCity_RadioTower_2F_Text_BuenaAlreadyPlayed:
 
 GoldenrodCity_RadioTower_2F_Text_BuenaBagFull:
 	.string "BUENA: Hai indovinato, ma\n"
-	.string "la BORSA è piena!\p"
+	.string "la ZAINO è piena!\p"
 	.string "Fai spazio e torna\n"
 	.string "a parlarmi!$"
 

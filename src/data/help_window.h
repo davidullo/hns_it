@@ -19,7 +19,7 @@ const struct HelpWindow gHelpWindowInfo[] =
         .header = COMPOUND_STRING("Informazioni: Altre Opzioni"),
         .desc = COMPOUND_STRING("L'orologio si può cambiare da qualsiasi\n"
                                 "CENTRO POKéMON senza penalità.\n"
-                                "Controlla gli STRUMENTI nella BORSA\n"
+                                "Controlla gli STRUMENTI nella ZAINO\n"
                                 "e il MENU OPZIONI per altre\n"
                                 "modi di personalizzare l'esperienza.\n"
                                 "Buon divertimento!"

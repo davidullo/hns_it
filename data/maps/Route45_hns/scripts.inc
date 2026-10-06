@@ -218,7 +218,7 @@ Route45_Text_KenjiGaveItem:
     .string "allenarmi. Oooooaaarrrgh!$"
 
 Route45_Text_KenjiNoRoom:
-    .string "Hmm, la tua BORSA è piena.\p"
+    .string "Hmm, la tua ZAINO è piena.\p"
     .string "Torna quando avrai spazio.$"
 
 Route45_Text_BlackbeltKenjiMorning:

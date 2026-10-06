@@ -90,7 +90,7 @@ ThreeIsland_BerryForest_Text_LetsGoHome::
 	.string "Andiamo a casa!$"
 
 ThreeIsland_BerryForest_Text_BerryPouchIsFull::
-	.string "La tua BORSA delle BACCHE è piena.\n"
+	.string "La tua ZAINO delle BACCHE è piena.\n"
 	.string "Immagino che non la voglia.$"
 
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::

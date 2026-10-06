@@ -356,7 +356,7 @@ const u8 gText_MatchCallPkmnTrainer_Wally_Pokemon[] = _("Il 1º POKéMON che pre
 const u8 gText_MatchCallPkmnTrainer_Wally_Intro1[] = _("Io e i POKéMON siamo");
 const u8 gText_MatchCallPkmnTrainer_Wally_Intro2[] = _("cresciuti insieme.");
 
-const u8 gText_MatchCallRockinWhiz_Roxanne_Strategy[] = _("Attacco di tipo ROCIA.");
+const u8 gText_MatchCallRockinWhiz_Roxanne_Strategy[] = _("Attacco di tipo ROCCIA.");
 const u8 gText_MatchCallRockinWhiz_Roxanne_Pokemon[] = _("Preferisco POKéMON duri.");
 const u8 gText_MatchCallRockinWhiz_Roxanne_Intro1[] = _("Un CAPO di una grande");
 const u8 gText_MatchCallRockinWhiz_Roxanne_Intro2[] = _("PALESTRA ha responsabilità.");

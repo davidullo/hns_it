@@ -405,7 +405,7 @@ Route116_Text_NewBallAvailableAtMart:
 	.string "Grazie e ciao ciao!$"
 
 Route116_Text_BagIsJamPacked:
-	.string "La tua BORSA è piena zeppa.\n"
+	.string "La tua ZAINO è piena zeppa.\n"
 	.string "Non posso darti questa REPEAT BALL.$"
 
 Route116_Text_TokenOfAppreciation:
@@ -462,9 +462,9 @@ Route116_Text_TrainerTipsBToStopEvolution:
 
 Route116_Text_TrainerTipsBagHasPockets:
 	.string "CONSIGLI PER ALLENATORI\p"
-	.string "La tua BORSA ha diverse TASCHE.\p"
+	.string "La tua ZAINO ha diverse TASCHE.\p"
 	.string "Gli oggetti che trovi finiscono\n"
 	.string "da soli nella TASCA giusta.\p"
 	.string "Nessun ALLENATORE può fare a meno\n"
-	.string "di una BORSA tutta sua.$"
+	.string "di una ZAINO tutta sua.$"
 

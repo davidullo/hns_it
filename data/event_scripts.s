@@ -1473,7 +1473,7 @@ gText_SandstormIsVicious::
 	.string "Impossibile continuare così.$"
 
 gText_SelectWithoutRegisteredItem::
-	.string "Un oggetto nella BORSA può essere\n"
+	.string "Un oggetto nella ZAINO può essere\n"
 	.string "registrato su SELECT per usarlo al volo.$"
 
 gText_SelectWithoutRegisteredHoldItem::

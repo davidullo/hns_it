@@ -263,7 +263,7 @@ Route101_Text_HelpMe:
 Route101_Text_PleaseHelp:
 	.string "Ehi! Tu, laggiù!\n"
 	.string "Ti prego! Aiuto!\p"
-	.string "Nella mia BORSA!\n"
+	.string "Nella mia ZAINO!\n"
 	.string "C'è una POKé BALL!$"
 
 Route101_Text_DontLeaveMe:
