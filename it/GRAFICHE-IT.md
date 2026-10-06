@@ -8,14 +8,14 @@ Lista ottenuta con OCR (tesseract, upscale 8x) su tutte le PNG di `graphics/`:
 il metodo e' in `pokehns-ita-translation/references/grafiche-con-testo.md`.
 Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 
-**Progressi: 14 / 91 file**
+**Progressi: 15 / 91 file**
 
 | gruppo | fatti | totale |
 |---|---|---|
 | Riepilogo Pokémon | 1 | 3 |
 | Interfaccia e menu mosse | 5 | 6 |
 | Box Pokémon | 1 | 1 |
-| Pokédex | 0 | 15 |
+| Pokédex | 1 | 15 |
 | PokéNav | 0 | 22 |
 | Scheda allenatore e Frontier Pass | 0 | 5 |
 | Gare e Pokéblock | 0 | 5 |
@@ -44,9 +44,9 @@ Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 
 - [x] `graphics/pokemon_storage/menu.png` — CLOSE e voci del menu del box
 
-## Pokédex (0/15)
+## Pokédex (1/15)
 
-- [ ] `graphics/pokedex/menu.png` — CANCEL / BACK TO LIST / LIST TOP / LIST BOTTOM / BACK TO POKEDEX / CLOSE POKEDEX
+- [x] `graphics/pokedex/menu.png` — CANCEL / BACK TO LIST / LIST TOP / LIST BOTTOM / BACK TO POKEDEX / CLOSE POKEDEX
 - [ ] `graphics/pokedex/interface.png` — SELECT / SEARCH / START / MENU
 - [ ] `graphics/pokedex/search_menu.png` — SEARCH
 - [ ] `graphics/pokedex/area_unknown.png` — AREA UNKNOWN
