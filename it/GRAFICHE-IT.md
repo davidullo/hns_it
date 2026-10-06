@@ -8,20 +8,20 @@ Lista ottenuta con OCR (tesseract, upscale 8x) su tutte le PNG di `graphics/`:
 il metodo e' in `pokehns-ita-translation/references/grafiche-con-testo.md`.
 Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 
-**Progressi: 3 / 90 file**
+**Progressi: 7 / 90 file**
 
 | gruppo | fatti | totale |
 |---|---|---|
 | Riepilogo Pokémon | 1 | 3 |
 | Interfaccia e menu mosse | 2 | 5 |
-| Box Pokémon | 0 | 1 |
+| Box Pokémon | 1 | 1 |
 | Pokédex | 0 | 15 |
 | PokéNav | 0 | 22 |
 | Scheda allenatore e Frontier Pass | 0 | 5 |
 | Gare e Pokéblock | 0 | 5 |
 | Stato in battaglia | 0 | 12 |
 | Titolo e intro | 0 | 5 |
-| Voci singole | 0 | 17 |
+| Voci singole | 3 | 17 |
 
 ---
 
@@ -39,9 +39,9 @@ Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 - [ ] `graphics/battle_interface/move_info_window_l.png` — START
 - [ ] `graphics/bag/check_berry.png` — BITTER / SOUR / SWEET / DRY / SPICY
 
-## Box Pokémon (0/1)
+## Box Pokémon (1/1)
 
-- [ ] `graphics/pokemon_storage/menu.png` — CLOSE e voci del menu del box
+- [x] `graphics/pokemon_storage/menu.png` — CLOSE e voci del menu del box
 
 ## Pokédex (0/15)
 
@@ -125,12 +125,12 @@ Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 - [ ] `graphics/title_screen/emerald_version.png` — versione di Smeraldo mostrata sul titolo
 - [ ] `graphics/title_screen/hns/emerald_version.png` — versione di Smeraldo mostrata sul titolo
 
-## Voci singole (0/17)
+## Voci singole (3/17)
 
-- [ ] `graphics/naming_screen/back_button.png` — BACK
-- [ ] `graphics/naming_screen/ok_button.png` — OK / START
+- [x] `graphics/naming_screen/back_button.png` — BACK
+- [x] `graphics/naming_screen/ok_button.png` — OK / START
 - [ ] `graphics/naming_screen/page_swap_frame.png`
-- [ ] `graphics/easy_chat/button_window.png` — DELETE
+- [x] `graphics/easy_chat/button_window.png` — DELETE
 - [ ] `graphics/union_room_chat/background.png` — BACK / SWITCH
 - [ ] `graphics/link/321start.png` — 3 / 2 / 1 / START
 - [ ] `graphics/link/321start_static.png` — 3 / 2 / 1 / START
