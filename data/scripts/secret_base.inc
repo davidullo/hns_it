@@ -5,7 +5,7 @@ SecretBase_Text_TreeCanBeClimbed:
 SecretBase_Text_TreeUseSecretPower:
 	.string "Se cadessero delle liane, questo albero\n"
 	.string "si potrebbe arrampicare.\p"
-	.string "Usare SECRET POWER?$"
+	.string "Usare FORZASEGRETA?$"
 
 SecretBase_Text_VineDroppedDown:
 	.string "È caduta giù una liana spessa!$"
@@ -17,7 +17,7 @@ SecretBase_Text_ClumpOfGrass:
 SecretBase_Text_ClumpUseSecretPower:
 	.string "Se questo ciuffo d'erba si può spostare,\n"
 	.string "forse si può entrare.\p"
-	.string "Usare SECRET POWER?$"
+	.string "Usare FORZASEGRETA?$"
 
 SecretBase_Text_DiscoveredSmallEntrance:
 	.string "Scoperto un piccolo ingresso!$"
@@ -735,4 +735,4 @@ SecretBase_Text_WouldYouLikeToMoveBases:
 
 SecretBase_Text_MovingCompletedUseSecretPower:
 	.string "Spostamento completato.\p"
-	.string "Vuoi usare SECRET POWER?$"
+	.string "Vuoi usare FORZASEGRETA?$"

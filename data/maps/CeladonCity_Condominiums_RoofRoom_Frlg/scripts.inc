@@ -153,5 +153,5 @@ CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs::
 	.string "In tutto sono cinquanta MT.\p"
 	.string "Ci sono anche sette MN che\n"
 	.string "si possono usare sempre.\p"
-	.string "SILPH CO.$"
+.string "SILPH S.P.A.$"
 

@@ -137,16 +137,16 @@ SaffronCity_SilphCo_EventScript_Sign2::
 	end
 
 SilphCo_Text_Sign1:
-	.string "SILPH CO.\n"
+.string "SILPH S.P.A.\n"
 	.string "RECEPTION 1P$"
 
 SilphCo_Text_Sign2:
-	.string "SILPH CO.\n"
+.string "SILPH S.P.A.\n"
 	.string "ASCENSORE GUASTO$"
 
 SilphCo_Text_Receptionist:
 	.string "Benvenuto. Questo è il PALAZZO\n"
-	.string "DELLA SILPH CO.$"
+.string "DELLA SILPH S.P.A.$"
 
 SilphCo_Text_Officer:
 	.string "Solo i dipendenti possono\n"
@@ -156,5 +156,5 @@ SilphCo_Text_Officer:
 	.string "ecco un bel souvenir.$"
 
 SilphCo_Text_Officer_GotUpGrade:
-	.string "È l'ultimo prodotto della SILPH CO.\p"
+.string "È l'ultimo prodotto della SILPH S.P.A.\p"
 	.string "Non è ancora in vendita.$"

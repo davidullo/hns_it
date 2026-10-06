@@ -37,7 +37,7 @@ FarawayIsland_Entrance_Text_SailorReturn:
 #if IS_HNS
 	.string "Vuoi tornare ad OLIVINOPOLI?$"
 #else
-	.string "Do you want to return to LILYCOVE?$"
+.string "Vuoi tornare a PORTO ALGHEPOLI?$"
 #endif
 
 BirthIsland_Harbor_Text_SailorReturn:
@@ -45,7 +45,7 @@ BirthIsland_Harbor_Text_SailorReturn:
 #if IS_HNS
 	.string "Vuoi tornare ad OLIVINOPOLI?$"
 #else
-	.string "Do you want to return to LILYCOVE?$"
+.string "Vuoi tornare a PORTO ALGHEPOLI?$"
 #endif
 
 EventTicket_Text_OddTicketsWhereTo:

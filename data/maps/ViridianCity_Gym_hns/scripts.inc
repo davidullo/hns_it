@@ -88,7 +88,7 @@ ViridianCity_Gym_Text_LeaderBlue_GiveTM:
 	.string "Prendi questo.$"
 
 ViridianCity_Gym_Text_LeaderBlue_ExplainTM:
-	.string "Questa è TRICK ROOM.\p"
+	.string "Questa è DISTORTOZONA.\p"
 	.string "I POKéMON in lotta cambiano velocità.\n"
 	.string "I lenti vanno prima. I veloci dopo.\p"
 	.string "Usala per ribaltare la lotta.$"

@@ -409,7 +409,7 @@ DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
 	.string "MT.$"
 
 DewfordTown_Gym_Text_ExplainBulkUp:
-	.string "La MT08 contiene BULK UP.\p"
+	.string "La MT08 contiene GRANFISICO.\p"
 	.string "È una mossa che alza ATTACCO\n"
 	.string "e DIFESA.\p"
 	.string "… … … … … …$"

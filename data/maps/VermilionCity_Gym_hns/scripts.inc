@@ -319,7 +319,7 @@ VermilionGym_Text_LtSurge_GiveTM:
 	.string "in guerra!$"
 
 VermilionGym_Text_LtSurge_ExplainTM:
-	.string "È SHOCK WAVE.\p"
+	.string "È ONDASHOCK.\p"
 	.string "Una mossa incredibilmente precisa\n"
 	.string "che colpisce sempre!$"
 

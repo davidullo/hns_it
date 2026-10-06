@@ -315,7 +315,7 @@ VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
 	.string "da LT. SURGE.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
-	.string "La MT34 contiene SHOCK WAVE!\p"
+	.string "La MT34 contiene ONDASHOCK!\p"
 	.string "Insegnamola a un POKéMON ELETTRICO!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::

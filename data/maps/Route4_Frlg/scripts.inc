@@ -44,14 +44,14 @@ Text_MegaPunchTeach::
 	.string "Un pugno di ruggente ferocia!\p"
 	.string "Carico di potere distruttivo!\p"
 	.string "Nei momenti difficili,\n"
-	.string "MEGA PUNCH è l'attacco supremo!\l"
+	.string "MEGAPUGNO è l'attacco supremo!\l"
 	.string "D'accordo, sì?\p"
 	.string "Ora!\n"
 	.string "Lascia che lo insegni ai tuoi POKéMON!$"
 
 Text_MegaPunchDeclined::
 	.string "Tornerai quando capirai\n"
-	.string "il valore di MEGA PUNCH.$"
+	.string "il valore di MEGAPUGNO.$"
 
 Text_MegaPunchWhichMon::
 	.string "Bene!\n"
@@ -68,14 +68,14 @@ Text_MegaKickTeach::
 	.string "Un calcio di brutale ferocia!\p"
 	.string "Carico di potere distruttivo!\p"
 	.string "A conti fatti,\n"
-	.string "MEGA KICK è l'attacco supremo!\l"
+	.string "MEGACALCIO è l'attacco supremo!\l"
 	.string "Non sei d'accordo?\p"
 	.string "Bene!\n"
 	.string "Lo insegno ai tuoi POKéMON!$"
 
 Text_MegaKickDeclined::
 	.string "Tornerai strisciando quando\n"
-	.string "capirai il valore di MEGA KICK.$"
+	.string "capirai il valore di MEGACALCIO.$"
 
 Text_MegaKickWhichMon::
 	.string "Bene!\n"

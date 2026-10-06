@@ -165,6 +165,6 @@ SilphCo_6F_Text_Grunt2PostBattle::
 	.string "tradisci noi cattivi!$"
 
 SilphCo_6F_Text_FloorSign::
-	.string "SEDE SILPH CO.\n"
+.string "SEDE SILPH S.P.A.\n"
 	.string "6P$"
 

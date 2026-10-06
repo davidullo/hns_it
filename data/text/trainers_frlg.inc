@@ -853,7 +853,7 @@ SixIsland_OutcastIsland_Text_GebRematchIntro::
 
 SixIsland_GreenPath_Text_JaclynRematchIntro::
 	.string "…Eh?\p"
-	.string "Penso a casa mia, ma il TELEPORT\n"
+.string "Penso a casa mia, ma il TELETRASPORTO\n"
 	.string "mi porta sempre qui!$"
 
 SixIsland_WaterPath_Text_RoseRematchIntro::

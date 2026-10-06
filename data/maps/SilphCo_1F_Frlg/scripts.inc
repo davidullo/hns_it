@@ -20,6 +20,6 @@ SilphCo_1F_Text_WelcomePresidentInBoardroom::
 	.string "all'11F.$"
 
 SilphCo_1F_Text_FloorSign::
-	.string "SILPH CO. SEDE CENTRALE\n"
+.string "SILPH S.P.A. SEDE CENTRALE\n"
 	.string "1P$"
 

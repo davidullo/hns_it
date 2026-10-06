@@ -35,7 +35,7 @@ SilphCo_3F_EventScript_Grunt::
 	end
 
 SilphCo_3F_Text_WhatAmIToDo::
-	.string "Lavoro per la SILPH CO.\n"
+.string "Lavoro per la SILPH S.P.A.\n"
 	.string "Che cosa devo fare?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
@@ -54,7 +54,7 @@ SilphCo_3F_Text_GruntPostBattle::
 
 SilphCo_3F_Text_JoseIntro::
 	.string "Sto dalla parte del TEAM ROCKET più\n"
-	.string "che della SILPH CO.!$"
+.string "che della SILPH S.P.A.!$"
 
 SilphCo_3F_Text_JoseDefeat::
 	.string "Mi hai battuto davvero!$"
@@ -65,6 +65,6 @@ SilphCo_3F_Text_JosePostBattle::
 	.string "avessi aiutati, avrei studiato i POKéMON.$"
 
 SilphCo_3F_Text_FloorSign::
-	.string "SILPH CO. SEDE CENTRALE\n"
+.string "SILPH S.P.A. SEDE CENTRALE\n"
 	.string "3P$"
 

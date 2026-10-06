@@ -37,7 +37,7 @@ Text_SeismicTossTeach::
 	.string "Ma questo ci deve spronare a\n"
 	.string "studiare, non a gettare la spugna.\p"
 	.string "L'unica cosa da gettare…\p"
-	.string "Ehm, che ne dici di SEISMIC TOSS?\n"
+	.string "Ehm, che ne dici di MOVIM. SISMICO?\n"
 	.string "Lo insegno a un POKéMON?$"
 
 Text_SeismicTossDeclined::
@@ -46,7 +46,7 @@ Text_SeismicTossDeclined::
 
 Text_SeismicTossWhichMon::
 	.string "Quale POKéMON vuole imparare\n"
-	.string "SEISMIC TOSS?$"
+	.string "MOVIM. SISMICO?$"
 
 Text_SeismicTossTaught::
 	.string "Spero che non getterai la spugna.\n"

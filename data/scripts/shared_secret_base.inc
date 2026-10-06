@@ -206,7 +206,7 @@ SecretBase_Text_SmallIndentInWall::
 
 SecretBase_Text_IndentUseSecretPower::
 	.string "C'è una piccola fessura nel muro.\p"
-	.string "Usare SECRET POWER?$"
+	.string "Usare FORZASEGRETA?$"
 
 SecretBase_Text_DiscoveredSmallCavern::
 	.string "Scoperta una piccola caverna!$"

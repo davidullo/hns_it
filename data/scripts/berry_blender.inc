@@ -21,7 +21,7 @@ BerryBlender_Text_LetsBerryBlender:
 BerryBlender_Text_ExplainBerryBlending:
 	.string "Va bene, allora una piccola spiegazione.\p"
 	.string "Oh, non preoccuparti, è molto semplice.\p"
-	.string "Quando la freccia del BLENDER arriva\n"
+	.string "Quando la freccia del MIXER arriva\n"
 	.string "sul tuo segno, premi il tasto A.\p"
 	.string "Tutto qui quello che devi fare.\n"
 	.string "Vedrai quanto è facile quando provi.$"
@@ -85,7 +85,7 @@ BerryBlender_Text_LetsBerryBlender2:
 BerryBlender_Text_ExplainBerryBlending2:
 	.string "Okay!\n"
 	.string "Te lo spiego io!\p"
-	.string "Quando la freccia del BLENDER\n"
+	.string "Quando la freccia del MIXER\n"
 	.string "raggiunge il tuo segno, premi\l"
 	.string "il tasto A.\p"
 	.string "Tutto qui.\n"
@@ -135,7 +135,7 @@ BerryBlender_Text_LetsBerryBlender3:
 BerryBlender_Text_ExplainBerryBlending3:
 	.string "Oh, cielo!\p"
 	.string "Allora te lo spiego per bene.\p"
-	.string "Quando la freccia del BLENDER va\n"
+	.string "Quando la freccia del MIXER va\n"
 	.string "sul tuo segno, premi il tasto A.\p"
 	.string "Tutto qui.\n"
 	.string "Semplice, no?$"
@@ -163,7 +163,7 @@ BerryBlender_Text_DontHavePokeblockCase3:
 
 BerryBlender_Text_SetNewBlenderRecord:
 	.string "Oggi è il giorno in cui batterò\n"
-	.string "il record di velocità del BLENDER!$"
+	.string "il record di velocità del MIXER!$"
 
 BerryBlender_Text_LookGoodAtBlendingJoinUs:
 	.string "Oh, cielo!\n"
@@ -258,7 +258,7 @@ BerryBlender_EventScript_TooWeakToBlend::
 	end
 
 BerryBlender_Text_TooWeakToBlend::
-	.string "MAESTRO BLENDER: Mmmh! Vuoi\n"
+	.string "MAESTRO MIX: Mmmh! Vuoi\n"
 	.string "vedere la mia maestria in azione?\p"
 	.string "Mi spiace, ma la mia tecnica è\n"
 	.string "troppo avanzata per un novizio.\p"

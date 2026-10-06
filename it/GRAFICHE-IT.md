@@ -8,7 +8,7 @@ Lista ottenuta con OCR (tesseract, upscale 8x) su tutte le PNG di `graphics/`:
 il metodo e' in `pokehns-ita-translation/references/grafiche-con-testo.md`.
 Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 
-**Progressi: 10 / 91 file**
+**Progressi: 14 / 91 file**
 
 | gruppo | fatti | totale |
 |---|---|---|
@@ -19,7 +19,7 @@ Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 | PokéNav | 0 | 22 |
 | Scheda allenatore e Frontier Pass | 0 | 5 |
 | Gare e Pokéblock | 0 | 5 |
-| Stato in battaglia | 0 | 12 |
+| Stato in battaglia | 4 | 12 |
 | Titolo e intro | 0 | 5 |
 | Voci singole | 3 | 17 |
 
@@ -103,7 +103,7 @@ Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 - [ ] `graphics/pokeblock/use_screen/updown.png` — UP / DOWN
 - [ ] `graphics/pokeblock/menu.png` — FEEL
 
-## Stato in battaglia (0/12)
+## Stato in battaglia (4/12)
 
 - [ ] `graphics/battle_interface/status.png` — PSN / PAR / SLP / FRZ / BRN / FNT
 - [ ] `graphics/battle_interface/status2.png` — PSN / PAR / SLP / FRZ / BRN / FNT
@@ -113,10 +113,10 @@ Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 - [ ] `graphics/battle_interface/gen4/status2.png` — PSN / PAR / SLP / FRZ / BRN / FNT
 - [ ] `graphics/battle_interface/gen4/status3.png` — PSN / PAR / SLP / FRZ / BRN / FNT
 - [ ] `graphics/battle_interface/gen4/status4.png` — PSN / PAR / SLP / FRZ / BRN / FNT
-- [ ] `graphics/battle_interface/hns/status.png` — PSN / PAR / SLP / FRZ / BRN / FNT
-- [ ] `graphics/battle_interface/hns/status2.png` — PSN / PAR / SLP / FRZ / BRN / FNT
-- [ ] `graphics/battle_interface/hns/status3.png` — PSN / PAR / SLP / FRZ / BRN / FNT
-- [ ] `graphics/battle_interface/hns/status4.png` — PSN / PAR / SLP / FRZ / BRN / FNT
+- [x] `graphics/battle_interface/hns/status.png` — PSN / PAR / SLP / FRZ / BRN / FNT
+- [x] `graphics/battle_interface/hns/status2.png` — PSN / PAR / SLP / FRZ / BRN / FNT
+- [x] `graphics/battle_interface/hns/status3.png` — PSN / PAR / SLP / FRZ / BRN / FNT
+- [x] `graphics/battle_interface/hns/status4.png` — PSN / PAR / SLP / FRZ / BRN / FNT
 
 ## Titolo e intro (0/5)
 

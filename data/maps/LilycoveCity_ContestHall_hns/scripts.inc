@@ -370,7 +370,7 @@ LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext_hns:
 
 LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife_hns:
 	.string "Oh, no, no!\p"
-	.string "Il LEECH LIFE del mio ZUBAT è così\n"
+	.string "Il SANGUISUGA del mio ZUBAT è così\n"
 	.string "carino che l'ho usato all'infinito!\p"
 	.string "Ma questa gente antipatica non lo\n"
 	.string "apprezza affatto!$"
@@ -419,7 +419,7 @@ LilycoveCity_ContestHall_Text_OverdidGrooming_hns:
 	.string "Che faccio?$"
 
 LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam_hns:
-	.string "Questo AURORA BEAM è così abbagliante\n"
+	.string "Questo RAGGIAURORA è così abbagliante\n"
 	.string "che il GIUDICE non lo vedrà.\p"
 	.string "Uh, aspetta un attimo…\n"
 	.string "Allora non servirebbe a niente!$"
@@ -469,7 +469,7 @@ LilycoveCity_ContestHall_Text_NeverWonBattleButContest_hns:
 	.string "lotta, ma mettilo in una GARA e vedrai!$"
 
 LilycoveCity_ContestHall_Text_PetalDanceIsMarvel_hns:
-	.string "Il PETAL DANCE del mio POKéMON è una\n"
+	.string "Il PETALODANZA del mio POKéMON è una\n"
 	.string "meraviglia di eleganza.\p"
 	.string "Non lascerò che nessuno disturbi\n"
 	.string "la sua esibizione.$"

@@ -12,7 +12,7 @@ SixIsland_GreenPath_EventScript_LeftRouteSign::
 SixIsland_GreenPath_Text_JaclynIntro::
 	.string "…Eh?\p"
 	.string "Pensavo alla mia casa, ma\n"
-	.string "sono finita qui col TELEPORT?$"
+.string "sono finita qui col TELETRASPORTO?$"
 
 SixIsland_GreenPath_Text_JaclynDefeat::
 	.string "Che sconfitta!$"

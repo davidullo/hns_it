@@ -78,7 +78,7 @@ SilphCo_2F_Text_Grunt2Defeat::
 	.string "Ho toppato!$"
 
 SilphCo_2F_Text_Grunt2PostBattle::
-	.string "La SILPH CO. sarà associata al\n"
+.string "La SILPH S.P.A. sarà associata al\n"
 	.string "TEAM ROCKET!$"
 
 Text_ThunderWaveTeach::
@@ -106,6 +106,6 @@ Text_ThunderWaveTaught::
 	.string "non funziona su alcuni POKéMON.$"
 
 SilphCo_2F_Text_FloorSign::
-	.string "SILPH CO. SEDE CENTRALE\n"
+.string "SILPH S.P.A. SEDE CENTRALE\n"
 	.string "2P$"
 

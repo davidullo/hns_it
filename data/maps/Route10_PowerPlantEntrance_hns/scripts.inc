@@ -140,7 +140,7 @@ Route10_PowerPlantEntrance_Text_Engineer2PowerPlantUpAndRunning:
 	.string "Questa CENTRALE era\n"
 	.string "abbandonata in passato.\p"
 	.string "L'abbiamo rimessa in funzione per\n"
-	.string "dare energia al MAGNET\l"
+.string "dare energia al MAGNETOTRENO.$"
 	.string "TRAIN.$"
 
 Route10_PowerPlantEntrance_Text_Engineer2GeneratorIsRunningAgain:
@@ -158,7 +158,7 @@ Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenCheerful:
 	.string "il MANAGER è allegro.$"
 
 Route10_PowerPlantEntrance_Text_Engineer4MagnetTrainConsumesElectricity:
-	.string "Il MAGNET TRAIN consuma molta\n"
+.string "Il MAGNETOTRENO consuma molta\n"
 	.string "elettricità.\p"
 	.string "Non può muoversi se il nuovo\n"
 	.string "generatore non funziona.$"
@@ -215,4 +215,4 @@ Route10_PowerPlantEntrance_Text_TradeCompleted:
 
 Route10_PowerPlantEntrance_Text_Engineer4WeCanGetMagnetTrainRunning:
 	.string "Bene! Possiamo finalmente rimettere\n"
-	.string "in moto il MAGNET TRAIN.$"
+.string "in moto il MAGNETOTRENO.$"

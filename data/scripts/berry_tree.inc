@@ -496,7 +496,7 @@ BerryTree_EventScript_UseMulch::
 
 BerryTree_Text_WantToMulch:
 	.string "It's soft, loamy soil.\n"
-	.string "Put down some fertilizer?$"
+.string "Vuoi mettere del fertilizzante?$"
 
 BerryTree_Text_ScatteredMulch:
 	.string "{PLAYER} scattered the {STR_VAR_1}\n"

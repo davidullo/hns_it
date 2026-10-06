@@ -1725,7 +1725,7 @@ LilycoveCity_ContestLobby_Text_ExplainLinkContest:
 	.string "una POKéMON Emerald Game Pak.\p"
 	.string "La G-MODE (GLOBAL MODE) è solo per\n"
 	.string "quattro giocatori, ognuno con una\l"
-	.string "POKéMON Emerald, Ruby o Sapphire.\p"
+.string "POKéMON Smeraldo, Rubino o Zaffiro.\p"
 	.string "I giocatori dovrebbero discutere quale\n"
 	.string "modalità vogliono, poi sceglierla uguale.\p"
 	.string "Quando tutti i giocatori hanno scelto\n"

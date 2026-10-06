@@ -9,7 +9,7 @@ Route111_Text_MakingRoomUseTMToMakeYourOwn:
 Route111_Text_ExplainSecretPower:
 	.string "Trova un albero grande che sembri\n"
 	.string "sul punto di far cadere liane.\p"
-	.string "Usa SECRET POWER davanti all'albero.\n"
+	.string "Usa FORZASEGRETA davanti all'albero.\n"
 	.string "Qualche liana si libererà e cadrà,\l"
 	.string "così potrai arrampicarti.\p"
 	.string "Troverai tanto spazio per mettere\n"
@@ -19,7 +19,7 @@ Route111_Text_ExplainSecretPower:
 	.string "Dovresti farne una anche tu.\p"
 	.string "Un'altra cosa: non devi per forza\n"
 	.string "fare la BASE SEGRETA su un albero.\p"
-	.string "Prova a usare SECRET POWER sulle pareti\n"
+	.string "Prova a usare FORZASEGRETA sulle pareti\n"
 	.string "rocciose con delle fessure.\p"
 	.string "Cercherò anche altri posti.\n"
 	.string "Okay, ciao!$"

@@ -128,7 +128,7 @@ SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
 	.string "in grado di evolversi con lo scambio.$"
 
 SilphCo_5F_Text_FloorSign::
-	.string "SEDE SILPH CO.\n"
+.string "SEDE SILPH S.P.A.\n"
 	.string "5P$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::

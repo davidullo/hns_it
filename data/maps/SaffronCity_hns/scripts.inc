@@ -126,7 +126,7 @@ SaffronCity_Text_CooltrainerM:
 	.string "Che figuraccia.$"
 
 SaffronCity_Text_CooltrainerF:
-	.string "Questa è la SILPH CO., famosa per\n"
+.string "Questa è la SILPH S.P.A., famosa per\n"
 	.string "il merchandising POKéMON.\p"
 	.string "In passato il TEAM ROCKET la\n"
 	.string "voleva proprio per quello.$"
@@ -174,7 +174,7 @@ SaffronCity_Text_FightingDojoSign:
 	.string "DOJO LOTTA$"
 
 SaffronCity_Text_SilphCoSign:
-	.string "SILPH CO.\n"
+.string "SILPH S.P.A.\n"
 	.string "PALAZZO$"
 
 SaffronCity_Text_MrPsychicHouseSign:

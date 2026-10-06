@@ -174,7 +174,7 @@ MoveTutor_Text_DynamicPunchTeach:
 	.string "Ehi, non guardarmi così!\n"
 	.string "Sto solo colpendo il suolo!\p"
 	.string "O vuoi che insegni al tuo\n"
-	.string "POKéMON DYNAMICPUNCH?$"
+	.string "POKéMON DINAMIPUGNO?$"
 
 MoveTutor_Text_DynamicPunchDeclined:
 	.string "Dannazione! Mi prendi in giro?\n"
@@ -186,7 +186,7 @@ MoveTutor_Text_DynamicPunchWhichMon:
 
 MoveTutor_Text_DynamicPunchTaught:
 	.string "Voglio che vinca alla PALESTRA di\n"
-	.string "CELESTOPOLI con quel DYNAMICPUNCH!$"
+	.string "CELESTOPOLI con quel DINAMIPUGNO!$"
 
 MoveTutor_Text_DoubleEdgeTeach:
 	.string "Sigh…\p"

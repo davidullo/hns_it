@@ -1431,7 +1431,7 @@ gTVBreakingNewsText12::
 gTVBreakingNewsText08::
 	.string "In that instant, {STR_VAR_2}\n"
 	.string "echoed with {STR_VAR_1}'s shrieks of\l"
-	.string "frustration…$"
+.string "frustrazione…$"
 
 gTVBreakingNewsText09::
 	.string "However, {STR_VAR_1} seemed to run\n"
@@ -1440,14 +1440,14 @@ gTVBreakingNewsText09::
 	.string "the battle with the rare {STR_VAR_2}.\p"
 	.string "In that instant, {STR_VAR_3}\n"
 	.string "echoed with {STR_VAR_1}'s shrieks of\l"
-	.string "frustration…$"
+.string "frustrazione…$"
 
 gTVBreakingNewsText10::
 	.string "However, the {STR_VAR_2} fled without\n"
 	.string "warning.\p"
 	.string "In that instant, {STR_VAR_3}\n"
 	.string "echoed with {STR_VAR_1}'s shrieks of\l"
-	.string "frustration…$"
+.string "frustrazione…$"
 
 gTVBreakingNewsText11::
 	.string "Devo dire che mi spiace per {STR_VAR_1}.\n"
@@ -1568,7 +1568,7 @@ gTVSecretBaseVisitText12::
 	.string "Well, well!\n"
 	.string "I've got to hand it to {STR_VAR_1}.\p"
 	.string "The TRAINER's POKéMON showed\n"
-	.string "great promise for future growth.\p"
+.string "promettevano gran crescita.\p"
 	.string "They represented {STR_VAR_1}'s\n"
 	.string "hopes and dreams.\p"
 	.string "That the {STR_VAR_2} knew the move\n"
@@ -1578,10 +1578,10 @@ gTVSecretBaseVisitText12::
 	.string "Certainly, it was quite a lesson!$"
 
 gTVSecretBaseVisitText13::
-	.string "I must say, what a superb SECRET BASE\n"
+.string "Che BASE SEGRETA superba,\n"
 	.string "it was!\p"
 	.string "Viewers, if you have the chance,\n"
-	.string "do visit {STR_VAR_1}'s SECRET BASE.\p"
+.string "visitate la BASE SEGRETA di {STR_VAR_1}.\p"
 	.string "Until next time, I bid you adieu!$"
 
 gTVPokemonLotteryWinnerFlashReportText00::
@@ -2041,7 +2041,7 @@ gTVWhatsNo1InHoennTodayText03::
 
 gTVWhatsNo1InHoennTodayText04::
 	.string "In un solo giorno, {STR_VAR_1} ha usato\n"
-	.string "il BERRY BLENDER {STR_VAR_2} volte!\p"
+	.string "il MIXER BACCHE {STR_VAR_2} volte!\p"
 	.string "Verso la fine, persino {STR_VAR_1}\n"
 	.string "sembrava stordito.\p"
 	.string "Il TRAINER barcollava\n"
@@ -2082,11 +2082,11 @@ gTVWhatsNo1InHoennTodayText08::
 	.string "Anche voi potete essere n. 1 ogni giorno!$"
 
 TVSecretBaseSecrets_Text_Intro::
-	.string "SECRET BASE SECRETS!\p"
+.string "SEGRETI DI BASE SEGRETA!\p"
 	.string "What do TRAINERS do in the secrecy\n"
 	.string "of SECRET BASES?\p"
 	.string "Today, we investigate {STR_VAR_1}'s\n"
-	.string "SECRET BASE.\p"
+.string "BASE SEGRETA.\p"
 	.string "Oh? It looks like {STR_VAR_2} has come\n"
 	.string "for a visit.\p"
 	.string "Let's have a peek!\p"
@@ -2115,7 +2115,7 @@ TVSecretBaseSecrets_Text_PlayerEnjoyedBase::
 TVSecretBaseSecrets_Text_PlayerHugeFanOfBase::
 	.string "{STR_VAR_2} appears to have become\n"
 	.string "a huge fan of {STR_VAR_1}'s\l"
-	.string "SECRET BASE.$"
+.string "BASE SEGRETA.$"
 
 TVSecretBaseSecrets_Text_Outro::
 	.string "Gli spettatori possono visitare\n"

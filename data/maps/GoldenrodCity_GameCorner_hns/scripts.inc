@@ -499,7 +499,7 @@ GoldenrodCity_GameCorner_PrizeRoom_Text_TM75:
 	.string "DANZASPADA{CLEAR_TO 0x58}3.000 C.$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM13:
-	.string "ICE BEAM{CLEAR_TO 0x58}4.000 C.$"
+	.string "GELORAGGIO{CLEAR_TO 0x58}4.000 C.$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM24:
 	.string "SAETTA{CLEAR_TO 0x58}4.000 C.$"
@@ -641,7 +641,7 @@ GoldenrodCity_GameCorner_Text_CooltrainerF:
     .string "Mollo solo se vinco!$"
 
 GoldenrodCity_GameCorner_Text_Gentleman:
-    .string "Ho insegnato ICE BEAM al POKéMON.\p"
+    .string "Ho insegnato GELORAGGIO al POKéMON.\p"
     .string "Servivano tante monete per\n"
     .string "ma ne è valsa la pena.$"
 

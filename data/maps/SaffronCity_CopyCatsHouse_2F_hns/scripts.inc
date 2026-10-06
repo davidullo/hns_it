@@ -240,12 +240,12 @@ Copycat_Text_GiveDoll:
 	.string "la zampa destra? È la prova!$"
 
 Copycat_Text_GivePass:
-	.string "OK. Ecco il SUPERPASS del MAGNET TRAIN,\n"
+.string "OK. Ecco il SUPERPASS del MAGNETOTRENO,\n"
 	.string "come promesso!$"
 
 Copycat_Text_ExplainPass:
 	.string "COPIONA: È il SUPERPASS per il\n"
-	.string "MAGNET TRAIN.\p"
+.string "MAGNETOTRENO.\p"
 	.string "Me l'ha dato l'uomo della\n"
 	.string "ferrovia quando hanno demolito\l"
 	.string "casa nostra per la STAZIONE.$"

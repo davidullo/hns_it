@@ -218,7 +218,7 @@ SaffronCity_Text_SilphCoSign::
 	.string "SEDE DELLA SILPH SPA$"
 
 SaffronCity_Text_MrPsychicsHouse::
-	.string "CASA DEL SIGNOR PSYCHIC$"
+.string "CASA DEL SIGNOR PSICHICO$"
 
 SaffronCity_Text_SilphsLatestProduct::
 	.string "L'ultimo prodotto della SILPH!\n"

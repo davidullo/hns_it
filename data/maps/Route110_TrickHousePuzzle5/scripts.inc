@@ -922,7 +922,7 @@ Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2:
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3:
 	.string "QUIZ DI MECHADOLL 1.\p"
 	.string "Uno di questi POKéMON non usa\n"
-	.string "LEECH LIFE. Qual è?$"
+	.string "SANGUISUGA. Qual è?$"
 
 Route110_TrickHousePuzzle5_Text_CorrectGoThrough:
 	.string "CONGRATULAZIONI. RISPOSTA ESATTA.\n"
