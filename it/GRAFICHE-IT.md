@@ -8,12 +8,12 @@ Lista ottenuta con OCR (tesseract, upscale 8x) su tutte le PNG di `graphics/`:
 il metodo e' in `pokehns-ita-translation/references/grafiche-con-testo.md`.
 Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 
-**Progressi: 7 / 90 file**
+**Progressi: 10 / 91 file**
 
 | gruppo | fatti | totale |
 |---|---|---|
 | Riepilogo Pokémon | 1 | 3 |
-| Interfaccia e menu mosse | 2 | 5 |
+| Interfaccia e menu mosse | 5 | 6 |
 | Box Pokémon | 1 | 1 |
 | Pokédex | 0 | 15 |
 | PokéNav | 0 | 22 |
@@ -31,12 +31,13 @@ Per aggiornare i progressi: cambiare `[ ]` in `[x]` sulla riga del file finito.
 - [ ] `graphics/summary_screen/iv_ev_tiles.png` — PROFILE / ABILITY / MOVES / DESCRIPTION / TRAINER MEMO
 - [ ] `graphics/summary_screen/tiles.png` — come iv_ev_tiles (copia base, usata se IS_HNS e' spento)
 
-## Interfaccia e menu mosse (2/5)
+## Interfaccia e menu mosse (5/6)
 
 - [x] `graphics/interface/menu_info.png` — POWER / PP / TYPE / ACCURACY / EFFECT
 - [x] `graphics/interface/status_icons.png` — PSN / PAR / SLP / FRZ / BRN / FNT
-- [ ] `graphics/battle_interface/move_info_window_start.png` — START
-- [ ] `graphics/battle_interface/move_info_window_l.png` — START
+- [x] `graphics/battle_interface/move_info_window_start.png` — START
+- [x] `graphics/battle_interface/move_info_window_l.png` — START
+- [x] `graphics/battle_interface/move_info_window_r.png` — START
 - [ ] `graphics/bag/check_berry.png` — BITTER / SOUR / SWEET / DRY / SPICY
 
 ## Box Pokémon (1/1)
