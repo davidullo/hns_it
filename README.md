@@ -22,6 +22,10 @@ Unfortunately, saves from before 2.0 will not be compatible moving forward.
 Questo fork contiene la **traduzione italiana** dei testi di Pokémon Heart and Soul 2.0.
 Lo stato e le cose ancora da fare stanno in [`it/MANCANTI.md`](it/MANCANTI.md).
 
+![La traduzione italiana in gioco](it/img/traduzione-ita-small.png)
+
+_Schermate dal gioco: mosse e tipi, zaino con le bacche, opzioni, scheda statistiche, mosse Lotta, Pokédex, mosse Gara, box._
+
 ## Come si ottiene la ROM italiana
 
 La traduzione è **dentro il gioco**: si compila una ROM completa. Non serve applicare nessuna patch a una ROM di Smeraldo.
@@ -54,7 +58,8 @@ Se qualcuno ti ha passato `pokehns.gba` compilato da questo repository, è già 
 
 - **dialoghi, menu, descrizioni, nomi di oggetti, mosse, abilità e luoghi**: i nomi di oggetti e luoghi usano quelli ufficiali italiani dei giochi (da PokeAPI e dal wiki italiano), non traduzioni inventate
 - le unità di misura sono quelle metriche
-- **non tradotta**: la grafica. Font, title screen, schermate di battaglia e menu grafici sono ancora in inglese (167 file immagine). È il prossimo lavoro, vedi [`it/MANCANTI.md`](it/MANCANTI.md)
+- **grafica dell'interfaccia**: in corso. Le etichette delle schermate (menu mosse, Pokédex, PokéNav, box, gare) sono immagini da ridisegnare a mano: 15 fatte su 91, l'elenco completo con i progressi sta in [`it/GRAFICHE-IT.md`](it/GRAFICHE-IT.md)
+- **le targhette dei tipi** (Fuoco, Acqua, Erba...) sono già tradotte
 
 ## Segnalare un errore
 
