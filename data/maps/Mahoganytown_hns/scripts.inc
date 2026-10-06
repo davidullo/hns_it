@@ -251,7 +251,7 @@ MahoganyTown_Text_RageCandyBarMerchantTryOne:
 	.string "Ciao, ragazzo!\p"
 	.string "Vedo che sei nuovo di MOGANIA.\p"
 	.string "Dato che sei nuovo, prova una\n"
-	.string "RAGECANDYBAR!\p"
+	.string "IRAMELLA!\p"
 	.string "Ora è tua per soli\n"
 	.string "¥300! Ne vuoi una?$"
 
@@ -265,7 +265,7 @@ MahoganyTown_Text_RageCandyBarMerchantRefused:
     .string "Beh, va bene…$"
 
 MahoganyTown_Text_RageCandyBarMerchantSoldOut:
-    .string "Le RAGECANDYBAR sono finite.\p"
+    .string "Le IRAMELLA sono finite.\p"
     .string "Sto chiudendo. Non disturbarmi,\n"
     .string "ragazzo.$"
 
@@ -295,7 +295,7 @@ MahoganyTown_Text_Sign:
 
 MahoganyTown_Text_RagecandybarSign:
     .string "Visitando MOGANIA, prova\n"
-    .string "una RAGECANDYBAR!$"
+    .string "una IRAMELLA!$"
 
 MahoganyTown_Text_GymSign:
     .string "PALESTRA POKéMON DI MOGANIA\p"

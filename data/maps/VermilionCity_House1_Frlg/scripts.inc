@@ -44,7 +44,7 @@ VermilionCity_House1_Text_TakeThisAndFish::
 	.string "Prendi e pesca, amico mio!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-	.string "{PLAYER} riceve una VECCHIA CANNA\n"
+	.string "{PLAYER} riceve una AMO VECCHIO\n"
 	.string "dal GURU DELLA PESCA.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::

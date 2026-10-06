@@ -44,7 +44,7 @@ Route32_Pokecenter_Text_FishingGuruQuestion:
 	.string "Qui si pesca benissimo.\p"
 	.string "Hai visto gente pescare?\n"
 	.string "E tu?\p"
-	.string "Vuoi una delle mie CANNE?$"
+	.string "Vuoi uno dei miei AMI?$"
 
 Route32_Pokecenter_Text_FishingGuruYes:
 	.string "Eh, mi fa piacere.\p"
@@ -53,7 +53,7 @@ Route32_Pokecenter_Text_FishingGuruYes:
 Route32_Pokecenter_Text_FishingGuruGiveRod:
 	.string "Pescare è fantastico!\p"
 	.string "Se c'è acqua, che sia mare o\n"
-	.string "fiume, prova la tua CANNA.$"
+	.string "fiume, prova il tuo AMO.$"
 
 Route32_Pokecenter_Text_FishingGuruNo:
 	.string "Oh. Che delusione…$"

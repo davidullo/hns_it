@@ -135,7 +135,7 @@ PokemonFanClub_Text_Receptionist:
 PokemonFanClub_Text_ClefairyGuy_Adorable:
 	.string "Adoro come CLEFAIRY agita\n"
 	.string "il dito quando prova a\l"
-	.string "usare PLESSIMETRO.\p"
+	.string "usare METRONOMO.\p"
 	.string "Che tenerezza!$"
 
 PokemonFanClub_Text_ClefairyGuy_MakingDo:

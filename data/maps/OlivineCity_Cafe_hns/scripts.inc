@@ -71,7 +71,7 @@ OlivineCity_Text_CafeSailorGotStrength:
 OlivineCity_Text_CafeFishingGuru:
 	.string "Il menù del CAFFÈ di OLIVINOPOLI\n"
 	.string "è pieno di piatti sostanziosi per\l"
-	.string "MARINAITOSI come me!$"
+	.string "MARINAIO come me!$"
 
 OlivineCity_Text_CafeSailor:
 	.string "Ogni volta che passo di qui,\n"

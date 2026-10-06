@@ -96,7 +96,7 @@ MoveTutor_Text_MetronomeTeach:
 	.string "un incantesimo che fa apparire soldi\l"
 	.string "agitando un dito?\p"
 	.string "Se vuoi, posso insegnare al tuo POKéMON\n"
-	.string "la mossa PLESSIMETRO.\p"
+	.string "la mossa METRONOMO.\p"
 	.string "I soldi non appariranno, ma il POKéMON\n"
 	.string "agiterà un dito. Ci stai?$"
 
@@ -110,7 +110,7 @@ MoveTutor_Text_MetronomeWhichMon:
 
 MoveTutor_Text_MetronomeTaught:
 	.string "Quando un POKéMON agita il dito\n"
-	.string "come il PLESSIMETRO, succedono\l"
+	.string "come il METRONOMO, succedono\l"
 	.string "un sacco di cose belle.\p"
 	.string "Non sarebbe bello se potessimo\n"
 	.string "usarlo anche noi?$"

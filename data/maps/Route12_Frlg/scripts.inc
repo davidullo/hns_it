@@ -95,7 +95,7 @@ Route12_Text_ChipDefeat::
 	.string "Quello è scappato!$"
 
 Route12_Text_ChipPostBattle::
-	.string "Con una CANNA migliore potrei\n"
+	.string "Con un AMO migliore potrei\n"
 	.string "prendere POKéMON migliori…$"
 
 Route12_Text_JustinIntro::

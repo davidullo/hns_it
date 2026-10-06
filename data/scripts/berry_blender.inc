@@ -16,7 +16,7 @@ BerryBlender_Text_KnowHowToMakePokeblocks:
 
 BerryBlender_Text_LetsBerryBlender:
 	.string "Allora, iniziamo!\p"
-	.string "Diamo il via al BERRY BLENDER!$"
+	.string "Diamo il via al MIXER BACCHE!$"
 
 BerryBlender_Text_ExplainBerryBlending:
 	.string "Va bene, allora una piccola spiegazione.\p"
@@ -37,7 +37,7 @@ BerryBlender_Text_CanHaveOneOfMyBerries:
 	.string "Se non ti dispiace quel che avanza,\n"
 	.string "puoi prendere una delle mie BACCHE.\p"
 	.string "Così potremmo fare dei {POKEBLOCK}\n"
-	.string "insieme con il BERRY BLENDER.$"
+	.string "insieme con il MIXER BACCHE.$"
 
 BerryBlender_Text_DontHaveAnyBerriesToSpare:
 	.string "Se avessi delle BACCHE in avanzo,\n"
@@ -80,7 +80,7 @@ BerryBlender_Text_KnowHowToMakePokeblocks2:
 
 BerryBlender_Text_LetsBerryBlender2:
 	.string "Allora, iniziamo!\p"
-	.string "Diamo il via al BERRY BLENDER!$"
+	.string "Diamo il via al MIXER BACCHE!$"
 
 BerryBlender_Text_ExplainBerryBlending2:
 	.string "Okay!\n"
@@ -130,7 +130,7 @@ BerryBlender_Text_KnowHowToMakePokeblocks3:
 BerryBlender_Text_LetsBerryBlender3:
 	.string "Va bene, caro!\n"
 	.string "Iniziamo!\p"
-	.string "Diamo il via al BERRY BLENDER!$"
+	.string "Diamo il via al MIXER BACCHE!$"
 
 BerryBlender_Text_ExplainBerryBlending3:
 	.string "Oh, cielo!\p"
@@ -176,7 +176,7 @@ BerryBlender_Text_MakeDeliciousPokeblocks:
 
 BerryBlender_Text_SaveGameBeforeBerryBlenderLink:
 	.string "Dei {POKEBLOCK} saranno fatti con i tuoi amici\n"
-	.string "con le BACCHE nel BERRY BLENDER.\p"
+	.string "con le BACCHE nel MIXER BACCHE.\p"
 	.string "Va bene salvare il gioco prima\n"
 	.string "di collegarsi con gli amici?$"
 
@@ -196,15 +196,15 @@ BerryBlender_Text_AllPlayersArrived:
 
 BerryBlender_Text_NoBerriesLink:
 	.string "Non hai nessuna BACCA.\n"
-	.string "Non si può usare il BERRY BLENDER.$"
+	.string "Non si può usare il MIXER BACCHE.$"
 
 BerryBlender_Text_PokeblockCaseIsFullLink:
 	.string "Il tuo {POKEBLOCK} CASE è pieno.\n"
-	.string "Non si può usare il BERRY BLENDER.$"
+	.string "Non si può usare il MIXER BACCHE.$"
 
 BerryBlender_Text_DontHavePokeblockCaseLink:
 	.string "Non hai un {POKEBLOCK} CASE.\n"
-	.string "Non si può usare il BERRY BLENDER.$"
+	.string "Non si può usare il MIXER BACCHE.$"
 
 BerryBlender_Text_LoveMakingPokeblocks:
 	.string "Adoro fare i {POKEBLOCK}.\p"
@@ -213,7 +213,7 @@ BerryBlender_Text_LoveMakingPokeblocks:
 BerryBlender_Text_MakePokeblocksUsingBerryBlender:
 	.string "Se vuoi, potremmo fare dei\n"
 	.string "{POKEBLOCK} insieme con il\l"
-	.string "BERRY BLENDER.$"
+	.string "MIXER BACCHE.$"
 
 BerryBlender_Text_DontHaveAnyBerriesHaveOne:
 	.string "Oh?\n"
@@ -224,7 +224,7 @@ BerryBlender_Text_DontHaveAnyBerriesHaveOne:
 
 BerryBlender_Text_UseItToMakePokeblocksTogether:
 	.string "Lo useremo per creare {POKEBLOCK}\n"
-	.string "con il BERRY BLENDER.$"
+	.string "con il MIXER BACCHE.$"
 
 BerryBlender_Text_DontHaveAnyBerriesNoneToSpare:
 	.string "Oh?\n"

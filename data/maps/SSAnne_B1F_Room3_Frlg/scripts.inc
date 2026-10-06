@@ -15,5 +15,5 @@ SSAnne_B1F_Room3_Text_DylanDefeat::
 
 SSAnne_B1F_Room3_Text_DylanPostBattle::
 	.string "I POKéMON marini vivono in fondo al mare.\n"
-	.string "Serve una CANNA per pescarli!$"
+	.string "Serve un AMO per pescarli!$"
 

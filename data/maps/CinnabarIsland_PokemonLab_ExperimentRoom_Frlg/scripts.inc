@@ -289,7 +289,7 @@ Text_MetronomeTeach::
 	.string "Ti insegno una bella mossa.\p"
 	.string "Insegnale a un POKéMON e guarda\n"
 	.string "che spettacolo!\p"
-	.string "Si chiama PLESSIMETRO.\n"
+	.string "Si chiama METRONOMO.\n"
 	.string "Ti va di provarla?$"
 
 Text_MetronomeDeclined::
@@ -301,7 +301,7 @@ Text_MetronomeWhichMon::
 
 Text_MetronomeTaught::
 	.string "Tic tic tic!\n"
-	.string "È il suono di un PLESSIMETRO.\p"
+	.string "È il suono di un METRONOMO.\p"
 	.string "Agisce sul cervello del POKéMON\n"
 	.string "facendogli usare mosse ignote.$"
 

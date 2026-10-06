@@ -188,11 +188,11 @@ Route43_Text_TiffanyPostRematch:
 
 Route43_Sign1:
     .string "PERCORSO 43\p"
-    .string "LAGO D'IRA - POKéMONNETEOPOLI$"
+    .string "LAGO D'IRA - MOGANIA$"
 
 Route43_Sign2:
     .string "PERCORSO 43\p"
-    .string "LAGO D'IRA - POKéMONNETEOPOLI$"
+    .string "LAGO D'IRA - MOGANIA$"
 
 Route43_TrainerTips:
     .string "CONSIGLI PER ALLENATORI\p"

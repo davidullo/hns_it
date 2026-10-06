@@ -298,8 +298,8 @@ OlivinePort_Text_FishingGuru1:
     .string "Altrove sono piuttosto rari.$"
 
 OlivinePort_Text_FishingGuru2:
-    .string "Quante CANNE hai?\p"
-    .string "CANNE diverse catturano POKéMON\n"
+    .string "Quanti AMI hai?\p"
+    .string "AMI diversi catturano POKéMON\n"
     .string "diversi.$"
 
 OlivinePort_Text_Youngster:

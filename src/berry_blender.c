@@ -113,10 +113,14 @@ enum {
     WIN_RESULTS,
 };
 
+// I nomi brevi di gBerries[].name stanno in 5 caratteri (BERRY_NAME_LENGTH - 1):
+// non bastano per il frutto italiano, quindi la struct del frullatore ha un campo suo.
+#define BLENDER_BERRY_FRUIT_LENGTH 12
+
 struct BlenderBerry
 {
     enum Item itemId;
-    u8 name[BERRY_NAME_LENGTH + 1];
+    u8 name[BLENDER_BERRY_FRUIT_LENGTH + 1];
     enum Flavor flavors[FLAVOR_COUNT + 1]; // 5 flavors, + 1 for feel
 };
 
@@ -252,7 +256,7 @@ static const u16 sBlenderOuter_Pal[] = INCBIN_U16("graphics/berry_blender/outer.
 static const u16 sUnused_Pal[] = INCBIN_U16("graphics/berry_blender/unused.gbapal");
 static const u16 sEmpty_Pal[16 * 14] = {0};
 
-static const u8 sText_BerryBlenderStart[] = _("Avvio del BERRY BLENDER.\pScegli una BACCA dalla tua ZAINO\nda mettere nel BERRY BLENDER.\p");
+static const u8 sText_BerryBlenderStart[] = _("Avvio del MIXER BACCHE.\pScegli una BACCA dalla tua ZAINO\nda mettere nel MIXER BACCHE.\p");
 static const u8 sText_NewParagraph[] = _("\p");
 static const u8 sText_WasMade[] = _(" è stato creato!");
 
@@ -268,12 +272,87 @@ static const u8 *const sBlenderOpponentsNames[] =
 
 static const u8 sText_CommunicationStandby[] = _("In attesa di comunicazione…");
 static const u8 sText_WouldLikeToBlendAnotherBerry[] = _("Vuoi frullare un'altra BACCA?");
-static const u8 sText_RunOutOfBerriesForBlending[] = _("Non hai più BACCHE da\nfrullare nel BERRY BLENDER.\p");
+static const u8 sText_RunOutOfBerriesForBlending[] = _("Non hai più BACCHE da\nfrullare nel MIXER BACCHE.\p");
 static const u8 sText_YourPokeblockCaseIsFull[] = _("La tua {POKEBLOCK} CASE è piena.\p");
-static const u8 sText_HasNoBerriesToPut[] = _(" non ha BACCHE da mettere\nnel BERRY BLENDER.");
+static const u8 sText_HasNoBerriesToPut[] = _(" non ha BACCHE da mettere\nnel MIXER BACCHE.");
 static const u8 sText_ApostropheSPokeblockCaseIsFull[] = _(" {POKEBLOCK} CASE è piena.\p");
 static const u8 sText_BlendingResults[] = _("RISULTATI DEL FRULLAMENTO");
-static const u8 sText_SpaceBerry[] = _(" BACCA");
+// In italiano la riga dei risultati va "BACCA <frutto>": la parola precede il nome,
+// al contrario dell'inglese che accoda BERRY. I nomi brevi di gBerries[].name sono
+// limitati a 5 caratteri (BERRY_NAME_LENGTH) e non bastano per il frutto italiano,
+// quindi il frullatore usa una tabella propria: la sua struct non finisce nel salvataggio.
+static const u8 sText_BerryPrefix[] = _("BACCA ");
+
+static const u8 sBlenderBerryFruitNames[][BLENDER_BERRY_FRUIT_LENGTH] =
+{
+    _("Ciliegia"),
+    _("Castagna"),
+    _("Pesca"),
+    _("Fragola"),
+    _("Pera"),
+    _("Mela"),
+    _("Arancia"),
+    _("Cachi"),
+    _("Prugna"),
+    _("Cedro"),
+    _("Fico"),
+    _("Kiwi"),
+    _("Mango"),
+    _("Guava"),
+    _("Ananas"),
+    _("Lampone"),
+    _("Mora"),
+    _("Banana"),
+    _("Nespola"),
+    _("Ananas"),
+    _("Melograna"),
+    _("Alga"),
+    _("Nespola"),
+    _("Melone"),
+    _("Uva"),
+    _("Pomodoro"),
+    _("Mais"),
+    _("Castagna"),
+    _("Rambutan"),
+    _("Limone"),
+    _("Melone"),
+    _("Palma"),
+    _("Cocomero"),
+    _("Durian"),
+    _("Mirtillo"),
+    _("Chilan"),
+    _("Occa"),
+    _("Passho"),
+    _("Wacan"),
+    _("Rindo"),
+    _("Yache"),
+    _("Chople"),
+    _("Kebia"),
+    _("Shuca"),
+    _("Cocca"),
+    _("Papaya"),
+    _("Tanga"),
+    _("Charti"),
+    _("Kasib"),
+    _("Habanero"),
+    _("Colbur"),
+    _("Babiri"),
+    _("Rcadè"),
+    _("Litchi"),
+    _("Longan"),
+    _("Salak"),
+    _("Pitahaya"),
+    _("Piccolo"),
+    _("Lansat"),
+    _("Stella"),
+    _("Enigma"),
+    _("Micle"),
+    _("Custap"),
+    _("Jaboca"),
+    _("Rowap"),
+    _("Lighia"),
+    _("Pane"),
+};
 static const u8 sText_Time[] = _("Tempo:");
 static const u8 sText_Min[] = _(" min. ");
 static const u8 sText_Sec[] = _(" sec.");
@@ -287,7 +366,7 @@ static const u8 sText_TheFeelIs[] = _(" e la consistenza è ");
 static const u8 sText_Dot2[] = _(".");
 
 static const u8 sText_SavingDontTurnOff2[] = _("SALVATAGGIO…\nNON SPEGNERE LA CONSOLE.");
-static const u8 sText_BlenderMaxSpeedRecord[] = _("BERRY BLENDER\nRECORD DI VELOCITÀ!");
+static const u8 sText_BlenderMaxSpeedRecord[] = _("MIXER BACCHE\nRECORD DI VELOCITÀ!");
 static const u8 sText_234Players[] = _("2 GIOCATORI\n3 GIOCATORI\n4 GIOCATORI");
 
 static const struct BgTemplate sBgTemplates[3] =
@@ -1201,7 +1280,14 @@ static void ConvertItemToBlenderBerry(struct BlenderBerry *berry, enum Item item
     const struct Berry *berryInfo = GetBerryInfo(ITEM_TO_BERRY(itemId));
 
     berry->itemId = itemId;
-    StringCopy(berry->name, berryInfo->name);
+    u32 berryId = ITEM_TO_BERRY(itemId) - 1;
+    const u8 *frutto = (berryId < ARRAY_COUNT(sBlenderBerryFruitNames))
+        ? sBlenderBerryFruitNames[berryId] : NULL;
+
+    if (frutto != NULL && frutto[0] != EOS)
+        StringCopy(berry->name, frutto);
+    else
+        StringCopy(berry->name, berryInfo->name);
     berry->flavors[FLAVOR_SPICY] = berryInfo->spicy;
     berry->flavors[FLAVOR_DRY] = berryInfo->dry;
     berry->flavors[FLAVOR_SWEET] = berryInfo->sweet;
@@ -3493,9 +3579,9 @@ static bool8 PrintBlendingResults(void)
                 StringAppend(sBerryBlender->stringVar, gLinkPlayers[place].name);
                 Blender_AddTextPrinter(WIN_RESULTS, sBerryBlender->stringVar, 8, yPos, TEXT_SKIP_DRAW, 3);
 
-                StringCopy(sBerryBlender->stringVar, sBerryBlender->blendedBerries[place].name);
+                StringCopy(sBerryBlender->stringVar, sText_BerryPrefix);
+                StringAppend(sBerryBlender->stringVar, sBerryBlender->blendedBerries[place].name);
                 ConvertInternationalString(sBerryBlender->stringVar, gLinkPlayers[place].language);
-                StringAppend(sBerryBlender->stringVar, sText_SpaceBerry);
                 Blender_AddTextPrinter(WIN_RESULTS, sBerryBlender->stringVar, 0x54, yPos, TEXT_SKIP_DRAW, 3);
             }
 

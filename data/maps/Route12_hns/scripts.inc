@@ -150,7 +150,7 @@ Route12_Text_FisherKyleBeaten:
 	.string "Te lo ricordi?$"
 
 Route12_Text_FisherKyleAfterBattle:
-	.string "Lo strattone che senti sulla CANNA\n"
+	.string "Lo strattone che senti sull'AMO\n"
 	.string "quando abbocca un POKéMON…\p"
 	.string "È la sensazione più bella per\n"
 	.string "un pescatore come me.$"

@@ -35,7 +35,7 @@ gBirchDexRatingText_LessThan50::
 	.string "Continua così.$"
 
 gBirchDexRatingText_LessThan60::
-	.string "Stai usando delle CANNE?\n"
+	.string "Stai usando degli AMI?\n"
 	.string "Ci sono molti POKéMON nel mare.$"
 
 gBirchDexRatingText_LessThan70::

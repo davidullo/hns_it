@@ -269,7 +269,7 @@ Route42_Text_PokemaniacShaneAfter:
 
 Route42_Text_Sign1:
 	.string "PERCORSO 42\p"
-	.string "AMANTEOPOLI - POKéMONNETEOPOLI$"
+	.string "AMANTEOPOLI - MOGANIA$"
 
 Route42_Text_MtMortarSign1:
 	.string "MT.MORTAR\p"

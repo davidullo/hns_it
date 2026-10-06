@@ -43,6 +43,6 @@ Route106_EventScript_Ned::
 
 Route106_Text_TrainerTips:
 	.string "CONSIGLI PER ALLENATORI\p"
-	.string "Come catturare POKéMON con la CANNA:\n"
+	.string "Come catturare POKéMON con l'AMO:\n"
 	.string "Premi il tasto A se senti un morso.$"
 

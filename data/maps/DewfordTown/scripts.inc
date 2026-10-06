@@ -698,18 +698,18 @@ DewfordTown_Text_GettingItchToFish:
 DewfordTown_Text_GiveYouOneOfMyRods:
 	.string "Ti capisco e mi piace\n"
 	.string "come la pensi!\p"
-	.string "Ti regalo una delle mie CANNE.$"
+	.string "Ti regalo uno dei miei AMI.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
 	.string "E, come bonus, ti do anche\n"
 	.string "qualche consiglio sulla pesca!\p"
 	.string "Prima voltati verso l'acqua,\n"
-	.string "poi usa la CANNA.\p"
+	.string "poi usa l'AMO.\p"
 	.string "Concentrati…\n"
-	.string "Se abbocca qualcosa, tira la CANNA.\p"
+	.string "Se abbocca qualcosa, tira l'AMO.\p"
 	.string "A volte prendi subito qualcosa,\n"
 	.string "ma con le prede più grosse,\l"
-	.string "devi tirare la CANNA al momento giusto\l"
+	.string "devi tirare l'AMO al momento giusto\l"
 	.string "per tirarle su.$"
 
 DewfordTown_Text_ThatsTooBadThen:
@@ -728,12 +728,12 @@ DewfordTown_Text_FishingAdvice:
 	.string "Ehi, non buttarti giù!\n"
 	.string "Ti do un consiglio sulla pesca.\p"
 	.string "Prima, girati verso l'acqua,\n"
-	.string "poi usa la CANNA.\p"
+	.string "poi usa l'AMO.\p"
 	.string "Concentrati…\n"
-	.string "Se senti un morso, tira la CANNA.\p"
+	.string "Se senti un morso, tira l'AMO.\p"
 	.string "A volte prendi qualcosa\n"
 	.string "subito, ma con prede più grosse,\l"
-	.string "devi tirare la CANNA al\l"
+	.string "devi tirare l'AMO al\l"
 	.string "momento giusto.$"
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:
