@@ -86,7 +86,7 @@ LilycoveCity_Text_BecauseYoureTrainer:
 LilycoveCity_Text_PokeblocksSuitPokemon:
 	.string "In fondo, in fin dei conti…\p"
 	.string "Come la sobria eleganza sta bene a me,\n"
-	.string "i {POKEBLOCK} stanno bene ai POKéMON.$"
+	.string "i {POKE}MELLE stanno bene ai POKéMON.$"
 
 Route123_BerryMastersHouse_Text_YoureDeservingOfBerry:
 	.string "Puoi chiamarmi MAESTRO DELLE BACCHE.\p"

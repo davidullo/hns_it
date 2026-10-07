@@ -327,7 +327,7 @@ LilycoveCity_ContestHall_Text_EnteredBunchOfContests_hns:
 
 LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks_hns:
 	.string "Il ragazzo che ha vinto prima aveva\n"
-	.string "un mucchio di {POKEBLOCK} diversi.\p"
+	.string "un mucchio di {POKE}MELLE diversi.\p"
 	.string "Si può vincere con tutti quei\n"
 	.string "cosi?$"
 

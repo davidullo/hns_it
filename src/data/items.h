@@ -11258,7 +11258,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE LAMPONE"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra\n"
             "soffice per Razz."),
         .pocket = POCKET_BERRIES,
@@ -11275,7 +11275,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE MORA"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra\n"
             "soffice per Bluk."),
         .pocket = POCKET_BERRIES,
@@ -11292,7 +11292,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE BANANA"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra\n"
             "soffice per Nanab."),
         .pocket = POCKET_BERRIES,
@@ -11309,7 +11309,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE NESPOLA"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra\n"
             "soffice per Wepear."),
         .pocket = POCKET_BERRIES,
@@ -11326,7 +11326,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE ANANAS"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra\n"
             "soffice per Pinap."),
         .pocket = POCKET_BERRIES,
@@ -11451,7 +11451,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE MAIS"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra fertile\n"
             "per avere Cornn."),
         .pocket = POCKET_BERRIES,
@@ -11468,7 +11468,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE CASTAGNA"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra fertile\n"
             "per avere Magost."),
         .pocket = POCKET_BERRIES,
@@ -11485,7 +11485,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE RAMBUTAN"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra fertile\n"
             "per avere Rabuta."),
         .pocket = POCKET_BERRIES,
@@ -11502,7 +11502,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE LIMONE"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra fertile\n"
             "per avere Nomel."),
         .pocket = POCKET_BERRIES,
@@ -11519,7 +11519,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE MELONE"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra fertile\n"
             "per avere Spelon."),
         .pocket = POCKET_BERRIES,
@@ -11536,7 +11536,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE PALMA"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra fertile\n"
             "per avere Pamtre."),
         .pocket = POCKET_BERRIES,
@@ -11553,7 +11553,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE COCOMERO"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra fertile\n"
             "per avere Watmel."),
         .pocket = POCKET_BERRIES,
@@ -11570,7 +11570,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE DURIAN"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra fertile\n"
             "per avere Durin."),
         .pocket = POCKET_BERRIES,
@@ -11587,7 +11587,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE MIRTILLO"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Pianta in terra fertile\n"
             "per avere Belue."),
         .pocket = POCKET_BERRIES,
@@ -12207,7 +12207,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("BACCHE ENIGMA"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "Ingrediente {POKEBLOCK}.\n"
+            "Ingrediente {POKE}MELLE.\n"
             "Piantalo in terra\n"
             "fertile per un mistero."),
         .pocket = POCKET_BERRIES,
@@ -14298,7 +14298,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .description = COMPOUND_STRING(
             "Custodia per\n"
-            "{POKEBLOCK} creati con\n"
+            "{POKE}MELLE creati con\n"
             "un Mixer Bacche."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,

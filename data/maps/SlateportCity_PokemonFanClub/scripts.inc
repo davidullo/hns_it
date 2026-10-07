@@ -306,7 +306,7 @@ SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
 	.string "Tu, ALLENATORE, devi impegnarti di più\n"
 	.string "ad allevare questo POKéMON!\p"
 	.string "Per esempio, che ne dici di dargli\n"
-	.string "più {POKEBLOCK}S?$"
+	.string "più {POKE}MELLES?$"
 
 SlateportCity_PokemonFanClub_Text_NoSpaceForReward:
 	.string "Ohi, ohi…\p"

@@ -583,12 +583,12 @@ MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksTitle::
 	.string "L'ALLENATORE amante delle miscele$"
 
 MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksAction::
-	.string "{POKEBLOCK} creati$"
+	.string "{POKE}MELLE creati$"
 
 MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksStory::
 	.string "Ecco la storia di un ALLENATORE\n"
 	.string "di nome {STR_VAR_3}.\p"
-	.string "Ha creato {POKEBLOCK}\n"
+	.string "Ha creato {POKE}MELLE\n"
 	.string "{STR_VAR_1} volte!\p"
 	.string "Nessuno usa il FRULLA BACCHE\n"
 	.string "meglio di {STR_VAR_3}!$"

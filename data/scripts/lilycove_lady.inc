@@ -715,7 +715,7 @@ LilycoveCity_PokemonCenter_1F_Text_ImTheContestLady:
 	.string "Adoro le GARE!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ThankForPokeblock:
-	.string "Grazie per il {POKEBLOCK} di prima!$"
+	.string "Grazie per il {POKE}MELLE di prima!$"
 
 LilycoveCity_PokemonCenter_1F_Text_MyFriendDisplaysQuality:
 	.string "Questo è il mio amico {STR_VAR_1}!\n"
@@ -725,20 +725,20 @@ LilycoveCity_PokemonCenter_1F_Text_MyFriendDisplaysQuality:
 
 LilycoveCity_PokemonCenter_1F_Text_DontHaveAPokeblockCase:
 	.string "Quindi mi serve il tuo aiuto!\p"
-	.string "Me ne daresti un {POKEBLOCK}?\n"
+	.string "Me ne daresti un {POKE}MELLE?\n"
 	.string "Ne chiedo solo uno!\p"
 	.string "…Oh, ma…\n"
-	.string "Non hai un {POKEBLOCK} CASE?\l"
+	.string "Non hai un {POKE}MELLE CASE?\l"
 	.string "Poco male. Sarà per la prossima volta!$"
 
 LilycoveCity_PokemonCenter_1F_Text_AskingForOnePokeblock:
 	.string "Allora, mi serve il tuo aiuto!\p"
-	.string "Per favore, me ne dai un {POKEBLOCK}?\n"
+	.string "Per favore, me ne dai un {POKE}MELLE?\n"
 	.string "Te ne chiedo solo uno!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ICantHaveOnePokeblock:
 	.string "Ohhh!\n"
-	.string "Non posso avere un {POKEBLOCK}?!$"
+	.string "Non posso avere un {POKE}MELLE?!$"
 
 LilycoveCity_PokemonCenter_1F_Text_WhatACheapskate:
 	.string "Uffa!\n"
@@ -747,7 +747,7 @@ LilycoveCity_PokemonCenter_1F_Text_WhatACheapskate:
 LilycoveCity_PokemonCenter_1F_Text_IllUseYourPokeblock:
 	.string "Evvai!\n"
 	.string "Grazie!\p"
-	.string "Darò subito il tuo {POKEBLOCK}\n"
+	.string "Darò subito il tuo {POKE}MELLE\n"
 	.string "ai miei POKéMON.$"
 
 LilycoveCity_PokemonCenter_1F_Text_NoChangeThanks:

@@ -308,7 +308,7 @@ const u8 gText_MatchCallPkmnBreeder_Lydia_Intro2[] = _("amore per allevare POKé
 
 const u8 gText_MatchCallPkmnBreeder_Isaac_Strategy[] = _("Attacco a tutto campo!");
 const u8 gText_MatchCallPkmnBreeder_Isaac_Pokemon[] = _("Qualsiasi. Lo alleno io.");
-const u8 gText_MatchCallPkmnBreeder_Isaac_Intro1[] = _("Do {POKEBLOCK}S ai miei per");
+const u8 gText_MatchCallPkmnBreeder_Isaac_Intro1[] = _("Do {POKE}MELLES ai miei per");
 const u8 gText_MatchCallPkmnBreeder_Isaac_Intro2[] = _("vincere le GARE.");
 
 const u8 gText_MatchCallPkmnBreeder_Gabrielle_Strategy[] = _("Allevo POKéMON con cura.");

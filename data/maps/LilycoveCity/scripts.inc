@@ -723,12 +723,12 @@ LilycoveCity_Text_FasterSpinBetterPokeblocks:
 	.string "Bisogna girarlo insieme\n"
 	.string "per farlo girare più veloce.\p"
 	.string "Più gira veloce, migliori\n"
-	.string "{POKEBLOCK} ottieni, si dice.$"
+	.string "{POKE}MELLE ottieni, si dice.$"
 
 LilycoveCity_Text_ExplainBerryBlender:
 	.string "Serve a fare una specie di caramella\n"
-	.string "chiamata {POKEBLOCK}.\p"
-	.string "Dai un {POKEBLOCK} buono a un POKéMON\n"
+	.string "chiamata {POKE}MELLE.\p"
+	.string "Dai un {POKE}MELLE buono a un POKéMON\n"
 	.string "e la sua condizione migliora molto.$"
 
 LilycoveCity_Text_HeardTowerCalledSkyPillar:

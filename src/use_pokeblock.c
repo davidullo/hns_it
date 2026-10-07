@@ -156,7 +156,7 @@ static void SpriteCB_SelectionIconCancel(struct Sprite *);
 static void SpriteCB_MonPic(struct Sprite *);
 static void SpriteCB_Condition(struct Sprite *);
 
-static const u8 sText_GetsAPokeBlockQuestion[] = _(" riceve un {POKEBLOCK}?");
+static const u8 sText_GetsAPokeBlockQuestion[] = _(" riceve un {POKE}MELLE?");
 static const u8 sText_WasEnhanced[] = _("è migliorato!");
 static const u8 sText_NothingChanged[] = _("Non è cambiato!");
 static const u8 sText_WontEatAnymore[] = _("Non mangia più…");

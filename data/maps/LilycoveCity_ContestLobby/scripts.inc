@@ -983,11 +983,11 @@ LilycoveCity_ContestLobby_EventScript_LittleGirlHaveCase::
 LilycoveCity_ContestLobby_Text_LadyGaveMePokeblockCase:
 	.string "Evviva!\p"
 	.string "La signora alla reception mi ha\n"
-	.string "dato una custodia per {POKEBLOCK}!$"
+	.string "dato una custodia per {POKE}MELLE!$"
 
 LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
-	.string "Fai dei {POKEBLOCK} e mettili lì dentro.\p"
-	.string "Per fare un {POKEBLOCK}, ognuno deve\n"
+	.string "Fai dei {POKE}MELLE e mettili lì dentro.\p"
+	.string "Per fare un {POKE}MELLE, ognuno deve\n"
 	.string "mettere una BACCA diversa.$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
@@ -1077,8 +1077,8 @@ LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
 	.string "Oggi la vittoria è mia!$"
 
 LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily:
-	.string "Ho fatto {POKEBLOCK} con mamma, papà\n"
+	.string "Ho fatto {POKE}MELLE con mamma, papà\n"
 	.string "e sorella. Sono venuti benissimo!\p"
 	.string "Scommetto che con più persone fai\n"
-	.string "{POKEBLOCK} più lisci e migliori.$"
+	.string "{POKE}MELLE più lisci e migliori.$"
 

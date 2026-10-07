@@ -134,8 +134,8 @@ SafariZone_Text_OutOfBalls:
 	.string "La tua Gara Safari è finita.$"
 
 SafariZone_Text_PlacePokeblockOnFeeder:
-	.string "Vuoi mettere un {POKEBLOCK}\n"
-	.string "sul {POKEBLOCK} FEEDER?$"
+	.string "Vuoi mettere un {POKE}MELLE\n"
+	.string "sul {POKE}MELLE FEEDER?$"
 
 SafariZone_Text_PokeblockStillHere:
 	.string "Il {STR_VAR_1} che avevi\n"
@@ -143,7 +143,7 @@ SafariZone_Text_PokeblockStillHere:
 
 SafariZone_Text_PokeblockWasPlaced:
 	.string "Il {STR_VAR_1} è stato messo\n"
-	.string "sul {POKEBLOCK} FEEDER.$"
+	.string "sul {POKE}MELLE FEEDER.$"
 
 Route121_SafariZoneEntrance_Text_WelcomeToSafariZone:
 	.string "Benvenuto alla ZONA SAFARI!\p"
@@ -207,11 +207,11 @@ Route121_SafariZoneEntrance_Text_PCIsFull:
 
 Route121_SafariZoneEntrance_Text_YouNeedPokeblockCase:
 	.string "Scusa!\n"
-	.string "Sembra che tu non abbia un {POKEBLOCK} CASE.\p"
+	.string "Sembra che tu non abbia un {POKE}MELLE CASE.\p"
 	.string "Il tuo gioco al SAFARI sarà molto più\n"
-	.string "fruttuoso se userai i {POKEBLOCK}.\p"
-	.string "Torna quando avrai un {POKEBLOCK} CASE.\p"
-	.string "Puoi ottenere un {POKEBLOCK} CASE da\n"
+	.string "fruttuoso se userai i {POKE}MELLE.\p"
+	.string "Torna quando avrai un {POKE}MELLE CASE.\p"
+	.string "Puoi ottenere un {POKE}MELLE CASE da\n"
 #if IS_HNS
 	.string "quel ragazzo laggiù.$"
 #else
@@ -240,7 +240,7 @@ SafariZone_South_Text_GoodLuck:
 
 SafariZone_South_Text_Boy:
 	.string "Lo sapevi?\p"
-	.string "Se metti un {POKEBLOCK} in quel box quadrato,\n"
+	.string "Se metti un {POKE}MELLE in quel box quadrato,\n"
 	.string "i POKéMON si radunano.$"
 
 SafariZone_South_Text_Man:
@@ -250,7 +250,7 @@ SafariZone_South_Text_Man:
 	.string "vivono nelle zone più lontane.$"
 
 SafariZone_Southwest_Text_Woman:
-	.string "A volte, quando lancio un {POKEBLOCK} ai\n"
+	.string "A volte, quando lancio un {POKE}MELLE ai\n"
 	.string "POKéMON, viene ignorato.\p"
 	.string "I POKéMON hanno gusti e disgusti\n"
 	.string "su ciò che mangiano?$"
@@ -271,14 +271,14 @@ SafariZone_North_Text_Man:
 	.string "qui e li scambierò con gli amici!$"
 
 SafariZone_South_Text_Youngster:
-	.string "Ho messo un {POKEBLOCK} sul {POKEBLOCK} FEEDER.\n"
+	.string "Ho messo un {POKE}MELLE sul {POKE}MELLE FEEDER.\n"
 	.string "Ma sembra sparito.\p"
 	.string "Immagino che un POKéMON l'abbia\n"
 	.string "mangiato di nascosto.$"
 
 Route121_SafariZoneEntrance_Text_TrainerTip:
 	.string "CONSIGLIO ZONA SAFARI!\p"
-	.string "Lancia {POKEBLOCK} ai POKéMON selvatici per\n"
+	.string "Lancia {POKE}MELLE ai POKéMON selvatici per\n"
 	.string "farli fuggire meno.$"
 
 SafariZone_Southwest_Text_RestHouseSign:
@@ -286,23 +286,23 @@ SafariZone_Southwest_Text_RestHouseSign:
 	.string "CASA RIPOSO$"
 
 SafariZone_RestHouse_Text_Youngster:
-	.string "Non ho {POKEBLOCK}, ma ho catturato\n"
+	.string "Non ho {POKE}MELLE, ma ho catturato\n"
 	.string "parecchi POKéMON.\p"
 	.string "Puoi aumentare le tue possibilità\n"
 	.string "avvicinandoti a loro\l"
 	.string "prima di lanciare una SAFARI BALL.$"
 
 SafariZone_RestHouse_Text_PsychicM:
-	.string "Se usi i {POKEBLOCK}, i POKéMON selvatici non\n"
+	.string "Se usi i {POKE}MELLE, i POKéMON selvatici non\n"
 	.string "fuggiranno così in fretta.\p"
-	.string "Non serve molto dare {POKEBLOCK} ai\n"
+	.string "Non serve molto dare {POKE}MELLE ai\n"
 	.string "POKéMON che non fuggono facilmente.$"
 
 SafariZone_RestHouse_Text_FatMan:
-	.string "Se metti un {POKEBLOCK} sulla MANGIATOIA,\n"
+	.string "Se metti un {POKE}MELLE sulla MANGIATOIA,\n"
 	.string "i POKéMON ne sono attratti.\p"
 	.string "Credo che i POKéMON della stessa\n"
-	.string "natura siano attratti da un certo {POKEBLOCK}.$"
+	.string "natura siano attratti da un certo {POKE}MELLE.$"
 
 SafariZone_South_Text_AreaOffLimits1:
 	.string "Questa zona è ancora in costruzione.\n"

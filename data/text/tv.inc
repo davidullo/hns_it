@@ -575,8 +575,8 @@ gTVMassOutbreakText00::
 
 gTV3CheersForPokeblocksText00::
 	.string "MC: Speriamo che siate contenti,\n"
-	.string "ecco “3 EVVIVA PER LE {POKEBLOCK}”!\p"
-	.string "Oggi esaminiamo la {POKEBLOCK} preparata\n"
+	.string "ecco “3 EVVIVA PER LE {POKE}MELLE”!\p"
+	.string "Oggi esaminiamo la {POKE}MELLE preparata\n"
 	.string "da {STR_VAR_1} e soci.\p"
 	.string "Senza indugio, diamola\n"
 	.string "al mio POKéMON gourmet GULPIN.\p"
@@ -593,7 +593,7 @@ gTV3CheersForPokeblocksText02::
 	.string "La miscelazione di {STR_VAR_1}\n"
 	.string "lasciava a desiderare.\p"
 	.string "Se sapesse miscelare meglio,\n"
-	.string "il {POKEBLOCK} sarebbe più gustoso.$"
+	.string "il {POKE}MELLE sarebbe più gustoso.$"
 
 gTV3CheersForPokeblocksText03::
 	.string "GULPIN: Gubi! Gubii!\p"
@@ -610,7 +610,7 @@ gTV3CheersForPokeblocksText04::
 
 gTV3CheersForPokeblocksText05::
 	.string "Sintonizzatevi la prossima volta!\n"
-	.string "Il nostro motto: “3 EVVIVA PER LE {POKEBLOCK}!”$"
+	.string "Il nostro motto: “3 EVVIVA PER LE {POKE}MELLE!”$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WhatsYourOpinionOfTrainer::
 	.string "Ciao!\p"
@@ -2384,12 +2384,12 @@ gTVSafariFanClubText01::
 	.string "{STR_VAR_2} POKéMON.$"
 
 gTVSafariFanClubText02::
-	.string "L'ALLENATORE è bravo con i {POKEBLOCK}.\n"
+	.string "L'ALLENATORE è bravo con i {POKE}MELLE.\n"
 	.string "Ne ha usati {STR_VAR_2} quella volta, credo.$"
 
 gTVSafariFanClubText03::
 	.string "L'ALLENATORE non ha usato nemmeno un\n"
-	.string "{POKEBLOCK}! Nemmeno uno!\p"
+	.string "{POKE}MELLE! Nemmeno uno!\p"
 	.string "Ecco un vero esperto.$"
 
 gTVSafariFanClubText04::
@@ -2414,14 +2414,14 @@ gTVSafariFanClubText06::
 	.string "catturato nessun POKéMON. Nemmeno uno!$"
 
 gTVSafariFanClubText07::
-	.string "L'ALLENATORE usa i {POKEBLOCK}.\n"
+	.string "L'ALLENATORE usa i {POKE}MELLE.\n"
 	.string "Ne ha usati {STR_VAR_2} quella volta, credo.\p"
 	.string "Ma, caspita, spero che l'ALLENATORE\n"
 	.string "diventi un po' più bravo.$"
 
 gTVSafariFanClubText08::
 	.string "Il ALLENATORE avrebbe più\n"
-	.string "fortuna con i {POKEBLOCK}, che non\l"
+	.string "fortuna con i {POKE}MELLE, che non\l"
 	.string "furono usati per niente.$"
 
 gTVSafariFanClubText09::

@@ -16,7 +16,7 @@ const u8 gEasyChatWord_BattleRoom[] = _("SALA LOTTA");
 const u8 gEasyChatWord_Hidden[] = _("NASCOSTO");
 const u8 gEasyChatWord_SecretBase[] = _("BASE SEGRETA");
 const u8 gEasyChatWord_Blend[] = _("MIX");
-const u8 gEasyChatWord_POKEBLOCK[] = _("{POKEBLOCK}");
+const u8 gEasyChatWord_POKEBLOCK[] = _("{POKE}MELLE");
 const u8 gEasyChatWord_Master[] = _("MAESTRO");
 const u8 gEasyChatWord_Rank[] = _("RANGO");
 const u8 gEasyChatWord_Ribbon[] = _("FIOCCO");
@@ -139,7 +139,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Events[] = {
     },
     [EC_INDEX(EC_WORD_POKEBLOCK)] =
     {
-        .text = COMPOUND_STRING("{POKEBLOCK}"),
+        .text = COMPOUND_STRING("{POKE}MELLE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_POKEBLOCK),
         .enabled = TRUE,
     },

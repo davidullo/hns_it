@@ -2391,7 +2391,7 @@ Route117_Text_LydiaRematchDefeat:
 
 Route117_Text_LydiaPostRematch:
 	.string "I POKéMON sembrano gradire tipi\n"
-	.string "diversi di {POKEBLOCK} a seconda della natura.$"
+	.string "diversi di {POKE}MELLE a seconda della natura.$"
 
 Route117_Text_DylanIntro:
 	.string "Sono a metà di un triathlon, ma\n"

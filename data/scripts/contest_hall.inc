@@ -1383,7 +1383,7 @@ LilycoveCity_ContestLobby_Text_ReceptionDontHavePokeblockCase:
 	.string "Questo è il banco di accettazione\n"
 	.string "dei CONCORSI POKéMON.\p"
 	.string "Oh? Sembra che tu non abbia\n"
-	.string "ancora una {POKEBLOCK} CASE.\p"
+	.string "ancora una {POKE}MELLE CASE.\p"
 	.string "In tal caso, dobbiamo darti\n"
 	.string "questo!$"
 

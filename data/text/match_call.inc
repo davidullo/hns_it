@@ -953,7 +953,7 @@ MatchCall_PersonalizedText28::
 	.string "Non posso dire altro! È un segreto!\l"
 	.string "È troppo tenero per le parole!\p"
 	.string "Oh, il mio dolce {STR_VAR_2} chiede\n"
-	.string "un {POKEBLOCK}!\p"
+	.string "un {POKE}MELLE!\p"
 	.string "È il ritratto della tenerezza!\p"
 	.string "Scusa, ora non posso parlare!\n"
 	.string "Lo sentirai la prossima volta!$"
@@ -1220,10 +1220,10 @@ MatchCall_PersonalizedText51::
 
 MatchCall_PersonalizedText52::
 	.string "Ciao, sono {STR_VAR_1}.\p"
-	.string "Ho dato un {POKEBLOCK} al mio {STR_VAR_2}.\n"
+	.string "Ho dato un {POKE}MELLE al mio {STR_VAR_2}.\n"
 	.string "Sembrava gradirlo molto.\p"
 	.string "Pare che i POKéMON abbiano\n"
-	.string "preferenze per i {POKEBLOCK}.\p"
+	.string "preferenze per i {POKE}MELLE.\p"
 	.string "Lo trovo affascinante.\n"
 	.string "Stammi bene.$"
 

@@ -273,9 +273,9 @@ static const u8 *const sBlenderOpponentsNames[] =
 static const u8 sText_CommunicationStandby[] = _("In attesa di comunicazione…");
 static const u8 sText_WouldLikeToBlendAnotherBerry[] = _("Vuoi frullare un'altra BACCA?");
 static const u8 sText_RunOutOfBerriesForBlending[] = _("Non hai più BACCHE da\nfrullare nel MIXER BACCHE.\p");
-static const u8 sText_YourPokeblockCaseIsFull[] = _("La tua {POKEBLOCK} CASE è piena.\p");
+static const u8 sText_YourPokeblockCaseIsFull[] = _("La tua {POKE}MELLE CASE è piena.\p");
 static const u8 sText_HasNoBerriesToPut[] = _(" non ha BACCHE da mettere\nnel MIXER BACCHE.");
-static const u8 sText_ApostropheSPokeblockCaseIsFull[] = _(" {POKEBLOCK} CASE è piena.\p");
+static const u8 sText_ApostropheSPokeblockCaseIsFull[] = _(" {POKE}MELLE CASE è piena.\p");
 static const u8 sText_BlendingResults[] = _("RISULTATI DEL FRULLAMENTO");
 // In italiano la riga dei risultati va "BACCA <frutto>": la parola precede il nome,
 // al contrario dell'inglese che accoda BERRY. I nomi brevi di gBerries[].name sono

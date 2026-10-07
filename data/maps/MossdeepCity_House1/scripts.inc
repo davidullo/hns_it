@@ -33,9 +33,9 @@ MossdeepCity_House1_Text_ItLikesXPokeblocks:
 
 MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks:
 	.string "Sembra che non gradisca né disprezzi\n"
-	.string "alcun {POKEBLOCK}.$"
+	.string "alcun {POKE}MELLE.$"
 
 MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes:
 	.string "Mio marito capisce che tipo di\n"
-	.string "{POKEBLOCK} piace a un POKéMON al volo.$"
+	.string "{POKE}MELLE piace a un POKéMON al volo.$"
 
