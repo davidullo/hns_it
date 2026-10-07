@@ -368,9 +368,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("TIMER BALL"),
         .price = 1000,
         .description = COMPOUND_STRING(
-            "Ball che diventa più\n"
-            "forte nelle lotte\n"
-            "che durano a lungo."),
+            "Ball che diventa\n"
+            "più forte nelle\n"
+            "lotte che durano\n"),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -439,7 +439,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Buona per POKéMON\n"
             "NORMALI, VOLANTI,\n"
-            "GHIACCIO e di basso livello."),
+            "GHIACCIO e di\n"),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -491,9 +491,9 @@ const struct ItemInfo gItemsInfo[] =
         //.price = (I_PRICE >= GEN_7) ? 0 : 300,
         .price = 1000,
         .description = COMPOUND_STRING(
-            "Ottima per COLEOTTERO,\n"
-            "ERBA e per rendere\n"
-            "amichevoli i POKéMON."),
+            "Ottima per\n"
+            "COLEOTTERO, ERBA\n"
+            "e rende amici i\n"),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -635,8 +635,8 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("UC BALL"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Ball studiata per\n"
-            "catturare Ultracreature."),
+            "Ball studiata\n"
+            "per catturare\n"),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -739,8 +739,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 2500,
         .holdEffectParam = 255,
         .description = COMPOUND_STRING(
-            "Ripristina del tutto\n"
-            "i PS di un POKéMON."),
+            "Ripristina\n"
+            "del tutto i PS\n"),
         .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_HEALTH_RECOVERY,
         .type = ITEM_USE_PARTY_MENU,
@@ -758,9 +758,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .holdEffectParam = 255,
         .description = COMPOUND_STRING(
-            "Ripristina del tutto\n"
-            "PS e stato di un\n"
-            "Pokémon."),
+            "Ripristina del\n"
+            "tutto PS e stato\n"
+            "di un POKéMON.\n"),
         .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_HEALTH_RECOVERY,
         .type = ITEM_USE_PARTY_MENU,
@@ -861,10 +861,10 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_PRICE >= GEN_7) ? 400 : 350,
         .holdEffectParam = 70,
         .description = COMPOUND_STRING(
-            "Una bevanda dolcissima\n"
+            "Bevanda dolcissima\n"
             "che recupera PS\n"
         #if I_HEALTH_RECOVERY >= GEN_7
-            "by 70 points."),
+            "di 70 punti.\n"),
         #else
             "by 80 points."),
         #endif
@@ -1692,9 +1692,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA SCHIVA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "l'Attacco, ma cala\n"
-            "la Difesa."),
+            "Da annusare.\n"
+            "Aumenta l'Attacco,\n"
+            "ma cala la Difesa.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1710,9 +1710,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA DECISA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "l'Attacco, ma cala\n"
-            "l'Att. Sp."),
+            "Da annusare.\n"
+            "Aumenta l'Attacco,\n"
+            "ma cala l'Att. Sp.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1728,9 +1728,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA BIRBONA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "l'Attacco, ma cala\n"
-            "la Dif. Sp."),
+            "Da annusare.\n"
+            "Aumenta l'Attacco,\n"
+            "ma cala\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1746,9 +1746,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA AUDACE"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "l'Attacco, ma cala\n"
-            "la Velocità."),
+            "Da annusare.\n"
+            "Aumenta l'Attacco,\n"
+            "ma cala\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1764,9 +1764,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA SICURA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "la Difesa, ma cala\n"
-            "l'Attacco."),
+            "Da annusare.\n"
+            "Aumenta la Difesa,\n"
+            "ma cala l'Attacco.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1782,9 +1782,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA SCALTRA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "la Difesa, ma cala\n"
-            "l'Att. Sp."),
+            "Da annusare.\n"
+            "Aumenta la Difesa,\n"
+            "ma cala l'Att. Sp.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1800,9 +1800,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA FIACCA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "la Difesa, ma cala\n"
-            "la Dif. Sp."),
+            "Da annusare.\n"
+            "Aumenta la Difesa,\n"
+            "ma cala\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1818,9 +1818,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA PLACIDA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "la Difesa, ma cala\n"
-            "la Velocità."),
+            "Da annusare.\n"
+            "Aumenta la Difesa,\n"
+            "ma cala\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1836,9 +1836,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA MODESTA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "l'Att. Sp., ma cala\n"
-            "l'Attacco."),
+            "Da annusare.\n"
+            "Aumenta l'Att. Sp.\n"
+            "ma cala l'Attacco.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1854,9 +1854,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA MITE"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "l'Att. Sp., ma cala\n"
-            "la Difesa."),
+            "Da annusare.\n"
+            "Aumenta l'Att. Sp.\n"
+            "ma cala la Difesa.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1872,9 +1872,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA ARDENTE"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "l'Att. Sp., ma cala\n"
-            "la Dif. Sp."),
+            "Da annusare.\n"
+            "Aumenta l'Att. Sp.\n"
+            "ma cala\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1890,9 +1890,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA QUIETA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "l'Att. Sp., ma cala\n"
-            "la Velocità."),
+            "Da annusare.\n"
+            "Aumenta l'Att. Sp.\n"
+            "ma cala\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1908,9 +1908,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA CALMA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "la Dif. Sp., ma cala\n"
-            "l'Attacco."),
+            "Da annusare.\n"
+            "Aumenta la\n"
+            "Dif. Sp., ma\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1926,9 +1926,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA GENTILE"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "la Dif. Sp., ma cala\n"
-            "la Difesa."),
+            "Da annusare.\n"
+            "Aumenta la\n"
+            "Dif. Sp., ma\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1944,9 +1944,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA CAUTA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "la Dif. Sp., ma cala\n"
-            "l'Att. Sp."),
+            "Da annusare.\n"
+            "Aumenta la\n"
+            "Dif. Sp., ma\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1962,9 +1962,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA VIVACE"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "la Dif. Sp., ma cala\n"
-            "la Velocità."),
+            "Da annusare.\n"
+            "Aumenta la\n"
+            "Dif. Sp., ma\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1980,9 +1980,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA TIMIDA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "la Velocità, ma\n"
-            "cala l'Attacco."),
+            "Da annusare.\n"
+            "Aumenta la\n"
+            "Velocità, ma\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -1998,9 +1998,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA LESTA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
-            "la Velocità, ma\n"
-            "cala la Difesa."),
+            "Da annusare.\n"
+            "Aumenta la\n"
+            "Velocità, ma\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_NATURE_MINT,
         .type = ITEM_USE_PARTY_MENU,
@@ -2016,7 +2016,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA ALLEGRA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
+            "Annusala. Aumenta\n"
             "la Velocità, ma\n"
             "cala l'Att. Sp."),
         .pocket = POCKET_ITEMS,
@@ -2034,7 +2034,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MENTA INGENUA"),
         .price = (I_PRICE >= GEN_9) ? 20000 : 20,
         .description = COMPOUND_STRING(
-            "Da annusare. Aumenta\n"
+            "Annusala. Aumenta\n"
             "la Velocità, ma\n"
             "cala la Dif. Sp."),
         .pocket = POCKET_ITEMS,
@@ -2942,9 +2942,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
     #endif
         .description = COMPOUND_STRING(
-            "Frammento di cometa.\n"
-            "Si vende a un\n"
-            "prezzo alto."),
+            "Frammento di\n"
+            "cometa. Si vende\n"
+            "a un prezzo alto.\n"),
         .pocket = POCKET_TREASURES,
         .sortType = ITEM_TYPE_SELLABLE,
         .type = ITEM_USE_BAG_MENU,
@@ -3141,9 +3141,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("SOLDANTICO"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Moneta di rame usata\n"
-            "in passato. Si vende\n"
-            "a un prezzo alto."),
+            "Vecchia moneta di\n"
+            "rame. Si vende a\n"
+            "un prezzo alto.\n"),
         .pocket = POCKET_TREASURES,
         .sortType = ITEM_TYPE_RELIC,
         .type = ITEM_USE_BAG_MENU,
@@ -3175,8 +3175,8 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("DOBLONANTICO"),
         .price = (I_PRICE >= GEN_6) ? 60000 : 0,
         .description = COMPOUND_STRING(
-            "Moneta d'oro usata\n"
-            "in passato. Si vende\n"
+            "Vecchia moneta\n"
+            "d'oro. Si vende\n"
             "a un prezzo alto."),
         .pocket = POCKET_TREASURES,
         .sortType = ITEM_TYPE_RELIC,
@@ -3193,8 +3193,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .description = COMPOUND_STRING(
             "Vaso di tanto\n"
-            "tempo fa. Si vende a\n"
-            "un prezzo alto."),
+            "tempo fa. Si vende\n"
+            "a un prezzo alto.\n"),
         .pocket = POCKET_TREASURES,
         .sortType = ITEM_TYPE_RELIC,
         .type = ITEM_USE_BAG_MENU,
@@ -3209,7 +3209,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("BRACCIANTICO"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Un vecchio bracciale.\n"
+            "Vecchio bracciale.\n"
             "Si vende a un\n"
             "prezzo alto."),
         .pocket = POCKET_TREASURES,
@@ -3278,9 +3278,9 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("HELIXFOSSILE"),
         .description = COMPOUND_STRING(
-            "Pezzo della conchiglia\n"
-            "di un antico\n"
-            "POKéMON marino."),
+            "Pezzo della\n"
+            "conchiglia di un\n"
+            "antico POKéMON\n"),
     #if I_KEY_FOSSILS >= GEN_4
         .price = (I_PRICE >= GEN_7) ? 7000: 1000,
         .pocket = POCKET_ITEMS,
@@ -3458,7 +3458,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Pezzo della grande\n"
             "mascella di un\n"
-            "POKéMON preistorico."),
+            "POKéMON antico.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_FOSSIL,
         .type = ITEM_USE_BAG_MENU,
@@ -3475,7 +3475,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Pezzo della vela\n"
             "dorsale di un\n"
-            "POKéMON preistorico."),
+            "POKéMON antico.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_FOSSIL,
         .type = ITEM_USE_BAG_MENU,
@@ -3557,9 +3557,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "Un fertilizzante che\n"
-            "accelera la\n"
-            "CRESCITA delle Bacche."),
+            "Un fertilizzante\n"
+            "che accelera la\n"
+            "CRESCITA delle\n"),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3580,9 +3580,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "Un fertilizzante che\n"
-            "rallenta la crescita\n"
-            "delle BACCHE."),
+            "Un fertilizzante\n"
+            "che rallenta la\n"
+            "crescita delle\n"),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3603,9 +3603,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "Un fertilizzante che\n"
-            "allunga la vita\n"
-            "degli alberi."),
+            "Un fertilizzante\n"
+            "che allunga la\n"
+            "vita degli alberi.\n"),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3626,9 +3626,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "Un fertilizzante che\n"
-            "fa ricrescere più\n"
-            "BACCHE dopo la caduta."),
+            "Un fertilizzante\n"
+            "che fa ricrescere\n"
+            "più BACCHE\n"),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3672,9 +3672,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "Un fertilizzante che\n"
-            "aumenta le mutazioni\n"
-            "delle BACCHE."),
+            "Un fertilizzante\n"
+            "che aumenta le\n"
+            "mutazioni delle\n"),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3695,9 +3695,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "Un fertilizzante che\n"
-            "asciuga più in fretta\n"
-            "il terriccio."),
+            "Un fertilizzante\n"
+            "che asciuga più\n"
+            "in fretta il\n"),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3718,9 +3718,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "Un fertilizzante ricco,\n"
-            "sorprendente e\n"
-            "rinforzante."),
+            "Un fertilizzante\n"
+            "ricco,\n"
+            "sorprendente e\n"),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3748,9 +3748,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("GHICOCCA ROSSA"),
         .price = APRICORN_PRICE,
         .description = COMPOUND_STRING(
-            "Una Ghicocca di colore\n"
-            "rosso. Emana un odore\n"
-            "molto forte."),
+            "Una Ghicocca\n"
+            "rossa. Emana un\n"
+            "odore forte.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_GROWTH,
         .type = ITEM_USE_BAG_MENU,
@@ -3764,9 +3764,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("GHICOCCA BLU"),
         .price = APRICORN_PRICE,
         .description = COMPOUND_STRING(
-            "Una Ghicocca di colore\n"
-            "blu. Emana un odore\n"
-            "un po’ acre."),
+            "Una Ghicocca\n"
+            "blu. Emana un\n"
+            "odore acre.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_GROWTH,
         .type = ITEM_USE_BAG_MENU,
@@ -3780,8 +3780,8 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("GHICOCCA GIALLA"),
         .price = APRICORN_PRICE,
         .description = COMPOUND_STRING(
-            "Una ghicocca gialla.\n"
-            "Ha un profumo\n"
+            "Una Ghicocca\n"
+            "gialla. Profumo\n"
             "rinvigorente."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_GROWTH,
@@ -3877,9 +3877,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("RAMO GALARNOCE"),
         .price = 20000,
         .description = COMPOUND_STRING(
-            "Un ramo di un albero\n"
-            "di Galar chiamato\n"
-            "Galarica."),
+            "Un ramo di un\n"
+            "albero di Galar\n"
+            "chiamato Galarica.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -3895,9 +3895,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("ROCCIARMATURA"),
         .price = 20,
         .description = COMPOUND_STRING(
-            "Un minerale raro. Si\n"
-            "trova sull'Isola\n"
-            "dell'Armatura a Galar."),
+            "Un minerale raro.\n"
+            "Si trova in\n"
+            "Galar, sull'Isola\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -3913,9 +3913,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("ROCCIAMAX"),
         .price = 20,
         .description = COMPOUND_STRING(
-            "Un minerale misterioso.\n"
-            "Si trova nella Tana\n"
-            "Max di Galar."),
+            "Un minerale\n"
+            "misterioso. Si\n"
+            "trova nella Tana\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -3933,9 +3933,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("MESS. AGRUME"),
         .price = 50,
         .description = COMPOUND_STRING(
-            "Una Lettera con Zigzagoon\n"
-            "da far tenere a\n"
-            "un Pokémon."),
+            "Una Lettera con\n"
+            "Zigzagoon da far\n"
+            "tenere a un\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MAIL,
         .type = ITEM_USE_MAIL,
@@ -3951,9 +3951,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("MESS. PORTO"),
         .price = 50,
         .description = COMPOUND_STRING(
-            "Una Lettera con Wingull\n"
-            "da far tenere a\n"
-            "un Pokémon."),
+            "Una Lettera con\n"
+            "Wingull da far\n"
+            "tenere a un\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MAIL,
         .type = ITEM_USE_MAIL,
@@ -3969,9 +3969,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("MESS. LUCI"),
         .price = 50,
         .description = COMPOUND_STRING(
-            "Una Lettera con Pikachu\n"
-            "da far tenere a\n"
-            "un Pokémon."),
+            "Una Lettera con\n"
+            "Pikachu da far\n"
+            "tenere a un\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MAIL,
         .type = ITEM_USE_MAIL,
@@ -3987,9 +3987,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("MESS. TECNO"),
         .price = 50,
         .description = COMPOUND_STRING(
-            "Una Lettera con Magnemite\n"
-            "da far tenere a\n"
-            "un Pokémon."),
+            "Una Lettera con\n"
+            "Magnemite da far\n"
+            "tenere a un\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MAIL,
         .type = ITEM_USE_MAIL,
@@ -4005,9 +4005,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("MESS. BOSCO"),
         .price = 50,
         .description = COMPOUND_STRING(
-            "Una Lettera con Slakoth\n"
-            "da far tenere a\n"
-            "un Pokémon."),
+            "Una Lettera con\n"
+            "Slakoth da far\n"
+            "tenere a un\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MAIL,
         .type = ITEM_USE_MAIL,
@@ -4023,9 +4023,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("MESS. ONDA"),
         .price = 50,
         .description = COMPOUND_STRING(
-            "Una Lettera con Wailmer\n"
-            "da far tenere a\n"
-            "un Pokémon."),
+            "Una Lettera con\n"
+            "Wailmer da far\n"
+            "tenere a un\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MAIL,
         .type = ITEM_USE_MAIL,
@@ -4056,9 +4056,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("MESS. OMBRA"),
         .price = 50,
         .description = COMPOUND_STRING(
-            "Una Lettera con Duskull\n"
-            "da far tenere a\n"
-            "un Pokémon."),
+            "Una Lettera con\n"
+            "Duskull da far\n"
+            "tenere a un\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MAIL,
         .type = ITEM_USE_MAIL,
@@ -4074,9 +4074,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("MESS. TROPIC"),
         .price = 50,
         .description = COMPOUND_STRING(
-            "Una Lettera con Bellossom\n"
-            "da far tenere a\n"
-            "un Pokémon."),
+            "Una Lettera con\n"
+            "Bellossom da far\n"
+            "tenere a un\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MAIL,
         .type = ITEM_USE_MAIL,
@@ -4108,8 +4108,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 50,
         .description = COMPOUND_STRING(
             "Una Lettera con un\n"
-            "disegno stupendo da\n"
-            "far tenere a un Pokémon."),
+            "disegno stupendo\n"
+            "da far tenere a\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MAIL,
         .type = ITEM_USE_MAIL,
@@ -4302,9 +4302,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("DOLCEPOMO"),
         .price = 2200,
         .description = COMPOUND_STRING(
-            "Una Mela molto dolce\n"
-            "che fa evolvere\n"
-            "certi Pokémon."),
+            "Una Mela molto\n"
+            "dolce che fa\n"
+            "evolvere certi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = ITEM_USE_PARTY_MENU,
@@ -4320,9 +4320,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("ASPROPOMO"),
         .price = 2200,
         .description = COMPOUND_STRING(
-            "Una Mela molto aspra\n"
-            "che fa evolvere\n"
-            "certi Pokémon."),
+            "Una Mela molto\n"
+            "aspra che fa\n"
+            "evolvere certi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = ITEM_USE_PARTY_MENU,
@@ -4338,9 +4338,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("TEIERA ROTTA"),
         .price = 1600,
         .description = COMPOUND_STRING(
-            "Una teiera incrinata\n"
-            "che fa evolvere\n"
-            "certi Pokémon."),
+            "Una teiera\n"
+            "incrinata che fa\n"
+            "evolvere certi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = ITEM_USE_PARTY_MENU,
@@ -4356,9 +4356,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("TEIERA CREPATA"),
         .price = 38000,
         .description = COMPOUND_STRING(
-            "Una teiera scheggiata\n"
-            "che fa evolvere\n"
-            "certi Pokémon."),
+            "Una teiera\n"
+            "scheggiata che\n"
+            "fa evolvere certi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = ITEM_USE_PARTY_MENU,
@@ -4374,9 +4374,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("FASCIA GALARNOCE"),
         .price = 20000,
         .description = COMPOUND_STRING(
-            "Un bracciale di Galar\n"
-            "che fa evolvere\n"
-            "certi Pokémon."),
+            "Un bracciale\n"
+            "di Galar che fa\n"
+            "evolvere certi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = ITEM_USE_PARTY_MENU,
@@ -4411,9 +4411,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 20000,
         .holdEffectParam = 10,
         .description = COMPOUND_STRING(
-            "Una strana Farfascaglia\n"
-            "tenuta dai Pokémon\n"
-            "di tipo Drago."),
+            "Una strana\n"
+            "Farfascaglia\n"
+            "tenuta dai POKéMON\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = EVO_HELD_ITEM_TYPE,
@@ -4429,8 +4429,8 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("UPGRADE"),
         .price = 20000,
         .description = COMPOUND_STRING(
-            "Una strana scatola\n"
-            "fatta dalla Silph Co."),
+            "Una strana\n"
+            "scatola fatta\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = EVO_HELD_ITEM_TYPE,
@@ -4464,9 +4464,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("ELETTRITORE"),
         .price = 20000,
         .description = COMPOUND_STRING(
-            "Amato da un certo\n"
-            "Pokémon. È pieno\n"
-            "di energia elettrica."),
+            "Amato da un\n"
+            "certo POKéMON.\n"
+            "È pieno di\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = EVO_HELD_ITEM_TYPE,
@@ -4482,9 +4482,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MAGMATORE"),
         .price = 20000,
         .description = COMPOUND_STRING(
-            "Amato da un certo\n"
-            "Pokémon. È pieno\n"
-            "di energia magmatica."),
+            "Amato da un\n"
+            "certo POKéMON.\n"
+            "È pieno di\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = EVO_HELD_ITEM_TYPE,
@@ -5238,9 +5238,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_MEMORY,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "Disco con dati di\n"
-            "tipo Fuoco. Cambia\n"
-            "il tipo di Silvally."),
+            "Disco con dati\n"
+            "di tipo Fuoco.\n"
+            "Cambia il tipo\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEMORY,
         .type = ITEM_USE_BAG_MENU,
@@ -5259,9 +5259,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_MEMORY,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "Disco con dati di\n"
-            "tipo Acqua. Cambia\n"
-            "il tipo di Silvally."),
+            "Disco con dati\n"
+            "di tipo Acqua.\n"
+            "Cambia il tipo\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEMORY,
         .type = ITEM_USE_BAG_MENU,
@@ -5322,9 +5322,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_MEMORY,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "Un disco con dati\n"
-            "Ghiaccio. Cambia\n"
-            "il tipo di Silvally."),
+            "Un disco con\n"
+            "dati Ghiaccio.\n"
+            "Cambia il tipo\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEMORY,
         .type = ITEM_USE_BAG_MENU,
@@ -5427,9 +5427,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_MEMORY,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "Un disco con dati\n"
-            "Psichico. Cambia\n"
-            "il tipo di Silvally."),
+            "Un disco con\n"
+            "dati Psichico.\n"
+            "Cambia il tipo\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEMORY,
         .type = ITEM_USE_BAG_MENU,
@@ -5448,9 +5448,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_MEMORY,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "Un disco con dati\n"
-            "Coleottero. Cambia\n"
-            "il tipo di Silvally."),
+            "Un disco con\n"
+            "dati Coleottero.\n"
+            "Cambia il tipo\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEMORY,
         .type = ITEM_USE_BAG_MENU,
@@ -5592,9 +5592,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("SPADA ROVINATA"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Una spada arrugginita.\n"
-            "Un eroe la usò per\n"
-            "fermare una catastrofe."),
+            "Una spada\n"
+            "arrugginita.\n"
+            "Un eroe fermò\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_SPECIAL_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -5608,9 +5608,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("SCUDO ROVINATO"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Uno scudo arrugginito.\n"
-            "Un eroe lo usò per\n"
-            "fermare una catastrofe."),
+            "Uno scudo\n"
+            "arrugginito.\n"
+            "Un eroe fermò\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_SPECIAL_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -5628,8 +5628,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_PRIMAL_ORB,
         .description = COMPOUND_STRING(
             "Sfera rossa e\n"
-            "luminosa. Si dice\n"
-            "racchiuda un antico potere."),
+            "luminosa. Si\n"
+            "dice racchiuda\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_SPECIAL_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -5645,8 +5645,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_PRIMAL_ORB,
         .description = COMPOUND_STRING(
             "Sfera blu e\n"
-            "luminosa. Si dice\n"
-            "racchiuda un antico potere."),
+            "luminosa. Si\n"
+            "dice racchiuda\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_SPECIAL_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -5711,9 +5711,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Permette a Blastoise\n"
-            "di Mega-Evolversi\n"
-            "in lotta."),
+            "Permette a\n"
+            "Blastoise\n"
+            "di Mega-Evolversi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -5819,9 +5819,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Permette a Kangaskhan\n"
-            "di Mega-Evolversi\n"
-            "in lotta."),
+            "Permette a\n"
+            "Kangaskhan\n"
+            "di Mega-Evolversi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -5873,9 +5873,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Permette a Aerodactyl\n"
-            "di Mega-Evolversi\n"
-            "in lotta."),
+            "Permette a\n"
+            "Aerodactyl\n"
+            "di Mega-Evolversi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -5975,9 +5975,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Permette a Heracross\n"
-            "di Mega-Evolversi\n"
-            "in lotta."),
+            "Permette a\n"
+            "Heracross\n"
+            "di Mega-Evolversi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6011,9 +6011,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Permette a Tyranitar\n"
-            "di Mega-Evolversi\n"
-            "in lotta."),
+            "Permette a\n"
+            "Tyranitar\n"
+            "di Mega-Evolversi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6029,9 +6029,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Sceptile di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "fa Mega-Evolvere\n"
+            "Sceptile\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6047,9 +6047,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Blaziken di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "fa Mega-Evolvere\n"
+            "Blaziken\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6065,9 +6065,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Swampert di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "fa Mega-Evolvere\n"
+            "Swampert\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6083,9 +6083,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Gardevoir di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "fa Mega-Evolvere\n"
+            "Gardevoir\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6101,9 +6101,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Sableye di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "permette a Sableye\n"
+            "di Mega-Evolversi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6119,9 +6119,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Mawile di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "permette a Mawile\n"
+            "di Mega-Evolversi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6137,9 +6137,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "ad Aggron di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "permette ad Aggron\n"
+            "di Mega-Evolversi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6155,9 +6155,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Medicham di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "fa Mega-Evolvere\n"
+            "Medicham\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6173,9 +6173,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Manectric di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "fa Mega-Evolvere\n"
+            "Manectric\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6191,9 +6191,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Sharpedo di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "fa Mega-Evolvere\n"
+            "Sharpedo\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6209,9 +6209,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Camerupt di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "fa Mega-Evolvere\n"
+            "Camerupt\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6227,9 +6227,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "ad Altaria di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "fa Mega-Evolvere\n"
+            "Altaria\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6245,9 +6245,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Banette di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "permette a Banette\n"
+            "di Mega-Evolversi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6278,9 +6278,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Glalie di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "permette a Glalie\n"
+            "di Mega-Evolversi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6296,9 +6296,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_MEGA_STONE,
         .description = COMPOUND_STRING(
-            "Questa pietra permette\n"
-            "a Salamence di Mega\n"
-            "Evolversi in lotta."),
+            "Questa pietra\n"
+            "fa Mega-Evolvere\n"
+            "Salamence\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6508,7 +6508,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Questa pietra fa\n"
             "Mega Evolvere\n"
-            "Victreebel in lotta."),
+            "Victreebel\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6580,7 +6580,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Questa pietra fa\n"
             "Mega Evolvere\n"
-            "Feraligatr in lotta."),
+            "Feraligatr\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6706,7 +6706,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Questa pietra fa\n"
             "Mega Evolvere\n"
-            "Eelektross in lotta."),
+            "Eelektross\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6724,7 +6724,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Questa pietra fa\n"
             "Mega Evolvere\n"
-            "Chandelure in lotta."),
+            "Chandelure\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6742,7 +6742,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Questa pietra fa\n"
             "Mega Evolvere\n"
-            "Chesnaught in lotta."),
+            "Chesnaught\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -6850,7 +6850,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Questa pietra fa\n"
             "Mega Evolvere\n"
-            "Barbaracle in lotta."),
+            "Barbaracle\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -7213,7 +7213,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Questa pietra fa\n"
             "Mega-Evolvere\n"
-            "SCOVILLAIN in lotta."),
+            "SCOVILLAIN\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -7231,7 +7231,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Questa pietra fa\n"
             "Mega-Evolvere\n"
-            "BAXCALIBUR in lotta."),
+            "BAXCALIBUR\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MEGA_STONE,
         .type = ITEM_USE_BAG_MENU,
@@ -8287,7 +8287,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Strumento che\n"
             "alza Attacco e\n"
-            "Att. Sp. di Pikachu."),
+            "Att. Sp. di\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -8770,8 +8770,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_MACHO_BRACE,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "aumenta la Crescita,\n"
-            "ma riduce la Velocità."),
+            "alza la Crescita,\n"
+            "ma riduce\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EV_BOOST_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -8810,7 +8810,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Strumento che\n"
             "aumenta l'Attacco,\n"
-            "ma riduce la Velocità."),
+            "ma riduce la\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EV_BOOST_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -8830,7 +8830,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Strumento che\n"
             "aumenta la Difesa,\n"
-            "ma riduce la Velocità."),
+            "ma riduce la\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EV_BOOST_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -8850,8 +8850,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = POWER_ITEM_BOOST,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "aumenta l'Att. Sp.,\n"
-            "ma riduce la Velocità."),
+            "alza l'Att. Sp.,\n"
+            "ma riduce la\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EV_BOOST_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -8870,8 +8870,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = POWER_ITEM_BOOST,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "aumenta la Dif. Sp.,\n"
-            "ma riduce la Velocità."),
+            "alza la Dif. Sp.,\n"
+            "ma riduce la\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EV_BOOST_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -8890,8 +8890,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = POWER_ITEM_BOOST,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "aumenta la Velocità,\n"
-            "ma ne riduce un'altra."),
+            "alza la Velocità,\n"
+            "ma ne riduce\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EV_BOOST_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9323,9 +9323,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_CHOICE_SCARF,
         .description = COMPOUND_STRING(
-            "Aumenta la Velocità,\n"
-            "ma permette una\n"
-            "sola mossa."),
+            "Aumenta la\n"
+            "Velocità, ma\n"
+            "permette una\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9448,8 +9448,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_SMOOTH_ROCK,
         .description = COMPOUND_STRING(
             "Allunga la mossa\n"
-            "Terrempesta se usata\n"
-            "dal portatore."),
+            "Terrempesta se\n"
+            "usata dal\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9588,9 +9588,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_ABSORB_BULB,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "Alza l'Att. Sp. se\n"
-            "il portatore è colpito\n"
-            "da una mossa Acqua."),
+            "Alza l'Att. Sp.\n"
+            "se il portatore è\n"
+            "colpito da una\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9614,9 +9614,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_CELL_BATTERY,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "Sale l'Attacco se\n"
-            "chi lo tiene è colpito\n"
-            "da una mossa Elettro."),
+            "Sale l'Attacco\n"
+            "se chi lo tiene è\n"
+            "colpito da una\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9640,9 +9640,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_LUMINOUS_MOSS,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "Sale la Dif. Sp. se\n"
-            "chi lo tiene è colpito\n"
-            "da una mossa Acqua."),
+            "Sale la Dif. Sp.\n"
+            "se chi lo tiene è\n"
+            "colpito da una\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9665,9 +9665,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_SNOWBALL,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "Sale l'Att. se chi\n"
-            "lo tiene è colpito\n"
-            "da una mossa Ghiaccio."),
+            "Sale l'Att. se\n"
+            "chi lo tiene è\n"
+            "colpito da una\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9692,9 +9692,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_EVASION_UP,
         .holdEffectParam = 10,
         .description = COMPOUND_STRING(
-            "Strumento che lancia\n"
-            "uno sguardo feroce e\n"
-            "riduce la precisione."),
+            "Strumento che\n"
+            "lancia uno sguardo\n"
+            "feroce e riduce la\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9738,7 +9738,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Strumento che dà\n"
             "Exp. agli altri\n"
-            "membri della squadra."),
+            "membri della\n"),
         .pocket = POCKET_KEY_ITEMS,
     #else
         .price = (I_PRICE == GEN_1) ? 1 : 3000,
@@ -9769,9 +9769,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_QUICK_CLAW,
         .holdEffectParam = 20,
         .description = COMPOUND_STRING(
-            "Strumento che a volte\n"
-            "permette di colpire\n"
-            "per primo."),
+            "Strumento che\n"
+            "a volte permette\n"
+            "di colpire\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9793,9 +9793,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_FRIENDSHIP_UP,
         .description = COMPOUND_STRING(
-            "Strumento che calma\n"
-            "gli animi e favorisce\n"
-            "l'amicizia."),
+            "Strumento che\n"
+            "calma gli animi\n"
+            "e favorisce\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9906,9 +9906,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_CAN_ALWAYS_RUN,
         .description = COMPOUND_STRING(
-            "Strumento che assicura\n"
-            "la fuga dai POKéMON\n"
-            "selvatici."),
+            "Strumento che\n"
+            "assicura la\n"
+            "fuga dai POKéMON\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9931,9 +9931,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_FOCUS_BAND,
         .holdEffectParam = 10,
         .description = COMPOUND_STRING(
-            "Strumento che a volte\n"
-            "impedisce la\n"
-            "perdita di conoscenza."),
+            "Strumento che\n"
+            "a volte impedisce\n"
+            "la perdita di\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9949,9 +9949,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_PRICE >= GEN_7) ? 10000 : 200,
         .holdEffect = HOLD_EFFECT_LUCKY_EGG,
         .description = COMPOUND_STRING(
-            "Strumento che aumenta\n"
-            "i punti Exp. guadagnati\n"
-            "in lotta."),
+            "Strumento che\n"
+            "aumenta i punti\n"
+            "Exp. guadagnati\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -9974,9 +9974,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_SCOPE_LENS,
         .description = COMPOUND_STRING(
-            "Strumento che aumenta\n"
-            "la frequenza dei\n"
-            "brutti colpi."),
+            "Strumento che\n"
+            "aumenta la\n"
+            "frequenza dei\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10000,9 +10000,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_LEFTOVERS,
         .holdEffectParam = 10,
         .description = COMPOUND_STRING(
-            "Strumento che recupera\n"
-            "PS gradualmente\n"
-            "in lotta."),
+            "Strumento che\n"
+            "recupera PS\n"
+            "gradualmente\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10025,9 +10025,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_SHELL_BELL,
         .holdEffectParam = 8,
         .description = COMPOUND_STRING(
-            "Strumento che recupera\n"
-            "PS quando si colpisce\n"
-            "il nemico."),
+            "Strumento che\n"
+            "recupera PS\n"
+            "quando si colpisce\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10051,9 +10051,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_WIDE_LENS,
         .holdEffectParam = 10,
         .description = COMPOUND_STRING(
-            "Lente d'ingrandimento\n"
-            "che aumenta la\n"
-            "precisione delle mosse."),
+            "Lente che aumenta\n"
+            "la precisione\n"
+            "delle mosse.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10102,9 +10102,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_WISE_GLASSES,
         .holdEffectParam = 10,
         .description = COMPOUND_STRING(
-            "Occhiali che aumentano\n"
-            "la potenza delle\n"
-            "mosse speciali."),
+            "Occhiali che\n"
+            "aumentano la\n"
+            "potenza delle\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10127,9 +10127,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_EXPERT_BELT,
         .holdEffectParam = 20,
         .description = COMPOUND_STRING(
-            "Cintura che aumenta\n"
-            "la potenza delle mosse\n"
-            "superefficaci."),
+            "Cintura che\n"
+            "aumenta la potenza\n"
+            "delle mosse\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10152,8 +10152,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_LIGHT_CLAY,
         .description = COMPOUND_STRING(
             "Allunga la durata\n"
-            "delle mosse Barriera\n"
-            "usate da chi lo tiene."),
+            "delle mosse\n"
+            "Barriera usate\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10176,8 +10176,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_LIFE_ORB,
         .description = COMPOUND_STRING(
             "Aumenta la potenza\n"
-            "ma chi lo tiene perde\n"
-            "PS a ogni attacco."),
+            "ma chi lo tiene\n"
+            "perde PS a ogni\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10200,8 +10200,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_POWER_HERB,
         .description = COMPOUND_STRING(
             "Permette di usare\n"
-            "subito una mossa che\n"
-            "si carica prima."),
+            "subito una mossa\n"
+            "che si carica\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10250,9 +10250,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_ZOOM_LENS,
         .holdEffectParam = 20,
         .description = COMPOUND_STRING(
-            "Se chi lo tiene agisce\n"
-            "dopo il nemico, aumenta\n"
-            "la precisione."),
+            "Se chi lo tiene\n"
+            "agisce dopo il\n"
+            "nemico, aumenta\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10275,9 +10275,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_METRONOME,
         .holdEffectParam = 20,
         .description = COMPOUND_STRING(
-            "Strumento che potenzia\n"
-            "una mossa usata\n"
-            "di seguito."),
+            "Strumento che\n"
+            "potenzia una\n"
+            "mossa usata\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10299,9 +10299,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_IRON_BALL,
         .description = COMPOUND_STRING(
-            "Riduce la Velocità e\n"
-            "rende vulnerabili\n"
-            "alle mosse Terra."),
+            "Riduce la\n"
+            "Velocità e rende\n"
+            "vulnerabili alle\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10392,9 +10392,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_GRIP_CLAW,
         .description = COMPOUND_STRING(
-            "Strumento che allunga\n"
-            "le mosse che legano\n"
-            "come Avvolgibotta."),
+            "Strumento che\n"
+            "allunga le mosse\n"
+            "che legano come\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10416,9 +10416,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_STICKY_BARB,
         .description = COMPOUND_STRING(
-            "Danneggia chi lo tiene\n"
-            "ogni turno. Può\n"
-            "agganciarsi ai nemici."),
+            "Danneggia chi lo\n"
+            "tiene ogni turno.\n"
+            "Può agganciarsi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10465,9 +10465,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_BIG_ROOT,
         .holdEffectParam = 30,
         .description = COMPOUND_STRING(
-            "Strumento che aumenta\n"
-            "la potenza delle mosse\n"
-            "che rubano PS."),
+            "Strumento che\n"
+            "aumenta la potenza\n"
+            "delle mosse che\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10489,9 +10489,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_SCOPE_LENS,
         .description = COMPOUND_STRING(
-            "Artiglio che aumenta\n"
-            "la frequenza dei\n"
-            "brutti colpi."),
+            "Artiglio che\n"
+            "aumenta la\n"
+            "frequenza dei\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = EVO_HELD_ITEM_TYPE,
@@ -10538,9 +10538,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_EVIOLITE,
         .holdEffectParam = 50,
         .description = COMPOUND_STRING(
-            "Aumenta la Dif. e la\n"
-            "Dif. Sp. dei POKéMON\n"
-            "che possono evolversi."),
+            "Aumenta la Dif.\n"
+            "e la Dif. Sp. dei\n"
+            "POKéMON che\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10562,9 +10562,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_FLOAT_STONE,
         .description = COMPOUND_STRING(
-            "È così leggero che\n"
-            "se tenuto dimezza\n"
-            "il peso del POKéMON."),
+            "È così leggero\n"
+            "che se tenuto\n"
+            "dimezza il peso\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10662,9 +10662,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_RING_TARGET,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "Le mosse di solito\n"
-            "inefficaci colpiscono\n"
-            "chi lo tiene."),
+            "Le mosse di\n"
+            "solito inefficaci\n"
+            "colpiscono chi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10732,8 +10732,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
             "Se colpito da una\n"
-            "mossa superefficace,\n"
-            "aumenta Atk e Atk Sp."),
+            "mossa molto\n"
+            "efficace, aumenta\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10775,9 +10775,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_SAFETY_GOGGLES,
         .description = COMPOUND_STRING(
-            "Protegge da danni\n"
-            "meteo e mosse\n"
-            "di tipo Pulviscoppio."),
+            "Protegge da\n"
+            "danni meteo e\n"
+            "mosse di tipo\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10799,9 +10799,9 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_ADRENALINE_ORB,
         .description = COMPOUND_STRING(
-            "Questa sfera aumenta\n"
-            "la Velocità se chi\n"
-            "la tiene è intimidito."),
+            "Questa sfera\n"
+            "aumenta la\n"
+            "Velocità a chi\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10836,9 +10836,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_PRICE >= GEN_9) ? 15000 : 4000,
         .holdEffect = HOLD_EFFECT_PROTECTIVE_PADS,
         .description = COMPOUND_STRING(
-            "Protegge chi lo\n"
-            "tiene dagli effetti\n"
-            "delle mosse a contatto."),
+            "Protegge chi\n"
+            "lo tiene dagli\n"
+            "effetti delle\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10854,9 +10854,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_PRICE >= GEN_9) ? 20000 : 4000,
         .holdEffect = HOLD_EFFECT_THROAT_SPRAY,
         .description = COMPOUND_STRING(
-            "Aumenta l'Atk Sp. se\n"
-            "chi lo tiene usa\n"
-            "una mossa sonora."),
+            "Aumenta l'Att. Sp.\n"
+            "se chi lo tiene\n"
+            "usa una mossa\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10872,9 +10872,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_PRICE >= GEN_9) ? 30000 : 4000,
         .holdEffect = HOLD_EFFECT_EJECT_PACK,
         .description = COMPOUND_STRING(
-            "Costringe chi lo usa\n"
-            "a cambiare se le\n"
-            "statistiche calano."),
+            "Fa cambiare chi\n"
+            "lo usa se le sue\n"
+            "statistiche\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10891,9 +10891,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_PRICE >= GEN_9) ? 20000 : 4000,
         .holdEffect = HOLD_EFFECT_HEAVY_DUTY_BOOTS,
         .description = COMPOUND_STRING(
-            "Stivali che annullano\n"
-            "gli effetti delle\n"
-            "trappole sul campo."),
+            "Stivali che\n"
+            "annullano le\n"
+            "trappole sul\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -10910,9 +10910,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_PRICE >= GEN_9) ? 30000 : 4000,
         .holdEffect = HOLD_EFFECT_BLUNDER_POLICY,
         .description = COMPOUND_STRING(
-            "Aumenta la Velocità\n"
-            "se chi lo usa\n"
-            "manca per Precisione."),
+            "Aumenta la\n"
+            "Velocità se\n"
+            "chi lo usa manca\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -11007,8 +11007,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .holdEffect = HOLD_EFFECT_CURE_PSN,
         .description = COMPOUND_STRING(
-            "Strumento che\n"
-            "cura l'avvelenamento\n"
+            "Strumento che cura\n"
+            "l'avvelenamento\n"
             "in battaglia."),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_PARTY_MENU,
@@ -11131,7 +11131,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Strumento che\n"
             "cura ogni problema\n"
-            "di stato in battaglia."),
+            "di stato in\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Medicine,
@@ -11344,8 +11344,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Rende un POKéMON\n"
-            "amichevole ma riduce\n"
-            "i PS base."),
+            "amichevole ma\n"
+            "riduce i PS base.\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_ReduceEV,
@@ -11362,8 +11362,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Rende un POKéMON\n"
-            "amichevole ma riduce\n"
-            "l'Attacco base."),
+            "amichevole ma\n"
+            "riduce l'Attacco\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_ReduceEV,
@@ -11380,8 +11380,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Rende un POKéMON\n"
-            "amichevole ma riduce\n"
-            "la Difesa base."),
+            "amichevole ma\n"
+            "riduce la Difesa\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_ReduceEV,
@@ -11452,8 +11452,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Ingrediente {POKE}MELLE.\n"
-            "Pianta in terra fertile\n"
-            "per avere Cornn."),
+            "Pianta in terra\n"
+            "fertile per\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11469,8 +11469,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Ingrediente {POKE}MELLE.\n"
-            "Pianta in terra fertile\n"
-            "per avere Magost."),
+            "Pianta in terra\n"
+            "fertile per\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11486,8 +11486,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Ingrediente {POKE}MELLE.\n"
-            "Pianta in terra fertile\n"
-            "per avere Rabuta."),
+            "Pianta in terra\n"
+            "fertile per\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11503,8 +11503,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Ingrediente {POKE}MELLE.\n"
-            "Pianta in terra fertile\n"
-            "per avere Nomel."),
+            "Pianta in terra\n"
+            "fertile per\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11520,8 +11520,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Ingrediente {POKE}MELLE.\n"
-            "Pianta in terra fertile\n"
-            "per avere Spelon."),
+            "Pianta in terra\n"
+            "fertile per\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11537,8 +11537,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Ingrediente {POKE}MELLE.\n"
-            "Pianta in terra fertile\n"
-            "per avere Pamtre."),
+            "Pianta in terra\n"
+            "fertile per\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11554,8 +11554,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Ingrediente {POKE}MELLE.\n"
-            "Pianta in terra fertile\n"
-            "per avere Watmel."),
+            "Pianta in terra\n"
+            "fertile per\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11571,8 +11571,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Ingrediente {POKE}MELLE.\n"
-            "Pianta in terra fertile\n"
-            "per avere Durin."),
+            "Pianta in terra\n"
+            "fertile per\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11588,8 +11588,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
             "Ingrediente {POKE}MELLE.\n"
-            "Pianta in terra fertile\n"
-            "per avere Belue."),
+            "Pianta in terra\n"
+            "fertile per\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11626,8 +11626,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_FIRE,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Fuoco se sei debole."),
+            "indebolisce\n"
+            "mosse Fuoco\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11645,8 +11645,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_WATER,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Acqua se sei debole."),
+            "indebolisce\n"
+            "mosse Acqua\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11664,8 +11664,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_ELECTRIC,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Elettro se sei debole."),
+            "indebolisce\n"
+            "mosse Elettro\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11702,8 +11702,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_ICE,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Ghiaccio se sei debole."),
+            "indebolisce\n"
+            "mosse Ghiaccio\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11721,8 +11721,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_FIGHTING,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Lotta se sei debole."),
+            "indebolisce\n"
+            "mosse Lotta\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11740,8 +11740,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_POISON,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Veleno se sei debole."),
+            "indebolisce\n"
+            "mosse Veleno\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11759,8 +11759,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_GROUND,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Terra se sei debole."),
+            "indebolisce\n"
+            "mosse Terra\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11778,8 +11778,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_FLYING,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Volante se sei debole."),
+            "indebolisce\n"
+            "mosse Volante\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11797,8 +11797,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_PSYCHIC,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Psico se sei debole."),
+            "indebolisce\n"
+            "mosse Psico\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11816,8 +11816,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_BUG,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Coleottero se sei debole."),
+            "indebolisce\n"
+            "mosse Coleottero\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11835,8 +11835,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_ROCK,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Roccia se sei debole."),
+            "indebolisce\n"
+            "mosse Roccia\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11854,8 +11854,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_GHOST,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Spettro se sei debole."),
+            "indebolisce\n"
+            "mosse Spettro\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11873,8 +11873,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_DRAGON,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Drago se sei debole."),
+            "indebolisce\n"
+            "mosse Drago\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11911,8 +11911,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_STEEL,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Acciaio se sei debole."),
+            "indebolisce\n"
+            "mosse Acciaio\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11930,8 +11930,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = TYPE_FAIRY,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "indebolisce mosse\n"
-            "Magico se sei debole."),
+            "indebolisce\n"
+            "mosse Magico\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11950,7 +11950,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Strumento che\n"
             "aumenta l'Attacco\n"
-            "se sei in difficoltà."),
+            "se in difficoltà.\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11969,7 +11969,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Strumento che\n"
             "aumenta la Difesa\n"
-            "se sei in difficoltà."),
+            "se in difficoltà.\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -11987,8 +11987,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = 4,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "aumenta la Velocità\n"
-            "se sei in difficoltà."),
+            "alza la Velocità\n"
+            "se in difficoltà.\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -12007,7 +12007,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Strumento che\n"
             "aumenta l'Att. Sp.\n"
-            "se sei in difficoltà."),
+            "se in difficoltà.\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -12025,8 +12025,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffectParam = 4,
         .description = COMPOUND_STRING(
             "Strumento che\n"
-            "aumenta la Dif. Sp.\n"
-            "se sei in difficoltà."),
+            "alza la Dif. Sp.\n"
+            "se in difficoltà.\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -12062,9 +12062,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_RANDOM_STAT_UP,
         .holdEffectParam = 4,
         .description = COMPOUND_STRING(
-            "Strumento che aumenta\n"
-            "molto una statistica\n"
-            "se in difficoltà."),
+            "Strumento che\n"
+            "aumenta molto\n"
+            "una statistica\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -12099,9 +12099,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_MICLE_BERRY,
         .holdEffectParam = 4,
         .description = COMPOUND_STRING(
-            "Se tenuto, aumenta\n"
-            "la Precisione di\n"
-            "una mossa se in crisi."),
+            "Se tenuto, alza la\n"
+            "Precisione di una\n"
+            "mossa in crisi.\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -12118,9 +12118,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_CUSTAP_BERRY,
         .holdEffectParam = 4,
         .description = COMPOUND_STRING(
-            "Permette a un POKéMON\n"
-            "in difficoltà di agire\n"
-            "per primo una volta."),
+            "Permette a un\n"
+            "POKéMON in crisi\n"
+            "di agire per\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -12137,8 +12137,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_JABOCA_BERRY,
         .description = COMPOUND_STRING(
             "Se colpito da una\n"
-            "mossa fisica, ferisce\n"
-            "un po' l'attaccante."),
+            "mossa fisica,\n"
+            "ferisce chi l'usa.\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -12155,8 +12155,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_ROWAP_BERRY,
         .description = COMPOUND_STRING(
             "Se colpito da una\n"
-            "mossa speciale, ferisce\n"
-            "un po' l'attaccante."),
+            "mossa speciale,\n"
+            "ferisce chi l'usa.\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -12173,7 +12173,7 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_KEE_BERRY,
         .description = COMPOUND_STRING(
             "Se colpito da una\n"
-            "mossa fisica, aumenta\n"
+            "mossa fisica, alza\n"
             "un po' la Difesa."),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -12191,8 +12191,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_MARANGA_BERRY,
         .description = COMPOUND_STRING(
             "Se colpito da una\n"
-            "mossa speciale, aumenta\n"
-            "un po' la Dif. Sp."),
+            "mossa speciale,\n"
+            "alza un po' la\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -12209,7 +12209,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Ingrediente {POKE}MELLE.\n"
             "Piantalo in terra\n"
-            "fertile per un mistero."),
+            "fertile per un\n"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU, // Type handled by ItemUseOutOfBattle_EnigmaBerry
         .fieldUseFunc = ItemUseOutOfBattle_EnigmaBerry,
@@ -12241,8 +12241,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Gancia e colpisce\n"
-            "il nemico con artigli\n"
-            "lunghi e affilati."),
+            "il nemico con\n"
+            "artigli lunghi e\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -12269,8 +12269,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Aumenta Att. Sp. e\n"
-            "Dif. Sp. concentrando\n"
-            "la mente."),
+            "Dif. Sp.\n"
+            "concentrandosi.\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -12282,9 +12282,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MT05"),
         .price = 1000,
         .description = COMPOUND_STRING(
-            "Un ruggito Feroce che\n"
-            "fa fuggire il nemico\n"
-            "e chiude la lotta."),
+            "Un ruggito feroce\n"
+            "che fa fuggire\n"
+            "il nemico e\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -12316,9 +12316,9 @@ const struct ItemInfo gItemsInfo[] =
             "Ghiaccio per 5 turni."),
     #else
         .description = COMPOUND_STRING(
-            "Crea una grandinata\n"
-            "che danneggia tutti\n"
-            "tranne il tipo Ghiaccio."),
+            "Crea grandine e\n"
+            "danneggia tutti\n"
+            "tranne Ghiaccio.\n"),
     #endif
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
@@ -12387,8 +12387,8 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MT12"),
         .price = 3000,
         .description = COMPOUND_STRING(
-            "Fa infuriare il nemico\n"
-            "che userà solo\n"
+            "Fa infuriare il\n"
+            "nemico: userà solo\n"
             "mosse d'attacco."),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
@@ -12404,7 +12404,7 @@ const struct ItemInfo gItemsInfo[] =
             "Lancia un raggio\n"
             "gelido che può\n"
         #if B_USE_FROSTBITE == TRUE
-            "provoca assideramento."),
+            "assiderare.\n"),
         #else
             "congela il nemico."),
         #endif
@@ -12440,9 +12440,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MT15"),
         .price = 10000,
         .description = COMPOUND_STRING(
-            "Potente, ma richiede\n"
-            "una ricarica\n"
-            "il turno dopo."),
+            "Potente, ma\n"
+            "va ricaricata\n"
+            "il turno dopo.\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -12497,8 +12497,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Recupera metà dei\n"
-            "PS dei danni che\n"
-            "infligge questa mossa."),
+            "PS dei danni\n"
+            "fatti dalla mossa.\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -12540,7 +12540,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Assorbe la luce al\n"
             "1º turno, poi\n"
-            "attacca il turno dopo."),
+            "attacca dopo.\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -12693,7 +12693,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = 10000,
         .description = COMPOUND_STRING(
             "Crea un muro di\n"
-            "luce che indebolisce\n"
+            "luce che riduce\n"
             "attacchi fisici."),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
@@ -12819,8 +12819,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Alza l'Attacco se\n"
-            "avvelenato, bruciato\n"
-            "o paralizzato."),
+            "avvelenato,\n"
+            "bruciato\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -12847,8 +12847,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Chi la usa dorme 2\n"
-            "turni per recuperare\n"
-            "PS e stato."),
+            "turni e recupera\n"
+            "PS e stato.\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -12959,8 +12959,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 10000,
         .description = COMPOUND_STRING(
             "Colpisce al\n"
-            "massimo. Può calare\n"
-            "la Dif. Spec. nemica."),
+            "massimo.\n"
+            "Può calare la\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13043,8 +13043,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Resiste a ogni\n"
-            "attacco per 1 turno,\n"
-            "lasciando 1 PS."),
+            "attacco per 1\n"
+            "turno, lasciando\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13057,8 +13057,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Genera un'onda\n"
-            "d'urto che danneggia\n"
-            "il nemico."),
+            "d'urto e danneggia\n"
+            "il nemico.\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13099,8 +13099,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Attacco in polvere\n"
-            "che può aumentare\n"
-            "tutte le statistiche."),
+            "che può alzare\n"
+            "ogni statistica.\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13142,7 +13142,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Colpisce con un\n"
             "artiglio d'ombra.\n"
-            "Alto tasso di critici."),
+            "Spesso è critico.\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13156,7 +13156,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Attacco che\n"
             "guadagna potenza\n"
-            "se muove per ultimo."),
+            "se muove ultimo.\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13169,7 +13169,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Ricicla un oggetto\n"
-            "usato per un altro uso."),
+            "usato per un\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13269,7 +13269,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Debole scarica\n"
             "elettrica che\n"
-            "paralizza il nemico."),
+            "paralizza\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13324,8 +13324,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Copia le modifiche\n"
-            "alle statistiche del\n"
-            "nemico e le prende."),
+            "alle statistiche\n"
+            "del nemico e\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13520,8 +13520,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Sferra un lampo di\n"
-            "luce che può ridurre\n"
-            "la Dif. Speciale."),
+            "luce che può\n"
+            "calare la Dif. Sp.\n"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13650,8 +13650,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .description = COMPOUND_STRING(
             "Vola in alto al\n"
-            "primo turno, poi\n"
-            "attacca il turno dopo."),
+            "primo turno,\n"
+            "poi attacca il\n"),
         .importance = 1,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13678,8 +13678,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .description = COMPOUND_STRING(
             "Accumula una forza\n"
-            "enorme, poi colpisce\n"
-            "il nemico."),
+            "enorme, poi\n"
+            "colpisce\n"),
         .importance = 1,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13692,8 +13692,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .description = COMPOUND_STRING(
             "Sferra un potente\n"
-            "lampo di luce che\n"
-            "riduce la precisione."),
+            "lampo di luce\n"
+            "che riduce la\n"),
         .importance = 1,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13734,9 +13734,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MN08"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Intrappola il nemico\n"
-            "in un violento\n"
-            "Mulinello."),
+            "Intrappola il\n"
+            "nemico in un\n"
+            "violento\n"),
         .importance = 1,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -13785,7 +13785,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Un Fascino che\n"
             "aumenta le chance\n"
-            "di POKéMON cromatici."),
+            "di POKéMON\n"),
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -13801,7 +13801,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Un Fascino che\n"
             "aumenta le chance\n"
-            "di catture critiche."),
+            "di catture\n"),
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -13834,8 +13834,8 @@ const struct ItemInfo gItemsInfo[] =
         .importance = 1,
         .description = COMPOUND_STRING(
             "Un catalogo pieno\n"
-            "di dispositivi amati\n"
-            "da Rotom."),
+            "di dispositivi\n"
+            "amati da Rotom.\n"),
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_RotomCatalog,
@@ -13849,9 +13849,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .importance = 1,
         .description = COMPOUND_STRING(
-            "I bouquet fatti con\n"
-            "esso sono offerti\n"
-            "in segno di Gratitudine."),
+            "I bouquet fatti\n"
+            "con esso sono\n"
+            "offerti in segno\n"),
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_FormChange,
@@ -13868,7 +13868,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Questo specchio\n"
             "riporta un POKéMON\n"
-            "alla forma originale."),
+            "alla forma\n"),
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_FormChange,
@@ -13883,9 +13883,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .importance = 1,
         .description = COMPOUND_STRING(
-            "Strumento che unisce\n"
-            "Kyurem e un certo\n"
-            "POKéMON."),
+            "Strumento che\n"
+            "unisce Kyurem e\n"
+            "un certo POKéMON.\n"),
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Fusion,
@@ -13915,9 +13915,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .importance = 1,
         .description = COMPOUND_STRING(
-            "Una bottiglia usata\n"
-            "per sigillare un\n"
-            "POKéMON molto tempo fa."),
+            "Bottiglia usata\n"
+            "per sigillare\n"
+            "un POKéMON\n"),
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_FormChange,
@@ -13933,7 +13933,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Dispositivo per\n"
             "unire e dividere\n"
-            "Necrozma con Solgaleo."),
+            "Necrozma con\n"),
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Fusion,
@@ -13949,7 +13949,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Dispositivo per\n"
             "unire e dividere\n"
-            "Necrozma con Lunala."),
+            "Necrozma con\n"),
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Fusion,
@@ -13982,9 +13982,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .importance = 1,
         .description = COMPOUND_STRING(
-            "Permette a {PKMN} con\n"
-            "la sua Megapietra di\n"
-            "Mega Evolvere."),
+            "Permette a {PKMN}\n"
+            "con la sua\n"
+            "Megapietra di\n"),
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
@@ -14031,9 +14031,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("BICICLETTA"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Una bici pieghevole.\n"
+            "Bici pieghevole.\n"
             "Premi R da fermo\n"
-            "per cambiare marcia."),
+            "per cambiare\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_FIELD,
@@ -14048,9 +14048,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("BICI DA CORSA"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Una Bicicletta pieghevole\n"
-            "che raddoppia la tua\n"
-            "Velocità o più."),
+            "Una Bicicletta\n"
+            "pieghevole che\n"
+            "raddoppia la tua\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_FIELD,
@@ -14065,9 +14065,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("BICI DA CROSS"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Una Bicicletta pieghevole\n"
-            "capace di saltare\n"
-            "e impennarsi."),
+            "Una Bicicletta\n"
+            "pieghevole che\n"
+            "salta e impenna.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_FIELD,
@@ -14082,9 +14082,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("AMO VECCHIO"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Usala su qualsiasi\n"
-            "specchio d'Acqua per\n"
-            "pescare POKéMON."),
+            "Usala per pescare\n"
+            "POKéMON in ogni\n"
+            "specchio d'Acqua.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_FIELD,
@@ -14133,9 +14133,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("RICERCA STRUM."),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Un device che segnala\n"
-            "gli oggetti invisibili\n"
-            "col suono."),
+            "Rileva oggetti\n"
+            "invisibili con\n"
+            "un suono.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_FIELD,
@@ -14149,9 +14149,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MAPPA CITTÀ"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Consultabile sempre.\n"
-            "Mostra la tua\n"
-            "posizione attuale."),
+            "Consultabile\n"
+            "sempre. Mostra\n"
+            "la tua posizione\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14185,9 +14185,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("PORTA MT"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Una pratica custodia\n"
-            "che contiene MT e\n"
-            "MN."),
+            "Una custodia\n"
+            "pratica che\n"
+            "contiene MT e MN.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14249,9 +14249,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("PORTAFARINA"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Conserva la Polvere\n"
-            "di Bacche creata con\n"
-            "un Tritabacche."),
+            "Tiene la Polvere\n"
+            "di Bacche creata\n"
+            "col Tritabacche.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14346,9 +14346,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("POKéVIP"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Conserva informazioni\n"
-            "sui personaggi famosi\n"
-            "per ricordarle."),
+            "Ricorda le\n"
+            "informazioni sui\n"
+            "personaggi famosi.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14362,9 +14362,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("POKéTIVÙ"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Un televisore su un\n"
-            "programma di consigli\n"
-            "per Allenatori."),
+            "Un televisore\n"
+            "con consigli per\n"
+            "gli Allenatori.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_FIELD,
@@ -14461,9 +14461,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("LETTERA"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Una Lettera per Rocco\n"
+            "Lettera per Rocco\n"
             "dal Presidente\n"
-            "della Devon Corp."),
+            "della Devon Corp.\n"),
         .importance = 2,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14643,8 +14643,8 @@ const struct ItemInfo gItemsInfo[] =
             "a Isola Materna."),
 #else
         .description = COMPOUND_STRING(
-            "Una Meteorite trovata\n"
-            "alle Cascate Meteora."),
+            "Una Meteorite alle\n"
+            "Cascate Meteora.\n"),
 #endif
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -14659,8 +14659,8 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("STEMMA MAGMA"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Un oggetto a medaglia\n"
-            "a forma di simbolo\n"
+            "Un oggetto a\n"
+            "forma di simbolo\n"
             "del Team Magma."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -14692,9 +14692,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("PACCO"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Un Pacco per il Prof.\n"
-            "Oak da un commesso\n"
-            "del POKéMARKET."),
+            "Un Pacco per\n"
+            "il Prof. Oak dal\n"
+            "POKéMARKET.\n"),
         .importance = 2,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14708,9 +14708,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("CHIAVE SEGRETA"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "La chiave per\n"
-            "l'entrata della\n"
-            "Palestra di ISOLA CANNELLA."),
+            "Chiave per la\n"
+            "Palestra di\n"
+            "ISOLA CANNELLA.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14763,9 +14763,9 @@ const struct ItemInfo gItemsInfo[] =
             "TORRE RADIO."),
 #else
         .description = COMPOUND_STRING(
-            "Chiave a card per\n"
-            "la porta dell'\n"
-            "ufficio della Silph."),
+            "Chiave magnetica\n"
+            "per l'ufficio\n"
+            "della Silph.\n"),
 #endif
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -14780,9 +14780,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("CHIAVE ASCENSORE"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Chiave dell'ascensore\n"
-            "del nascondiglio\n"
-            "del TEAM ROCKET."),
+            "Chiave ascensore\n"
+            "del covo TEAM\n"
+            "ROCKET.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14796,9 +14796,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("SPETTROSONDA"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Lo scanner della\n"
-            "Silph rende visibili\n"
-            "i POKéMON invisibili."),
+            "Rivela i POKéMON\n"
+            "invisibili con lo\n"
+            "strumento Silph.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14814,8 +14814,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .description = COMPOUND_STRING(
             "Superpass per i\n"
-            "traghetti tra l'Una,\n"
-            "le Due e le Tre."),
+            "traghetti tra\n"
+            "l'Una, Due e Tre.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14864,9 +14864,9 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("RUBINI"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Gemma rossa e\n"
-            "splendente che\n"
-            "simbolizza la passione."),
+            "Gemma rossa,\n"
+            "splendente simbolo\n"
+            "di passione.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14880,9 +14880,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("ZAFFIRO"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Gemma blu\n"
-            "splendente che\n"
-            "simbolizza l'onestà."),
+            "Gemma blu,\n"
+            "splendente simbolo\n"
+            "d'onestà.\n"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14917,8 +14917,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_CLEAR_AMULET,
         .description = COMPOUND_STRING(
             "Impedisce cali\n"
-            "di statistiche a chi\n"
-            "la tiene."),
+            "di statistiche a\n"
+            "chi la tiene.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -14952,9 +14952,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 20000,
         .holdEffect = HOLD_EFFECT_COVERT_CLOAK,
         .description = COMPOUND_STRING(
-            "Protegge chi la\n"
-            "tiene dagli effetti\n"
-            "aggiuntivi delle mosse."),
+            "Protegge dagli\n"
+            "effetti aggiuntivi\n"
+            "delle mosse.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
         .type = ITEM_USE_BAG_MENU,
@@ -15008,8 +15008,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .holdEffect = HOLD_EFFECT_BOOSTER_ENERGY,
         .description = COMPOUND_STRING(
-            "Energia racchiusa\n"
-            "che potenzia POKéMON\n"
+            "Energia che\n"
+            "potenzia i POKéMON\n"
             "con certe abilità."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
@@ -15026,8 +15026,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Germoglio di bambù\n"
-            "grande e raro. Meglio\n"
-            "venderlo ai buongustai."),
+            "grande e raro.\n"
+            "Vendilo ai golosi.\n"),
         .pocket = POCKET_TREASURES,
         .sortType = ITEM_TYPE_SELLABLE,
         .type = ITEM_USE_BAG_MENU,
@@ -15059,8 +15059,8 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
         .description = COMPOUND_STRING(
             "Scheggia di una\n"
-            "vecchia lama. Tenuta\n"
-            "da Bisharp."),
+            "vecchia lama.\n"
+            "Tenuta da Bisharp.\n"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_EVOLUTION_ITEM,
         .type = ITEM_USE_BAG_MENU,
