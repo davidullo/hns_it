@@ -563,12 +563,13 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .description = COMPOUND_STRING(
         #if B_DREAM_BALL_MODIFIER >= GEN_8
-            "A Ball that works\n"
-            "well on sleeping\n"
-            "Pokémon."),
+            "Ball che funziona\n"
+            "bene sui POKéMON\n"
+            "addormentati."),
         #else
-            "A Poké Ball used in\n"
-            "the Entree Forest."),
+            "Poké Ball usata\n"
+            "nella Foresta\n"
+            "Entree."),
         #endif
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
@@ -9817,13 +9818,13 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_MENTAL_HERB,
         .description = COMPOUND_STRING(
         #if B_MENTAL_HERB >= GEN_5
-            "Snaps Pokémon out\n"
-            "of move-binding\n"
-            "effects."),
+            "Libera il POKéMON\n"
+            "dal blocco delle\n"
+            "mosse."),
         #else
-            "A hold item that\n"
-            "snaps Pokémon out\n"
-            "of infatuation."),
+            "Strumento che\n"
+            "libera il POKéMON\n"
+            "dall'infatuazione."),
         #endif
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
@@ -12403,9 +12404,9 @@ const struct ItemInfo gItemsInfo[] =
             "Lancia un raggio\n"
             "gelido che può\n"
         #if B_USE_FROSTBITE == TRUE
-            "inflict frostbite."),
+            "provoca assideramento."),
         #else
-            "freeze the foe."),
+            "congela il nemico."),
         #endif
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
@@ -12419,13 +12420,14 @@ const struct ItemInfo gItemsInfo[] =
         .price = 10000,
         .description = COMPOUND_STRING(
         #if B_USE_FROSTBITE == TRUE
-            "A snow-and-wind\n"
-            "attack that may\n"
-            "inflict frostbite."),
+            "Una tempesta di\n"
+            "neve e vento che\n"
+            "può assiderare."),
         #else
-            "A brutal snow-and-\n"
-            "wind attack that\n"
-            "may freeze the foe."),
+            "Una violenta\n"
+            "tempesta di neve\n"
+            "e vento che può\n"
+            "congelare."),
         #endif
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,

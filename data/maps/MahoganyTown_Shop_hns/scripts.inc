@@ -249,7 +249,7 @@ MahoganyMart1F_Text_Lance_HyperBeam:
     .string "LANCE: DRAGONITE, IPER RAGGIO.$"
 
 MahoganyMart1F_Text_Lance_Radio:
-    .string "Cosa ci hai messo, {PLAYER}?\p"
+    .string "Cos'hai scoperto, {PLAYER}?\p"
     .string "Come pensavamo, quel segnale\n"
     .string "radio arriva da qui.$"
 
