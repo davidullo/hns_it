@@ -200,7 +200,7 @@ static const u8 sText_Stats_eggGroup_DRAGON[] = _("DRAGO");
 static const u8 sText_Stats_eggGroup_NO_EGGS_DISCOVERED[] = _("---");
 static const u8 sText_Stats_eggGroup_UNKNOWN[] = _("???");
 static const u8 sText_Dex_SEEN[] = _("VISTI");
-static const u8 sText_Dex_OWN[] = _("PROPRIO");
+static const u8 sText_Dex_OWN[] = _("PRESI");
 
 static const u8 sText_EVO_Buttons[] = _("{DPAD_UPDOWN}EVO  {A_BUTTON}VEDI");
 static const u8 sText_EVO_Buttons_Decapped[] = _("{DPAD_UPDOWN}Evo  {A_BUTTON}Vedi");
