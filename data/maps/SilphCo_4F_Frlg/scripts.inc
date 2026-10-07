@@ -68,7 +68,7 @@ SilphCo_4F_Text_RodneyDefeat::
 SilphCo_4F_Text_RodneyPostBattle::
 	.string "Le porte sono chiuse\n"
 	.string "elettronicamente.\p"
-	.string "Serve una CARD KEY per aprire le\n"
+	.string "Serve un APRIPORTA per aprire le\n"
 	.string "porte qui.$"
 
 SilphCo_4F_Text_Grunt2Intro::

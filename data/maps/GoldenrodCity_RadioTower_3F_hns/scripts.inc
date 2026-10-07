@@ -131,10 +131,10 @@ GoldenrodCity_RadioTower_3F_EventScript_Sign2::
 	end
 
 GoldenrodCity_RadioTower_3F_Text_CardKeySlot:
-	.string "È la fessura della CARD KEY.$"
+	.string "È la fessura dell'APRIPORTA.$"
 
 GoldenrodCity_RadioTower_3F_Text_InsertedCardKey:
-	.string "{PLAYER} ha inserito la CARD KEY.$"
+	.string "{PLAYER} ha inserito l'APRIPORTA.$"
  
 GoldenrodCity_RadioTower_3F_Text_Open:
 	.string "Il cancello è aperto.$"

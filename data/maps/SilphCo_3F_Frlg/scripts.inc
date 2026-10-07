@@ -50,7 +50,7 @@ SilphCo_3F_Text_GruntDefeat::
 
 SilphCo_3F_Text_GruntPostBattle::
 	.string "Un indizio? Puoi aprire le porte con\n"
-	.string "una CHIAVE MAGNETICA!$"
+	.string "un APRIPORTA!$"
 
 SilphCo_3F_Text_JoseIntro::
 	.string "Sto dalla parte del TEAM ROCKET più\n"

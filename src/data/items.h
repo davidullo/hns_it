@@ -14758,14 +14758,14 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
 #if IS_HNS
         .description = COMPOUND_STRING(
-            "Chiave a card per\n"
-            "la porta della\n"
-            "TORRE RADIO."),
+            "Apre la serranda\n"
+            "della TORRE\n"
+            "RADIO."),
 #else
         .description = COMPOUND_STRING(
-            "Chiave magnetica\n"
-            "per l'ufficio\n"
-            "della Silph.\n"),
+            "Apriporta per\n"
+            "l'ufficio della\n"
+            "Silph.\n"),
 #endif
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,

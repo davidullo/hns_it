@@ -94,10 +94,10 @@ RadioTowerBasement_Text_DirectorIntro:
     .string "La RADIO!\p"
     .string "Cosa succede lì?\p"
     .string "Occupata dal TEAM ROCKET?\p"
-    .string "Tieni. Prendi questa CARD KEY.$"
+    .string "Tieni. Prendi questo APRIPORTA.$"
 
 RadioTowerBasement_Text_DirectorCardKey:
-    .string "DIRETTORE: Usala per aprire le\n"
+    .string "DIRETTORE: Usalo per aprire le\n"
     .string "serrande del 3P.$"
 
 RadioTowerBasement_Text_DirectorAfter:
